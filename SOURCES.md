@@ -1,12 +1,12 @@
 # TERRAN — sources
 
-Every source cited in the research behind the Terran Charter: 715 records, grouped by the Part of the Charter they inform. Generated from `sources/*.yaml` by `tools/build_sources.py`; do not edit by hand.
+Every source cited in the research behind the Terran Charter: 716 records, grouped by the Part of the Charter they inform. Generated from `sources/*.yaml` by `tools/build_sources.py`; do not edit by hand.
 
-**Tiers:** 487 primary · 201 secondary · 27 tertiary. **Checks:** 594 verified · 111 partial · 10 unverified.
+**Tiers:** 488 primary · 201 secondary · 27 tertiary. **Checks:** 595 verified · 112 partial · 9 unverified.
 
 Every check names who made it and when. *Verified* means the cited claim was found on the fetched page; *partial* means only part of it, or only an abstract or landing page, could be confirmed; *unverified* means the page could not be opened. Checks by `claude` are machine-performed and are not Kara's own verification.
 
-[Preamble](#preamble) 26 · [I](#part-i--terrans) 34 · [II](#part-ii--the-seven-principles) 22 · [III](#part-iii--the-floor-and-the-ceiling) 66 · [IV](#part-iv--the-culture-of-enough) 111 · [V](#part-v--business) 130 · [VI](#part-vi--a-utopia-of-utopias) 22 · [VII](#part-vii--working-together) 87 · [VIII](#part-viii--how-terrans-decide) 112 · [IX](#part-ix--accountability) 107 · [X](#part-x--the-long-view) 71 · [XI](#part-xi--a-living-charter) 59 · [XII](#part-xii--becoming-the-commonwealth) 76 · [Open questions](#open-questions) 156
+[Preamble](#preamble) 26 · [I](#part-i--terrans) 34 · [II](#part-ii--the-seven-principles) 22 · [III](#part-iii--the-floor-and-the-ceiling) 66 · [IV](#part-iv--the-culture-of-enough) 111 · [V](#part-v--business) 130 · [VI](#part-vi--a-utopia-of-utopias) 22 · [VII](#part-vii--working-together) 87 · [VIII](#part-viii--how-terrans-decide) 112 · [IX](#part-ix--accountability) 108 · [X](#part-x--the-long-view) 71 · [XI](#part-xi--a-living-charter) 59 · [XII](#part-xii--becoming-the-commonwealth) 76 · [Open questions](#open-questions) 156
 
 ## Preamble
 
@@ -2080,6 +2080,9 @@ Every check names who made it and when. *Verified* means the cited claim was fou
 - [**Lov om gjennomføring av straff mv. (straffegjennomføringsloven), §§ 2-3**](https://lovdata.no/dokument/NL/lov/2001-05-18-21) — Lovdata · 2001-05-18  
   A restorative process must be offered during the sentence (§ 2); duty of activity and, as far as possible, a gradual transition from prison to full freedom (§ 3).  
   <sub>`norway/2001_execution-of-sentences-act` · primary · law · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
+- [**Lov om endringer i politiloven (generell bevæpning av politiet)**](https://lovdata.no/dokument/LTI/lov/2026-06-19-51) — Justis- og beredskapsdepartementet (Lovdata) · 2026-06-19  
+  Amends Police Act s. 6 so that police shall as a rule be armed with firearms; published 19 June 2026, in force on a date the King sets.  
+  <sub>`norway/2026_lov-2026-06-19-51` · primary · law · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
 - [**Regjeringen åpner for generell bevæpning av politiet**](https://www.nrk.no/norge/regjeringen-apner-for-generell-bevaepning-av-politiet-1.17411233) — Isabel Müller Eidhamar, Olav Døvik · NRK · 2025-05-09  
   Government proposed general arming in May 2025 at police request; SV, Rødt, Venstre and MDG opposed.  
   <sub>`nrk/2025_general-arming-proposal` · secondary · news · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
@@ -2097,7 +2100,7 @@ Every check names who made it and when. *Verified* means the cited claim was fou
   <sub>`oranga-tamariki/2026_youth-justice-fgc` · primary · web · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
 - [**Politiet innfører generell bevæpning fra 1. juli**](https://www.politiet.no/nyheter-og-presse/politidirektoratet/nyhet/2025-07-01/politiet-innforer-generell-bevaepning-fra-1-juli) — Politidirektoratet (Norwegian Police Directorate) · 2025-07-01  
   Police Directorate introduced general arming from 1 July 2025.  
-  <sub>`politiet/2025_general-arming-notice` · primary · web · unverified 2026-10-10 by claude: Page returned only a script shell; the claim rests on the page title and secondary reports, not on read text. · cited in [accountability](research/accountability.md)</sub>
+  <sub>`politiet/2025_general-arming-notice` · primary · web · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
 - [**Police ending Armed Response Teams after trial - Commissioner**](https://www.rnz.co.nz/news/te-manu-korihi/418593/police-ending-armed-response-teams-after-trial-commissioner) — RNZ · 2020-06-09  
   New Zealand ended its armed response team trial; Commissioner Coster committed to a generally unarmed service.  
   <sub>`rnz/2020_armed-response-teams-ended` · secondary · news · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
@@ -2142,7 +2145,7 @@ Every check names who made it and when. *Verified* means the cited claim was fou
   <sub>`switzerland/2022_federal-council-decree-vote-results` · primary · law · verified 2026-10-10 by claude · cited in [accountability](research/accountability.md)</sub>
 - [**Transition to a Nonmilitary Earth Federation through the World Disarmament Agency**](https://www.transcend.org/tms/?p=304701) — Glen T. Martin · TRANSCEND Media Service · 2025-10-13  
   The Earth Constitution's stages: weapons of mass destruction handed over first, national militaries dismantled only at the final stage.  
-  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · verified 2026-10-10 by claude · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
+  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · partial 2026-10-10 by claude: CONTRADICTED (regraded on review): the page says joining nations turn over WMD and keep conventional forces at stage one, and describes disarmament processes beginning at the second stage; it does not say militaries are dismantled only at the final stage. Constitution Art. 17.4.06 disarms members' forces during the second operative stage. · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
 - [**Rehabilitation of Offenders Act 1974, section 4 (Effect of rehabilitation)**](https://www.legislation.gov.uk/ukpga/1974/53/section/4) — UK Parliament (legislation.gov.uk) · 1974  
   A person with a spent conviction is treated in law as never having committed or been convicted of the offence, subject to exceptions.  
   <sub>`uk/1974_rehabilitation-of-offenders-act-s4` · primary · law · partial 2026-10-10 by claude: Section 4 read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed. · cited in [accountability](research/accountability.md)</sub>
@@ -2691,7 +2694,7 @@ Every check names who made it and when. *Verified* means the cited claim was fou
   <sub>`icc/2026_duterte-case` · primary · court · verified 2026-10-10 by claude · cited in [commonwealth](research/commonwealth.md), [drafting-session-checks](research/drafting-session-checks.md)</sub>
 - [**Situation in the Republic of the Philippines (ICC-01/21)**](https://www.icc-cpi.int/philippines) — International Criminal Court · 2026  
   Withdrawal effective 17 March 2019; investigation authorised 15 September 2021; jurisdiction retained for crimes while a party; crimes appear to have continued afterwards.  
-  <sub>`icc/2026_philippines-situation` · primary · web · verified 2026-10-10 by claude · cited in [commonwealth](research/commonwealth.md)</sub>
+  <sub>`icc/2026_philippines-situation` · primary · web · verified 2026-10-10 by claude · cited in [commonwealth](research/commonwealth.md), [living-charter](research/living-charter.md)</sub>
 - [**About Red Notices**](https://www.interpol.int/en/How-we-work/Notices/Red-Notices) — INTERPOL · 2026  
   Interpol's 196 members share wanted-person alerts (Red Notices); a Red Notice is not an arrest warrant.  
   <sub>`interpol/2026_red-notices` · primary · web · partial 2026-10-10 by claude: 'A Red Notice is an international alert for a wanted person, but it is not an arrest warrant.' No member count or notice totals on this page. · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
@@ -2745,7 +2748,7 @@ Every check names who made it and when. *Verified* means the cited claim was fou
   <sub>`srinivasan/2022_network-state` · primary · book · verified 2026-10-10 by claude · cited in [commonwealth](research/commonwealth.md)</sub>
 - [**Transition to a Nonmilitary Earth Federation through the World Disarmament Agency**](https://www.transcend.org/tms/?p=304701) — Glen T. Martin · TRANSCEND Media Service · 2025-10-13  
   The Earth Constitution's stages: weapons of mass destruction handed over first, national militaries dismantled only at the final stage.  
-  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · verified 2026-10-10 by claude · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
+  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · partial 2026-10-10 by claude: CONTRADICTED (regraded on review): the page says joining nations turn over WMD and keep conventional forces at stage one, and describes disarmament processes beginning at the second stage; it does not say militaries are dismantled only at the final stage. Constitution Art. 17.4.06 disarms members' forces during the second operative stage. · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
 - [**World Population Prospects 2024: total population by sex (CSV)**](<https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_TotalPopulationBySex.csv.gz>) — UN Department of Economic and Social Affairs, Population Division · 2024  
   Medium-variant mid-2026 populations: world 8,300.7 million; India 1,476.6; China 1,412.9; US 349.0; Pakistan 259.3; Russia 143.4; North Korea 26.6; Israel 9.6 million; seven largest states hold 51.1%.  
   <sub>`un-desa/2024_world-population-prospects` · primary · dataset · verified 2026-10-10 by claude · cited in [commonwealth](research/commonwealth.md)</sub>
@@ -3201,7 +3204,7 @@ Every check names who made it and when. *Verified* means the cited claim was fou
   <sub>`theblock/2025_el-salvador-bitcoin-law` · secondary · news · verified 2026-10-10 by claude · cited in [money](research/money.md)</sub>
 - [**Transition to a Nonmilitary Earth Federation through the World Disarmament Agency**](https://www.transcend.org/tms/?p=304701) — Glen T. Martin · TRANSCEND Media Service · 2025-10-13  
   The Earth Constitution's stages: weapons of mass destruction handed over first, national militaries dismantled only at the final stage.  
-  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · verified 2026-10-10 by claude · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
+  <sub>`transcend/2025_nonmilitary-earth-federation` · secondary · web · partial 2026-10-10 by claude: CONTRADICTED (regraded on review): the page says joining nations turn over WMD and keep conventional forces at stage one, and describes disarmament processes beginning at the second stage; it does not say militaries are dismantled only at the final stage. Constitution Art. 17.4.06 disarms members' forces during the second operative stage. · cited in [drafting-session-checks](research/drafting-session-checks.md)</sub>
 - [**Global Wealth Report 2025**](https://www.ubs.com/content/dam/assets/wm/static/noindex/global-wealth-report-09072025.pdf) — UBS · 2025  
   End-2024: almost 60M USD millionaires (1.6%) with USD 226.47tn (48.1%).  
   <sub>`ubs/2025_global-wealth-report` · primary · report · verified 2026-10-10 by claude · cited in [wealth-and-tax](research/wealth-and-tax.md)</sub>

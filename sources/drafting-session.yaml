@@ -1649,8 +1649,8 @@
   checked:
     by: "claude"
     on: "2026-10-10"
-    result: "verified"
-    note: "Art 17.3: joining nations 'are required to turn over their weapons of mass destruction'; conventional forces kept; Art 17.5: all militaries dismantled by the final stage."
+    result: "partial"
+    note: "CONTRADICTED (regraded on review): the page says joining nations turn over WMD and keep conventional forces at stage one, and describes disarmament processes beginning at the second stage; it does not say militaries are dismantled only at the final stage. Constitution Art. 17.4.06 disarms members' forces during the second operative stage."
 
 - id: "sep/2021_world-government"
   title: "World Government"

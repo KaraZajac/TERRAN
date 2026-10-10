@@ -168,7 +168,7 @@ Leaving a climate regime is real. The US left the Paris Agreement on 4 November 
 - **Spirit over text.** Principle VII is an override, not an aid to reading. Only a very hard amendment can correct a mistaken "spirit" ruling.
 - **No exit, no valve.** After stage three there is no exit, no route to a new constitution, and an unamendable core. The drafting-session research flagged the no-exit risk; Roznai's revolution objection sharpens it.
 - **What "leaving" means.** The Commonwealth is defined "not by territory or borders" (Part I.4), but the ceiling is physical. A leaving community keeps its land, air and emissions.
-- **Part XII.5 wording.** "Authority over acts committed while it was a member" goes beyond Rome Statute Art. 127(2) [icc/1998_rome-statute].
+- **Part XII.5 wording.** "Authority over acts committed while it was a member" goes beyond Rome Statute Art. 127(2) [icc/1998_rome-statute]. Added on review: it matches ICC practice. In the Philippines case the Court kept jurisdiction over crimes committed while the state was a party, though the investigation was authorised after the exit took effect [icc/2026_philippines-situation].
 
 ## Options for the next draft
 

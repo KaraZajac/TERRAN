@@ -985,7 +985,8 @@
   checked:
     by: "claude"
     on: "2026-10-10"
-    result: "unverified"
+    result: "verified"
+    note: "Verified on review via Wayback capture 20251117222635 (the live page did not load): 'Fra og med 1. juli 2025 vil politiet i Norge være bevæpnet i daglig tjeneste.'"
     note: "Page returned only a script shell; the claim rests on the page title and secondary reports, not on read text."
 
 - id: "garda/2025_taser-pilot"
@@ -1282,3 +1283,18 @@
     on: "2026-10-10"
     result: "partial"
     note: "Section 4 read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed."
+
+- id: "norway/2026_lov-2026-06-19-51"
+  title: "Lov om endringer i politiloven (generell bevæpning av politiet)"
+  publisher: "Justis- og beredskapsdepartementet (Lovdata)"
+  date: "2026-06-19"
+  url: "https://lovdata.no/dokument/LTI/lov/2026-06-19-51"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Amends Police Act s. 6 so that police shall as a rule be armed with firearms; published 19 June 2026, in force on a date the King sets."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added on review. Lovdata page: s. 6 fifth paragraph 'Politiet skal i alminnelighet være bevæpnet med skytevåpen i tjenesten'; Ikrafttredelse 'Kongen bestemmer'; kunngjort 19.06.2026."

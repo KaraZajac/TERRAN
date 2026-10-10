@@ -4,14 +4,14 @@
 
 The research doc has 111 inline links to 110 distinct pages. I opened 109 of them and read each against the claim it supports. One PDF is dead and was never archived; an archived copy of the same report replaced it. I added 16 primary or original sources where a figure rested on Wikipedia, a reprint or an interim count. That makes 126 source records in `sources/drafting-session.yaml`: 90 verified, 35 partial (4 of them contradicted) and 1 unverified.
 
-By claim, I checked 156 statements across the doc's seven sections: 104 verified, 36 partial, 8 contradicted and 8 unverified. All 8 unverified claims have no link at all. The rest of the doc mostly holds up, and most figures match their pages exactly.
+By claim, I checked 156 statements across the doc's seven sections: 103 verified, 36 partial, 9 contradicted and 8 unverified (one claim regraded from verified to contradicted on review). All 8 unverified claims have no link at all. The rest of the doc mostly holds up, and most figures match their pages exactly.
 
 The closing promise does not hold. At least 15 figures or details are not on the page they link to, and several were already out of date on 9 October. Four findings matter most for the Charter:
 
 - **ICC figures are wrong.** The Court's own page reports 68 warrants, 34 people at large and 15 convictions.
 - **Caplan's estimate is misread.** It is 0.1% with many states against 25% with one, not 5% against 25%.
 - **The Earth Constitution answers the "leaving after stage three" question.** It grants a right to leave once the Federation covers 90% of Earth's territory.
-- **Delay powers may not protect guardians.** In the doc's own sources, Israel's strong delay power helped get its commission abolished.
+- **Delay powers may not protect guardians.** In the doc's own sources, Israel's delay power was "rarely invoked" because it drew antagonism, and the commission was abolished over its cost and "too much authority to interfere" (wording corrected on review: the source doesn't tie the abolition to the delay power itself).
 
 Method: pages were fetched as raw text with browser impersonation. Four sites needed a Safari fingerprint. The CEPR paper, the CISA guidance PDF, the Pérotin report, the ICC case page and the Rome Statute were read from Wayback Machine copies. The ICC site put up a bot wall partway through. Grades follow the brief: an abstract or landing page alone counts as partial.
 
@@ -20,7 +20,8 @@ Method: pages were fetched as raw text with browser impersonation. Four sites ne
 - **ICC numbers (Parts IX, XII).** The doc's "20 of 49 people with warrants remain at large" and "11 by the Court's own count" for convictions are contradicted. The ICC's About page says 68 arrest warrants, 23 detained, 34 at large, 9 dead, and "15 convictions and 4 acquittals". Fix: cite these figures with the 10 October 2026 access date. The 125 member states figure is right, but it comes from the Assembly of States Parties page, not the cited one.
 - **Caplan's numbers (Parts VI, XII, open questions).** The doc says 5% with many states and 25% with one. 80,000 Hours quotes Caplan: 5% is his overall estimate. It "falls to .1%" if the number of countries does not shrink, and "rises to 25%" with one. Fix: "0.1% if the number of countries holds, 25% with one world state". The true gap is 250-fold, which strengthens the no-exit worry.
 - **The Earth Constitution has an exit right (Part XII, open questions).** Article 14 (section 14.1.4; corrected from "Article 13" on review) grants individuals and groups the right "to peacefully leave" once the Federation covers 90% of Earth's territory. They go to a disarmed zone of at most 5% of habitable land. Article 17 sets stage two at 50% of nations holding 50% of people. The full stage needs 80% of nations holding 90% of people, or 90% of people. The Charter draws its stages from this text, so the open question on leaving has a ready precedent.
-- **Guardian delay powers (Part X).** The doc says guardians "last with ... automatic delay powers". Its own sources point the other way. FDSD says delay was the Israeli commission's main power, and it was abolished partly for having "too much authority to interfere". The bodies that lasted, Finland's committee and Wales' commissioner, only advise or require follow-or-explain. The Charter's one-year wait may need the funding and appointment protections that Israel's commission lacked.
+- **Earth Constitution stages (Part XII; regraded on review).** The doc says joining nations hand over weapons of mass destruction first and "national militaries are dismantled only at the final stage". Art. 17.4.06 says that "during the second operative stage, all armed forces and para-military forces of the nations which have joined" shall be "completely disarmed". Fix: "weapons of mass destruction on joining; member forces disarmed at the second stage". The Charter, which keeps armies until stage three, is more cautious than its precedent.
+- **Guardian delay powers (Part X).** The doc says guardians "last with ... automatic delay powers". Its own sources point the other way. FDSD says the Israeli commission's delay power was "rarely invoked" because it drew antagonism, and that the commission was abolished over "the cost of its operations" and "too much authority to interfere". It doesn't tie the abolition to the delay power itself (corrected on review). The bodies that lasted, Finland's committee and Wales' commissioner, only advise or require follow-or-explain. The Charter's one-year wait may need the funding and appointment protections that Israel's commission lacked.
 - **The doc's promise that every figure "links to the page it came from" fails.** These details are not on their cited page:
   - Portland's $5.2M (the page gives $3.5M in 2017 and $4M in 2018).
   - San Francisco's 47.2% (Mission Local shows an interim 54-46; the city's final count gives 47.19%).
@@ -74,7 +75,7 @@ Results: verified, partial, contradicted, unverified. "Uncited" means the doc gi
 | Digital ID works at national scale | [estonia-seo/2026_i-voting-statistics]; [wikipedia/2026_aadhaar]; [muralidharan/2020_identity-verification-standards] | verified | With Aadhaar's exclusion costs noted below. |
 | No global body enforces alone; courts plus withholding money work | [helfer-slaughter/1997_effective-supranational-adjudication]; [hathaway-shapiro/2011_outcasting] | verified | Both papers support it. |
 | Without exit, voice must be stronger | [wikipedia/2026_exit-voice-and-loyalty]; [somin/2008_perils-of-world-government] | partial | A reasonable inference, not a stated finding. |
-| Guardians last with referral, automatic delay, standing, funding | [fdsd/2017_knesset-commission]; [unu-cpr/2025_parliamentary-committees-future] | partial | Israel's delay power helped get it abolished; lasting bodies are advisory. |
+| Guardians last with referral, automatic delay, standing, funding | [fdsd/2017_knesset-commission]; [unu-cpr/2025_parliamentary-committees-future] | partial | Israel's delay power was rarely used and drew antagonism; abolition came over cost and "too much authority to interfere". Lasting bodies are advisory. |
 
 ### Wealth limits
 
@@ -211,7 +212,7 @@ Results: verified, partial, contradicted, unverified. "Uncited" means the doc gi
 | ICC officials lost Microsoft email and bank cards | [wikipedia/2026_karim-ahmad-khan]; [ap/2025_icc-sanctions-khan] | partial | The prosecutor's email and bank accounts. |
 | US non-payment forced UN peacekeeping cuts | [cp24/2026_guterres-un-financial-collapse] | unverified | Uncited; CP24 notes non-payment, not cuts. |
 | EU pooled sovereignty by treaty; UK left in 2020 | none | unverified | Uncited; not checked. |
-| Earth Constitution stages: WMD first, militaries last | [transcend/2025_nonmilitary-earth-federation]; [wcpa/1977_earth-constitution] | verified | Article 17. |
+| Earth Constitution stages: WMD first, militaries last | [transcend/2025_nonmilitary-earth-federation]; [wcpa/1977_earth-constitution] | contradicted | Regraded on review. Art. 17.3 lets members keep conventional forces at stage one, but Art. 17.4.06 disarms members' forces during the second operative stage, not only at the end. TRANSCEND describes disarmament beginning at the second stage. |
 | ICC keeps jurisdiction after a state leaves | [icc/1998_rome-statute] | partial | Uncited; Article 127(2) is narrower. |
 | Kant to Caplan: one world removes flight and rival states | [sep/2021_world-government]; [somin/2008_perils-of-world-government] | partial | SEP: Kant's tyranny objection, Rawls; the framing is Somin's. |
 | Caplan: 5% with many states, 25% with one | [80000-hours/2024_stable-totalitarianism] | contradicted | 0.1% with no fewer states; 5% is unconditional. |
