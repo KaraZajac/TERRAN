@@ -164,7 +164,7 @@ flowchart TD
     propose --> ground --> assembly --> vote --> audit
     audit -->|"fails: new vote"| vote
     audit -->|"passes"| longview
-    longview -->|"fails: second vote a year later"| vote
+    longview -->|"fails, first time only: wait a year, vote again"| vote
     longview -->|"passes"| stewards
 ```
 
