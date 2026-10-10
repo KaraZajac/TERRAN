@@ -1,0 +1,799 @@
+- id: "wales/2015_future-generations-act"
+  title: "Well-being of Future Generations (Wales) Act 2015"
+  publisher: "National Assembly for Wales"
+  date: "2015-04-29"
+  url: "https://www.legislation.gov.uk/anaw/2015/2/enacted"
+  tier: "primary"
+  kind: "law"
+  parts: ["X", "III"]
+  supports: "Seven goals (s.4), sustainable development principle (s.5), Commissioner's guardian duty (s.18), reviews (s.20), duty to follow or explain limited to s.20(4) recommendations (s.22), appointment, term, dismissal, funding, staff and Deputy (s.17, Sch. 2)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "legislation.gov.uk serves a bot check; read the official enacted PDF (anaw_20150002_en.pdf) via a Web Archive copy, and s.22's current text in a 14 Feb 2026 Web Archive snapshot of the section page; ss.3-6, 17-23, Sch. 2 paras 3, 7, 9, 11, 16."
+
+- id: "audit-wales/2025_no-time-to-lose"
+  title: "No time to lose: Lessons from our work under the Well-being of Future Generations Act"
+  publisher: "Auditor General for Wales (Audit Wales)"
+  date: "2025-04"
+  url: "https://www.audit.wales/publication/no-time-lose-lessons-our-work-under-well-being-future-generations-act"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Act has increased prominence but is not driving system-wide change; some bodies give little or no explicit consideration; 2020 call for review not acted on; bodies covered rose from 44 to 56."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the report PDF; key findings in 'What we have found' paras 8-13 (p. 7), foreword (p. 5), and para 136 on 44 to 56 bodies (p. 43)."
+
+- id: "fgc-wales/2025_future-generations-report-2025"
+  title: "The Future Generations Report 2025"
+  publisher: "Future Generations Commissioner for Wales"
+  date: "2025-04-28"
+  url: "https://futuregenerations.wales/discover/about-future-generations-commissioner/future-generations-report-2025/"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "The Commissioner's 2025 report and its calls to action, including a post-legislative review of the Act."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Report landing page; 'Calls to Action' list, item 11 'Review and strengthen the WFG Act'. Full report PDF not read."
+
+- id: "fgc-wales/2026_public-body-responses"
+  title: "Future Generations Report 2025: How public bodies are responding and progressing the recommendations"
+  publisher: "Future Generations Commissioner for Wales"
+  date: "2026-03"
+  url: "https://futuregenerations.wales/cym/wp-content/uploads/2026/03/Public-Body-Responses-to-FG-Report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "50 recommendations; 48 of 55 bodies (excluding Welsh Government) responded in full; rejection at most 4.3% and 'accept in principle' about 4-46% across the 23 table rows parsed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded PDF; introduction (p. 1), 'The Data Explained' (pp. 27-28) and response tables (pp. 29 onward); ranges computed from the 23 rows parsed from the text layer."
+
+- id: "fgc-wales/2026_annual-report-2025-26"
+  title: "Future Generations Annual Report 2025-2026"
+  publisher: "Future Generations Commissioner for Wales"
+  date: "2026-08"
+  url: "https://futuregenerations.wales/cym/wp-content/uploads/2026/08/2026-FGC-Annual-Report-.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Office is independent of but funded by the Welsh Government; 2025-26 funding GBP 1,727,000, spend GBP 1.718m, 23 WTE staff; request below 2022-23 funding; plan to explore s.20 powers on renewable energy."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded PDF; Accountability Report 'Funding' and 'Financial planning' (pp. 70-71), staff numbers note, Climate and Nature 'What's next' section."
+
+- id: "fgc-wales/2022_section-20-review-welsh-government"
+  title: "Section 20 Review (2022)"
+  publisher: "Future Generations Commissioner for Wales"
+  date: "2022"
+  url: "https://futuregenerations.wales/public-information/section-20-review-2022/"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "The 2022 review of the Welsh Government was the first Commissioner's second section 20 review."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Page text: 'This is the second section 20 review that the first Future Generations Commissioner, Sophie Howe undertook in 2022.'"
+
+- id: "fgc-wales/2026_senedd-for-future-generations"
+  title: "A Discussion Paper: Senedd for Future Generations"
+  publisher: "Future Generations Commissioner for Wales"
+  date: "2026-05-07"
+  url: "https://futuregenerations.wales/cym/wp-content/uploads/2026/05/2026-05-07-Senedd-Cymru-and-Future-Generations-Discussion-Paper.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Commissioner proposes a Senedd Committee for the Future; describes Finland's Committee for the Future as a standing committee since 1993 that scrutinises a Report on the Future each electoral cycle."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded PDF; section 1 'A Committee for the Future' and Annex A on Finland."
+
+- id: "senedd/2026_fit-for-the-future-news"
+  title: "Landmark Future Generations Act failing to deliver the change it promised"
+  publisher: "Senedd Cymru (Welsh Parliament)"
+  date: "2026-03-16"
+  url: "https://senedd.wales/senedd-now/news/landmark-future-generations-act-failing-to-deliver-the-change-it-promised/"
+  tier: "primary"
+  kind: "news"
+  parts: ["X"]
+  supports: "Equality and Social Justice Committee report 'Fit for the Future?': implementation too slow, Act lacks the power to hold bodies to account, chair asks to give it real teeth, eight recommendations."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Senedd news release dated 16 March 2026; the committee report itself was not opened."
+
+- id: "senedd-research/2019_m4-black-route-blocked"
+  title: "Black route blocked – Assembly to debate M4 decision"
+  publisher: "Senedd Research"
+  date: "2019-06-20"
+  url: "https://research.senedd.wales/research-articles/black-route-blocked-assembly-to-debate-m4-decision/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "4 June 2019 M4 decision rested on cost and environmental impact; the Commissioner welcomed it as a 'brave decision' and had published a transport report in September 2018."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections 'Central reservations' and reactions paragraph; the decision letter itself was not opened (mirror host unreachable)."
+
+- id: "davies/2016_duties-or-aspirations"
+  title: "The Well-being of Future Generations (Wales) Act 2015: Duties or aspirations?"
+  authors: ["Haydn Davies"]
+  publisher: "Environmental Law Review"
+  date: "2016-03"
+  url: "https://doi.org/10.1177/1461452916631889"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Success of the Act will depend heavily on political will and the personalities of those holding public bodies to account."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Publisher page blocked; abstract read via Crossref and OpenAlex metadata (Environmental Law Review 18(1):41-56)."
+
+- id: "new-zealand/2017_te-awa-tupua-act"
+  title: "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017"
+  publisher: "New Zealand Parliament"
+  date: "2017"
+  url: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["X", "III"]
+  supports: "River is a living whole and legal person; Te Pou Tupua is its human face; one iwi and one Crown nominee, jointly appointed; 3-year renewable terms; holdover inserted 30 Nov 2022; no proprietary interest in water; Te Korotete fund."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Official site serves a CAPTCHA; read a 4 Jan 2026 Web Archive snapshot of the official page: ss.12, 14, 18-20, 46, 57-59 and Sch. 3 cls 1-2."
+
+- id: "new-zealand/2014_te-urewera-act"
+  title: "Te Urewera Act 2014"
+  publisher: "New Zealand Parliament"
+  date: "2014"
+  url: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["X", "III"]
+  supports: "Te Urewera is a legal entity; board of 4 Tuhoe and 4 Crown appointees for three years, then 6 appointed by Tuhoe trustees and 3 by the Minister."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Official site serves a CAPTCHA; read a 30 Dec 2025 Web Archive snapshot of the official page: ss.11 and 21."
+
+- id: "new-zealand/2025_taranaki-maunga-act"
+  title: "Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025"
+  publisher: "New Zealand Parliament"
+  date: "2025-02-01"
+  url: "https://www.legislation.govt.nz/act/public/2025/1/en/2025-02-01B.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["X", "III"]
+  supports: "Te Kāhui Tupua is a legal person; Te Tōpuni Kōkōrangi is its human face and voice, with 4 members appointed by iwi trustees and 4 by the Minister of Conservation; assent 1 February 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Official PDF read via a 13 Mar 2026 Web Archive copy (official site serves a CAPTCHA); title page, ss.18, 27-28, 31."
+
+- id: "odonnell-talbot-jones/2018_legal-rights-for-rivers"
+  title: "Creating legal rights for rivers: lessons from Australia, New Zealand, and India"
+  authors: ["Erin L. O'Donnell", "Julia Talbot-Jones"]
+  publisher: "Ecology and Society"
+  date: "2018"
+  url: "https://ecologyandsociety.org/vol23/iss1/art7/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X", "III"]
+  supports: "River rights need a suitable legal entity, independence from government and funding; Whanganui has a NZ$30m fund but water rights excluded; India's Ganges and Yamuna guardians were unfunded state officials and the ruling was halted on 7 July 2017."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access full text; case study 3 and section 'Enforcing legal rights for nature'."
+
+- id: "cribb/2024_beyond-legal-personhood"
+  title: "Beyond legal personhood for the Whanganui River: collaboration and pluralism in implementing the Te Awa Tupua Act"
+  authors: ["Miriama Cribb", "Elizabeth Macpherson", "Axel Borchgrevink"]
+  publisher: "The International Journal of Human Rights"
+  date: "2024-02-16"
+  url: "https://doi.org/10.1080/13642987.2024.2314532"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X", "III"]
+  supports: "Little research on implementation; the Act should primarily be understood as recognising Indigenous rights and the authority of Indigenous law."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read via Crossref and OpenAlex; full text not opened."
+
+- id: "ecuador/2008_constitution"
+  title: "Constitution of the Republic of Ecuador (2008), English translation"
+  publisher: "Republic of Ecuador; translation published by the Political Database of the Americas, Georgetown University"
+  date: "2008"
+  url: "https://pdba.georgetown.edu/Constitutions/Ecuador/english08.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["X", "III"]
+  supports: "Rights of nature and open standing (Art. 71), restoration (72), precaution against extinction (73), environmental services (74), precaution without scientific evidence (396), burden of proof on the operator (397(1)), extraction exceptions (407)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Articles 71-74, 396, 397 and 407 read in the English translation; not checked against the Spanish official text."
+
+- id: "ecuador-constitutional-court/2021_los-cedros"
+  title: "Sentencia No. 1149-19-JP/21 (Bosque Protector Los Cedros)"
+  publisher: "Corte Constitucional del Ecuador"
+  date: "2021-11-10"
+  url: "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOic2MmE3MmIxNy1hMzE4LTQyZmMtYjJkOS1mYzYzNWE5ZTAwNGYucGRmJ30="
+  tier: "primary"
+  kind: "court"
+  parts: ["X", "III"]
+  supports: "Seven votes to two; rights of nature are legal mandates, not mere ideals (para. 35); precaution elements (para. 62); permits void, ENAMI EP ordered out, Ombudsman's Office to monitor a management plan (paras. 347-348)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Spanish original from the Court's server (dated Quito, 10 Nov 2021) and the English translation hosted by GARN (garn.org/wp-content/uploads/2022/06/Los-Cedros-Decision-ENGLISH-Final.pdf); paras 35, 62, 347-348 and vote statement."
+
+- id: "greene/2011_vilcabamba-first-successful-case"
+  title: "The first successful case of the Rights of Nature implementation in Ecuador"
+  authors: ["Natalia Greene"]
+  publisher: "Global Alliance for the Rights of Nature and Fundación Pachamama (hosted by the Australian Earth Laws Alliance)"
+  date: "2011"
+  url: "https://www.earthlaws.org.au/wp-content/uploads/2016/07/RON_Vilcabamba-Ecuador-Case-complete.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Loja Provincial Court ruling of 30 March 2011 for the Vilcabamba River applied precaution and inversion of the burden of proof and ordered a remediation plan within 30 days."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated advocacy summary written after the 30 March 2011 ruling (file uploaded 2016-07); holdings 1-5 and reparation measures on p. 1. Date set to the ruling year."
+
+- id: "garn/2012_vilcabamba-one-year-after"
+  title: "Vilcabamba River case law: 1 year after"
+  authors: ["Gabriela León Cobo"]
+  publisher: "Global Alliance for the Rights of Nature"
+  date: "2012-03-27"
+  url: "https://www.garn.org/vilcabamba-river-1-year-after/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "One year on, implementation by the Loja Provincial Council was incomplete and careless; impact studies and remediation plan not presented."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Bulletin dated 27 March 2012 by Fundación Pachamama, which supported the plaintiffs."
+
+- id: "idea/2025_ecuador-november-2025"
+  title: "Democracy Tracker: Ecuador, November 2025"
+  publisher: "International IDEA"
+  date: "2025-11"
+  url: "https://www.idea.int/democracytracker/report/ecuador/november-2025"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "On 16 November 2025, 61.8% voted against convening a constitutional assembly; the 2008 Constitution remains."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Event report 'Ecuadorians vote no in referendum and popular consultation'."
+
+- id: "hrw/2025_yasuni-referendum-ignored"
+  title: "Ecuador: Officials Ignore Rainforest Protection Referendum"
+  publisher: "Human Rights Watch"
+  date: "2025-08-20"
+  url: "https://www.hrw.org/news/2025/08/20/ecuador-officials-ignore-rainforest-protection-referendum"
+  tier: "secondary"
+  kind: "news"
+  parts: ["X"]
+  supports: "20 Aug 2023 referendum to halt ITT drilling; court deadline 31 Aug 2024; only a handful of about 240 wells closed; about 44,000 barrels a day in the first half of 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "News release body text; status after August 2025 not checked."
+
+- id: "hungary/2011_fundamental-law"
+  title: "The Fundamental Law of Hungary (English translation)"
+  publisher: "National Assembly of Hungary; translation published by Constitute Project"
+  date: "2011"
+  url: "https://www.constituteproject.org/constitution/Hungary_2016"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Natural resources are a common heritage to preserve for future generations (Art. P); Commissioner and deputies elected for six years by two-thirds, a deputy protects future generations (Art. 30)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Articles P and 30 in the Constitute Project text (version as amended to 2016)."
+
+- id: "fdsd/2014_hungary-ombudsman"
+  title: "Hungarian Parliament's Deputy Commissioner for Fundamental Rights, the Ombudsman for Future Generations"
+  authors: ["Andrea Westall"]
+  publisher: "Foundation for Democracy and Sustainable Development"
+  date: "2014-10-20"
+  url: "https://fdsd.org/ideas/the-hungarian-parliaments-ombudsman-for-future-generations/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Before 2011 a separate Ombudsman for Future Generations could stop environmentally damaging legislation; the deputy now gives opinions on draft laws and can prompt Constitutional Court review."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Archived FDSD page; full article text."
+
+- id: "fdsd/2017_knesset-commission"
+  title: "Knesset Commission for Future Generations"
+  publisher: "Foundation for Democracy and Sustainable Development"
+  date: "2017-06-25"
+  url: "https://fdsd.org/ideas/knesset-commission-future-generations/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Commission lasted one term (2001-2006); delay power rarely invoked; abolished over cost and too much authority (citing Teschner 2013); MK objection to moral judgement by an outside body."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Archived FDSD page; quotes from Shoham and Teschner are as reported by FDSD, not checked in the originals."
+
+- id: "knesset/2016_commission-for-future-generations"
+  title: "The Knesset: Commission for Future Generations"
+  publisher: "Knesset Commission for Future Generations (hosted by the World Future Council)"
+  date: "2016-10"
+  url: "https://www.worldfuturecouncil.org/wp-content/uploads/2016/10/Knesset-Paper.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Law enacted March 2001; candidates recommended by a public committee of 3 MKs and 3 academics; Speaker appoints; 5-year renewable term; separate Knesset budget clause; successor timing rules; temporary substitute from staff."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated Commission booklet (date is the upload month); pp. 3 and 17-20, Knesset Law (Amendment no. 14) ss.36-48."
+
+- id: "unu-cpr/2025_parliamentary-committees-future"
+  title: "Parliamentary Committees for the Future: A Legislative Movement to Overcome Political Myopia"
+  authors: ["Paola Aceituno O."]
+  publisher: "United Nations University Centre for Policy Research"
+  date: "2025-07-09"
+  url: "https://unu.edu/cpr/blog-post/parliamentary-committees-future-legislative-movement-overcome-political-myopia"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Finland's committee temporary from 1993 and permanent from 2000; at least 14 committees or equivalent bodies; Israel's and Mexico's listed as disbanded in 2006."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Raw fetch returned HTTP 403; content read only through a summarising web reader, so figures, title and author are not confirmed in raw text."
+
+- id: "un/2024_declaration-on-future-generations"
+  title: "Pact for the Future, Global Digital Compact and Declaration on Future Generations"
+  publisher: "United Nations"
+  date: "2024-09-22"
+  url: "https://www.un.org/sites/un2.un.org/files/sotf-pact_for_the_future_adopted.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Declaration on Future Generations (Annex II): promote forward-looking impact assessments (para. 26); takes note of a proposed Special Envoy and plans a review at the 83rd session (para. 32)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Annex II, pp. 52-55, paras 24-32."
+
+- id: "un/2025_pact-paragraph-32a"
+  title: "Pact for the Future: Paragraph 32(a)"
+  publisher: "United Nations"
+  date: "2025"
+  url: "https://www.un.org/pact-for-the-future/en/paragraph-32a"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Special Envoy for Future Generations temporarily on hold owing to reform efforts and UN finances, pending member-state decisions including UN80; terms of reference and budget milestone due 31 July 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated tracker page; 'What happens next?' section. Year set from the milestone date."
+
+- id: "hara/2019_imaginary-future-generations"
+  title: "Reconciling intergenerational conflicts with imaginary future generations: evidence from a participatory deliberation practice in a municipality in Japan"
+  authors: ["Keishiro Hara", "Ritsuji Yoshioka", "Masashi Kuroda", "Shuji Kurimoto", "Tatsuyoshi Saijo"]
+  publisher: "Sustainability Science"
+  date: "2019-03-22"
+  url: "https://doi.org/10.1007/s11625-019-00684-x"
+  tier: "primary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Yahaba workshops (FY2015) with about 20 residents in four groups, two as imaginary future generations; consensus chose more than half of their measures."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract via OpenAlex; workshop details read in the open working-paper version (Kochi University of Technology SDES-2017-19), pp. 9-10."
+
+- id: "saijo/2020_future-design"
+  title: "Future Design: Bequeathing Sustainable Natural Environments and Sustainable Societies to Future Generations"
+  authors: ["Tatsuyoshi Saijo"]
+  publisher: "Sustainability"
+  date: "2020-08-11"
+  url: "https://doi.org/10.3390/su12166467"
+  tier: "primary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Yahaba seated the first 26 of 1,000 randomly sampled residents (Jan-Mar 2017); residents proposed a water-rate rise and the town collected 6% more; Future Strategy Office from April 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Publisher site blocked; read the open working-paper version (Kochi University of Technology SDES-2020-5), section on practical applications in Yahaba."
+
+- id: "un/1992_rio-declaration"
+  title: "Rio Declaration on Environment and Development"
+  publisher: "United Nations Conference on Environment and Development"
+  date: "1992"
+  url: "https://www.un.org/esa/documents/ga/conf151/aconf15126-1annex1.htm"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Principle 15: precaution applied according to capabilities; serious or irreversible damage; lack of full certainty no reason to postpone cost-effective measures."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "A/CONF.151/26 (Vol. I), Annex I, Principle 15."
+
+- id: "sehn/1998_wingspread-statement"
+  title: "Wingspread Conference on the Precautionary Principle"
+  publisher: "Science and Environmental Health Network"
+  date: "1998-01-26"
+  url: "https://www.sehn.org/sehn/wingspread-conference-on-the-precautionary-principle"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Wingspread Consensus Statement: precaution on threats of harm; proponent of an activity bears the burden of proof; process open, informed and democratic."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "SEHN page dated 26 January 1998 with the consensus statement text."
+
+- id: "eu/2016_tfeu-article-191"
+  title: "Treaty on the Functioning of the European Union (consolidated version), Article 191"
+  publisher: "Official Journal of the European Union"
+  date: "2016-06-07"
+  url: "http://publications.europa.eu/resource/celex/12016E191"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["X"]
+  supports: "Art. 191(2): Union policy based on the precautionary principle; Art. 191(3): account of the potential benefits and costs of action or lack of action."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "EUR-Lex blocked; read the official text via the EU Publications Office (CELLAR) record for CELEX 12016E191, paras 2-3."
+
+- id: "sunstein/2005_laws-of-fear"
+  title: "Laws of Fear: Beyond the Precautionary Principle"
+  authors: ["Cass R. Sunstein"]
+  publisher: "Cambridge University Press"
+  date: "2005"
+  url: "https://doi.org/10.1017/CBO9780511790850"
+  tier: "primary"
+  kind: "book"
+  parts: ["X"]
+  supports: "The precautionary principle is incoherent because risks lie on all sides; proposes a narrow Anti-Catastrophe Principle and cost-benefit analysis."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Publisher abstract via Crossref and OpenAlex; book text not opened."
+
+- id: "sandin/2002_five-charges"
+  title: "Five charges against the precautionary principle"
+  authors: ["Per Sandin", "Martin Peterson", "Sven Ove Hansson", "Christina Rudén", "André Juthe"]
+  publisher: "Journal of Risk Research"
+  date: "2002-10"
+  url: "https://doi.org/10.1080/13669870110073729"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "The principle is no vaguer than other decision rules; absolutism avoided with an evidence threshold or de minimis rule."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract via OpenAlex; full text not opened."
+
+- id: "steel/2014_philosophy-precautionary-principle"
+  title: "Philosophy and the Precautionary Principle: Science, Evidence, and Environmental Policy"
+  authors: ["Daniel Steel"]
+  publisher: "Cambridge University Press"
+  date: "2014"
+  url: "https://doi.org/10.1017/CBO9781139939652"
+  tier: "secondary"
+  kind: "book"
+  parts: ["X"]
+  supports: "Defends a coherent interpretation of the precautionary principle against charges of incoherence and vagueness."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Publisher abstract via Crossref; book text not opened."
+
+- id: "eea/2013_late-lessons-2"
+  title: "Late lessons from early warnings: science, precaution, innovation"
+  publisher: "European Environment Agency"
+  date: "2013-01-22"
+  url: "https://www.eea.europa.eu/en/analysis/publications/late-lessons-2"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Of 88 claimed regulatory false positives, four were genuine (US swine flu, saccharin, food irradiation, Southern leaf corn blight)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "EEA Report 1/2013 PDF; Part A summary of chapter 2 (p. 12) and later summary passage on the 88 cases."
+
+- id: "eu/2006_reach-regulation"
+  title: "Regulation (EC) No 1907/2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)"
+  publisher: "Official Journal of the European Union"
+  date: "2006-12-18"
+  url: "http://publications.europa.eu/resource/celex/32006R1907R(01)"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Art. 1(3) responsibility on manufacturers, importers and downstream users, underpinned by precaution; Art. 5 'No data, no market'; Art. 6 registration at one tonne or more a year."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "EUR-Lex blocked; read the corrigendum republication (OJ L 136, 29.5.2007) via the EU Publications Office (CELLAR); Arts 1(3), 5, 6(1)."
+
+- id: "european-commission/2018_reach-review"
+  title: "Commission General Report on the operation of REACH and review of certain elements: Conclusions and Actions (COM(2018) 116 final)"
+  publisher: "European Commission"
+  date: "2018-03-05"
+  url: "http://publications.europa.eu/resource/celex/52018DC0116"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "REACH shifted the burden of proof to industry; pre-REACH only 20% of existing substances had public screening data; 65,000 dossiers for about 17,000 substances by Dec 2017; registrant compliance insufficient; non-compliant dossiers listed first among urgent issues."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read via the EU Publications Office (CELLAR); sections 1, 2.1 and 2.2."
+
+- id: "ord/2020_the-precipice"
+  title: "The Precipice: Existential Risk and the Future of Humanity (book site FAQ)"
+  authors: ["Toby Ord"]
+  publisher: "theprecipice.com"
+  date: "2020"
+  url: "https://theprecipice.com/faq"
+  tier: "primary"
+  kind: "web"
+  parts: ["X", "Preamble"]
+  supports: "Ord's best guess of a one-in-six chance of existential catastrophe over the next century; natural risk about 1 in 10,000 per century."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "FAQ answers 'How high is existential risk?' and 'What are the biggest risks?'."
+
+- id: "macaskill/2022_what-we-owe-the-future"
+  title: "What We Owe The Future (book site)"
+  authors: ["William MacAskill"]
+  publisher: "Basic Books"
+  date: "2022"
+  url: "https://whatweowethefuture.com/"
+  tier: "primary"
+  kind: "web"
+  parts: ["X", "Preamble"]
+  supports: "Humanity's future could last millions more years or end tomorrow."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Book home page blurb; book text not opened."
+
+- id: "torres/2021_against-longtermism"
+  title: "Why longtermism is the world's most dangerous secular credo"
+  authors: ["Émile P. Torres"]
+  publisher: "Aeon"
+  date: "2021-10-19"
+  url: "https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Critique that longtermism makes non-existential catastrophes, including climate harms killing millions, look minor."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Essay text, passages on climate change and Bostrom's 'mere ripples'."
+
+- id: "cremer-kemp/2021_democratising-risk"
+  title: "Democratising Risk: In Search of a Methodology to Study Existential Risk"
+  authors: ["Carla Zoe Cremer", "Luke Kemp"]
+  publisher: "arXiv"
+  date: "2021-12-27"
+  url: "https://arxiv.org/abs/2201.11214"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "The dominant 'techno-utopian approach' relies on a non-representative moral worldview, advocates dangerous mitigation strategies, and should democratise its policy recommendations."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "arXiv abstract page (submitted 27 Dec 2021); full PDF not read."
+
+- id: "nordhaus/2007_review-of-stern"
+  title: "A Review of the Stern Review on the Economics of Climate Change"
+  authors: ["William D. Nordhaus"]
+  publisher: "Journal of Economic Literature"
+  date: "2007"
+  url: "https://doi.org/10.1257/jel.45.3.686"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Stern's conclusions depend decisively on a near-zero time discount rate combined with a specific utility function."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract via Crossref and OpenAlex (JEL 45(3):686-702)."
+
+- id: "costa-rica/1949_constitution"
+  title: "Constitution of Costa Rica (English translation)"
+  publisher: "Republic of Costa Rica; translation published by Constitute Project"
+  date: "1949"
+  url: "https://www.constituteproject.org/constitution/Costa_Rica_2020"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Art. 177: at least six percent of ordinary revenues to the judiciary; any amount above its needs listed as surplus with an investment plan for the legislature."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article 177 in the Constitute Project translation (version as amended to 2020)."
+
+- id: "mccleary/1991_earmarking"
+  title: "The Earmarking of Government Revenue: A Review of Some World Bank Experience"
+  authors: ["William McCleary"]
+  publisher: "The World Bank Research Observer"
+  date: "1991"
+  url: "https://doi.org/10.1093/wbro/6.1.81"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X", "XI"]
+  supports: "Earmarks may protect programmes from shifting majorities, but governments frequently withhold funds or suspend arrangements; in general earmarking has not worked very well."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract via OpenAlex (WBRO 6(1):81-104); full text not opened."
+
+- id: "coe/1950_echr"
+  title: "Convention for the Protection of Human Rights and Fundamental Freedoms"
+  publisher: "Council of Europe"
+  date: "1950-11-04"
+  url: "https://www.echr.coe.int/documents/d/echr/Convention_ENG"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["X"]
+  supports: "Judges elected by the Parliamentary Assembly from three nominees (Art. 22); nine-year non-renewable terms; hold office until replaced (Art. 23)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Current consolidated text PDF, Articles 22-23."
+
+- id: "coe/2004_protocol-14-explanatory-report"
+  title: "Explanatory Report to Protocol No. 14 to the Convention for the Protection of Human Rights and Fundamental Freedoms"
+  publisher: "Council of Europe"
+  date: "2004-05-13"
+  url: "https://rm.coe.int/16800d380f"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Single nine-year terms intended to reinforce judges' independence and impartiality; replacements serve full terms, staggering renewal."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "CETS No. 194 explanatory report, paras 50-51."
+
+- id: "germany/2024_grundgesetz-art-93"
+  title: "Grundgesetz für die Bundesrepublik Deutschland, Article 93 (as amended 20 December 2024)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "2024-12-20"
+  url: "https://www.gesetze-im-internet.de/gg/art_93.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Constitutional Court judges elected half by Bundestag and half by Bundesrat; 12-year terms to age 68; holdover until a successor is appointed; no re-election; federal law may let the other body elect if one fails within a set period."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the current text of Art. 93(2)-(3) on 10 Oct 2026. The 20 Dec 2024 amendment date comes from the accountability strand record for this id; not checked here."
+
+- id: "germany/1951_bverfgg"
+  title: "Gesetz über das Bundesverfassungsgericht (Bundesverfassungsgerichtsgesetz), §§ 4 and 7a"
+  publisher: "Bundesministerium der Justiz (gesetze-im-internet.de)"
+  date: "1951"
+  url: "https://www.gesetze-im-internet.de/englisch_bverfgg/englisch_bverfgg.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "12-year term, no re-election, holdover (§4); if no successor is elected within two months, the Court is asked to propose candidates (§7a)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "§4 and §7a (https://www.gesetze-im-internet.de/bverfgg/__7a.html) read on 10 Oct 2026. Checked at https://www.gesetze-im-internet.de/bverfgg/__4.html."
+
+- id: "lurie/2006_fda-advisory-conflicts"
+  title: "Financial Conflict of Interest Disclosure and Voting Patterns at Food and Drug Administration Drug Advisory Committee Meetings"
+  authors: ["Peter Lurie", "Cristina M. Almeida", "Nicholas Stine", "Alexander R. Stine", "Sidney M. Wolfe"]
+  publisher: "JAMA"
+  date: "2006-04-26"
+  url: "https://doi.org/10.1001/jama.295.16.1921"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "28% of FDA drug advisory voters (2001-2004) disclosed conflicts; only 1% of members recused; weak link to votes; excluding conflicted voters would not have changed outcomes."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Structured abstract via OpenAlex; full text not opened."
+
+- id: "carpenter-moss/2013_preventing-regulatory-capture"
+  title: "Preventing Regulatory Capture: Special Interest Influence and How to Limit It"
+  authors: ["Daniel Carpenter", "David A. Moss"]
+  publisher: "Cambridge University Press"
+  date: "2013-10-21"
+  url: "https://doi.org/10.1017/CBO9781139565875"
+  tier: "secondary"
+  kind: "book"
+  parts: ["X"]
+  supports: "Capture is often misdiagnosed and may be preventable and manageable."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Publisher abstract via Crossref and OpenAlex; Crossref lists no editors, so editor names are from general knowledge, not the fetched record."

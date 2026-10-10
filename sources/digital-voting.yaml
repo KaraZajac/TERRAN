@@ -1,0 +1,1028 @@
+- id: "estonia-seo/2026_i-voting-statistics"
+  title: "Statistics about Internet voting in Estonia"
+  publisher: "State Electoral Office of Estonia (valimised.ee)"
+  date: "2026"
+  url: "https://www.valimised.ee/en/archive/statistics-about-internet-voting-estonia"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "I-voting began in 2005; 2023 and 2024 i-voter counts, shares of participating voters (51.1%, 41.7%), paper cancellations, repeat i-votes and verification rates (5.5%, 9.9%)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Tables 'Main indicators of I-voting', 'Proportions of i-voting' and 'Proportions of mobile ID and individual verification'."
+
+- id: "estonia-seo/2026_internet-voting-in-estonia"
+  title: "Internet voting in Estonia"
+  publisher: "State Electoral Office of Estonia (valimised.ee)"
+  date: "2026"
+  url: "https://www.valimised.ee/en/internet-voting-estonia"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Online re-voting allowed until Saturday evening of election week; a polling-station vote counts over i-votes; since 2021 an i-vote can be changed by paper on election day."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Paragraph on changing one's choice, near the end of the page."
+
+- id: "estonia-seo/2026_i-voting-faq"
+  title: "Questions about i-voting"
+  publisher: "State Electoral Office of Estonia (valimised.ee)"
+  date: "2026"
+  url: "https://www.valimised.ee/en/internet-voting/frequently-asked-questions/questions-about-i-voting"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The last i-vote counts; a paper vote cancels i-votes even when the i-vote was cast later; annulment happens after polling places close."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. FAQ question 9 ('I voted at the polling place and later I also voted online')."
+
+- id: "estonia-seo/2026_riigikogu-2027-schedule"
+  title: "Election activities and deadlines – Election of the Riigikogu 2027"
+  publisher: "State Electoral Office of Estonia (valimised.ee)"
+  date: "2026"
+  url: "https://www.valimised.ee/en/riigikogu-elections-2027/election-activities-and-deadlines-election-riigikogu-2027"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Source code of the i-voting system and verification app to be published no later than five days before the test vote; electronic voting 1–6 March 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Schedule entries dated 13 February, 18 February and 1–6 March 2027."
+
+- id: "niis/2026_x-road-history"
+  title: "X-Road history"
+  publisher: "Nordic Institute for Interoperability Solutions (NIIS)"
+  date: "2026"
+  url: "https://x-road.global/xroad-history"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "The X-tee project draft went to the Estonian government in March 2001 and the project launched in 2001."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Section 'Project X-tee or Ristmik 1998-2001'."
+
+- id: "laasik/2014_estonian-id-card"
+  title: "The Estonian ID card"
+  authors: ["Helar Laasik"]
+  publisher: "Keesing Platform (Keesing Technologies)"
+  date: "2014-02-01"
+  url: "https://platform.keesingtechnologies.com/the-estonian-id-card/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "The first Estonian ID card was issued on 28 January 2002."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body: 'The first card was issued on 28 January 2002'. Publication date from page metadata."
+
+- id: "estonia/2005_supreme-court-3-4-1-13-05"
+  title: "Constitutional judgment 3-4-1-13-05: Petition of the President of the Republic to declare the Local Government Council Election Act Amendment Act unconstitutional"
+  publisher: "Supreme Court of Estonia, Constitutional Review Chamber"
+  date: "2005-09-01"
+  url: "https://electionjudgments.org/api/files/1561057726219oie1b8s5wx8.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["VIII"]
+  supports: "May 2005 bill allowed a paper override on election day until 16:00; the vetoed and re-passed law limited changes to days 6–4 before voting; the court upheld revoting as an essential supplementary guarantee with no equally effective alternative; booths are the most effective protection; identity and encrypted vote are stored together until counting."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "English translation hosted by IFES Election Judgments; paragraphs 2, 4, 6, 19, 28 and 30."
+
+- id: "err/2021_polling-stations-flexible"
+  title: "Voting at polling stations becomes more flexible from 2021"
+  publisher: "ERR News"
+  date: "2021-01-02"
+  url: "https://news.err.ee/1225660/voting-at-polling-stations-becomes-more-flexible-from-2021"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "From 1 January 2021: electronic voter list, voting condensed into one week, Sunday paper-only voting, and a paper ballot cancels an online vote."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections 'Electronic lists introduced' and 'The election schedule will change'."
+
+- id: "err/2023_supreme-court-election-complaints"
+  title: "Riigikohus lükkas kõik valimiskaebused tagasi"
+  publisher: "ERR"
+  date: "2023-03-30"
+  url: "https://www.err.ee/1608931658/riigikohus-lukkas-koik-valimiskaebused-tagasi"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "On 30 March 2023 the Supreme Court rejected all Riigikogu election complaints, two EKRE complaints being late, and said essential e-voting rules must be written into law rather than subordinate acts."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Estonian-language article; opening paragraphs and section 'Riigikohus: e-hääletamise korraldust tuleks täpsustada'."
+
+- id: "err/2024_e-voting-regulation-changes"
+  title: "Riigikogu passes changes to e-voting regulation"
+  publisher: "ERR News"
+  date: "2024-05-07"
+  url: "https://news.err.ee/1609335000/riigikogu-passes-changes-to-e-voting-regulation"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "May 2024 amendments put e-voting rules in law, allow future smart-device voting and Smart-ID, with the electoral service deciding before each election whether risks are managed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body, quotes from Justice Minister Madis Timpson."
+
+- id: "err/2025_ekre-e-vote-recount"
+  title: "EKRE requests local election e-vote recount"
+  publisher: "ERR News"
+  date: "2025-10-22"
+  url: "https://news.err.ee/1609836405/ekre-requests-local-election-e-vote-recount"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "2025 local elections: 594,117 voters, 270,818 e-votes counted after duplicates were removed, 323,299 paper votes; EKRE's claim that the auditor could not verify ballot-box integrity at the recount."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body, paragraphs on the recount and final turnout figures."
+
+- id: "err/2025_supreme-court-source-code"
+  title: "Supreme Court: e-voting source code must be published before test vote"
+  publisher: "ERR News"
+  date: "2025-10-28"
+  url: "https://news.err.ee/1609841440/supreme-court-e-voting-source-code-must-be-published-before-test-vote"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "The State Electoral Office acted unlawfully by publishing source code on 3 October 2025, after the 30 September test vote; the result was not affected."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body, opening paragraphs."
+
+- id: "err/2025_supreme-court-declines-ekre"
+  title: "Supreme Court declines to hear EKRE local elections e-vote complaint"
+  publisher: "ERR News"
+  date: "2025-10-30"
+  url: "https://news.err.ee/1609843611/supreme-court-declines-to-hear-ekre-local-elections-e-vote-complaint"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "In 2025 an e-vote could be overruled by a paper vote during advance voting or on polling day."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Final paragraph of the article."
+
+- id: "err/2025_observers-e-voting"
+  title: "Observers say e-voting organization could be improved"
+  publisher: "ERR News"
+  date: "2025-10-29"
+  url: "https://news.err.ee/1609842646/observers-say-e-voting-organization-could-be-improved"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Fair Elections board member Märt Põder said the auditor did not verify that the published source code was in use on the processing systems."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Quotes from Märt Põder in the second half of the article."
+
+- id: "err/2026_annulled-e-votes"
+  title: "Electoral office: It was impossible to manipulate annulled electronic votes"
+  publisher: "ERR News"
+  date: "2026-01-28"
+  url: "https://news.err.ee/1609923632/electoral-office-it-was-impossible-to-manipulate-annulled-electronic-votes"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "About 8,000 e-votes were annulled in the 2025 local elections; the office says they could not have been altered undetected; new audit software is planned for 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body, statements by Arne Koitmäe."
+
+- id: "ria/2025_i-voting-20-years"
+  title: "I-voting: 20 years of progress"
+  publisher: "Information System Authority (RIA), Estonia"
+  date: "2025"
+  url: "https://www.ria.ee/en/i-voting-20-years-progress"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The Estonian Academy of Sciences' cybersecurity committee found no high or critical i-voting risks and six medium risks, including verifying the mobile voting app's authenticity."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section 'Six medium-level risks'; page written before the October 2025 local elections."
+
+- id: "ria/2026_data-tracker"
+  title: "Data tracker"
+  publisher: "Information System Authority (RIA), Estonia"
+  date: "2026-04-30"
+  url: "https://www.ria.ee/en/state-information-system/people-centred-data-exchange/data-tracker"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "The Data Tracker shows citizens operations performed with their personal data on eesti.ee, but only for registers that implement its X-Road protocol."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections 'Who is it for?' and 'How does it work?'; page last updated 30.04.2026."
+
+- id: "springall/2014_estonian-i-voting-security"
+  title: "Security Analysis of the Estonian Internet Voting System"
+  authors: ["Drew Springall", "Travis Finkenauer", "Zakir Durumeric", "Jason Kitcat", "Harri Hursti", "Margaret MacAlpine", "J. Alex Halderman"]
+  publisher: "ACM Conference on Computer and Communications Security (CCS 2014)"
+  date: "2014-11"
+  url: "https://jhalderm.com/pub/papers/ivoting-ccs14.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "OQ"]
+  supports: "Observation of the 2013 election, code review and lab reproduction; client malware changing votes despite the verification app; counting-server attack; strong protection against in-person coercion but not spyware or server attacks; describes an election-day override; recommends discontinuing i-voting; state-level threat model."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author PDF; abstract, section 2 (re-voting), sections 5 and 5.3, and section 7 (Conclusions)."
+
+- id: "nemec/2017_roca"
+  title: "ROCA: Vulnerable RSA generation (CVE-2017-15361); The Return of Coppersmith's Attack: Practical Factorization of Widely Used RSA Moduli"
+  authors: ["Matus Nemec", "Marek Sys", "Petr Svenda", "Dusan Klinec", "Vashek Matyas"]
+  publisher: "Centre for Research on Cryptography and Security, Masaryk University (paper at ACM CCS 2017)"
+  date: "2017-10-16"
+  url: "https://crocs.fi.muni.cz/public/papers/rsa_ccs17"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Only the public key is needed to factor affected keys; the worst case for a 2048-bit key is under 100 CPU-years, about $40,000 on AWS."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Paper page, 'TLDR' and 'Description of the vulnerability' sections."
+
+- id: "err/2017_id-card-security-risk"
+  title: "Potential security risk could affect 750,000 Estonian ID cards"
+  publisher: "ERR News"
+  date: "2017-09-05"
+  url: "https://news.err.ee/616732/potential-security-risk-could-affect-750-000-estonian-id-cards"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "Researchers told Estonia's Information System Authority of a risk affecting 750,000 valid ID cards issued after 17 October 2014."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opening paragraphs; the article says RIA was informed 'last Thursday', i.e. late August 2017."
+
+- id: "err/2018_ppa-gemalto-claim"
+  title: "Police claim €152 million from ID card producer Gemalto"
+  publisher: "ERR News"
+  date: "2018-09-27"
+  url: "https://news.err.ee/864523/police-claim-152-million-from-id-card-producer-gemalto"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "Over 700,000 ID cards had chip keys generated outside the card; the Police and Border Guard Board claimed €152 million."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opening paragraphs."
+
+- id: "ppa/2021_gemalto-settlement"
+  title: "A settlement agreement has been signed between the Police and Border Guard Board and Gemalto AG"
+  publisher: "Police and Border Guard Board, Estonia"
+  date: "2021-02-05"
+  url: "https://www.politsei.ee/en/news/a-settlement-agreement-has-been-signed-between-the-police-and-border-guard-board-and-gemalto-ag-tallinn-2021"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Gemalto AG agreed to compensate the state €2.2 million to close claims over the 2017 eID card vulnerability."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release body, quote from Krista Aas."
+
+- id: "krips-willemson/2019_coercion-resistant-remote-voting"
+  title: "On practical aspects of coercion-resistant remote voting systems"
+  authors: ["Kristjan Krips", "Jan Willemson"]
+  publisher: "Cybernetica AS (author preprint)"
+  date: "2019"
+  url: "https://research.cyber.ee/~janwil/publ/coercion.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Estonia's scheme is pure revoting; a coercer can stay until voting ends; online voting ended two hours before the last advance polls closed; voters far from polling stations cannot cast an uncoerced vote; insiders can see abstention; revoting lets an active attacker overwrite a vote."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections 3.1 and 4.1. PDF created July 2019; the publication venue is not shown on the PDF."
+
+- id: "nasem/2018_securing-the-vote"
+  title: "Securing the Vote: Protecting American Democracy"
+  publisher: "National Academies of Sciences, Engineering, and Medicine"
+  date: "2018"
+  url: "https://www.nationalacademies.org/read/25120/chapter/2"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Recommendations 4.11–4.12 (human-readable paper ballots by 2020), 5.8 (risk-limiting audits before certification), 5.11 (no Internet return of marked ballots; 'very robust guarantees'); blockchains 'introduce additional security vulnerabilities'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Summary (read/25120/chapter/2) for recommendations; blockchain passage in chapter 5 (read/25120/chapter/7). doi:10.17226/25120."
+
+- id: "switzerland-fch/2026_e-voting-media-releases"
+  title: "Media releases (e-voting)"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-09-02"
+  url: "https://www.bk.admin.ch/en/media-releases-e-voting"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "2019 public intrusion test, flaw, withdrawal for the 19 May vote and Federal Council decision; legislation from 1 July 2022; 3 March 2023 resumption; 2026 Basel-Stadt incident and later authorisations and licences."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "List of releases from 7 February 2019 to 2 September 2026; date is that of the latest release."
+
+- id: "switzerland-fch/2026_e-voting-overview"
+  title: "E-Voting"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026"
+  url: "https://www.bk.admin.ch/en/e-voting"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Since 2004, 15 cantons have offered internet voting to a limited part of their electorate in over 300 trials."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Introduction and 'Current situation'."
+
+- id: "switzerland-fch/2026_basel-stadt-incident"
+  title: "E-Voting-Versuchsbetrieb: Weiteres Vorgehen nach dem Vorfall in Basel-Stadt"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-03-11"
+  url: "https://www.admin.ch/de/newnsb/BJBC_FWncn8p8fGeNrWHZ"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "2,048 e-votes could not be counted on 8 March 2026; outcomes unaffected but political rights violated; cause traced to irregular handling of PIN-protected USB sticks storing the decryption key; human error not excluded; criminal proceedings opened; Basel-Stadt suspends trials to 31 December 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full media release (German)."
+
+- id: "switzerland-fch/2026_june-vote-authorisations"
+  title: "E-Voting: Zulassungen für die Abstimmung vom 14. Juni 2026 erteilt"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-04-17"
+  url: "https://www.admin.ch/de/newnsb/Py-Tle6KOgfLZ0xglFMEz"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "St Gallen, Graubünden and Thurgau rely on a strict four-eyes principle and added further storage media types and revised checklists after the Basel-Stadt incident."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full media release (German)."
+
+- id: "switzerland-fch/2026_neuchatel-licence"
+  title: "Der Bundesrat bewilligt den Einsatz von E-Voting im Kanton Neuenburg"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-09-02"
+  url: "https://www.admin.ch/de/newnsb/QehXViiFPJAd"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "About 222,000 voters, 3.95% of Swiss voters, are expected to be admitted to e-voting for the 29 November 2026 vote; Basel-Stadt does not take part in 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Media release body (German)."
+
+- id: "basel-stadt/2026_e-voting-external-analysis"
+  title: "E-Voting: Basel-Stadt gibt Analyse zu den Umständen und Ursachen des Vorfalls bei der Abstimmung vom 8. März 2026 in Auftrag"
+  publisher: "Regierungsrat des Kantons Basel-Stadt"
+  date: "2026-03-10"
+  url: "https://www.bs.ch/medienmitteilungen/2026-e-voting-basel-stadt-gibt-analyse-zu-den-umstaenden-und-ursachen-des-vorfalls-bei-der-abstimmung-vom-8-maerz-2026-auftrag"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The 2,048 lost votes were those of Swiss abroad and registered voters with disabilities; repeated attempts by IT experts failed; an external analysis was commissioned."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full media release (German). No published analysis found on bs.ch as of 10 October 2026."
+
+- id: "lewis-pereira-teague/2019_ceci-nest-pas-une-preuve"
+  title: "Ceci n'est pas une preuve: The use of trapdoor commitments in Bayer-Groth proofs and the implications for the verifiability of the Scytl-SwissPost Internet voting system"
+  authors: ["Sarah Jamie Lewis", "Olivier Pereira", "Vanessa Teague"]
+  publisher: "Author preprint"
+  date: "2019-03-12"
+  url: "https://sarahjamielewis.com/evoting/UniversalVerifiabilitySwissPost.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Trapdoor commitments let an authority that knows them produce a shuffle proof that passes verification but alters votes."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract and section 1.1."
+
+- id: "specter/2020_voatz-security-analysis"
+  title: "The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections"
+  authors: ["Michael A. Specter", "James Koppel", "Daniel Weitzner"]
+  publisher: "29th USENIX Security Symposium"
+  date: "2020-08"
+  url: "https://www.usenix.org/conference/usenixsecurity20/presentation/specter"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "West Virginia used Voatz in the 2018 midterms; vulnerabilities let adversaries alter, stop, or expose a vote; West Virginia aborted its use in the 2020 primaries."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "USENIX abstract page only; full paper not opened."
+
+- id: "trailofbits/2020_voatz-report"
+  title: "Our Full Report on the Voatz Mobile Voting Platform"
+  authors: ["Dan Guido"]
+  publisher: "Trail of Bits"
+  date: "2020-03-13"
+  url: "https://blog.trailofbits.com/2020/03/13/our-full-report-on-the-voatz-mobile-voting-platform/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "79 findings (48 technical, 31 threat model), a third high severity; at 26 February 2020, 34 technical issues remained unfixed; other vulnerabilities likely latent."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Blog summary of the audit; sections 'Highlights of our Findings' and 'What's been fixed'. Full report PDFs not opened."
+
+- id: "park/2021_bad-to-worse"
+  title: "Going from bad to worse: from Internet voting to blockchain voting"
+  authors: ["Sunoo Park", "Michael Specter", "Neha Narula", "Ronald L. Rivest"]
+  publisher: "Journal of Cybersecurity (Oxford University Press)"
+  date: "2021"
+  url: "https://people.csail.mit.edu/rivest/pubs/PSNR21.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Online and blockchain voting would greatly increase the risk of undetectable, nation-scale failures; turnout effects range from slightly negative to slightly positive; Estonian online voting may favour higher-income, higher-education voters; revoting helps only if the coercer cannot monitor until polls close; no known technology meets the minimal requirements together."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author copy of doi:10.1093/cybsec/tyaa025; abstract, introduction, requirements section and footnote 12."
+
+- id: "juels/2002_coercion-resistant-elections"
+  title: "Coercion-Resistant Electronic Elections"
+  authors: ["Ari Juels", "Dario Catalano", "Markus Jakobsson"]
+  publisher: "IACR Cryptology ePrint Archive, Paper 2002/165"
+  date: "2002-11-05"
+  url: "https://eprint.iacr.org/2002/165"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Adversary may demand a vote, an abstention or the voter's secret keys; a scheme is coercion-resistant if the adversary cannot tell whether a coerced voter complied."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract page only; the PDF returned HTTP 403. Last revised 2004-11-05. Usually cited as WPES 2005, but the ePrint page does not name the venue."
+
+- id: "lueks/2020_voteagain"
+  title: "VoteAgain: A scalable coercion-resistant voting system"
+  authors: ["Wouter Lueks", "Iñigo Querejeta-Azurmendi", "Carmela Troncoso"]
+  publisher: "29th USENIX Security Symposium"
+  date: "2020-08"
+  url: "https://www.usenix.org/system/files/sec20-lueks.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Revoting needs deniable filtering; trusted-party filtering is deniable but not verifiable; earlier verifiable schemes needed quadratic work; VoteAgain handles millions of voters but assumes the coercer does not control the voter until the election ends and an honest tally server."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF; sections 1, 3 (threat model) and 4 (design choices)."
+
+- id: "lindeman-stark/2012_gentle-introduction-rlas"
+  title: "A Gentle Introduction to Risk-limiting Audits"
+  authors: ["Mark Lindeman", "Philip B. Stark"]
+  publisher: "IEEE Security and Privacy (special issue on electronic voting)"
+  date: "2012"
+  url: "https://www.stat.berkeley.edu/~stark/Preprints/gentle12.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "OQ"]
+  supports: "Definition of risk-limiting audits; they cannot harm correct outcomes; they need voter-verifiable paper; about 97 ballots for California 2008 among 13.7 million at a 10% risk limit; 3,860 at a 52% share."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author preprint last edited 16 March 2012; section I and the ballot-polling example."
+
+- id: "helios/2026_faq"
+  title: "Helios Voting FAQ"
+  publisher: "Helios Voting"
+  date: "2026"
+  url: "https://vote.heliosvoting.org/faq"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "All trustees must be involved in decryption; Helios advises against use for public-office elections and recommends in-person voting for them."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Questions on vote secrecy and public-office elections."
+
+- id: "carback/2010_scantegrity-takoma-park"
+  title: "Scantegrity II Municipal Election at Takoma Park: The First E2E Binding Governmental Election with Ballot Privacy"
+  authors: ["Richard Carback", "David Chaum", "Jeremy Clark", "John Conway", "Aleksander Essex", "Paul S. Herrnson", "Travis Mayberry", "Stefan Popoveniuc", "Ronald L. Rivest", "Emily Shen", "Alan T. Sherman", "Poorvi L. Vora"]
+  publisher: "19th USENIX Security Symposium"
+  date: "2010-08"
+  url: "https://www.usenix.org/legacy/events/sec10/tech/full_papers/Carback.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Takoma Park, 3 November 2009: 1,728 voters, paper ballots with invisible-ink confirmation codes; about 66 voters (almost 4%) checked codes before the complaint deadline."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF; abstract and section 'Confirmation Codes and Complaints'."
+
+- id: "electionguard/2026_glossary"
+  title: "ElectionGuard glossary"
+  publisher: "ElectionGuard project (Microsoft)"
+  date: "2026"
+  url: "https://electionguard.vote/overview/Glossary/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Guardians create the joint key in a key ceremony; a quorum (threshold) of guardians decrypts the tally; each guardian shares a recovery method with the others."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Entries 'guardian', 'quorum' and 'key ceremony'."
+
+- id: "electionguard/2022_preston-idaho"
+  title: "Preston, Idaho 2022"
+  publisher: "ElectionGuard project (Microsoft)"
+  date: "2022"
+  url: "https://electionguard.vote/elections/Preston_Idaho_2022/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "40% of voters opted into the ElectionGuard option; two Election Guardians created the keys; the jurisdiction's hand count was the official tally."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page about the November 2022 pilot; date is the pilot year. 'Pilot Q&A's' section."
+
+- id: "shamir/1979_how-to-share-a-secret"
+  title: "How to Share a Secret"
+  authors: ["Adi Shamir"]
+  publisher: "Communications of the ACM"
+  date: "1979"
+  url: "https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "(k, n) threshold scheme: any k shares rebuild the key, k − 1 reveal nothing; with n = 2k − 1 the key survives loss of k − 1 shares; the trade-off between secrecy and reliability."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "MIT course copy of the CACM paper; abstract and introduction on page 1."
+
+- id: "iacr/2025_election-update"
+  title: "Election 2025 Update"
+  publisher: "International Association for Cryptologic Research"
+  date: "2025-11-21"
+  url: "https://iacr.org/news/item/27138"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "One of three Helios trustees irretrievably lost their private key while all shares were required; the election was voided and rerun; the IACR adopts a 2-out-of-3 threshold."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full news item."
+
+- id: "chevallier-mames/2010_incompatible-properties"
+  title: "On Some Incompatible Properties of Voting Schemes"
+  authors: ["Benoît Chevallier-Mames", "Pierre-Alain Fouque", "David Pointcheval", "Julien Stern", "Jacques Traoré"]
+  publisher: "Towards Trustworthy Elections, LNCS 6000, Springer"
+  date: "2010"
+  url: "https://www.di.ens.fr/~fouque/pub/tte10.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "OQ"]
+  supports: "For systems publishing who voted, universal verifiability and unconditional privacy are incompatible unless all registered voters vote, and universal verifiability and receipt-freeness need private channels."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author PDF; abstract on page 1."
+
+- id: "worldbank-id4d/2025_global-dataset"
+  title: "ID4D Global Dataset"
+  publisher: "World Bank, Identification for Development (ID4D)"
+  date: "2025"
+  url: "https://id4d.worldbank.org/global-dataset"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "About 800 million people had no official ID as of 2024 (2025 edition); at least 2.8 billion lacked a government-recognized digital identity for online transactions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections '2025 Global Dataset' and 'Global ID Coverage'. An older 850 million figure also appears on the page."
+
+- id: "uidai/2026_homepage-counters"
+  title: "UIDAI homepage: Aadhaar dashboard counters"
+  publisher: "Unique Identification Authority of India"
+  date: "2026"
+  url: "https://uidai.gov.in/en/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "145.32 crore Aadhaar enrolments and 2,632.51 crore eKYC transactions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Counters in the 'Aadhaar Dashboard' block of the homepage, read on 10 October 2026; the counters carry no as-of date."
+
+- id: "muralidharan/2020_identity-verification-standards"
+  title: "Identity Verification Standards in Welfare Programs: Experimental Evidence from India"
+  authors: ["Karthik Muralidharan", "Paul Niehaus", "Sandip Sukhtankar"]
+  publisher: "National Bureau of Economic Research, Working Paper 26744"
+  date: "2020-02"
+  url: "https://www.nber.org/papers/w26744"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Biometric ID requirements in India's largest social protection programme cut corruption, but 1.5–2 million legitimate beneficiaries lost access at some point; harms were driven mainly by how the transition was managed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "NBER abstract page only (revised September 2021); full paper not opened."
+
+- id: "thequint/2018_aadhaar-section-57"
+  title: "Sec 57 of Aadhaar Act Struck Down. Here's What It Means For You"
+  publisher: "The Quint"
+  date: "2018-09"
+  url: "https://www.thequint.com/news/india/supreme-court-strikes-down-section-57-of-aadhaar-act-what-it-means-for-you"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "On 26 September 2018 the Supreme Court struck down section 57 of the Aadhaar Act; Aadhaar no longer needed for bank accounts or mobile connections; still mandatory for PAN and income tax returns."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body. The judgment itself could not be opened: the sci.gov.in host did not resolve and Indian Kanoon returned HTTP 403."
+
+- id: "prs/2023_births-deaths-amendment"
+  title: "The Registration of Births and Deaths (Amendment) Bill, 2023"
+  publisher: "PRS Legislative Research"
+  date: "2023-08"
+  url: "https://prsindia.org/billtrack/the-registration-of-births-and-deaths-amendment-bill-2023"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "National database of births and deaths; birth certificates required for school admission, voter lists and government posts for those born after commencement; parents' Aadhaar numbers collected; risks to the rights to education and to vote; 93% birth registration in 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Bill summary: 'Key Features of the Bill' and 'Key Issues and Analysis'; passed Lok Sabha 1 August and Rajya Sabha 7 August 2023."
+
+- id: "jamaica/2019_robinson-v-attorney-general"
+  title: "Robinson, Julian v Attorney General of Jamaica [2019] JMFC Full 04"
+  publisher: "Supreme Court of Jamaica (Full Court)"
+  date: "2019-04-12"
+  url: "https://supremecourt.gov.jm/sites/default/files/judgments/Robinson%2C%20Julian%20v%20Attorney%20General%20of%20Jamaica.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["VII", "XII"]
+  supports: "Unanimous order declaring the National Identification and Registration Act unconstitutional, null and void; compulsory biometric collection, denial of services and inadequate limits on profiling; danger of a 'big brother state' or 'surveillance state'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Paragraph [375] (Sykes CJ) and 'Order of the Court'. Case page gives delivery as 04/12/2019; the order sets costs submissions for 3 May 2019, so 12 April 2019."
+
+- id: "eu/2024_regulation-2024-1183"
+  title: "Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework"
+  publisher: "European Parliament and Council of the European Union"
+  date: "2024-04-11"
+  url: "https://lawplayer.com/eu/act/32024R1183"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII"]
+  supports: "Article 5a(1) wallet deadline basis; 5a(4) selective disclosure and pseudonyms; 5a(15) use is voluntary and non-users may not be restricted or disadvantaged; 5a(16) no tracking or linking of use; unlinkability where identification is not required."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "EUR-Lex (eur-lex.europa.eu/eli/reg/2024/1183/oj) blocked by a bot challenge; article text read on the LawPlayer copy compiled from the official source. Recitals not on that copy."
+
+- id: "eudi-cryptographers/2024_arf-feedback"
+  title: "Cryptographers' Feedback on the EU Digital Identity's ARF (issue #200)"
+  authors: ["Carsten Baum", "Olivier Blazy", "Jaap-Henk Hoepman", "Anja Lehmann", "Anna Lysyanskaya", "René Mayrhofer", "Hart Montgomery", "Ngoc Khanh Nguyen", "abhi shelat", "Daniel Slamanig", "Søren Eller Thomsen", "Jan Camenisch", "Eysa Lee", "Bart Preneel", "Stefano Tessaro", "Carmela Troncoso"]
+  publisher: "GitHub: eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework"
+  date: "2024-06-19"
+  url: "https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/issues/200"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Sixteen cryptographers said the ARF 1.4.0 design falls short of the regulation's privacy requirements and recommended BBS anonymous credentials; later comments dispute post-quantum security."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Issue body (executive summary and author list) and comment thread; the attached PDF was not opened."
+
+- id: "nist/2018_ir-8202"
+  title: "Blockchain Technology Overview (NISTIR 8202)"
+  authors: ["Dylan Yaga", "Peter Mell", "Nik Roby", "Karen Scarfone"]
+  publisher: "National Institute of Standards and Technology"
+  date: "2018"
+  url: "https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "IX"]
+  supports: "In one 'Do you need a blockchain?' flowchart most paths lead to 'no'; organizations should examine whether existing technologies solve their problems better; false data can be entered; data can be deprecated but not removed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section 8 (Application Considerations) and 8.1 (Additional Blockchain Considerations). doi:10.6028/NIST.IR.8202."
+
+- id: "ietf/2013_rfc-6962"
+  title: "RFC 6962: Certificate Transparency"
+  authors: ["Ben Laurie", "Adam Langley", "Emilia Kasper"]
+  publisher: "Internet Engineering Task Force"
+  date: "2013-06"
+  url: "https://www.rfc-editor.org/rfc/rfc6962.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "Certificate Transparency was first specified in June 2013 as an Experimental RFC."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "RFC header (category Experimental, June 2013)."
+
+- id: "ietf/2021_rfc-9162"
+  title: "RFC 9162: Certificate Transparency Version 2.0"
+  authors: ["Ben Laurie", "Eran Messeri", "Rob Stradling"]
+  publisher: "Internet Engineering Task Force"
+  date: "2021-12"
+  url: "https://www.rfc-editor.org/rfc/rfc9162.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "Obsoletes RFC 6962; append-only Merkle-tree logs; logs do not prevent misissuance but let interested parties detect it; anyone can monitor; usable for logging any binary data."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract and section 1 (Introduction)."
+
+- id: "chrome/2026_ct-policy"
+  title: "Chrome Certificate Transparency Policy"
+  publisher: "Google Chrome"
+  date: "2026"
+  url: "https://googlechrome.github.io/CertificateTransparency/ct_policy.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Certificates validated in modern Chrome are evaluated for compliance with the Chrome CT Policy, save rare enterprise exceptions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; date is year accessed. Opening section."
+
+- id: "buldas/2013_keyless-signatures-infrastructure"
+  title: "Keyless Signatures' Infrastructure: How to Build Global Distributed Hash-Trees"
+  authors: ["Ahto Buldas", "Andres Kroonmaa", "Risto Laanoja"]
+  publisher: "IACR Cryptology ePrint Archive, Paper 2013/834 (NordSec 2013)"
+  date: "2013-12-16"
+  url: "https://eprint.iacr.org/2013/834"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "KSI builds global per-second hash trees and publishes their root hashes; Guardtime had operated it for five years by 2013."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "ePrint abstract page only; full paper not opened."
+
+- id: "e-estonia/2026_ksi-blockchain"
+  title: "KSI blockchain"
+  publisher: "e-Estonia (Estonian Business and Innovation Agency)"
+  date: "2026"
+  url: "https://e-estonia.com/service/cyber-security/ksi-blockchain/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "KSI is described as a 'blockchain inspired technology' by Guardtime, deployed in Estonian government networks."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated promotional page; date is year accessed."
+
+- id: "skatteetaten/2026_search-the-tax-lists"
+  title: "Search the tax lists"
+  publisher: "Norwegian Tax Administration (Skatteetaten)"
+  date: "2026"
+  url: "https://www.skatteetaten.no/en/forms/search-the-tax-lists/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Login required; the searched person can see who searched; up to 500 views a month; lists cover taxpayers with an assessment, excluding under-18s and secret addresses; no opt-out."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Page for the 2024 income year; sections 'You can see who has read your tax information', 'How to search' and 'Who are in the tax lists?'."
+
+- id: "bo-slemrod-thoresen/2015_taxes-on-the-internet"
+  title: "Taxes on the Internet: Deterrence Effects of Public Disclosure"
+  authors: ["Erlend E. Bø", "Joel Slemrod", "Thor O. Thoresen"]
+  publisher: "American Economic Journal: Economic Policy 7(1): 36–62"
+  date: "2015-02"
+  url: "https://www.aeaweb.org/articles?id=10.1257/pol.20130330"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "After 2001 internet disclosure, reported income rose about 3% more among business owners where the switch was a large change in access."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "AEA abstract page only."
+
+- id: "perez-truglia/2020_income-transparency-well-being"
+  title: "The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment"
+  authors: ["Ricardo Perez-Truglia"]
+  publisher: "American Economic Review 110(4): 1019–54"
+  date: "2020-04"
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.20160256"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Norway's 2001 online tax records widened the happiness gap between richer and poorer by 29% and the life-satisfaction gap by 21%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "AEA abstract page; the full text returned HTTP 403. The NBER version was read in full (see perez-truglia/2019_income-transparency-nber-wp)."
+
+- id: "perez-truglia/2019_income-transparency-nber-wp"
+  title: "The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment (NBER Working Paper 25622)"
+  authors: ["Ricardo Perez-Truglia"]
+  publisher: "National Bureau of Economic Research"
+  date: "2019-09"
+  url: "https://www.nber.org/system/files/working_papers/w25622/w25622.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Searches fell 88% after 2014 made them non-anonymous; the lists were used mainly to look up social contacts; Swedish requests are by phone and non-anonymous, making them much less popular."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Revised September 2019; sections 2.1–2.4 and footnotes 9–10 and 14."
+
+- id: "vero/2026_public-individual-income-tax-info"
+  title: "Public information on individual income taxes"
+  publisher: "Finnish Tax Administration (Vero)"
+  date: "2026"
+  url: "https://www.vero.fi/en/About-us/finnish-tax-administration/data-security-and-information-access/public-information-on-taxes/public-information-on-individual-income-taxes/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Individual public tax data are not on vero.fi; available on terminals and by phone; not disseminated on the internet; media receive electronic data; 2022 Supreme Administrative Court ruling; 2025 data published 12 November 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opening paragraph and the section on disclosure to the media."
+
+- id: "vero/2026_how-to-search-public-tax-info"
+  title: "How to search the public information on income taxes and real estate taxes"
+  publisher: "Finnish Tax Administration (Vero)"
+  date: "2026"
+  url: "https://www.vero.fi/en/About-us/finnish-tax-administration/data-security-and-information-access/public-information-on-taxes/how-to-search-the-public-information-on-income-taxes-and-real-estate-taxes/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Public data are viewed on customer terminals at service points or requested by phone; no printing or copying; browsing history is not recorded."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section 'Browsing data on customer terminals (Julkis software)'."
+
+- id: "imf/2026_ukraine-asset-declaration-system"
+  title: "Ukraine: Enhancing the Asset Declaration System for Public Officials (Technical Assistance Report)"
+  authors: ["Jonathan Pampolina", "Guillaume Valette-Valla"]
+  publisher: "International Monetary Fund, Legal Department (published by Ukraine's National Agency on Corruption Prevention)"
+  date: "2026-07"
+  url: "https://nazk.gov.ua/wp-content/uploads/Pages/bc/9f/bc9f751a5d682943b57ab2ea93134832ef213cc977600551d89528c6580d3f315363906.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "Online declaration system launched 1 September 2016; about 700,000 declarations a year and 1.7% of the population declaring; 'wall of data'; suspended under martial law and restored in October 2023; personal data restricted; a 1,000-check quota targets minor violations rather than senior officials."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Executive summary, paragraphs 4–5, 9, 15 and 19, footnote 22. Marked 'For official use only' but published by NACP with its consent."
+
+- id: "nacp/2026_full-verifications-2026"
+  title: "Full verifications of declarations: in 8 months of 2026, NACP revealed violations worth over UAH 2.5 billion"
+  publisher: "National Agency on Corruption Prevention (NACP), Ukraine"
+  date: "2026-09-22"
+  url: "https://nazk.gov.ua/en/news/full-verifications-of-declarations-in-8-months-of-2026-nacp-revealed-violations-worth-over-uah-2-5-billion/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "In January–August 2026, 574 risk-based full verifications found violations in 571 declarations; 125 criminal proceedings were opened."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opening paragraphs of the news item."
+
+- id: "euronews/2020_ukraine-restores-anti-corruption-law"
+  title: "Ukraine's parliament defies court ruling and restores anti-corruption legislation"
+  publisher: "Euronews"
+  date: "2020-12-04"
+  url: "https://www.euronews.com/2020/12/04/ukraine-s-parliament-defies-court-ruling-and-restores-anti-corruption-legislation"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "The Constitutional Court annulled key anti-corruption provisions in October 2020, including criminal liability for false declarations; parliament reauthorised criminal penalties in December 2020."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body (with AP, AFP)."

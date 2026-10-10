@@ -1,0 +1,940 @@
+- id: robeyns/2024_limitarianism
+  title: "Limitarianism: The Case Against Extreme Wealth"
+  authors: ["Ingrid Robeyns"]
+  publisher: "Allen Lane (Penguin); US edition Astra House"
+  date: "2024-02-01"
+  url: "https://www.penguin.co.uk/books/451473/limitarianism-by-robeyns-ingrid/9780241627594"
+  tier: primary
+  kind: book
+  parts: ["IV", "OQ"]
+  supports: "Publisher summary: no one should have more than ten million, and no one needs more than one million."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher landing page only; the blurb quote was found there. Book text not read; its 'political limit' wording is taken from the Gordon review."
+
+- id: gordon/2024_review-limitarianism
+  title: "Robeyns Peter to Pay Paul"
+  authors: ["David Gordon"]
+  publisher: "Mises Institute (Friday Philosophy)"
+  date: "2024-04-19"
+  url: "https://mises.org/friday-philosophy/robeyns-peter-pay-paul"
+  tier: secondary
+  kind: article
+  parts: ["IV", "OQ"]
+  supports: "Quotes the book: 'a political limit of roughly ten million per person', with currency treated as immaterial (order of magnitude)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened the review; the block quote from the book appears in the opening section. Review is critical of Robeyns."
+
+- id: uu/2023_what-is-limitarianism
+  title: "What is limitarianism? Professor Ingrid Robeyns explains"
+  publisher: "Utrecht University"
+  date: "2023-12-06"
+  url: "https://www.uu.nl/en/in-the-media/what-is-limitarianism-professor-ingrid-robeyns-explains"
+  tier: secondary
+  kind: web
+  parts: ["IV", "OQ"]
+  supports: "EUR 10M 'political limit' tied to the Dutch context (more for New York without a pension); EUR 1M personal ethical limit; EUR 2-4M for a family."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "University media digest quoting de Volkskrant (1 Dec 2023) and Vrij Nederland (13 Mar 2023); quotes found in the 'moral wealth limit' section."
+
+- id: vrt/2023_robeyns-limit-wealth
+  title: "\"Limit personal wealth to a million euros, inheritances to €200,000\""
+  authors: ["Colin Clapson"]
+  publisher: "VRT NWS"
+  date: "2023-12-14"
+  url: "https://www.vrt.be/vrtnws/en/2023/12/14/limit-wealth-belgium-ingrid-robeyns-can-you-be-too-rich-wealth-t.consumer/"
+  tier: secondary
+  kind: news
+  parts: ["IV"]
+  supports: "Robeyns proposes limiting inheritance to EUR 200,000 and an 'absolute upper limit' of EUR 10M; EUR 1M per person is enough."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened the article; inheritance figure in the standfirst and lead, EUR 10M quote mid-article."
+
+- id: robeyns/2017_having-too-much
+  title: "Having Too Much"
+  authors: ["Ingrid Robeyns"]
+  publisher: "NYU Press (NOMOS LVIII: Wealth); reprinted by Open Book Publishers, 2023"
+  date: "2017"
+  url: "https://doi.org/10.11647/OBP.0338.02"
+  tier: primary
+  kind: article
+  parts: ["IV"]
+  supports: "Riches line expressed in money (illustrative EUR 200,000 a year); moral vs political doctrine; state taxes surplus away or reshapes institutions; government can praise giving to build the norm."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the open-access OBP reprint PDF (chapter 2, pp. 15-60): riches-line example in the PMR section; doctrine discussion in section 6."
+
+- id: robeyns/2019_extreme-wealth
+  title: "What, if Anything, Is Wrong with Extreme Wealth?"
+  authors: ["Ingrid Robeyns"]
+  publisher: "Journal of Human Development and Capabilities 20(3): 251-266"
+  date: "2019-07-03"
+  url: "https://research-portal.uu.nl/ws/portalfiles/portal/66121169/What_if_Anything_is_Wrong_with_Extreme_Wealth.pdf"
+  tier: primary
+  kind: article
+  parts: ["IV"]
+  supports: "Surplus-money definition; 'limitarianism equals a top marginal tax rate of 100%'; ~70% revenue-maximizing rate; 96.5% see a riches line but are 'very reluctant' to support caps; non-monetary incentives (esteem, honour)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the final published version in Utrecht's repository (DOI 10.1080/19452829.2019.1633734): survey on pp. 253-254; incentive objection in section 5 (pp. 260-262)."
+
+- id: robeyns-et-al/2021_riches-line
+  title: "How Rich is Too Rich? Measuring the Riches Line"
+  authors: ["Ingrid Robeyns", "Vincent Buskens", "Arnout van de Rijt", "Nina Vergeldt", "Tanja van der Lippe"]
+  publisher: "Social Indicators Research 154(1): 115-143"
+  date: "2021-02"
+  url: "https://research-portal.uu.nl/en/publications/how-rich-is-too-rich-measuring-the-riches-line/"
+  tier: primary
+  kind: article
+  parts: ["IV", "OQ"]
+  supports: "Dutch respondents place a riches line between EUR 1M and 3M regardless of own income; most object to enforced limits but support higher taxes on the super-rich."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract on the Utrecht research portal only; full text not read (DOI 10.1007/s11205-020-02552-z)."
+
+- id: robeyns/2021_too-rich-blog
+  title: "There is such a thing as being too rich"
+  authors: ["Ingrid Robeyns"]
+  publisher: "Crooked Timber"
+  date: "2021-07-12"
+  url: "https://crookedtimber.org/2021/07/12/there-is-such-a-thing-as-being-too-rich/"
+  tier: secondary
+  kind: web
+  parts: ["IV", "OQ"]
+  supports: "The EUR 2.2M mean riches line refers to a family of four (two parents in their forties, two children); pension wealth not included."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Author's own blog summary of the 2021 paper; figure and family definition in the main post and in her reply in comments."
+
+- id: oecd/2018_net-wealth-taxes
+  title: "The Role and Design of Net Wealth Taxes in the OECD"
+  publisher: "OECD (Tax Policy Studies No. 26)"
+  date: "2018-04"
+  url: "https://www.oecd.org/en/publications/the-role-and-design-of-net-wealth-taxes-in-the-oecd_9789264290303-en.html"
+  tier: primary
+  kind: report
+  parts: ["IV"]
+  supports: "12 countries in 1990, 4 in 2017; reasons for repeal; 0.2-1.0% of GDP in 2016; caps in France (75%), Spain (60%, 20% floor), 7 of 26 Swiss cantons, none in Norway; caps create avoidance; thresholds (Table 4.2); France's 2018 switch to IFI; design recommendations."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the full report PDF: chapter 1 overview (counts, repeal reasons, 2016 revenue); chapter 4 (Table 4.2 thresholds, rates, 'Caps on total tax liability'); chapter 5 ('Avoidance through tax caps'); executive summary also on the OECD landing page."
+
+- id: spain/1991_ley-19-1991-patrimonio
+  title: "Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio (texto consolidado)"
+  publisher: "Boletín Oficial del Estado"
+  date: "1991-06-06"
+  url: "https://www.boe.es/buscar/act.php?id=BOE-A-1991-14392"
+  tier: primary
+  kind: law
+  parts: ["IV"]
+  supports: "EUR 700,000 default exemption (art. 28), EUR 300,000 main-home exemption (art. 4.Nueve), state scale 0.2-3.5% (art. 30), 60% combined cap with at most 80% reduction and exclusions (art. 31)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read consolidated text on BOE; art. 30 scale last amended with effect 1 Jan 2021; art. 31 cap text quoted in Spanish."
+
+- id: spain/2022_ley-38-2022
+  title: "Ley 38/2022, de 27 de diciembre (art. 3: Impuesto Temporal de Solidaridad de las Grandes Fortunas)"
+  publisher: "Boletín Oficial del Estado"
+  date: "2022-12-27"
+  url: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-22684"
+  tier: primary
+  kind: law
+  parts: ["IV"]
+  supports: "Solidarity tax on net wealth above EUR 3M at 1.7%, 2.1%, 3.5%; same 60% cap; regional wealth tax deductible; payment allowed in listed historic-heritage goods."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read art. 3 sections Uno, Once (scale), Doce (cap), Quince (deduction), Dieciocho.2 (payment in kind), Veintiocho (original two-year term)."
+
+- id: spain/2023_rdl-8-2023
+  title: "Real Decreto-ley 8/2023, de 27 de diciembre"
+  publisher: "Boletín Oficial del Estado"
+  date: "2023-12-27"
+  url: "https://www.boe.es/buscar/act.php?id=BOE-A-2023-26452"
+  tier: primary
+  kind: law
+  parts: ["IV"]
+  supports: "Extends the solidarity tax until wealth taxation is revised within the reform of regional financing."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the extension clause in the additional provisions and the preamble's justification."
+
+- id: guiafiscal/2026_itsgf
+  title: "ITSGF Grandes Fortunas 2026: realidad fiscal tras prórroga"
+  publisher: "Guía Fiscal"
+  date: "2026-05-16"
+  url: "https://guiafiscal.es/opinion/itsgf-grandes-fortunas-2026-realidad-fiscal/"
+  tier: secondary
+  kind: web
+  parts: ["IV"]
+  supports: "Solidarity tax still in force in May 2026; revenue about EUR 630M (2022) and about EUR 35M (2023); regional responses (Madrid, Andalusia, Murcia and others)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opinion piece citing a March 2026 Cuatrecasas analysis and AEAT data; figures quoted in the opening and revenue sections. Revenue figures vary slightly across sources (623-632M)."
+
+- id: vozpopuli/2024_patrimonio-recaudacion
+  title: "El Impuesto de Patrimonio sólo recauda 682 millones extra tras imponerlo el Gobierno en Madrid y Andalucía"
+  authors: ["Mercedes Serraller"]
+  publisher: "Vozpópuli"
+  date: "2024-07-06"
+  url: "https://www.vozpopuli.com/economia/impuesto-patrimonio-recauda-682-millones-extra-imponerlo-gobierno-madrid-andalucia.html"
+  tier: secondary
+  kind: news
+  parts: ["IV"]
+  supports: "Wealth-tax receipts reached EUR 1,911M in the 2023 campaign, EUR 682M more than the previous campaign (EUR 1,229M)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in the standfirst and first paragraph, attributed to AEAT campaign data."
+
+- id: skatteetaten/2026_wealth-tax-rates
+  title: "Net wealth tax and valuation discounts (rates, 2026)"
+  publisher: "Norwegian Tax Administration (Skatteetaten)"
+  date: "2026"
+  url: "https://www.skatteetaten.no/en/rates/wealth-tax/"
+  tier: primary
+  kind: web
+  parts: ["IV", "OQ"]
+  supports: "2026: municipal 0.35% and state 0.65% above NOK 1.9M; state 0.75% above NOK 21.5M; thresholds doubled for jointly assessed spouses."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Rates table for 2026 read on the page (year selector defaulted to 2026)."
+
+- id: fortune/2024_norwegians-switzerland
+  title: "Wealthy Norwegians flee to Switzerland to evade high wealth taxes, with their bankers following"
+  authors: ["Ott Ummelas"]
+  publisher: "Fortune (Bloomberg)"
+  date: "2024-04-19"
+  url: "https://fortune.com/europe/2024/04/19/wealthy-norwegians-flee-to-switzerland-to-evade-high-wealth-taxes-bankers-following-dnb-abg-sundal-collier/"
+  tier: secondary
+  kind: news
+  parts: ["IV", "XII"]
+  supports: "82 rich Norwegians with NOK 46bn left in 2022-2023 (Finance Ministry data); over 70 to Switzerland; Civita: burden up 55% and ownership tax receipts NOK 65bn (2023) vs 38bn (2021)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in paragraphs 3-4 and the later Civita paragraph."
+
+- id: germany/1995_bverfge-93-121
+  title: "BVerfGE 93, 121 - Einheitswerte II (Beschluss vom 22. Juni 1995, 2 BvL 37/91)"
+  publisher: "Bundesverfassungsgericht (text via Das Fallrecht, University of Bern)"
+  date: "1995-06-22"
+  url: "https://www.servat.unibe.ch/dfr/bv093121.html"
+  tier: primary
+  kind: court
+  parts: ["IV"]
+  supports: "Wealth tax incompatible with equality because real estate at 1964/74 unit values and other assets at current values bore one rate; reform deadline 31 Dec 1996; half-share dictum on expected yield; 0.5% rate 1983-86."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read headnotes 3-4, the operative ruling (Entscheidungsformel 1-2) and the facts section; dissent by Judge Böckenförde noted."
+
+- id: germany/2006_bverfge-115-97
+  title: "BVerfGE 115, 97 - Halbteilungsgrundsatz (Beschluss vom 18. Januar 2006, 2 BvR 2194/99)"
+  publisher: "Bundesverfassungsgericht (text via Das Fallrecht, University of Bern)"
+  date: "2006-01-18"
+  url: "https://www.servat.unibe.ch/dfr/bv115097.html"
+  tier: primary
+  kind: court
+  parts: ["IV"]
+  supports: "No generally binding absolute ceiling near an even split ('Halbteilungsgrundsatz') follows from Art. 14 of the Basic Law."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Sentence found in part C.II.1.a of the reasons."
+
+- id: france/2012_cc-2012-654-dc
+  title: "Décision n° 2012-654 DC du 9 août 2012 (Loi de finances rectificative pour 2012)"
+  publisher: "Conseil constitutionnel"
+  date: "2012-08-09"
+  url: "https://www.conseil-constitutionnel.fr/decision/2012/2012654DC.htm"
+  tier: primary
+  kind: court
+  parts: ["IV"]
+  supports: "An ISF schedule like the pre-2012 one needs a cap or an equivalent mechanism to avoid a characterized break in equality before public charges."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Considérant 33 read on the Council's site."
+
+- id: actu-juridique/2023_bilan-fiscalite-capital
+  title: "Taxation du capital : le bilan 5 ans après la réforme"
+  authors: ["Annabelle Pando"]
+  publisher: "Actu-Juridique"
+  date: "2023-11-24"
+  url: "https://www.actu-juridique.fr/fiscalite/fiscal-finances/taxation-du-capital-le-bilan-5-ans-apres-la-reforme/"
+  tier: secondary
+  kind: news
+  parts: ["IV"]
+  supports: "Summary of France Stratégie's final report and IPP report 47: ISF top rate 1.5% vs 0.1% effective for top 0.001%; 84% of EUR 100-200M declarants capped; cap cost ~EUR 2bn; departures 950/yr (2011-16) vs 260/yr (2018-21); departure rate ~0.2%; IFI revenue and payers."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in the sections 'Les expatriations ralentissent' and 'La réforme de l'ISF sur les entreprises'. Primary report PDF returned 404."
+
+- id: france-strategie/2023_capital-tax-evaluation
+  title: "Committee for the evaluation of capital tax reforms - Final report - Committee's opinion"
+  publisher: "France Stratégie"
+  date: "2023-10-16"
+  url: "https://strategie.gouv.fr/english-articles/committee-evaluation-capital-tax-reforms-final-report-committees-opinion"
+  tier: primary
+  kind: report
+  parts: ["IV"]
+  supports: "Final report covers departures and returns of IFI taxpayers, the ISF cap's limits on progressivity, and the 2018 reforms' budget cost."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Landing page only; the full report PDF at the old URL returned 404."
+
+- id: jakobsen-et-al/2020_wealth-taxation-denmark
+  title: "Wealth Taxation and Wealth Accumulation: Theory and Evidence from Denmark"
+  authors: ["Katrine Jakobsen", "Kristian Jakobsen", "Henrik Kleven", "Gabriel Zucman"]
+  publisher: "Quarterly Journal of Economics 135(1): 329-388 (NBER Working Paper 24371 version read)"
+  date: "2020"
+  url: "https://www.nber.org/papers/w24371"
+  tier: primary
+  kind: article
+  parts: ["IV"]
+  supports: "Danish rate 2.2% until 1989, then 1%, abolished 1997; taxable wealth +30% (very wealthy) and +10% (moderately wealthy) after 8 years; long-run 70% and 20%; 78% tax ceiling made marginal wealth tax zero for bound households."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the NBER working paper (March 2018): introduction and the section describing the 1989 reform and the horizontal tax ceiling; published-version figures not separately checked."
+
+- id: zucman/2024_g20-blueprint
+  title: "A blueprint for a coordinated minimum effective taxation standard for ultra-high-net-worth individuals"
+  authors: ["Gabriel Zucman"]
+  publisher: "Report commissioned by the Brazilian G20 Presidency"
+  date: "2024-06-25"
+  url: "https://gabriel-zucman.eu/files/report-g20.pdf"
+  tier: primary
+  kind: report
+  parts: ["IV", "XII"]
+  supports: "2% minimum on billionaires; USD 200-250bn/yr from ~3,000 taxpayers (+100-140bn with centimillionaires); effective rate 0.3% of wealth; 7.5% real pre-tax return; half of billionaire wealth in private firms valued by multiples; exit taxes and 'tax collector of last resort'."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the summary page, the economic-effects passage in the introduction, section 2.1 (liquidity), the valuation section, and the enforcement section on non-participating countries."
+
+- id: g20/2024_rio-tax-declaration
+  title: "The Rio de Janeiro G20 Ministerial Declaration on International Tax Cooperation"
+  publisher: "G20 (text via 'The World and Japan' database, GRIPS and University of Tokyo, sourced from Japan's Ministry of Finance)"
+  date: "2024-07-26"
+  url: "https://worldjpn.net/documents/texts/G20/20240726.D3E.html"
+  tier: primary
+  kind: web
+  parts: ["IV", "XII"]
+  supports: "Para. 13: 'With full respect to tax sovereignty...ultra-high-net-worth individuals are effectively taxed'; para. 2: taxation 'a constitutive right of state sovereignty'; para. 4: AEOI supports enforcement in over 100 jurisdictions."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Full text read in the database copy; official G20 site copy not opened."
+
+- id: wikipedia/2026_taxe-zucman
+  title: "Taxe Zucman"
+  publisher: "Wikipédia (French)"
+  date: "2026"
+  url: "https://fr.wikipedia.org/wiki/Taxe_Zucman"
+  tier: tertiary
+  kind: web
+  parts: ["IV"]
+  supports: "French bill (2% floor above EUR 100M) adopted by the Assembly 20 Feb 2025, rejected by the Senate 12 June 2025, budget amendment rejected 31 Oct 2025."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Timeline in the lead and the section 'Débats parlementaires en 2024 et 2025'; primary parliamentary records not opened (search budget exhausted)."
+
+- id: rothschild/2026_loi-de-finances-2026
+  title: "La loi de finances pour 2026"
+  publisher: "Rothschild & Co (Rothschild Martin Maurel)"
+  date: "2026-02-20"
+  url: "https://www.rothschildandco.com/fr/actualites/publications/2026/02/rothschild-martin-maurel-la-loi-de-finances-pour-2026/"
+  tier: secondary
+  kind: web
+  parts: ["IV"]
+  supports: "2026 finance law promulgated 20 Feb 2026 after Article 49-3; 20% tax on non-operational 'sumptuary' assets of family holding companies (family circle defined); CDHR adjusted."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the introduction and section 2 on the holding-company tax (conditions, base, 20% rate, 75% income cap for foreign holdings, from year-ends on 31 Dec 2026)."
+
+- id: deloitte/2026_plf-2027
+  title: "PLF 2027 : analyse des mesures les plus significatives"
+  authors: ["Alice de Massiac", "Béatrice Hingand", "Clara Maignan", "Agathe Saint Joanis"]
+  publisher: "Deloitte Société d'Avocats (blog)"
+  date: "2026-10-02"
+  url: "https://blog.avocats.deloitte.fr/plf-2027-analyse-des-mesures-les-plus-significatives/"
+  tier: secondary
+  kind: web
+  parts: ["IV"]
+  supports: "2027 budget bill presented in the Council of Ministers on 1 Oct 2026; Assembly debate from 13 Oct 2026; no minimum tax on large fortunes among the listed measures."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Dates in the opening paragraph; the page contains no mention of a Zucman-style tax (text search)."
+
+- id: lesechos/2025_zucman-impot-en-nature
+  title: "« Payer l'impôt en nature » : la surprenante proposition de Zucman sur la taxation des riches startupeurs"
+  authors: ["Charlie Perreau"]
+  publisher: "Les Echos"
+  date: "2025-09-12"
+  url: "https://www.lesechos.fr/start-up/ecosysteme/payer-limpot-en-nature-la-surprenante-proposition-de-zucman-sur-la-taxation-des-riches-startupeurs-2185949"
+  tier: secondary
+  kind: news
+  parts: ["IV", "V"]
+  supports: "Zucman (interview with Le Monde) proposed that heads of unprofitable start-ups pay the tax by giving shares to the state."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Claim in the headline and standfirst; the rest of the article is paywalled."
+
+- id: california/2026_proposition-40
+  title: "Proposition 40: Imposes One-Time Tax on Certain Taxpayers (Official Voter Information Guide, with Legislative Analyst's analysis)"
+  publisher: "California Secretary of State"
+  date: "2026"
+  url: "https://voterguide.sos.ca.gov/propositions/40/index.htm"
+  tier: primary
+  kind: law
+  parts: ["IV", "XII"]
+  supports: "One-time 5% tax on billionaires resident on 1 Jan 2026, due 2027, payable over five years at extra cost; real estate and pensions generally excluded; some billionaires may leave, costing under USD 1bn/yr in income tax; vote on 3 Nov 2026."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the summary page and the analysis page (https://voterguide.sos.ca.gov/propositions/40/analysis.htm); ballot listing confirmed on sos.ca.gov qualified measures page."
+
+- id: eutaxobs/2023_global-tax-evasion-report
+  title: "Global Tax Evasion Report 2024"
+  authors: ["Annette Alstadsæter", "Sarah Godar", "Panayiotis Nicolaides", "Gabriel Zucman"]
+  publisher: "EU Tax Observatory"
+  date: "2023-10"
+  url: "https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf"
+  tier: primary
+  kind: report
+  parts: ["IV", "VII"]
+  supports: "USD 12tn offshore (12% of world GDP, end-2022); evasion down ~3x; ~25% untaxed; billionaire effective rates 0-0.5%; US outside CRS; real estate uncovered; Norway-Dubai example (66 of 227); 57 BO registries; 7 EU states closed public access after CJEU; EU package aimed at legitimate-interest access; global asset registry proposal."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Coordinators listed (authors of the report as a whole). Read executive summary, ch. 1.1, and ch. 5 (pp. 86-89)."
+
+- id: wtc/2020_final-report
+  title: "A Wealth Tax for the UK: Final Report"
+  authors: ["Arun Advani", "Emma Chamberlain", "Andy Summers"]
+  publisher: "Wealth Tax Commission"
+  date: "2020-12"
+  url: "https://www.wealthandpolicy.com/wp/WealthTaxFinalReport.pdf"
+  tier: primary
+  kind: report
+  parts: ["IV"]
+  supports: "Five-year instalments, pension deferral, statutory deferral; 570,000 vs 65,000 liquidity-constrained at GBP 500k vs 2M; 1 in 5 hold business assets; 7-17% base lost at 1%; 1% 'high by international standards'; 'firmly reject' income-based caps; no in-kind share payment proposed."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the executive summary and section 4.2.4 'Liquidity' (from p. 61, per the contents page). The absence of an in-kind proposal is from a text search of the PDF."
+
+- id: ec/2026_aml-eu-level
+  title: "Anti-money laundering and countering the financing of terrorism at EU level"
+  publisher: "European Commission (DG FISMA)"
+  date: "2026"
+  url: "https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en"
+  tier: primary
+  kind: web
+  parts: ["IV", "VII"]
+  supports: "AMLD V (2018) set up publicly available registers; AML package published 19 June 2024; AMLD VI (2024/1640) applies from 2027."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Undated policy page, current at access; timeline and legislation list read. Directive text on EUR-Lex could not be opened (bot challenge)."
+
+- id: cjeu/2022_wm-sovim
+  title: "Press release No 188/22: Judgment in Joined Cases C-37/20 Luxembourg Business Registers and C-601/20 Sovim"
+  publisher: "Court of Justice of the European Union"
+  date: "2022-11-22"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-11/cp220188en.pdf"
+  tier: primary
+  kind: court
+  parts: ["IV", "VII"]
+  supports: "Public access to beneficial-ownership data in all cases declared invalid; interference 'neither limited to what is strictly necessary nor proportionate'; the former legitimate-interest regime was less intrusive."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Two-page press release read in full; judgment text itself not opened."
+
+- id: fincen/2026_boi-final-rule
+  title: "Beneficial Ownership Information Reporting"
+  publisher: "Financial Crimes Enforcement Network (US Treasury)"
+  date: "2026-08-11"
+  url: "https://www.fincen.gov/boi"
+  tier: primary
+  kind: web
+  parts: ["IV", "VII"]
+  supports: "Final rule issued 11 Aug 2026, effective 14 Aug 2026, makes permanent the March 2025 exemptions: US companies and US persons need not report; only foreign-registered entities report."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Alerts at the top of the page (updated 11 Aug 2026) and the March 2025 interim-rule alert."
+
+- id: icrict/2022_global-asset-registry
+  title: "Shed Light On Global Wealth With Registries, Experts Say"
+  authors: ["Kevin Pinner"]
+  publisher: "ICRICT (reposting a Law360 article)"
+  date: "2022-04-19"
+  url: "https://www.icrict.com/wealth-and-transparency/2022-4-20-shed-light-on-global-wealth-with-registries-experts-say/"
+  tier: secondary
+  kind: news
+  parts: ["IV"]
+  supports: "ICRICT's April 2022 report and letter urged a global asset registry; Zucman: start from land and real-estate registries, connect regional registries, which would take decades."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "News report read on ICRICT's site; ICRICT's report itself not opened."
+
+- id: apfc/2026_annual-report
+  title: "APFC 2026 Annual Report (web summary)"
+  publisher: "Alaska Permanent Fund Corporation"
+  date: "2026-09-28"
+  url: "https://apfc.org/reports/2026-annual-report/"
+  tier: primary
+  kind: report
+  parts: ["IV", "X"]
+  supports: "Total fund value USD 91.9bn at 30 June 2026 (principal 73.8bn, earnings reserve 18.1bn); portfolio began entirely in US Treasury bonds."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Headline figures at the top of the page; asset-allocation note near the end."
+
+- id: apfc/2026_history
+  title: "Our History"
+  publisher: "Alaska Permanent Fund Corporation"
+  date: "2026"
+  url: "https://apfc.org/about/history/"
+  tier: primary
+  kind: web
+  parts: ["IV", "X"]
+  supports: "1976 constitutional amendment (75,588 to 38,518); Article IX, Section 15: at least 25% of mineral revenues; APFC created 1980; first dividend USD 1,000 in 1982."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Origins section and timeline read."
+
+- id: apfc/2026_board-of-trustees
+  title: "Board of Trustees"
+  publisher: "Alaska Permanent Fund Corporation"
+  date: "2026"
+  url: "https://apfc.org/governance/board-of-trustees/"
+  tier: primary
+  kind: web
+  parts: ["IV"]
+  supports: "Six-member board under AS 37.13.050: two department heads (including the Revenue Commissioner) and four public members on staggered four-year terms."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Board composition paragraph read."
+
+- id: apfc/2026_fund-value-explained
+  title: "Fiscal Year Changes in Fund Value: Explained"
+  publisher: "Alaska Permanent Fund Corporation"
+  date: "2026-09-04"
+  url: "https://apfc.org/fund-news/fiscal-year-changes-in-fund-value-explained/"
+  tier: primary
+  kind: web
+  parts: ["IV"]
+  supports: "FY27 percent-of-market-value draw of USD 4.0bn supports the state budget; USD 4.1bn committed for FY28; USD 1.7bn inflation proofing."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in the 'FY Year-Start' section."
+
+- id: alaska-dor/2026_pfd-summary
+  title: "Summary of Dividend Applications & Payments"
+  publisher: "Alaska Department of Revenue, Permanent Fund Dividend Division"
+  date: "2026"
+  url: "https://pfd.alaska.gov/Division-Info/summary-of-dividend-applications-payments"
+  tier: primary
+  kind: dataset
+  parts: ["IV"]
+  supports: "Dividends by year: USD 3,284 (2022), 1,702 (2024), 1,000 (2025, -58.75%); USD 52,831 per person in total since 1982."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Table read in full."
+
+- id: alaska-dor/2026_pfd-2026-amount
+  title: "2026 PFD Amount (Permanent Fund Dividend Division home page)"
+  publisher: "Alaska Department of Revenue, Permanent Fund Dividend Division"
+  date: "2026-09-21"
+  url: "https://pfd.alaska.gov/"
+  tier: primary
+  kind: web
+  parts: ["IV"]
+  supports: "The 2026 dividend is USD 1,200, including a USD 200 energy relief payment; first payments 1 Oct 2026."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Notice dated 21 Sep 2026 at the top of the page."
+
+- id: nbim/2026_half-year-report
+  title: "Half-year report 2026"
+  publisher: "Norges Bank Investment Management"
+  date: "2026-08-12"
+  url: "https://www.nbim.no/en/news-and-insights/reports/2026/half-year-report-2026/"
+  tier: primary
+  kind: report
+  parts: ["IV", "X"]
+  supports: "Fund value NOK 22,683bn at 30 June 2026; 9.4% return in the first half of 2026."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in the summary at the top of the page; USD conversion in the note uses ECB rates of 9 Oct 2026."
+
+- id: nbim/2026_about-the-fund
+  title: "About the fund"
+  publisher: "Norges Bank Investment Management"
+  date: "2026"
+  url: "https://www.nbim.no/en/about-us/about-the-fund/"
+  tier: primary
+  kind: web
+  parts: ["IV", "X"]
+  supports: "Fiscal rule: spend about the expected 3% real return; budget deficits covered from the fund; governance: Storting, Ministry of Finance, Norges Bank, NBIM."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Fiscal-rule paragraph and 'Who decides what?' section read."
+
+- id: nbim/2026_exclusion-of-companies
+  title: "Observation and exclusion of companies"
+  publisher: "Norges Bank Investment Management"
+  date: "2026"
+  url: "https://www.nbim.no/en/responsible-investment/exclusion-of-companies/"
+  tier: primary
+  kind: web
+  parts: ["IV"]
+  supports: "Until November 2025 exclusions followed Council on Ethics advice; interim guidelines now bar new exclusions; review committee reports by 15 Oct 2026."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opening paragraphs read."
+
+- id: nbim/2026_the-fund
+  title: "The fund (NBIM home page)"
+  publisher: "Norges Bank Investment Management"
+  date: "2026"
+  url: "https://www.nbim.no/en/"
+  tier: primary
+  kind: web
+  parts: ["IV"]
+  supports: "Manages revenue from Norway's oil and gas resources; stakes in about 7,100 companies; holds on average 1.5% of all listed companies."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "About and holdings sections of the home page read; live fund value is script-rendered and was not captured."
+
+- id: ostrom/1990_governing-the-commons
+  title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+  authors: ["Elinor Ostrom"]
+  publisher: "Cambridge University Press"
+  date: "1990"
+  url: "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
+  tier: primary
+  kind: book
+  parts: ["IV", "VII"]
+  supports: "Publisher description: neither the state nor the market has been uniformly successful with common-pool resources."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher book page only; design principles taken from the 2009 Nobel lecture."
+
+- id: ostrom/2009_beyond-markets-and-states
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems (Nobel Prize lecture)"
+  authors: ["Elinor Ostrom"]
+  publisher: "Nobel Foundation"
+  date: "2009-12-08"
+  url: "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+  tier: primary
+  kind: article
+  parts: ["IV", "VII"]
+  supports: "Updated list of eight design principles; about two-thirds of 100+ studies confirm them; 76 protected vs 87 other forests show no density difference; fit, adaptation and legitimacy matter more than ownership type."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read pp. 421-422 (principles) and p. 428 (forest findings) of the lecture PDF."
+
+- id: hess-ostrom/2006_knowledge-as-a-commons
+  title: "Understanding Knowledge as a Commons: From Theory to Practice"
+  authors: ["Charlotte Hess", "Elinor Ostrom"]
+  publisher: "MIT Press"
+  date: "2006-12-01"
+  url: "https://mitpress.mit.edu/9780262083577/understanding-knowledge-as-a-commons/"
+  tier: primary
+  kind: book
+  parts: ["IV"]
+  supports: "Knowledge commons threatened by intellectual-property legislation, overpatenting, licensing, overpricing and lack of preservation; guarding against enclosure."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher description only (edited volume)."
+
+- id: bowles-polania-reyes/2012_incentives-social-preferences
+  title: "Economic Incentives and Social Preferences: Substitutes or Complements?"
+  authors: ["Samuel Bowles", "Sandra Polanía-Reyes"]
+  publisher: "Journal of Economic Literature 50(2)"
+  date: "2012-06"
+  url: "https://www.aeaweb.org/articles?id=10.1257/jel.50.2.368"
+  tier: primary
+  kind: article
+  parts: ["IV"]
+  supports: "Survey of 50 experiments: crowding out common, crowding in less common; well-designed fines and subsidies can make incentives and social preferences complements."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract on the AEA page; claim found in the abstract; full text not read."
+
+- id: bowles/2016_moral-economy
+  title: "The Moral Economy: Why Good Incentives Are No Substitute for Good Citizens"
+  authors: ["Samuel Bowles"]
+  publisher: "Yale University Press"
+  date: "2016"
+  url: "https://yalebooks.yale.edu/book/9780300163803/the-moral-economy/"
+  tier: primary
+  kind: book
+  parts: ["IV"]
+  supports: "Book-length treatment of incentives crowding out civic motives (not checked here)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: unverified
+    note: "Publisher URL returned 'No Books Found'; no other copy opened. Claims in the note rest on the 2012 JEL survey."
+
+- id: frank/2020_under-the-influence
+  title: "Under the Influence: Putting Peer Pressure to Work"
+  authors: ["Robert H. Frank"]
+  publisher: "Princeton University Press"
+  date: "2020-01-28"
+  url: "https://press.princeton.edu/books/hardcover/9780691193083/under-the-influence"
+  tier: primary
+  kind: book
+  parts: ["IV"]
+  supports: "Bigger houses and heavier cars 'mainly because that's what friends and neighbors do'; peers predict adoption of solar panels and electric cars."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher description only; book text not read."
+
+- id: perez-truglia/2020_income-transparency-well-being
+  title: "The Effects of Income Transparency on Well-Being: Evidence from a Natural Experiment"
+  authors: ["Ricardo Perez-Truglia"]
+  publisher: "American Economic Review 110(4): 1019-1054"
+  date: "2020-04"
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.20160256"
+  tier: primary
+  kind: article
+  parts: ["IV", "VII"]
+  supports: "After Norway put tax records online in 2001, the happiness gap between richer and poorer people grew 29% and the life-satisfaction gap 21%."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract on the AEA page; claim found in the abstract."
+
+- id: ipcc/2022_ar6-wg3-spm
+  title: "Climate Change 2022: Mitigation of Climate Change. Summary for Policymakers"
+  publisher: "IPCC Working Group III"
+  date: "2022-04"
+  url: "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
+  tier: primary
+  kind: report
+  parts: ["III", "IV"]
+  supports: "B.3.4: top 10% of households contribute 34-45% of consumption-based household emissions; C.10: demand-side measures 40-70% by 2050; C.10.4: addressing status consumption supports mitigation."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Paragraphs B.3.4, C.10 and C.10.4 with footnote 63 read on the IPCC web version."
+
+- id: ipcc/2022_ar6-wg3-ch5
+  title: "Chapter 5: Demand, Services and Social Aspects of Mitigation"
+  publisher: "IPCC Working Group III"
+  date: "2022-04"
+  url: "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/"
+  tier: primary
+  kind: report
+  parts: ["III", "IV"]
+  supports: "Beyond a threshold, increased material consumption is not closely correlated with improvements in human progress."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Sentence found in section 5.2 discussion of necessities and luxuries (web version)."
+
+- id: ubs/2026_global-wealth-report
+  title: "Global Wealth Report 2026"
+  publisher: "UBS"
+  date: "2026"
+  url: "https://www.ubs.com/global/en/wealthmanagement/insights/global-wealth-report.html"
+  tier: primary
+  kind: report
+  parts: ["IV", "OQ"]
+  supports: "End-2025 pyramid: 58M adults above USD 1M with USD 250.59tn (48.4%); 56 markets, over 92% of wealth; ~57.5M millionaires; ~7.0M adults with USD 5-100M (4.1M in US); 3,302 billionaires; Japan's stagnation linked to yen depreciation."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the 2026 PDF (gwr-2026-digital.pdf) linked from this page: key findings, 'The global wealth pyramid 2025', 'Beyond millionaires: one billion USD and above', and 'Beyond the everyday millionaires'."
+
+- id: ubs/2025_global-wealth-report
+  title: "Global Wealth Report 2025"
+  publisher: "UBS"
+  date: "2025"
+  url: "https://www.ubs.com/content/dam/assets/wm/static/noindex/global-wealth-report-09072025.pdf"
+  tier: primary
+  kind: report
+  parts: ["IV", "OQ"]
+  supports: "End-2024: almost 60M USD millionaires (1.6%) with USD 226.47tn (48.1%)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Read the pyramid page and millionaire section of the PDF."
+
+- id: knightfrank/2026_wealth-sizing-model
+  title: "The Wealth Report: Wealth Sizing Model 2026 results"
+  publisher: "Knight Frank"
+  date: "2026-04-23"
+  url: "https://www.knightfrank.com/research/article/2026/4/wealth-sizing-model-2026-results"
+  tier: primary
+  kind: web
+  parts: ["IV", "OQ"]
+  supports: "UHNWIs (above USD 30M) rose from 551,435 (2021) to 713,626 (2026); 3,110 billionaires."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Figures in the article's opening and key takeaways."
+
+- id: wikipedia/2026_worlds-billionaires
+  title: "The World's Billionaires"
+  publisher: "Wikipedia (English)"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/The_World%27s_Billionaires"
+  tier: tertiary
+  kind: web
+  parts: ["IV", "OQ"]
+  supports: "Forbes counts: 3,028 billionaires worth USD 16.1tn (2025 list) and 3,428 worth USD 20.1tn (2026 list, published 10 Mar 2026)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Infobox and statistics table read. The page also says the 2026 list grew by 309 members, which conflicts with 3,428 minus 3,028; 309 may be new entrants."
+
+- id: forbes/2026_billionaires-top-200
+  title: "Forbes World's Billionaires List 2026: The Top 200"
+  authors: ["Chase Peterson-Withorn"]
+  publisher: "Forbes"
+  date: "2026-03-10"
+  url: "https://www.forbes.com/sites/chasewithorn/2026/03/10/forbes-worlds-billionaires-list-2026-the-top-200/"
+  tier: primary
+  kind: news
+  parts: ["IV", "OQ"]
+  supports: "Primary source for the 2026 Forbes count and total (3,428; USD 20.1tn) as reported by Wikipedia."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: unverified
+    note: "Forbes returned HTTP 403 to every fetch method; figures taken from the Wikipedia summary."
+
+- id: ecb/2026_euro-reference-rates
+  title: "Euro foreign exchange reference rates (daily)"
+  publisher: "European Central Bank"
+  date: "2026-10-09"
+  url: "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  tier: primary
+  kind: dataset
+  parts: ["IV", "OQ"]
+  supports: "9 Oct 2026: USD 1.1206, NOK 10.7155, CHF 0.9313, GBP 0.84763 per euro; used for all currency conversions in the note."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Daily XML feed read; rates dated 2026-10-09."
+
+- id: colorado-politics/2024_warren-ultra-millionaires-tax
+  title: "Elizabeth Warren, others reintroduce 'ultra-millionaires' tax"
+  authors: ["Zachary Halaschak"]
+  publisher: "Colorado Politics (Washington Examiner)"
+  date: "2024-03-19"
+  url: "https://www.coloradopolitics.com/2024/03/19/elizabeth-warren-others-reintroduce-ultra-millionaires-tax-3/"
+  tier: secondary
+  kind: news
+  parts: ["IV", "OQ"]
+  supports: "2024 bill: 2% on household and trust net worth between USD 50M and 1bn, 3% above 1bn; 40% exit tax on renunciation."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Rates in paragraphs 2-3; bill text on congress.gov not opened."

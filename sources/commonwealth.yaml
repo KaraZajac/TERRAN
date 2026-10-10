@@ -1,0 +1,778 @@
+- id: "wcpa/1977_earth-constitution"
+  title: "Constitution for the Federation of Earth"
+  publisher: "World Constitution and Parliament Association (Federation of Earth website)"
+  date: "1977-06"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "law"
+  parts: ["I", "VIII", "IX", "XII", "OQ"]
+  supports: "Adoption at Innsbruck (June 1977) and Troia amendments (May 1991); three-house parliament; Presidium and Cabinet with no veto; World Ombudsmus; warrant-based police armed only for apprehension; stage thresholds and disarmament by stage; paired ratification; non-aggression pledge; 25% turnout rule; exit zone after 90% of territory; 1995 stall review."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full text fetched; read Arts. 2.4, 5, 6, 10, 11, 14.1.4, 17.1, 17.3-17.5, 18.5, 19 and the closing note on Innsbruck and Troia. The site renumbers articles in Arabic numerals; an unratified constitution, not law in force. Checked at https://www.ef-gov.org/en/cfoe."
+
+- id: "wcpa/2026_member-nations"
+  title: "Member Nations - Federation of Earth"
+  publisher: "World Constitution and Parliament Association"
+  date: "2026-10-03"
+  url: "https://www.ef-gov.org/en/federation-of-earth/member-nations"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "No nation is listed as having ratified the Earth Constitution."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw HTML fetched; the Country/Ratification table body has zero rows. Page last updated 2026-10-03."
+
+- id: "wcpa/2026_pwp-16th-session"
+  title: "16th Provisional World Parliament"
+  publisher: "Provisional World Parliament / World Constitution and Parliament Association"
+  date: "2026-10-03"
+  url: "https://pwp.ef-gov.org/en/sessions/16"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "WCPA says no official notification of a 16th session has been issued and calls contrary claims fraudulent."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Important Notice' paragraph on the session page; page last updated 2026-10-03."
+
+- id: "wikipedia/2026_provisional-world-parliament"
+  title: "Provisional World Parliament"
+  publisher: "Wikipedia"
+  date: "2026-09-20"
+  url: "https://en.wikipedia.org/wiki/Provisional_World_Parliament"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "Sessions since 1982; 15 sessions to 2021 adopting World Legislative Acts 1-72 that bind no state; no sovereign state has ratified; a listed 16th session in Pondicherry, December 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Lead, session table and World Legislative Acts section; the article is flagged (April 2026) for relying on primary sources."
+
+- id: "wikipedia/2026_wcpa"
+  title: "World Constitution and Parliament Association"
+  publisher: "Wikipedia"
+  date: "2026-08-10"
+  url: "https://en.wikipedia.org/wiki/World_Constitution_and_Parliament_Association"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "WCPA origins (US committee formed 1958, renamed 1959, renamed WCPA in 1966) and Philip Isely as Secretary-General."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "History section; the article carries a neutrality-dispute notice dated August 2026."
+
+- id: "wfm/1947_montreux-declaration"
+  title: "Montreux Declaration (23 August 1947)"
+  publisher: "World Federalist Movement - Institute for Global Policy"
+  date: "1947-08-23"
+  url: "https://wfm-igp.org/about-us/montreux-declaration/"
+  tier: "primary"
+  kind: "web"
+  parts: ["I", "XII"]
+  supports: "Founding principles: universal membership, limited national sovereignty, world law enforced on individuals, supranational armed forces, member disarmament to policing levels."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Declaration text reproduced on the WFM-IGP site (page modified 2023-06-21)."
+
+- id: "baratta/2023_clark-sohn-plan"
+  title: "The Clark-Sohn Plan"
+  authors: ["Joseph Preston Baratta"]
+  publisher: "World Federalist Movement - Canada"
+  date: "2023-04-11"
+  url: "https://wfmcanada.org/blogs/news/the-clark-sohn-plan"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I", "XII"]
+  supports: "Clark-Sohn plan: Assembly representative of the world's peoples, Executive Council replacing the vetoed Security Council, 10-year step-wise disarmament leaving a World Peace Force; the 1961 McCloy-Zorin principles."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Essay body on an advocacy organization's blog; author is a historian of world federalism."
+
+- id: "clark-sohn/1958_world-peace-through-world-law"
+  title: "World Peace Through World Law"
+  authors: ["Grenville Clark", "Louis B. Sohn"]
+  publisher: "Harvard University Press"
+  date: "1958"
+  url: "https://archive.org/details/worldpeacethroug00clar"
+  tier: "primary"
+  kind: "book"
+  parts: ["I", "XII"]
+  supports: "The original Clark-Sohn plan; content in the note is taken from Baratta (2023), not from the book."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "Internet Archive copy (1962 edition) is access-restricted; the book was not opened."
+
+- id: "wsa/2024_our-history"
+  title: "Our History"
+  publisher: "World Service Authority (World Citizen Government)"
+  date: "2024-04-10"
+  url: "https://worldcitizengov.org/our-history/"
+  tier: "primary"
+  kind: "web"
+  parts: ["I", "XII"]
+  supports: "Davis renounced US citizenship on 25 May 1948; World Government of World Citizens declared 4 September 1953; World Service Authority founded January 1954 to issue World Passports; Davis imprisoned 16 times for lack of valid papers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Organization's own history page (modified 2024-04-10); registrant and imprisonment figures are self-reported."
+
+- id: "ap/2013_garry-davis-dies"
+  title: "Garry Davis, Global Citizenship Advocate, Has Died"
+  publisher: "Associated Press (via Vermont Public)"
+  date: "2013-07-29"
+  url: "https://www.vermontpublic.org/vpr-news/2013-07-29/garry-davis-global-citizenship-advocate-has-died"
+  tier: "secondary"
+  kind: "news"
+  parts: ["I"]
+  supports: "Davis renounced US citizenship in 1948 and died in July 2013 aged 91."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "AP report text as published by Vermont Public."
+
+- id: "wikipedia/2026_world-passport"
+  title: "World Passport"
+  publisher: "Wikipedia"
+  date: "2026-09-02"
+  url: "https://en.wikipedia.org/wiki/World_Passport"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["I", "XII"]
+  supports: "ICAO documents and the EU Council's travel-document table treat the World Passport as a fantasy document."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Lead and 'Notable acceptances' sections; the underlying ICAO and EU Council documents were not opened."
+
+- id: "kant/1795_perpetual-peace"
+  title: "Perpetual Peace: A Philosophical Essay"
+  authors: ["Immanuel Kant"]
+  publisher: "Project Gutenberg (translated by M. Campbell Smith, 1903)"
+  date: "1795"
+  url: "https://www.gutenberg.org/cache/epub/50922/pg50922.txt"
+  tier: "primary"
+  kind: "book"
+  parts: ["I", "XII"]
+  supports: "Second Definitive Article (federation of free states); 'soulless despotism' passage; 'State of nations' and 'negative substitute' passage."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Plain-text ebook; quotes found in the Second Definitive Article and the First Supplement of the Campbell Smith translation."
+
+- id: "wendt/2003_world-state-inevitable"
+  title: "Why a World State Is Inevitable: Teleology and the Logic of Anarchy"
+  authors: ["Alexander Wendt"]
+  publisher: "European Journal of International Relations"
+  date: "2003"
+  url: "https://www.comw.org/qdr/fulltext/03wendt.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["I", "XII"]
+  supports: "A world state (global monopoly on legitimate organized violence) is inevitable, guessed within 100 years; it need not end local autonomy and could keep national armies; collective security cannot stop secession and rearmament."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the January 2003 manuscript PDF: abstract, introduction, decentralization passage and collective-security section. Journal pagination not checked."
+
+- id: "miller/2025_sep-nationalism"
+  title: "Nationalism"
+  authors: ["David Miller"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2025-06-19"
+  url: "https://plato.stanford.edu/entries/nationalism/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I"]
+  supports: "Modernist accounts: nations need widespread literacy and communication media, originally print; Anderson's imagined communities; a dissenting deep-roots view (Gat 2013)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section on what distinguishes nations; quote found verbatim. Entry first published 19 June 2025."
+
+- id: "miscevic/2025_sep-nationalism-archived"
+  title: "Nationalism (Spring 2025 Edition)"
+  authors: ["Nenad Miscevic"]
+  publisher: "Stanford Encyclopedia of Philosophy (archived edition)"
+  date: "2025"
+  url: "https://plato.stanford.edu/archives/spr2025/entries/nationalism/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I"]
+  supports: "Gellner's modernist view that nationalism and nation-states are products of modernization and industrialization; Hobsbawm (1990) as a key modernist work."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Main text on modernist views and notes 8-9 on the entry's notes page."
+
+- id: "gellner/1983_nations-and-nationalism"
+  title: "Nations and Nationalism"
+  authors: ["Ernest Gellner"]
+  publisher: "Blackwell (1983); Cornell University Press (second edition)"
+  date: "1983"
+  url: "https://www.cornellpress.cornell.edu/book/9780801475009/nations-and-nationalism/"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "Gellner's thesis linking nations to modernization and industrialization (as summarized by Miscevic, SEP)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Only the Cornell University Press page for the second edition was reachable; it carries no summary of the thesis. Book not opened."
+
+- id: "hobsbawm/1990_nations-and-nationalism"
+  title: "Nations and Nationalism since 1780: Programme, Myth, Reality"
+  authors: ["E. J. Hobsbawm"]
+  publisher: "Cambridge University Press"
+  date: "1990"
+  url: "https://doi.org/10.1017/CBO9781107295582"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "Listed as a key modernist account of nations (per Miscevic, SEP)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Cambridge Core page for the second edition (2012) reached via DOI; book description only, thesis not checked in the text."
+
+- id: "anderson/1983_imagined-communities"
+  title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
+  authors: ["Benedict Anderson"]
+  publisher: "Verso"
+  date: "1983"
+  url: "https://www.versobooks.com/blogs/news/2874-benedict-anderson-s-imagined-communities"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "Nations as 'imagined communities' resting on literacy and print (as summarized by Miller, SEP)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Only a Verso blog post (October 2016) about the book was reachable; it confirms the book's standing but not the print thesis. Book not opened."
+
+- id: "un/2011_growth-in-membership"
+  title: "Growth in United Nations membership"
+  publisher: "United Nations"
+  date: "2011"
+  url: "https://www.un.org/en/about-us/growth-in-un-membership"
+  tier: "primary"
+  kind: "web"
+  parts: ["I"]
+  supports: "UN membership of 51 (1945), 99 (1960), 154 (1980) and 193 (2011)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Membership totals by year read from the page; the page is undated, and its latest change is South Sudan in 2011."
+
+- id: "globescan/2016_global-citizenship-poll"
+  title: "Global Citizenship A Growing Sentiment Among Citizens Of Emerging Economies: Global Poll"
+  publisher: "GlobeScan (for BBC World Service)"
+  date: "2016-04-27"
+  url: "https://globescan.com/2016/04/27/global-citizenship-a-growing-sentiment-among-citizens-of-emerging-economies-global-poll/"
+  tier: "primary"
+  kind: "report"
+  parts: ["I"]
+  supports: "51% across 18 countries saw themselves more as global citizens than national citizens (43% national); 42% in seven OECD countries; 30% in Germany."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Release text and methodology: 20,823 adults in 21 countries, December 2015 to April 2016."
+
+- id: "un/1948_udhr"
+  title: "Universal Declaration of Human Rights"
+  publisher: "United Nations General Assembly"
+  date: "1948-12-10"
+  url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+  tier: "primary"
+  kind: "law"
+  parts: ["I"]
+  supports: "Article 15: everyone has the right to a nationality; no one shall be arbitrarily deprived of it."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article 15 text on the UN page."
+
+- id: "unhcr/2026_global-trends-2025"
+  title: "Global Trends: Forced Displacement in 2025"
+  publisher: "UNHCR"
+  date: "2026-06"
+  url: "https://www.unhcr.org/sites/default/files/2026-06/global-trends-report-2025.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["I"]
+  supports: "4.5 million stateless at end-2025, up 3%; true number likely much higher; estimate from 100 reporting countries; 46,100 gained a nationality in 2025; Rohingya 1.8 million (41%)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "UNHCR URL returned 403; read a copy of the same report hosted at https://asile.ch/wp-content/uploads/2026/07/global-trends-report-2025.pdf ('Trends at a Glance' and the stateless chapter, p. 47)."
+
+- id: "uk/1981_british-nationality-act-s40"
+  title: "British Nationality Act 1981, section 40 (Deprivation of citizenship)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "1981"
+  url: "https://www.legislation.gov.uk/ukpga/1981/61/section/40"
+  tier: "primary"
+  kind: "law"
+  parts: ["I"]
+  supports: "s. 40(2) deprivation where conducive to the public good; s. 40(4) bar on making a person stateless; s. 40(4A) exception for naturalised persons."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Live page blocked by a bot check; raw text of s. 40(2), (4) and (4A) confirmed in a Wayback Machine snapshot of 1 October 2026 (https://web.archive.org/web/20261001133908/https://www.legislation.gov.uk/ukpga/1981/61/section/40). Pending amendments not reviewed."
+
+- id: "hm-government/2018_transparency-report"
+  title: "HM Government Transparency Report 2018: Disruptive and Investigatory Powers"
+  publisher: "HM Government (UK Home Office)"
+  date: "2018-07"
+  url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/727961/CCS207_CCS0418538240-1_Transparency_Report_2018_Web_Accessible.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["I"]
+  supports: "14 people deprived of British citizenship on 'conducive to the public good' grounds in 2016, and 104 in 2017."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Deprivation-of-citizenship section, p. 27 of the report (the section before 5.10)."
+
+- id: "crs/2026_trump-v-barbara"
+  title: "Trump v. Barbara: Supreme Court Holds Birthright Citizenship Executive Order 14160 Unconstitutional"
+  publisher: "Congressional Research Service (via EveryCRSReport.com)"
+  date: "2026-08-13"
+  url: "https://www.everycrsreport.com/reports/LSB11468.html"
+  tier: "secondary"
+  kind: "report"
+  parts: ["I"]
+  supports: "On 30 June 2026 the Supreme Court held US-born children of temporarily or unlawfully present parents are citizens and affirmed that EO 14160 is invalid."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opening paragraph of Legal Sidebar LSB11468; the Court's opinion itself was not opened."
+
+- id: "estonia/2026_what-is-e-residency"
+  title: "What is e-Residency?"
+  publisher: "e-Residency programme, Republic of Estonia"
+  date: "2026-04-21"
+  url: "https://learn.e-resident.gov.ee/hc/en-gb/articles/360000711978-What-is-e-Residency"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "e-Residency is a government digital identity for non-residents, for e-services and EU company formation; it confers no citizenship, tax residency, residency or entry, and is not a travel document."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Knowledge-base article updated 21 April 2026; it also cites 137,000+ applicants, an earlier figure than the dashboard."
+
+- id: "estonia/2026_e-residency-dashboard"
+  title: "e-Residency in numbers"
+  publisher: "e-Residency programme, Republic of Estonia"
+  date: "2026-09-22"
+  url: "https://www.e-resident.gov.ee/dashboard/"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII", "OQ"]
+  supports: "Over 144,000 e-residents and 44,000 companies as of 22 September 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Dashboard headline figures; page says last updated 22 September 2026."
+
+- id: "err/2022_e-residency-russia-belarus"
+  title: "Estonia blocks e-Residency for new Russian, Belarusian citizens"
+  publisher: "ERR News"
+  date: "2022-03-09"
+  url: "https://news.err.ee/1608525974/estonia-blocks-e-residency-for-new-russian-belarusian-citizens"
+  tier: "secondary"
+  kind: "news"
+  parts: ["I", "XII"]
+  supports: "Estonia stopped new e-Residency applications from Russian and Belarusian citizens, terminated pending ones, and put existing holders under extra scrutiny."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body; publication time 2022-03-09 from page metadata."
+
+- id: "souli/2016_bitnation"
+  title: "I Became a Citizen of Bitnation, a Blockchain-Powered Virtual Nation. Now What?"
+  authors: ["Sarah Souli"]
+  publisher: "Vice (Motherboard)"
+  date: "2016-09-12"
+  url: "https://www.vice.com/en/article/bitnation-or-bust/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "Bitnation had nearly 4,000 citizens and 25 embassies; its founder aimed to make nation-states redundant."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article body; publication date from page metadata."
+
+- id: "bitnation-co/2026_domain-snapshot"
+  title: "Crypto Price Predictions & Trading Robot Reviews - Bitnation (bitnation.co home page)"
+  publisher: "bitnation.co"
+  date: "2026-10-10"
+  url: "https://bitnation.co/"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "The former Bitnation domain now hosts a crypto price-prediction and review site, not the governance platform."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Home page fetched on the check date; an observation only, not evidence of when or why the project ended."
+
+- id: "srinivasan/2022_network-state"
+  title: "The Network State in One Sentence"
+  authors: ["Balaji Srinivasan"]
+  publisher: "The Network State (thenetworkstate.com)"
+  date: "2022"
+  url: "https://thenetworkstate.com/the-network-state-in-one-sentence"
+  tier: "primary"
+  kind: "book"
+  parts: ["XII"]
+  supports: "A network state is an aligned online community that crowdfunds territory and seeks diplomatic recognition from existing states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Definition found on the page; the book's home page calls it a successor to the nation state. Publication year not shown on the fetched pages."
+
+- id: "un/2017_tpnw"
+  title: "Treaty on the Prohibition of Nuclear Weapons"
+  publisher: "United Nations"
+  date: "2017-07-07"
+  url: "https://treaties.un.org/doc/Treaties/2017/07/20170707%2003-42%20PM/Ch_XXVI_9.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["XII", "OQ"]
+  supports: "Art. 4 pathways (destroy then join; join, de-alert and destroy under a time-bound plan; competent international authority); Art. 15 entry into force after 50 ratifications; Art. 17 withdrawal after 12 months, extended during armed conflict."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Certified true copy PDF; Articles 4, 15 and 17 read."
+
+- id: "untc/2026_tpnw-status"
+  title: "Status of Treaties: Treaty on the Prohibition of Nuclear Weapons (Chapter XXVI-9)"
+  publisher: "United Nations Treaty Collection"
+  date: "2026-10-10"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "75 parties and 96 signatories at 10 October 2026; latest accession Tonga, 7 July 2026; no nuclear-armed state among participants; in force 22 January 2021."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Status page stamped 'STATUS AS AT: 10-10-2026'; participant table parsed."
+
+- id: "sipri/2023_tpnw-first-msp"
+  title: "The first meeting of states parties to the Treaty on the Prohibition of Nuclear Weapons"
+  authors: ["Tytti Erästö"]
+  publisher: "SIPRI Yearbook 2023 (chapter 8, section III)"
+  date: "2023"
+  url: "https://www.sipri.org/sites/default/files/SIPRIYB23c08sIII.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["XII"]
+  supports: "The June 2022 meeting set a 10-year destruction deadline, extendable by up to five years, and 90 days to remove hosted weapons; no verifying authority named, as none is required until a nuclear-armed state joins."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Yearbook pages 361-362."
+
+- id: "opcw/2023_stockpiles-destroyed"
+  title: "OPCW confirms: All declared chemical weapons stockpiles verified as irreversibly destroyed"
+  publisher: "Organisation for the Prohibition of Chemical Weapons"
+  date: "2023-07-07"
+  url: "https://www.opcw.org/media-centre/news/2023/07/opcw-confirms-all-declared-chemical-weapons-stockpiles-verified"
+  tier: "primary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "The US destroyed the last declared chemical weapon on 7 July 2023; 72,304.34 tonnes verified destroyed since 1997."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release body."
+
+- id: "opcw/2026_syria-undeclared"
+  title: "Deployment of OPCW expert team to Syrian Arab Republic finds chemical weapons previously undeclared to the Organisation"
+  publisher: "Organisation for the Prohibition of Chemical Weapons"
+  date: "2026-05-27"
+  url: "https://www.opcw.org/media-centre/news/2026/05/deployment-opcw-expert-team-syrian-arab-republic-finds-chemical-weapons"
+  tier: "primary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "A significant amount of undeclared chemical weapons found in Syria, including munitions of types used at Ghouta (2013) and Khan Shaykhun (2017)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release body."
+
+- id: "iaea/1995_south-africa-verification"
+  title: "Nuclear verification in South Africa"
+  authors: ["Adolf von Baeckmann", "Garry Dillon", "Demetrius Perricos"]
+  publisher: "IAEA Bulletin 1/1995"
+  date: "1995"
+  url: "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull37-1/37105394248.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["XII"]
+  supports: "November 1989 decision to end the programme; February 1990 order to destroy six devices and a partial seventh; NPT accession 10 July 1991; documents destroyed 17-23 March 1993 before the 24 March disclosure; IAEA found no indications the inventory was incomplete."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Article text and chronology box; the article begins on p. 42 of the Bulletin."
+
+- id: "un/1994_budapest-memorandum"
+  title: "Memorandum on Security Assurances in Connection with Ukraine's Accession to the Treaty on the Non-Proliferation of Nuclear Weapons (A/49/765-S/1994/1399)"
+  publisher: "United Nations"
+  date: "1994-12-19"
+  url: "https://documents.un.org/api/symbol/access?s=A/49/765&l=en&t=pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["XII"]
+  supports: "Signed 5 December 1994; Russia, the UK and the US reaffirmed commitments to respect Ukraine's sovereignty and borders and refrain from force; they promised consultation, and Security Council action only for aggression involving nuclear weapons."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "UN document A/49/765, annex I, paragraphs 1-6."
+
+- id: "un/2022_ga-es-11-1"
+  title: "General Assembly Overwhelmingly Adopts Resolution Demanding Russian Federation Immediately End Illegal Use of Force in Ukraine, Withdraw All Troops"
+  publisher: "United Nations Meetings Coverage (GA/12407)"
+  date: "2022-03-02"
+  url: "https://press.un.org/en/2022/ga12407.doc.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "The General Assembly deplored Russia's aggression against Ukraine by 141 votes to 5, with 35 abstentions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Meeting summary and vote paragraph."
+
+- id: "aca/2018_libya-chronology"
+  title: "Chronology of Libya's Disarmament and Relations with the United States"
+  publisher: "Arms Control Association"
+  date: "2018-01"
+  url: "https://www.armscontrol.org/factsheets/chronology-libyas-disarmament-and-relations-united-states"
+  tier: "secondary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "Libya renounced WMD on 19 December 2003; NATO enforced the 2011 no-fly zone; Gaddafi killed 20 October 2011; new authorities reported two undeclared chemical stockpiles on 1 November 2011."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Fact sheet last reviewed January 2018; entries for 2003 and 2011."
+
+- id: "aca/2026_nuclear-who-has-what"
+  title: "Nuclear Weapons: Who Has What at a Glance"
+  publisher: "Arms Control Association"
+  date: "2026-06"
+  url: "https://www.armscontrol.org/factsheets/nuclear-weapons-who-has-what-glance"
+  tier: "secondary"
+  kind: "web"
+  parts: ["XII", "OQ"]
+  supports: "The nuclear-armed states, including Pakistan, North Korea and Israel (undeclared but universally believed to be armed)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Fact sheet last reviewed June 2026; sections on NPT and non-NPT possessors and on North Korea."
+
+- id: "icc/1998_rome-statute"
+  title: "Rome Statute of the International Criminal Court"
+  publisher: "International Criminal Court"
+  date: "1998-07-17"
+  url: "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["XII", "OQ"]
+  supports: "Art. 126 entry into force after 60 ratifications; Art. 127 withdrawal after one year, with surviving obligations, cooperation duties and pending matters."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "ICC PDF (2024 edition), Articles 126-127, p. 81."
+
+- id: "untc/2026_rome-statute-status"
+  title: "Status of Treaties: Rome Statute of the International Criminal Court (Chapter XVIII-10)"
+  publisher: "United Nations Treaty Collection"
+  date: "2026-10-10"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-10&chapter=18&clang=_en"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "125 parties; Hungary's 2 June 2025 withdrawal notice rescinded on 29 May 2026; South Africa and The Gambia rescinded in 2017; pending exits of Niger, Burkina Faso, Mali, Venezuela, Chad and Nauru (listed as Naoero) effective June-September 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Status page stamped 10-10-2026; withdrawal table and its footnotes."
+
+- id: "icc/2026_burundi-situation"
+  title: "Situation in the Republic of Burundi (ICC-01/17)"
+  publisher: "International Criminal Court"
+  date: "2026"
+  url: "https://www.icc-cpi.int/situations/burundi"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "Investigation authorised 25 October 2017; withdrawal effective 27 October 2017; jurisdiction from 1 December 2004 to 26 October 2017; no public case listed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Situation page, undated; year is the check year."
+
+- id: "icc/2026_philippines-situation"
+  title: "Situation in the Republic of the Philippines (ICC-01/21)"
+  publisher: "International Criminal Court"
+  date: "2026"
+  url: "https://www.icc-cpi.int/philippines"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "Withdrawal effective 17 March 2019; investigation authorised 15 September 2021; jurisdiction retained for crimes while a party; crimes appear to have continued afterwards."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Jurisdiction' and procedural-history sections; page undated, year is the check year."
+
+- id: "icc/2026_duterte-case"
+  title: "The Prosecutor v. Rodrigo Roa Duterte (ICC-01/21-01/25)"
+  publisher: "International Criminal Court"
+  date: "2026"
+  url: "https://www.icc-cpi.int/philippines/duterte"
+  tier: "primary"
+  kind: "court"
+  parts: ["XII"]
+  supports: "Warrant 7 March 2025; arrest by Philippine authorities and surrender 12 March 2025; found fit 26 January 2026; three counts confirmed 23 April 2026; trial set for 30 November 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Case page, undated; it reports events up to the April 2026 confirmation decision and the trial date."
+
+- id: "us/1787_constitution"
+  title: "The Constitution of the United States: A Transcription"
+  publisher: "US National Archives"
+  date: "1787-09-17"
+  url: "https://www.archives.gov/founding-docs/constitution-transcript"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ"]
+  supports: "Art. VII: ratification by nine states suffices, binding only the ratifying states; Art. V: amendments ratified by three fourths of states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Transcript text of Articles V and VII."
+
+- id: "un/1945_un-charter"
+  title: "Charter of the United Nations"
+  publisher: "United Nations"
+  date: "1945-06-26"
+  url: "https://www.un.org/en/about-us/un-charter/chapter-19"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["OQ"]
+  supports: "Art. 110: entry into force on ratification by five named powers and a majority of other signatories; Art. 108: amendments need two thirds of members including all permanent Security Council members."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Chapter XIX page for Art. 110; Art. 108 read on https://www.un.org/en/about-us/un-charter/chapter-18."
+
+- id: "un/2015_paris-agreement"
+  title: "Paris Agreement"
+  publisher: "United Nations"
+  date: "2015-12-12"
+  url: "https://treaties.un.org/doc/Treaties/2016/02/20160215%2006-03%20PM/Ch_XXVII-7-d.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["OQ"]
+  supports: "Art. 21(1): entry into force after 55 Parties accounting for at least an estimated 55% of global greenhouse gas emissions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Certified true copy PDF from the UN Treaty Collection; English Article 21."
+
+- id: "ep/2026_council-factsheet"
+  title: "Fact Sheets on the European Union: The Council of the European Union"
+  authors: ["Anne-Elisabeth Gautier"]
+  publisher: "European Parliament"
+  date: "2026-09"
+  url: "https://www.europarl.europa.eu/factsheets/en/sheet/24/the-council-of-the-european-union"
+  tier: "secondary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "Qualified majority: at least 55% of Council members (at least 15 of 27) representing at least 65% of the EU population."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Live page blocked by a bot check; raw text confirmed in a Wayback Machine snapshot of 25 June 2026, section 2(a) on qualified majority citing TEU Art. 16(4). The author and 09-2026 date come from the live page. TEU text itself not opened."
+
+- id: "un-desa/2024_world-population-prospects"
+  title: "World Population Prospects 2024: total population by sex (CSV)"
+  publisher: "UN Department of Economic and Social Affairs, Population Division"
+  date: "2024"
+  url: "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_TotalPopulationBySex.csv.gz"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII", "OQ"]
+  supports: "Medium-variant mid-2026 populations: world 8,300.7 million; India 1,476.6; China 1,412.9; US 349.0; Pakistan 259.3; Russia 143.4; North Korea 26.6; Israel 9.6 million; seven largest states hold 51.1%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "CSV downloaded and filtered for Time 2026, Variant Medium (values in thousands); shares computed from these rows."

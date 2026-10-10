@@ -1,0 +1,746 @@
+- id: citizens-assembly-ie/2026_convention-on-the-constitution
+  title: "About the Convention on the Constitution (2013-2014)"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Convention approved July 2012; 66 random citizens, 33 politicians and a chair; parliament set 8 of 10 topics; government accepted 6 constitutional recommendations and put 2 to referendums in May 2015."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated archive page (site footer 2026); facts in the 'About the Convention on the Constitution (2013-2014)' text."
+
+- id: citizens-assembly-ie/2026_selection-2016-2018
+  title: "Selection of Members, 2016-2018 Citizens' Assembly"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/2016-2018-citizens-assembly/selection-of-members/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "99 citizens plus a government-appointed judge as chair; REDC recruitment door to door against quotas; 53 replaced, 20 never attended; 7 replacement members recruited against the agreed method (Jan 2018); site states no assembly in operation and six held to date."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "All claims in the page body; the 'no Citizens' Assembly in operation ... six Assemblies' line is in the site-wide footer seen on 2026-10-10."
+
+- id: citizens-assembly-ie/2026_gender-equality-assembly
+  title: "About the Citizens' Assembly on Gender Equality"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/assembly-on-gender-equality/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Oireachtas resolution of July 2019: chair plus 99 citizens recruited and randomly selected 'as advised by industry experts'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Membership wording in the About text quoting the Oireachtas resolution."
+
+- id: citizens-assembly-ie/2022_dublin-assembly-report
+  title: "Report of the Dublin Citizens' Assembly"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2022-12"
+  url: "https://citizensassembly.ie/wp-content/uploads/2023/03/report_dublincitizensassembly_final_lowres.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "67 residents, 12 councillors and a chair; recommendation of a plebiscite on a directly elected mayor; ballot results backing a two-term limit (84%) and a removal mechanism (59%)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Recommendations overview p. 7; Recommendation 18; ballot paper 2 results in section 6.4.2."
+
+- id: citizens-assembly-ie/2024_biodiversity-government-response
+  title: "Chair of the Citizens' Assembly on Biodiversity Loss welcomes the Government's response"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2024-11-01"
+  url: "https://citizensassembly.ie/chair-of-the-citizens-assembly-on-biodiversity-loss-welcomes-government-response/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Biodiversity assembly: 99 citizens plus chair; 159 recommendations; government response of 31 Oct 2024 lists 134 in progress, 15 implemented, 10 not implemented."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Figures in the chair's quoted statement and the notes for editors."
+
+- id: citizens-assembly-ie/2024_drugs-use-report-launch
+  title: "Launch of the Report of the Citizens' Assembly on Drugs Use"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2024-01-25"
+  url: "https://citizensassembly.ie/launch-of-the-report-of-the-citizens-assembly-on-drugs-use/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "100-member assembly; 36 recommendations, including 'a decriminalised model' and a health-led response."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release text of 25 January 2024, list of supported measures."
+
+- id: ireland/2025_programme-for-government
+  title: "Programme for Government 2025: Securing Ireland's Future"
+  publisher: "Government of Ireland"
+  date: "2025"
+  url: "https://assets.gov.ie/318303/2cc6ac77-8487-45dd-9ffe-c08df9f54269.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Commits only to 'consider further plebiscites in Dublin and other cities'; diverts people found with drugs for personal use to health services; no decriminalisation pledge; no mention of a citizens' assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF text searched: Dublin plebiscite p. 150, drug use pp. 91 and 118; no matches for 'citizens' assembly' or 'decriminal'."
+
+- id: ireland/2024_referendum-results-1937-2024
+  title: "Referendum Results 1937-2024"
+  publisher: "Department of Housing, Local Government and Heritage (Ireland)"
+  date: "2024"
+  url: "https://assets.gov.ie/static/documents/referendum-results-1937-2024.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Official totals: 2015 marriage equality passed with 62.1% (1,201,607 v 734,300); 2015 presidential-age change failed; 2018 abortion repeal 66.4% (1,429,981 v 723,632) on 64.1% turnout; 2024 Family 67.7% No and Care 73.9% No on 44.4% turnout."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Constituency tables, 'Total' rows (booklet pp. 95-108); percentages computed from the official totals. Linked from referendum.ie; gov.ie page last updated 7 August 2024."
+
+- id: kildarenow/2024_varadkar-care-wording
+  title: "Varadkar unsure Citizens' Assembly wording on carers stronger than amendment"
+  publisher: "Kildare Now"
+  date: "2024-02-22"
+  url: "https://www.kildarenow.com/news/varadkar-unsure-citizens-assembly-wording-on-carers-stronger-than-amendment-7214425"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Gender Equality assembly recommended care wording that 'obliges the State to take reasonable measures'; the referendum text said the State 'shall strive to support' care by family members."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Staff report, 22 Feb 2024; both wordings quoted in paragraphs 3-4."
+
+- id: courant/2021_irish-model
+  title: "Citizens' Assemblies for Referendums and Constitutional Reforms: Is There an \"Irish Model\" for Deliberative Democracy?"
+  authors: ["Dimitri Courant"]
+  publisher: "Frontiers in Political Science"
+  date: "2021-01-08"
+  url: "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2020.591983/full"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Government 'selective listening' or 'cherry picking' of Convention outputs; in 2018 one Red C recruiter found seven members by phone and through friends and family; parliament fixed the 2016-18 assembly's five topics; abortion recommendations led to the 2018 referendum; Table 4 'No reaction to date' on two topics; list of limits."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full text, sections on CotC output legitimacy, recruitment, 'A Top-Down Agenda', Table 4 and Conclusion. Vol. 2, article 591983."
+
+- id: oecd/2020_catching-the-deliberative-wave
+  title: "Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave"
+  publisher: "OECD Publishing"
+  date: "2020-06-10"
+  url: "https://www.oecd.org/en/publications/innovative-citizen-participation-and-new-democratic-institutions_339306da-en/full-report.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "289 cases, 1986 to Oct 2019; 52% local, 3% (eight) international; Citizens' Assembly model averages 90 members, 18.8 days over 47 weeks; Ostbelgien model created Feb 2019: 24 members, a third rotating every six months, panels of 25-50, proposals with 100 backers, parliament must respond."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract; chapter 2 (Table 2.1, Ostbelgien Model section); chapter 3 (levels of government, Figure 3.13). PDF download returned 403; HTML chapters read."
+
+- id: buergerdialog/2026_stand-der-dinge
+  title: "Stand der Dinge (Bürgerdialog in Ostbelgien)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2026"
+  url: "https://www.buergerdialog.be/hintergrund/stand-der-dinge/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The eighth Ostbelgien citizens' assembly (spatial planning) meets in autumn 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Status entries 8 (Raumordnung) and 7 (Senioren), in German."
+
+- id: buergerdialog/2026_auswertung
+  title: "Auswertung (Bürgerdialog in Ostbelgien)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2026"
+  url: "https://www.buergerdialog.be/hintergrund/auswertung/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A 2022 evaluation led to amendments to the Bürgerdialog decree, adopted 22 April 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section 'Auswertungsseminar und Dekretänderungen', in German."
+
+- id: global-assembly/2022_report-2021
+  title: "Report of the 2021 Global Assembly on the Climate and Ecological Crisis"
+  publisher: "Global Assembly"
+  date: "2022-11"
+  url: "https://globalassembly.org/resources/downloads/GlobalAssembly2021-FullReport.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "100 population-weighted lottery points; 98 members met online for 68 hours; declaration presented at COP26; points in 49 of 193 countries; members with over 12 years of schooling 13 points above the global share; five selection criteria; cost US$972,247; 'low impact on policy' named as a weakness."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Introduction (Three routes to impact, p. 31), Core Assembly method and representation sections, Finance chapter. The external evaluation gives 11 weeks, the report 12."
+
+- id: curato/2023_global-assembly-evaluation
+  title: "Global Assembly on the Climate and Ecological Crisis Evaluation Report"
+  authors: ["Nicole Curato", "Pierrick Chalaye", "Wendy Conway-Lamb", "Kari De Pryck", "Stephen Elstub", "Azucena Morán", "Daniel Oppold", "Javier Romero", "Melisa Ross", "Emerson Sanchez", "Novieta Sari", "Dorota Stasiak", "Selma Tilikete", "Lucas Veloso", "Dirk von Schneidemesser", "Hannah Werner"]
+  publisher: "University of Canberra, Centre for Deliberative Democracy"
+  date: "2023"
+  url: "https://researchprofiles.canberra.edu.au/en/publications/global-assembly-on-the-climate-and-ecological-crisis-evaluation-r/"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The Global Assembly was a civil-society-led initiative, not a government one."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract on the research portal only; the PDF returned HTTP 403."
+
+- id: ccc/2021_avis-reponses-gouvernement
+  title: "Avis de la Convention citoyenne pour le climat sur les réponses apportées par le gouvernement à ses propositions"
+  publisher: "Convention Citoyenne pour le Climat"
+  date: "2021-03"
+  url: "https://www.conventioncitoyennepourleclimat.fr/wp-content/uploads/2021/03/CCC-rapport_Session8_GR-1.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "150 members drawn by lot; 149 proposals delivered 21 June 2020; members' mean grade of government uptake 3.3/10 (Feb 2021); debate summaries written by facilitators, not adopted by members."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Governance committee introduction pp. 7-8; vote charts p. 161 (Question 1) and p. 163 (Question 2), read as rendered images."
+
+- id: ccc/2021_site-officiel
+  title: "Site officiel de la Convention Citoyenne pour le Climat"
+  publisher: "Convention Citoyenne pour le Climat"
+  date: "2021"
+  url: "https://www.conventioncitoyennepourleclimat.fr/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The President pledged to pass the proposals on 'sans filtre' to referendum, parliament or regulation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Home page text 'La Convention Citoyenne pour le Climat, c'est quoi ?'; undated, latest items from late 2020 and early 2021."
+
+- id: france-mte/2026_suivi-convention-citoyenne
+  title: "Suivi de la Convention citoyenne pour le climat"
+  publisher: "Ministère de la Transition écologique (France)"
+  date: "2026-10"
+  url: "https://www.ecologie.gouv.fr/suivi-convention-citoyenne-climat/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "President kept 146 of 149 proposals; summary lists 100 implemented totally or partially; the page's filters give different totals; no count of proposals adopted unchanged."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Page header 'Mise à jour : Octobre 2026', summary figure and filter list; the two tallies on the page disagree."
+
+- id: pew/2016_margin-of-error
+  title: "5 key things to know about the margin of error in election polls"
+  publisher: "Pew Research Center"
+  date: "2016-09-08"
+  url: "https://www.pewresearch.org/short-reads/2016/09/08/understanding-the-margin-of-error-in-election-polls/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A simple random sample of 1,067 has about a 3-point margin of error; a subgroup of about 160 has about 8 points."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Section 'How does the margin of error apply to subgroups?'. The 100-member figure in the note is an own calculation."
+
+- id: worldbank/2026_wdi-population
+  title: "World Development Indicators: Population, total (SP.POP.TOTL), 2024"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2024&format=json&per_page=400"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "World population 8.14 billion (8,140,897,523) in 2024; of 217 economies, 116 below one-thousandth and 198 below one-hundredth of the world total; planetary threshold and electorate comparisons computed from it."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "API JSON (lastupdated 2026-10-08); aggregates removed using the country metadata endpoint; counts and planetary threshold figures computed by claude."
+
+- id: li-vigni/2026_online-participation
+  title: "Online participation. A three-dimensional approach to study digital political platforms"
+  authors: ["Fabrizio Li Vigni"]
+  publisher: "Internet Policy Review"
+  date: "2026-05-26"
+  url: "https://policyreview.info/articles/analysis/online-participation-digital-political-platforms"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "vTaiwan began 2014 as g0v-government collaboration; Tang coordinated it 2016-2022, then ran the digital ministry to 2024; no successor, now volunteer-run; confined to digital policy; not binding; 28 cases, official 80% figure; Moats and Tseng critique of Pol.is grouping."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Vol. 15, issue 2, DOI 10.14763/2026.2.2093; vTaiwan case section (political and software axes)."
+
+- id: hsiao/2018_vtaiwan
+  title: "vTaiwan: An Empirical Study of Open Consultation Process in Taiwan"
+  authors: ["Yu-Tang Hsiao", "Shu-Yang Lin", "Audrey Tang", "Darshana Narayanan", "Claudina Sarahe"]
+  publisher: "SocArXiv (Center for Open Science)"
+  date: "2018"
+  url: "https://ideas.repec.org/p/osf/socarx/xyhft.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "vTaiwan aims to reach rough consensus on national issues and craft national digital legislation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract and author list on the IDEAS record; the OSF download did not return the PDF."
+
+- id: small/2021_polis
+  title: "Polis: Scaling Deliberation by Mapping High Dimensional Opinion Spaces"
+  authors: ["Christopher T. Small", "Michael Bjorkegren", "Timo Erkkilä", "Lynette Shaw", "Colin Megill"]
+  publisher: "Recerca: Revista de Pensament i Anàlisi"
+  date: "2021"
+  url: "https://gwern.net/doc/sociology/2021-small.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Pol.is votes (agree, disagree, pass), PCA and k-means grouping, and a group-aware consensus metric said to help 'protect from tyranny of the majority'; vTaiwan uses included online alcohol sales."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Mirror of the journal PDF (Recerca 26(2), pp. 1-26, DOI 10.6035/recerca.5516); sections 1.3-1.4 and the introduction."
+
+- id: bertelsmann/2022_taiwan-join-vtaiwan
+  title: "Shortcut 8: Trailblazers of digital participation: Taiwan's Join platform and vTaiwan"
+  publisher: "Bertelsmann Stiftung"
+  date: "2022-09"
+  url: "https://www.bertelsmann-stiftung.de/en/our-projects/democracy-and-participation-in-europe/shortcut-archive/shortcut-8-trailblazers-of-digital-participation-taiwans-join-platform-and-vtaiwan"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Uber case 2015: over 4,500 participants voted on 145 statements, results fed a draft bill; government can refuse to discuss issues; tech-savvy participants advantaged; Join needs 5,000 supporters, 289 of 13,853 proposals qualified by June 2022; Taiwan population 23.5 million."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Case boxes and 'Good to know' strengths and limitations sections."
+
+- id: x/2026_community-notes-ranking
+  title: "Note ranking algorithm (Community Notes documentation)"
+  publisher: "X Corp."
+  date: "2026-09-21"
+  url: "https://raw.githubusercontent.com/twitter/communitynotes/main/documentation/under-the-hood/ranking-notes.md"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Notes need a helpfulness score of at least 0.40 and ratings from raters on both sides of the main factor; fewer than 10% of notes reach Helpful."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Markdown source of the public guide page (the guide site itself rendered no text); last commit 2026-09-21; sections on note status and matrix factorization."
+
+- id: wojcik/2022_birdwatch
+  title: "Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation"
+  authors: ["Stefan Wojcik", "Sophie Hilgard", "Nick Judd", "Delia Mocanu", "Stephen Ragain", "M.B. Fallin Hunzaker", "Keith Coleman", "Jay Baxter"]
+  publisher: "arXiv"
+  date: "2022-10-27"
+  url: "https://arxiv.org/abs/2210.15723"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "People who saw bridging-ranked notes were significantly less likely to reshare posts."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract only (arXiv:2210.15723)."
+
+- id: chuai/2024_community-notes-rollout
+  title: "Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?"
+  authors: ["Yuwei Chuai", "Haoye Tian", "Nicolas Pröllochs", "Gabriele Lenzini"]
+  publisher: "Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)"
+  date: "2024"
+  url: "https://arxiv.org/abs/2307.07960"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "No evidence that the Community Notes roll-out reduced engagement with misleading posts; notes may come too late."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract only (arXiv v2, 23 Aug 2024; related DOI 10.1145/3686967)."
+
+- id: switzerland-bk/2026_volksinitiativen
+  title: "Volksinitiativen"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026"
+  url: "https://www.bk.admin.ch/de/volksinitiativen"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "An initiative qualifies with 100,000 valid signatures within 18 months."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Paragraph on the Chancellery's tasks, in German. The 'Angenommene Volksinitiativen' list page rendered no list."
+
+- id: switzerland/1999_federal-constitution
+  title: "Federal Constitution of the Swiss Confederation"
+  publisher: "Constitute Project (English translation)"
+  date: "1999-04-18"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII", "VIII"]
+  supports: "Art. 139 (invalidity only for mandatory international law or unity of form and subject; Parliament may set a counter-proposal), Art. 139b (vote on both), Art. 190 (courts apply federal acts), Art. 3 and Art. 43a (residual cantonal powers; federation takes only tasks cantons cannot do)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Constitute Project English translation of the text as in force in 2014; the official Fedlex version is script-only and was not read, so later amendments were not checked."
+
+- id: swissvotes/2026_dataset
+  title: "Swissvotes: the database of Swiss federal popular votes (dataset and codebook)"
+  publisher: "Année Politique Suisse, University of Bern"
+  date: "2026-09-28"
+  url: "https://swissvotes.ch/page/dataset"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Electorate 5,591,446 (3 Mar 2024); 26 of 244 initiatives accepted, 1893 to Sep 2026 (22 of 196 for 1893-2014); 2016-2025: 86 votes on 31 days, mean turnout 48.8% (34.5-65.7%); 1970s-1990s decade means 40.6-41.8%; minaret ban 57.5% (2009); face-covering ban 51.2% (2021); tie-break question since 1987; March 2026 cash initiative 45.6%, counter-proposal 73.4%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "CSV version 28-09-2026 (variables rechtsform, annahme, bet, berecht, volkja-proz) and codebook codes; counts computed by claude; data sourced from Federal Chancellery and Federal Statistical Office."
+
+- id: eci/2026_how-it-works
+  title: "How it works (European Citizens' Initiative)"
+  publisher: "European Commission, Secretariat-General"
+  date: "2026"
+  url: "https://citizens-initiative.europa.eu/how-it-works_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "At least 1 million signatures within 12 months, with minimum numbers in at least 7 EU countries."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Steps 1-3 and 'Who can sign?'. EUR-Lex text of Regulation (EU) 2019/788 was blocked by a bot check and not read."
+
+- id: eci/2026_results-and-follow-up
+  title: "Successful European citizens' initiatives: results and follow-up"
+  publisher: "European Commission, Secretariat-General"
+  date: "2026"
+  url: "https://citizens-initiative.europa.eu/how-it-works/successful-european-citizens-initiatives-results-and-follow_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "135 initiatives registered; 14 reached 1 million and got replies by June 2026; Commission credits legal change to Right2Water and the glyphosate initiative; five successful initiatives list no outcome; the Commission is invited, not obliged, to propose law."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Key figures', 'How ECIs affect your daily life' and the per-initiative follow-up list."
+
+- id: taiwan/2003_referendum-act
+  title: "Referendum Act (as amended 3 December 2025)"
+  publisher: "Laws & Regulations Database of the Republic of China (Taiwan)"
+  date: "2025-12-03"
+  url: "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0020050"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Proposers at least 0.01% and signatures at least 1.5% (within six months) of the last presidential electorate; a proposal passes only if yes exceeds no and reaches one quarter of eligible voters; rule kept in the version amended 3 Dec 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "English text, Articles 10, 12, 23 and 29; amended date shown as 2025-12-03."
+
+- id: wikipedia/2025_taiwanese-referendum
+  title: "2025 Taiwanese referendum"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2025_Taiwanese_referendum"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "August 2025 vote: 74.17% yes on 29.53% turnout, but yes votes fell short of the quarter-of-electorate threshold."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Infobox and lead; tertiary, cites Central Election Commission figures, which were not opened directly."
+
+- id: hainmueller/2013_swiss-passport
+  title: "Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination"
+  authors: ["Jens Hainmueller", "Dominik Hangartner"]
+  publisher: "American Political Science Review"
+  date: "2013-02-07"
+  url: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/who-gets-a-swiss-passport-a-natural-experiment-in-immigrant-discrimination/DACDC6C041FE980B47E31D501225B7CA"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In Swiss municipal naturalisation referendums, 'no' votes about 40% higher for applicants from (former) Yugoslavia and Turkey than for similar applicants from northern and western Europe."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract on the Cambridge Core landing page; vol. 107(1), pp. 159-187. The authors' 2019 AJPS follow-up was blocked (HTTP 403) and is not cited."
+
+- id: venice-commission/2022_code-of-good-practice-referendums
+  title: "Revised Code of Good Practice on Referendums, CDL-AD(2022)015"
+  publisher: "European Commission for Democracy through Law (Venice Commission), Council of Europe"
+  date: "2022-06-20"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2022)015-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "XI"]
+  supports: "Texts contrary to superior law, including human rights, may not be put to a vote; advisable to have no turnout or approval quorum, since a turnout quorum rewards abstention; approval quorum acceptable for fundamental constitutional matters."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Guidelines III.1 and III.7 (pp. 15 and 18) and explanatory paras 62-65 (p. 28)."
+
+- id: oregon/2011_citizens-initiative-review-statute
+  title: "ORS 250.137-250.149: Citizens' Initiative Review Commission and citizen panels"
+  publisher: "Oregon State Legislature"
+  date: "2011"
+  url: "https://www.oregonlegislature.gov/bills_laws/ors/ors250.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Panels of 18-24 voters chosen by survey sampling; findings and pro and con statements of up to 250 words for the voters' pamphlet; campaigns may comment on their side's statement; panels held only if funded."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Current ORS chapter 250 text, sections 250.139, 250.141 and 250.149 (enacted 2011 c.365)."
+
+- id: gastil/2014_vicarious-deliberation
+  title: "Vicarious Deliberation: How the Oregon Citizens' Initiative Review Influenced Deliberation in Mass Elections"
+  authors: ["John Gastil", "Robert Richards", "Katherine Knobloch"]
+  publisher: "International Journal of Communication"
+  date: "2014-01-02"
+  url: "https://ijoc.org/index.php/ijoc/article/view/2235"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Oregon voters appreciated neutral information developed by peers (2010 review)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract on the journal page (vol. 8); full PDF not read."
+
+- id: pius-xi/1931_quadragesimo-anno
+  title: "Quadragesimo Anno"
+  authors: ["Pius XI"]
+  publisher: "Holy See"
+  date: "1931-05-15"
+  url: "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Para. 79: it is 'a grave evil' to assign to a higher association what lesser ones can do."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Paragraphs 79-80 of the English text."
+
+- id: european-parliament/2026_subsidiarity-factsheet
+  title: "Fact Sheets on the European Union: The principle of subsidiarity"
+  authors: ["Christophe Beaudouin", "Mariusz Maciejewski"]
+  publisher: "European Parliament"
+  date: "2026-05"
+  url: "https://www.europarl.europa.eu/factsheets/en/sheet/7/the-principle-of-subsidiarity"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Art. 5(3) TEU test; yellow card at one third of national-parliament votes, used in 2012, 2013 and 2016; the Court of Justice has never struck down a measure for breaching subsidiarity (per a 2021 EP paper)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read only through a model-processed digest (WebFetch); raw text blocked by a bot check, so no direct quotes used. EUR-Lex treaty text also blocked."
+
+- id: ostrom/2009_beyond-markets-and-states
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems (Prize Lecture)"
+  authors: ["Elinor Ostrom"]
+  publisher: "Nobel Prize Outreach"
+  date: "2009-12-08"
+  url: "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Definition of polycentric governance; design principles on nested layers of governance and low-cost local conflict resolution."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Polycentricity definition on printed p. 411; design-principles table with 'Nested Enterprises' on printed p. 422 of the Prize Lecture PDF."
+
+- id: wcpa/1977_earth-constitution
+  title: "Constitution for the Federation of Earth"
+  publisher: "World Constitution and Parliament Association"
+  date: "1977-06"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "Art. VI: Presidium of 5 and Executive Cabinet of 20-30, all from parliament; one Presidium member per continental division; elected by parliament from nominees; 5-year terms, at most two in a row; removable for cause; no veto, no dissolution of parliament, no defiance of courts. Art. XI: council of five World Ombudsmen, elected by parliament, 10-year terms, may start court cases."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Articles VI (Secs. B, C, F), X and XI (Secs. A, B); text adopted at Innsbruck 1977 and amended at Troia 1991. The earth-constitution.org domain served a placeholder page."
+
+- id: wikipedia/2024_indian-general-election
+  title: "2024 Indian general election"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2024_Indian_general_election"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Over 968 million eligible voters; 642 million voted; 44 days; over a million polling stations; 15 million election workers and security personnel."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Lead, infobox and 'Planning' section; tertiary, cites Election Commission of India; ECI pages not opened; no cost figure found on the page."
+
+- id: wikipedia/2024_european-parliament-election
+  title: "2024 European Parliament election"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2024_European_Parliament_election"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "About 357 million eligible voters; results table lists 355,147,948 registered."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Voter turnout' section and results table; the page's 50.55% turnout differs from the official 50.74%."
+
+- id: european-parliament/2024_election-turnout
+  title: "2024 European election results: turnout"
+  publisher: "European Parliament"
+  date: "2024"
+  url: "https://results.elections.europa.eu/en/turnout/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Official EU-wide turnout of 50.74% in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Turnout by year' table, data provided by Verian for the European Parliament."
+
+- id: sweden-jo/2026_history
+  title: "History: The Office was established in 1809"
+  publisher: "Riksdagens ombudsmän (JO)"
+  date: "2026"
+  url: "https://www.jo.se/en/about-jo/history/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "Office created in 1809 with the Instrument of Government so the Riksdag could control executive power."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "History page, opening sections; undated."
+
+- id: sweden-jo/2026_home
+  title: "JO – Parliamentary Ombudsmen (English home page)"
+  publisher: "Riksdagens ombudsmän (JO)"
+  date: "2026"
+  url: "https://www.jo.se/en/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "The Ombudsmen review courts of law and other public authorities, independent of the executive."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Introductory text on the English home page; undated."
+
+- id: sweden/2023_act-with-instruction-parliamentary-ombudsmen
+  title: "Act with Instruction for the Parliamentary Ombudsmen (2023:499)"
+  publisher: "Riksdag (English translation published by JO)"
+  date: "2023-06-29"
+  url: "https://www.jo.se/en/about-jo/legal-basis/instructions/"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "The Riksdag elects the Ombudsmen (s. 1); remit excludes Riksdag members, the Government and ministers, and municipal and county councillors (s. 15); Ombudsmen may prosecute officials (s. 21)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sections 1, 15 and 21 of the English translation; in force 1 September 2023."
+
+- id: un/1948_udhr
+  title: "Universal Declaration of Human Rights"
+  publisher: "United Nations General Assembly"
+  date: "1948-12-10"
+  url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Art. 13: movement within each state and the right to leave any country; Art. 20: peaceful assembly and association."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Articles 13 and 20 of the UN English text."

@@ -1,0 +1,1284 @@
+# Source records for research/accountability.md (Charter Part IX).
+# Machine-checked first pass; not reviewed by Kara.
+
+# --- 1. EU enforcement ladder ---
+
+- id: "eu/2016_tfeu-article-258"
+  title: "Treaty on the Functioning of the European Union, Article 258 (consolidated version)"
+  publisher: "Official Journal of the European Union, C 202"
+  date: "2016-06-07"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12016E258"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "The Commission issues a reasoned opinion and may then refer a member state to the Court of Justice."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text of Article 258 on EUR-Lex."
+
+- id: "eu/2016_tfeu-article-260"
+  title: "Treaty on the Functioning of the European Union, Article 260 (consolidated version)"
+  publisher: "Official Journal of the European Union, C 202"
+  date: "2016-06-07"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12016E260"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "The Court may impose a lump sum or penalty payment on a state that ignores a judgment, or in a first judgment for non-transposition."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 260(1)-(3) on EUR-Lex."
+
+- id: "eu/2016_teu-article-7"
+  title: "Treaty on European Union, Article 7 (consolidated version)"
+  publisher: "Official Journal of the European Union, C 202"
+  date: "2016-06-07"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12016M007"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "Four-fifths of the Council to find a clear risk; unanimity in the European Council to find a serious and persistent breach; qualified majority to suspend rights."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 7(1)-(5) on EUR-Lex."
+
+- id: "cjeu/2021_poland-daily-penalty-order"
+  title: "Press Release No 192/21: Order of the Vice-President of the Court in Case C-204/21 R, Commission v Poland"
+  publisher: "Court of Justice of the European Union"
+  date: "2021-10-27"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2021-10/cp210192en.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "Poland ordered to pay EUR 1,000,000 a day for not suspending the Disciplinary Chamber provisions, in interim-relief proceedings."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read pages 1-2 of the press release PDF; amount and interim-measures context on page 1."
+
+- id: "cjeu/2023_poland-penalty-reduced"
+  title: "Press Release No 65/23: Order of the Vice-President of the Court in Case C-204/21 R-RAP, Poland v Commission"
+  publisher: "Court of Justice of the European Union"
+  date: "2023-04-21"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-04/cp230065en.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "Daily penalty halved to EUR 500,000 in April 2023; Disciplinary Chamber abolished but compliance only partial."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read pages 1-2 of the press release PDF."
+
+- id: "eu/2020_regulation-2020-2092"
+  title: "Regulation (EU, Euratom) 2020/2092 on a general regime of conditionality for the protection of the Union budget"
+  publisher: "European Parliament and Council of the European Union (Official Journal L 433I)"
+  date: "2020-12-16"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020R2092"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Trigger test (Art. 4), menu of measures and duty to keep paying final recipients (Art. 5(2)), Council qualified-majority decision (Art. 6(10)-(11)), lifting and n+2 lapse of suspended commitments (Art. 7)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Articles 4-7 on EUR-Lex."
+
+- id: "cjeu/2022_conditionality-judgments"
+  title: "Press Release No 28/22: Judgments in Cases C-156/21 Hungary v Parliament and Council and C-157/21 Poland v Parliament and Council"
+  publisher: "Court of Justice of the European Union"
+  date: "2022-02-16"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-02/cp220028en.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "Full Court dismissed Hungary's and Poland's actions against the conditionality regulation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read page 1 of the press release PDF."
+
+- id: "eu/2022_council-implementing-decision-2022-2506"
+  title: "Council Implementing Decision (EU) 2022/2506 on measures for the protection of the Union budget against breaches of the principles of the rule of law in Hungary"
+  publisher: "Council of the European Union"
+  date: "2022-12-15"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022D2506"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Suspension of 55% of commitments under three Hungarian cohesion programmes."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 2(1) and recitals on the 65% estimate; the decision itself states no euro total."
+
+- id: "european-commission/2024_conditionality-report"
+  title: "Communication on the application of Regulation (EU, Euratom) 2020/2092 (COM(2024) 17 final)"
+  publisher: "European Commission"
+  date: "2024-01-15"
+  url: "https://commission.europa.eu/document/download/cc49fe91-bc67-4067-8100-03b134bdf19c_en?filename=COM_2024_17_1_EN_ACT_part1_v2.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "The suspension amounted to about EUR 6.3 billion; Hungary was the single case of application as of January 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read section 3 (EUR 6.3 billion, p. 7) and sections 4-5 (effectiveness, pp. 12-14)."
+
+- id: "european-commission/2026_conditionality-page"
+  title: "Rule of law conditionality regulation"
+  publisher: "European Commission"
+  date: "2026"
+  url: "https://commission.europa.eu/strategy-and-policy/eu-budget/protection-eu-budget/rule-law-conditionality-regulation_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Final recipients should keep receiving payments; tool is separate from the annual Rule of Law Report; Commission kept measures in December 2023 and December 2024 and proposed unlocking EUR 4.2 billion on 23 September 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read page body and 'Latest news' list."
+
+- id: "kyiv-independent/2025_hungary-loses-1bn"
+  title: "Hungary loses out on about $1 billion in EU aid"
+  authors: ["Kateryna Hodunova"]
+  publisher: "The Kyiv Independent"
+  date: "2025-01-01"
+  url: "https://kyivindependent.com/hungary-loses-out-on-about-1-billion-in-eu-aid/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "EUR 1.04 billion of suspended commitments expired at the end of 2024; first such loss for a member state (citing dpa and a Commission spokesperson)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article text; figure and 'first such action' statement in body."
+
+- id: "ceps/2026_orban-defeat-conditionality"
+  title: "Orban's defeat opens the door to EU funds and to smarter rule of law conditionality"
+  authors: ["Cinzia Alcidi", "Eulalia Rubio"]
+  publisher: "CEPS"
+  date: "2026-04-24"
+  url: "https://www.ceps.eu/orbans-defeat-opens-the-door-to-eu-funds-and-to-smarter-rule-of-law-conditionality/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "About EUR 18 billion still withheld in April 2026; final-recipient protection 'largely ineffective'; evidence of discretion used against Budapest."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read full commentary, sections 'Why the current system falls short' and 'A more promising approach'."
+
+- id: "euronews/2026_hungary-unlocks-16bn"
+  title: "Hungary unlocks EUR 16.4bn in EU funds after Magyar secures deal with Brussels"
+  authors: ["Sandor Zsiros"]
+  publisher: "Euronews"
+  date: "2026-05-29"
+  url: "https://www.euronews.com/my-europe/2026/05/29/hungary-unlocks-164bn-in-eu-funds-after-magyar-secures-deal-with-brussels"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Magyar won the April 2026 election; deal to unblock about EUR 16.4 billion; 27 super-milestones including joining the EPPO."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body."
+
+- id: "european-commission/2026_com-2026-516"
+  title: "Proposal for a Council Implementing Decision pursuant to Article 7(2) of Regulation 2020/2092 concerning a written notification from Hungary (COM(2026) 516 final)"
+  publisher: "European Commission"
+  date: "2026-09-23"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026PC0516"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Hungary notified remedies on 9 September 2026; Commission concludes the Article 4 conditions no longer apply and proposes lifting all measures; joining the EPPO named as a central remedy."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read explanatory memorandum sections 1-3 and operative Articles 1-4."
+
+- id: "euobserver/2026_eu-unlock-4-2bn-hungary"
+  title: "EU moves to unlock EUR 4.2bn for Hungary as Magyar strengthens rule-of-law and corruption rules"
+  authors: ["Petra Pavlovičová"]
+  publisher: "EUobserver"
+  date: "2026-09-23"
+  url: "https://euobserver.com/239148/eu-moves-to-unlock-e4-2bn-for-hungary-as-magyar-strengthens-rule-of-law-and-corruption-rules/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Proposal to unlock EUR 4.2 billion in cohesion funds; Council has one month to decide."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the free portion of the article."
+
+- id: "council-eu/2026_ia-item-note-13880-26"
+  title: "'I/A' item note 13880/26: Council Implementing Decision concerning a written notification from Hungary"
+  publisher: "Council of the European Union (via the Austrian Parliament EU database)"
+  date: "2026-10-02"
+  url: "https://www.parlament.gv.at/dokument/XXVIII/EU/95013/imfname_11680099.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Budget Committee accepted the Commission proposal unchanged on 1 October 2026; adoption as an 'A' item pending."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read both pages of the note; no adoption notice found as of 10 October 2026."
+
+- id: "hungarian-helsinki-committee/2026_rule-of-law-file"
+  title: "Helsinki File: Rule of Law and the EU"
+  publisher: "Hungarian Helsinki Committee"
+  date: "2026-10-06"
+  url: "https://helsinki.hu/en/akta/rule-of-law-the-eu/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Article 7 procedure on Hungary, launched in 2018, still ongoing and back on the General Affairs Council agenda in autumn 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the file page, refreshed 6 October 2026, and its June 2026 flash-report summary."
+
+# --- 2. Standing and judges ---
+
+- id: "colombia/1991_constitution-art-86"
+  title: "Constitución Política de Colombia 1991, Artículo 86 (acción de tutela)"
+  publisher: "Secretaría General del Senado de la República de Colombia"
+  date: "1991-07-04"
+  url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Any person may seek a tutela from any judge; decision within ten days; subsidiary; every ruling sent to the Constitutional Court for possible review."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text of Article 86."
+
+- id: "minuto60/2026_tutelas-record"
+  title: "Crisis en el sistema de salud disparó las tutelas en Colombia a un récord histórico en 2025"
+  authors: ["Oscar Repiso"]
+  publisher: "Minuto60"
+  date: "2026-03-12"
+  url: "https://www.minuto60.com/colombia/colombia-registra-record-historico-tutelas-923397-casos-202/6842"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "923,397 tutelas filed in 2025 per Constitutional Court data; 17.4 per 1,000 people; 34% about health; 2.55 to 31.12 per 1,000 across departments."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article; it reports Court statistics I could not open directly (the Court's statistics page loads by script)."
+
+- id: "landau/2012_reality-social-rights-enforcement"
+  title: "The Reality of Social Rights Enforcement"
+  authors: ["David Landau"]
+  publisher: "Harvard International Law Journal, vol. 53"
+  date: "2012-01-22"
+  url: "https://journals.law.harvard.edu/ilj/2012/01/issue_53-1_landau"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Most social rights enforcement, on a Colombian case study, has benefited middle- or upper-class groups; structural remedies reach the poor better."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract on the journal page only."
+
+- id: "gauri/2009_pil-india"
+  title: "Public Interest Litigation in India: Overreaching or Underachieving? (Policy Research Working Paper 5109)"
+  authors: ["Varun Gauri"]
+  publisher: "World Bank"
+  date: "2009-11"
+  url: "https://documents1.worldbank.org/curated/en/675001468042007347/pdf/WPS5109.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "PIL loosened standing from the late 1970s; about 260 PIL cases a year in the Supreme Court (1997-2007), about 0.4% of cases; few letters become cases; win rates higher for advantaged claimants."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read abstract and pages 1-3 and 7 (case counts and letters)."
+
+- id: "hungary-constitutional-court/2017_sulyok-presentation"
+  title: "Presentation of Tamás Sulyok, President of the Constitutional Court of Hungary"
+  authors: ["Tamás Sulyok"]
+  publisher: "Constitutional Court of Hungary"
+  date: "2017-09"
+  url: "https://media.alkotmanybirosag.hu/2017/09/Presentation-of-Tamas-Sulyok-President-of-the-Constitutional-Court-of-Hungary-powerpoint.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Before 2012 anybody could bring an actio popularis without time limit or personal interest; it caused an unmanageable workload; abolished in 2011-12."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read slides 3 and 9."
+
+- id: "venice-commission/2012_opinion-hungary-constitutional-court"
+  title: "Opinion on Act CLI of 2011 on the Constitutional Court of Hungary (CDL-AD(2012)009)"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2012-06-19"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2012)009-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Venice Commission holds that the actio popularis is not required in a democratic state ruled by law."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read paragraphs 26 and 49-51."
+
+- id: "aristotle/1952_athenaion-politeia"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 63, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D63"
+  tier: "primary"
+  kind: "book"
+  parts: ["IX"]
+  supports: "Athenian jury-courts were filled by lot; all citizens over thirty not in debt to the treasury or disfranchised could sit."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read chapter 63, sections 1-5."
+
+- id: "uk/2005_constitutional-reform-act-sch-12"
+  title: "Constitutional Reform Act 2005, Schedule 12, Part 1 (The Judicial Appointments Commission)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2005-03-24"
+  url: "https://www.legislation.gov.uk/ukpga/2005/4/schedule/12/part/1"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "The chairman of the Judicial Appointments Commission must be a lay member; commissioners are appointed on the Lord Chancellor's recommendation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Paragraphs 1 and 2(1) read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed."
+
+- id: "jac/2026_commissioners"
+  title: "Commissioners"
+  publisher: "Judicial Appointments Commission"
+  date: "2026"
+  url: "https://judicialappointments.gov.uk/commissioners/"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "The JAC has a lay chair (appointed 1 September 2026) and several lay commissioners serving fixed terms."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the commissioners list and biographies."
+
+- id: "switzerland/2021_foj-justiz-initiative"
+  title: "Justiz-Initiative"
+  publisher: "Swiss Federal Office of Justice"
+  date: "2021-11-28"
+  url: "https://www.bj.admin.ch/de/justiz-initiative"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Initiative would have chosen federal judges by lot from candidates admitted by an independent expert commission, with tenure to five years past retirement age and removal only by impeachment."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read 'Worum geht es?' and the procedural timeline."
+
+- id: "switzerland/2022_federal-council-decree-vote-results"
+  title: "Bundesratsbeschluss über das Ergebnis der Volksabstimmung vom 28. November 2021 (BBl 2022 894)"
+  publisher: "Swiss Federal Council (Bundesblatt)"
+  date: "2022-04-11"
+  url: "https://fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/fga/2022/894/de/pdf-a/fedlex-data-admin-ch-eli-fga-2022-894-de-pdf-a-1.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Justiz-Initiative rejected by 2,335,148 votes to 1,094,989 and by all cantons."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 2 and annex 3 of the decree."
+
+- id: "mexico/2026_constitution-arts-94-96"
+  title: "Constitución Política de los Estados Unidos Mexicanos, Articles 94 and 96 (last reform DOF 07-10-2026)"
+  publisher: "Cámara de Diputados del H. Congreso de la Unión"
+  date: "2026-10-07"
+  url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Judges are elected; evaluation committees list four best-rated candidates per post and cut to two by public lottery; Supreme Court justices serve 12 years with no re-election."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 94 (term clause) and Article 96, section II(c)."
+
+- id: "efe/2025_mexico-judicial-election-turnout"
+  title: "La elección judicial en México registra un 13 % de participación, según ente electoral"
+  publisher: "EFE, via Revista E&N"
+  date: "2025-06-02"
+  url: "https://www.revistaeyn.com/centroamericaymundo/la-eleccion-judicial-en-mexico-registra-un-13-de-participacion-segun-ente-electoral-AH25996633"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "INE quick-count estimate of 12.57% to 13.32% turnout in the 1 June 2025 judicial election."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article; final INE count not checked."
+
+- id: "germany/2024_grundgesetz-art-93"
+  title: "Grundgesetz für die Bundesrepublik Deutschland, Article 93 (as amended 20 December 2024)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "2024-12-20"
+  url: "https://www.gesetze-im-internet.de/gg/art_93.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Constitutional judges serve 12 years, retire at 68, stay until a successor is appointed, cannot be re-elected; deadlock rule lets the other electing body choose."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 93(1)-(5); the amendment date comes from buzer.de, not from this page."
+
+- id: "buzer/2024_gg-article-93-versions"
+  title: "Art. 93 GG: current text and earlier versions"
+  publisher: "buzer.de"
+  date: "2024-12-28"
+  url: "https://www.buzer.de/93_GG.htm"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Article 93 in its current form comes from the Act amending the Basic Law (Articles 93 and 94) of 20 December 2024, in force 28 December 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the version history table; BGBl. 2024 I Nr. 439 itself not opened."
+
+- id: "germany/1951_bverfgg"
+  title: "Federal Constitutional Court Act (Bundesverfassungsgerichtsgesetz), Section 4 (English translation)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1951-03-12"
+  url: "https://www.gesetze-im-internet.de/englisch_bverfgg/englisch_bverfgg.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Twelve-year term, no re-election, retirement at 68, holdover until a successor is appointed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Section 4 in English and the German Section 4 page."
+
+- id: "bundestag/2024_drucksache-20-12977"
+  title: "Entwurf eines Gesetzes zur Änderung des Grundgesetzes (Artikel 93 und 94), Drucksache 20/12977"
+  publisher: "Deutscher Bundestag"
+  date: "2024-09-24"
+  url: "https://dserver.bundestag.de/btd/20/129/2012977.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Cross-party bill to move the court's core structure into the Basic Law, citing efforts in some European countries to question constitutional-court independence."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read sections A (Problem und Ziel) and B (Lösung), pages 1-2."
+
+- id: "coe/1950_echr"
+  title: "Convention for the Protection of Human Rights and Fundamental Freedoms (as amended by Protocols 11, 14 and 15)"
+  publisher: "Council of Europe / European Court of Human Rights"
+  date: "1950-11-04"
+  url: "https://www.echr.coe.int/documents/d/echr/Convention_ENG"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "Article 23: nine-year terms, no re-election, dismissal only by two-thirds of the other judges. Article 6(1): public hearing with exclusions for juveniles and private life."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Articles 6 and 23 in the official PDF."
+
+- id: "voeten/2008_impartiality-international-judges"
+  title: "The Impartiality of International Judges: Evidence from the European Court of Human Rights"
+  authors: ["Erik Voeten"]
+  publisher: "American Political Science Review, vol. 102, no. 4"
+  date: "2008-11"
+  url: "https://ideas.repec.org/a/cup/apsrev/v102y2008i04p417-433_08.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Some evidence that career insecurity makes ECtHR judges favour their own government; no systematic cultural or geopolitical bias."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract on RePEc/IDEAS only."
+
+- id: "stiansen/2019_institutional-reform-ecthr"
+  title: "Institutional Reform and Judicial Behaviour in the European Court of Human Rights"
+  authors: ["Øyvind Stiansen"]
+  publisher: "ECPR General Conference, Wrocław"
+  date: "2019-09-05"
+  url: "https://ecpr.eu/Events/Event/PaperDetails/47050"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "After the 2010 move to non-renewable terms, sitting ECtHR judges became significantly less likely to side with their nominating state (preliminary results)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the conference abstract only; paper is preliminary."
+
+- id: "melton-ginsburg/2014_de-jure-judicial-independence"
+  title: "Does De Jure Judicial Independence Really Matter? A Reevaluation of Explanations for Judicial Independence"
+  authors: ["James Melton", "Tom Ginsburg"]
+  publisher: "Journal of Law and Courts, vol. 2, no. 2"
+  date: "2014"
+  url: "https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/does-de-jure-judicial-independence-really-matter/4D6021EE8CFD97823F91604612A1945D"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Rules on selection and removal of judges are the only formal protections that raise de facto independence."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core only."
+
+# --- 3. Inspectors ---
+
+- id: "france-ministry-of-justice/2025_chiffres-cles-justice"
+  title: "Les chiffres clés de la Justice, édition 2025"
+  publisher: "Ministère de la Justice (SG, SSER)"
+  date: "2025-10-28"
+  url: "https://www.justice.gouv.fr/sites/default/files/2026-03/Chiffres_Cles_2025_corrV2.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "2024: 4,299,473 new cases at prosecutors' offices; 16,759 new cases for investigating judges, 29.5% opened by civil-party complaint; median investigation 29 months."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read pages 15-16 of the corrected version (March 2026)."
+
+- id: "assemblee-nationale/2006_outreau-inquiry-report"
+  title: "Rapport fait au nom de la commission d'enquête chargée de rechercher les causes des dysfonctionnements de la justice dans l'affaire dite d'Outreau (No 3125)"
+  authors: ["Philippe Houillon"]
+  publisher: "Assemblée nationale"
+  date: "2006-06-06"
+  url: "https://www.assemblee-nationale.fr/12/rap-enq/r3125.asp"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Thirteen accused acquitted (2004-2005); the isolation of the lone judge counted for a substantial part of the failures; rapporteur favoured collegial investigation over abolition."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the foreword and section IV on isolated judicial functions."
+
+- id: "eu/2017_regulation-2017-1939"
+  title: "Council Regulation (EU) 2017/1939 implementing enhanced cooperation on the establishment of the European Public Prosecutor's Office"
+  publisher: "Council of the European Union"
+  date: "2017-10-12"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1939"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "EPPO takes no instructions (Art. 6); annual public report; Chief Prosecutor serves a non-renewable seven-year term from an expert panel's shortlist (Art. 14); delegated prosecutors are nominated by states (Art. 17)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Articles 6, 7, 14, 16 and 17 on EUR-Lex."
+
+- id: "eppo/2026_annual-report-2025"
+  title: "Annual Report 2025: 2025 in numbers"
+  publisher: "European Public Prosecutor's Office"
+  date: "2026"
+  url: "https://www.eppo.europa.eu/assets/annual-report-2025/index.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "3,602 active investigations at 31 December 2025 with estimated damage of EUR 67.27 billion; EUR 1.13 billion in freezing orders granted in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the 2025-in-numbers page; full PDF not opened."
+
+- id: "eucrim/2026_hungary-joins-eppo"
+  title: "Hungary Joins EPPO - EPPO Regulation Now EU Acquis"
+  authors: ["Thomas Wahl"]
+  publisher: "eucrim (Max Planck Institute for the Study of Crime, Security and Law)"
+  date: "2026-07-17"
+  url: "https://eucrim.eu/news/hungary-joins-eppo-eppo-regulation-now-eu-acquis/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Commission confirmed Hungary's EPPO participation on 10 July 2026; 25th state; only Ireland and Denmark outside."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read full news item."
+
+- id: "eu-reporter/2021_slovenia-eppo"
+  title: "MEPs raise concern over Janša's failure to appoint prosecutors to EPPO and attacks on the media"
+  publisher: "EU Reporter"
+  date: "2021-07-06"
+  url: "https://www.eureporter.co/politics/2021/07/06/meps-raise-concern-over-jansas-failure-to-appoint-prosecutors-to-eppo-and-attacks-on-the-media/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Slovenia's government cancelled its two delegated-prosecutor nominations; the Chief Prosecutor called it a manifest lack of sincere cooperation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body."
+
+- id: "olaf/2026_olaf-report-2025-press-release"
+  title: "OLAF Report 2025: EUR 597 million to be recovered from fraud and irregularities following OLAF recommendations"
+  publisher: "European Anti-Fraud Office (OLAF)"
+  date: "2026-04-20"
+  url: "https://anti-fraud.ec.europa.eu/media-corner/news/olaf-report-2025-eu597-million-be-recovered-fraud-and-irregularities-following-olaf-recommendations-2026-04-20_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "In 2025 OLAF closed 209 investigations, opened 254, and recommended EUR 597 million for recovery."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read press release including key-figures list."
+
+- id: "olaf/2026_olaf-report-2025-statistical-annex"
+  title: "The OLAF Report 2025: Statistical annex (Tables 9, 11 and 12)"
+  publisher: "European Anti-Fraud Office (OLAF)"
+  date: "2026-04-20"
+  url: "https://ec.europa.eu/olaf-report/2025/statistical-annex_en.html"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "Judicial recommendations issued 2021-2025: 73 decided by national authorities (27 indictments, 46 dismissals), 72 awaiting decision."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Summed the chart data files behind Tables 11 and 12 (js/charts/dataset/11- and 12-dataset.json)."
+
+# --- 4. People answer, not populations ---
+
+- id: "icc/1998_rome-statute"
+  title: "Rome Statute of the International Criminal Court"
+  publisher: "United Nations Diplomatic Conference (text via OHCHR)"
+  date: "1998-07-17"
+  url: "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "Jurisdiction over natural persons only (Art. 25); official capacity no exemption (Art. 27); superior responsibility (Art. 28); public hearing (Art. 67); in-camera proceedings to protect victims (Art. 68(2))."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Articles 25, 27, 28, 67 and 68 on the OHCHR page. Checked at https://www.ohchr.org/en/instruments-mechanisms/instruments/rome-statute-international-criminal-court."
+
+- id: "uksc/2013_prest-v-petrodel"
+  title: "Prest v Petrodel Resources Ltd and others [2013] UKSC 34: press summary"
+  publisher: "Supreme Court of the United Kingdom"
+  date: "2013-06-12"
+  url: "https://supremecourt.uk/uploads/uksc_2013_0004_press_summary_553158ea34.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "Courts may pierce the corporate veil only in very limited circumstances: deliberate evasion of an existing obligation by interposing a company."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the 'Judgment' section of the press summary (paras 35-36 summarised)."
+
+- id: "uk/1990_environmental-protection-act-s157"
+  title: "Environmental Protection Act 1990, section 157 (Offences by bodies corporate)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "1990"
+  url: "https://www.legislation.gov.uk/ukpga/1990/43/section/157"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "A director or officer who consented to, connived in, or neglectfully allowed a company's offence is personally guilty."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Subsection (1) read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed."
+
+- id: "stop-ecocide-foundation/2021_ecocide-definition"
+  title: "Legal definition of ecocide drafted by Independent Expert Panel"
+  publisher: "Stop Ecocide Foundation"
+  date: "2021-06"
+  url: "https://www.stopecocide.earth/legal-definition"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Proposed Article 8 ter: unlawful or wanton acts committed with knowledge of a substantial likelihood of severe and either widespread or long-term damage."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full definition and sub-definitions."
+
+- id: "eu/2024_directive-2024-1203"
+  title: "Directive (EU) 2024/1203 on the protection of the environment through criminal law"
+  publisher: "European Parliament and Council of the European Union (Official Journal L series)"
+  date: "2024-04-11"
+  url: "https://publications.europa.eu/resource/celex/32024L1203"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Qualified offences 'comparable to ecocide' (recital 21); maximum of at least eight years (Art. 5(2)(b)); disqualification and limited publication of convicts' data (Art. 5(3)); company liability does not preclude prosecuting individuals (Art. 6(3)); company fines of at least 5% of turnover or EUR 40 million (Art. 7); transposition by 21 May 2026 (Art. 28)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the Official Journal text via the Publications Office (EUR-Lex was bot-blocked)."
+
+- id: "stop-ecocide-international/2024_belgium-ecocide-timeline"
+  title: "Belgium (ecocide timeline)"
+  publisher: "Stop Ecocide International"
+  date: "2024"
+  url: "https://www.stopecocide.earth/belgium"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Belgian Chamber adopted Books I-II of the new Criminal Code on 22 February 2024; Article 94 ecocide limited to breaches of federal law or binding international instruments; level-6 crime (10-20 years)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the timeline; advocacy source; entry-into-force date not stated and not verified elsewhere."
+
+- id: "icc-asp/2024_wga-report-23-26"
+  title: "Report of the Working Group on Amendments (ICC-ASP/23/26)"
+  publisher: "Assembly of States Parties to the Rome Statute"
+  date: "2024-12-01"
+  url: "https://asp.icc-cpi.int/sites/default/files/asp_docs/ICC-ASP-23-26-ENG.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Vanuatu's ecocide amendment circulated on 9 September 2024; draft Elements of Crimes on 6 November 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read paragraphs 19-21 and Annex II."
+
+- id: "icc-asp/2025_wga-report-24-26"
+  title: "Report of the Working Group on Amendments (ICC-ASP/24/26)"
+  publisher: "Assembly of States Parties to the Rome Statute"
+  date: "2025-11-29"
+  url: "https://asp.icc-cpi.int/sites/default/files/asp_docs/ICC-ASP-24-26-ENG.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "On 7 October 2025 Vanuatu said it did not intend to table the ecocide proposal formally at the 2025 Assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read paragraphs 23-25."
+
+- id: "nz-herald/2024_pacific-ecocide-proposal"
+  title: "Vanuatu, Fiji and Samoa say 'ecocide' should be an international crime"
+  authors: ["Christina Persico"]
+  publisher: "NZ Herald (RNZ)"
+  date: "2024-09-10"
+  url: "https://www.nzherald.co.nz/talanoa/vanuatu-fiji-and-samoa-say-ecocide-should-be-an-international-crime/Z2ORSR6EKZBE5BHL772R6YSKKE/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Proposal submitted by Vanuatu and co-sponsored by Fiji and Samoa, using the 2021 panel definition."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body; date from page metadata."
+
+- id: "un/1949_geneva-convention-iv"
+  title: "Geneva Convention relative to the Protection of Civilian Persons in Time of War (Fourth Geneva Convention)"
+  publisher: "Diplomatic Conference of Geneva (text via OHCHR)"
+  date: "1949-08-12"
+  url: "https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-protection-civilian-persons-time-war"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "Article 33: no one punished for an offence not personally committed; collective penalties prohibited."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 33 on the OHCHR page (ICRC database page loads by script)."
+
+- id: "dyson-cetorelli/2017_iraq-child-mortality-sanctions"
+  title: "Changing views on child mortality and economic sanctions in Iraq: a history of lies, damned lies and statistics"
+  authors: ["Tim Dyson", "Valeria Cetorelli"]
+  publisher: "BMJ Global Health"
+  date: "2017"
+  url: "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5717930/fullTextXML"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Sanctions greatly reduced Iraq's imports of food and medicine, but the 1999 survey behind the 500,000 excess child deaths estimate was manipulated."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read full text via Europe PMC (DOI 10.1136/bmjgh-2017-000311); publisher site returned HTTP 429."
+
+# --- 5. Enforcement without armies ---
+
+- id: "wcpa/1977_earth-constitution"
+  title: "A Constitution for the Federation of Earth"
+  publisher: "World Constitution and Parliament Association (text hosted by the Earth Constitution Institute)"
+  date: "1977"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Article 10: enforcement applies to individuals, including officials and corporate agents; police armed only to apprehend; searches and arrests on warrants from World Attorneys; attorneys answer to Parliament; non-military means. Article 9: judges elected for renewable ten-year terms. Article 11: Ombudsmus."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 9 Sec. D, Article 10 Secs. A-D and Article 11 Sec. A; proposed text, not in force. Checked at https://earthconstitution.world/text-of-the-earth-constitution/."
+
+- id: "home-office/2026_police-use-of-firearms-2025-26"
+  title: "Police use of firearms statistics, April 2025 to March 2026"
+  publisher: "Home Office"
+  date: "2026-07-02"
+  url: "https://www.gov.uk/government/statistics/police-use-of-firearms-statistics-april-2025-to-march-2026/police-use-of-firearms-statistics-april-2025-to-march-2026"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "England and Wales, year to March 2026: 17,584 firearms operations; firearms discharged at people in 9 incidents (0.1%); 6,558 armed officers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read summary sections 1-4."
+
+- id: "home-office/2026_police-workforce-march-2026"
+  title: "Police workforce, England and Wales: 31 March 2026"
+  publisher: "Home Office"
+  date: "2026-07-22"
+  url: "https://www.gov.uk/government/statistics/police-workforce-england-and-wales-31-march-2026/police-workforce-england-and-wales-31-march-2026"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "145,886 full-time-equivalent police officers on 31 March 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Table 1."
+
+- id: "iopc/2026_deaths-following-police-contact-2025-26"
+  title: "Annual deaths during or following police contact report 2025/26"
+  publisher: "Independent Office for Police Conduct"
+  date: "2026-07-30"
+  url: "https://www.policeconduct.gov.uk/sites/default/files/documents/20260730%20IOPC-Death-Stats-2026%20FINAL.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "Four fatal police shootings in 2025/26 against an average of three a year since 2015/16; 27 deaths in or following custody."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Tables 2.1-2.2 and the trends text."
+
+- id: "norway/1995_police-act"
+  title: "Lov om politiet (politiloven), § 6"
+  publisher: "Lovdata"
+  date: "1995-08-04"
+  url: "https://lovdata.no/dokument/NL/lov/1995-08-04-53"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Since the amendment of 20 June 2025 (no. 87), the Police Directorate may decide that police are armed in daily service."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read § 6 and its amendment notes on Lovdata."
+
+- id: "nrk/2025_general-arming-proposal"
+  title: "Regjeringen åpner for generell bevæpning av politiet"
+  authors: ["Isabel Müller Eidhamar", "Olav Døvik"]
+  publisher: "NRK"
+  date: "2025-05-09"
+  url: "https://www.nrk.no/norge/regjeringen-apner-for-generell-bevaepning-av-politiet-1.17411233"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Government proposed general arming in May 2025 at police request; SV, Rødt, Venstre and MDG opposed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article summary and opening paragraphs."
+
+- id: "politiet/2025_general-arming-notice"
+  title: "Politiet innfører generell bevæpning fra 1. juli"
+  publisher: "Politidirektoratet (Norwegian Police Directorate)"
+  date: "2025-07-01"
+  url: "https://www.politiet.no/nyheter-og-presse/politidirektoratet/nyhet/2025-07-01/politiet-innforer-generell-bevaepning-fra-1-juli"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Police Directorate introduced general arming from 1 July 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "Page returned only a script shell; the claim rests on the page title and secondary reports, not on read text."
+
+- id: "garda/2025_taser-pilot"
+  title: "Tasers: Taser pilot"
+  publisher: "An Garda Síochána"
+  date: "2025-12"
+  url: "https://www.garda.ie/en/about-us/organisational-structure/garda-equipment/tasers/tasers.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "From 18 December 2025, 128 uniformed gardaí at four stations carry Tasers with body-worn cameras; every use notified to Fiosrú."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the 'Taser pilot' and 'Current taser usage' sections."
+
+- id: "bbc/2013_iceland-first-police-shooting"
+  title: "Rare Iceland armed police operation leaves man dead"
+  publisher: "BBC News"
+  date: "2013-12-02"
+  url: "https://www.bbc.co.uk/news/world-europe-25190119"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "First death in an armed police operation in Iceland, 2 December 2013."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body."
+
+- id: "rnz/2020_armed-response-teams-ended"
+  title: "Police ending Armed Response Teams after trial - Commissioner"
+  publisher: "RNZ"
+  date: "2020-06-09"
+  url: "https://www.rnz.co.nz/news/te-manu-korihi/418593/police-ending-armed-response-teams-after-trial-commissioner"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "New Zealand ended its armed response team trial; Commissioner Coster committed to a generally unarmed service."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body; 2025-2026 New Zealand arming policy not checked."
+
+# --- 6. Restorative justice and confinement ---
+
+- id: "norway/2001_execution-of-sentences-act"
+  title: "Lov om gjennomføring av straff mv. (straffegjennomføringsloven), §§ 2-3"
+  publisher: "Lovdata"
+  date: "2001-05-18"
+  url: "https://lovdata.no/dokument/NL/lov/2001-05-18-21"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "A restorative process must be offered during the sentence (§ 2); duty of activity and, as far as possible, a gradual transition from prison to full freedom (§ 3)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read §§ 2-4 on Lovdata, including pending amendment notes."
+
+- id: "guardian/2012_inside-halden"
+  title: "Inside Halden, the most humane prison in the world"
+  authors: ["Amelia Gentleman"]
+  publisher: "The Guardian"
+  date: "2012-05-18"
+  url: "https://www.theguardian.com/society/2012/may/18/halden-most-humane-prison-in-world"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Halden governor's normality aim; about GBP 116,000 per prisoner-year versus GBP 45,000 in the UK; the '20% after two years' versus 'around 50% in England' claim."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read article body."
+
+- id: "krus/2026_nordic-correctional-statistics-2020-2024"
+  title: "Correctional Statistics of Denmark, Finland, Iceland, Norway and Sweden 2020-2024 (KRUS publikasjon 6/2026)"
+  authors: ["Ragnar Kristoffersen"]
+  publisher: "University College of Norwegian Correctional Service (KRUS)"
+  date: "2026-10-06"
+  url: "https://www.krus.no/download/18.229ae2831a0f7af262b1c8c/1791279639641/Nordic%20Statistics%202020_2024_final_justert.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "Two-year reconviction of prisoners released in 2022: Norway 19%, Iceland 14%, Denmark 30%, Sweden 31%, Finland 40%; narrow definition; comparability caveats."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read preface, the reconviction definition (p. 11) and tables 2.11.1-2.11.5 (pp. 57-58)."
+
+- id: "bhuller/2019_incarceration-recidivism-employment"
+  title: "Incarceration, Recidivism and Employment (NBER Working Paper 22648, revised February 2019)"
+  authors: ["Manudeep Bhuller", "Gordon B. Dahl", "Katrine V. Løken", "Magne Mogstad"]
+  publisher: "National Bureau of Economic Research"
+  date: "2019-02"
+  url: "https://www.nber.org/papers/w22648"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Using random judge assignment in Norway, prison cuts five-year reoffending by 29 percentage points and 11 charges; effect driven by the previously non-employed; lasting job losses for the previously employed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the working-paper abstract; the published version (Journal of Political Economy, 2020) was bot-blocked and its figures were not compared."
+
+- id: "sherman-strang/2007_restorative-justice-evidence"
+  title: "Restorative Justice: The Evidence"
+  authors: ["Lawrence W. Sherman", "Heather Strang"]
+  publisher: "The Smith Institute"
+  date: "2007"
+  url: "https://www.iirp.edu/pdf/RJ_full_report.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Effects strongest for violent and personal-victim crime; arrests rose in a small sample of Aboriginal property offenders in Canberra."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the abstract and executive summary, pages 4-5."
+
+- id: "strang/2013_campbell-rj-conferencing"
+  title: "Restorative Justice Conferencing (RJC) Using Face-to-Face Meetings of Offenders and Victims: Effects on Offender Recidivism and Victim Satisfaction. A Systematic Review"
+  authors: ["Heather Strang", "Lawrence W. Sherman", "Evan Mayo-Wilson", "Daniel Woods", "Barak Ariel"]
+  publisher: "Campbell Systematic Reviews 2013:12"
+  date: "2013-06"
+  url: "https://api.crossref.org/works/10.4073/csr.2013.12"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Ten randomised trials found a modest, highly cost-effective cut in repeat offending and higher victim satisfaction, among consenting parties."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the publisher-deposited abstract via Crossref (DOI 10.4073/csr.2013.12); Wiley full text was bot-blocked."
+
+- id: "college-of-policing/2026_rj-conferencing-toolkit"
+  title: "Restorative justice conferencing (Crime reduction toolkit)"
+  publisher: "College of Policing"
+  date: "2026"
+  url: "https://www.college.police.uk/research/crime-reduction-toolkit/restorative-justice-conferencing"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Significant reduction for violent offenders, none for property offenders; works best as a supplement to, not a replacement for, conventional sanctions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the summary and review list."
+
+- id: "livingstone/2013_cochrane-rj-young-offenders"
+  title: "Restorative justice conferencing for reducing recidivism in young offenders (aged 7 to 21)"
+  authors: ["Nuala Livingstone", "Geraldine Macdonald", "Nicola Carr"]
+  publisher: "Cochrane Database of Systematic Reviews"
+  date: "2013-02-28"
+  url: "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1002/14651858.CD008898.pub2%22&resultType=core&format=json"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX"]
+  supports: "Four trials with 1,447 young offenders found no significant effect on re-arrest (OR 1.00); evidence of low quality."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract via Europe PMC (PMID 23450592, DOI 10.1002/14651858.CD008898.pub2)."
+
+- id: "oranga-tamariki/2026_youth-justice-fgc"
+  title: "Youth justice family group conferences"
+  publisher: "Oranga Tamariki - Ministry for Children"
+  date: "2026"
+  url: "https://www.orangatamariki.govt.nz/youth-justice/family-group-conferences/"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "Youth justice conferences bring the young person, family, victims and police together to agree a plan; section 4A of the Oranga Tamariki Act 1989 weighs victims' interests and accountability."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read page body; the Act itself on legislation.govt.nz was bot-blocked; no outcome data checked."
+
+# --- 7. Watching the watchers and open records ---
+
+- id: "spesialenheten/2026_annual-report-2025"
+  title: "The Norwegian Bureau for the Investigation of Police Affairs: Annual Report 2025"
+  publisher: "Spesialenheten for politisaker"
+  date: "2026-08"
+  url: "https://www.spesialenheten.no/wp-content/uploads/2026/08/arsrapport-spesialenheten-2025-engelsk-versjon.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "Founded 1 January 2005 after the earlier SEFO system lost public trust; 2025: 1,305 reports, 430 investigated, 34 punitive outcomes (3% of reports); investigators all have police backgrounds; anonymised full decisions published."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read pages 7-10 (20-year review) and pages 28-31 (statistics, appeals)."
+
+- id: "iopc/2026_investigations"
+  title: "Investigations"
+  publisher: "Independent Office for Police Conduct"
+  date: "2026"
+  url: "https://www.policeconduct.gov.uk/our-work/investigations"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "About 7,000 police referrals in 2024/25; most not independently investigated; local, directed and independent investigation types."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read page body."
+
+- id: "iopc/2026_performance-framework-august-2026"
+  title: "IOPC Performance Framework 2026/27 - August 2026"
+  publisher: "Independent Office for Police Conduct"
+  date: "2026-10-01"
+  url: "https://www.policeconduct.gov.uk/sites/default/files/documents/20260901-Performance-Stats-August-FINAL.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IX"]
+  supports: "72.5% of core independent investigations completed within 12 months in 2025/26 against a 75% target."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the key performance indicator table."
+
+- id: "cjeu/2021_latvian-penalty-points"
+  title: "Press Release No 109/21: Judgment in Case C-439/19 Latvijas Republikas Saeima (Penalty points)"
+  publisher: "Court of Justice of the European Union"
+  date: "2021-06-22"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2021-06/cp210109en.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "GDPR precludes making traffic-offence penalty points public; offence data needs enhanced protection; disclosure risks social disapproval and stigmatisation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read pages 1-3 of the press release."
+
+- id: "uk/1992_sexual-offences-amendment-act-s1"
+  title: "Sexual Offences (Amendment) Act 1992, section 1"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "1992"
+  url: "https://www.legislation.gov.uk/ukpga/1992/34/section/1"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Lifelong ban on publishing material likely to identify a complainant of a sexual offence."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Section 1 read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed."
+
+- id: "eu/2012_directive-2012-29"
+  title: "Directive 2012/29/EU establishing minimum standards on the rights, support and protection of victims of crime"
+  publisher: "European Parliament and Council of the European Union"
+  date: "2012-10-25"
+  url: "https://publications.europa.eu/resource/celex/32012L0029"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "Article 21: authorities may protect victims' privacy and must be able to prevent public dissemination of information identifying a child victim."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read Article 21 via the Publications Office."
+
+- id: "uk/1974_rehabilitation-of-offenders-act-s4"
+  title: "Rehabilitation of Offenders Act 1974, section 4 (Effect of rehabilitation)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "1974"
+  url: "https://www.legislation.gov.uk/ukpga/1974/53/section/4"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "A person with a spent conviction is treated in law as never having committed or been convicted of the offence, subject to exceptions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Section 4 read only through a summarising fetch; raw text (page and data.xml) blocked by a bot check, so exact wording not confirmed."

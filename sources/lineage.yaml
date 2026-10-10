@@ -1,0 +1,613 @@
+- id: "tst/2026_about-us"
+  title: "About Us (The Seven Fundamental Tenets)"
+  publisher: "The Satanic Temple"
+  date: "2026"
+  url: "https://thesatanictemple.com/pages/about-us"
+  tier: "primary"
+  kind: "web"
+  parts: ["II"]
+  supports: "Current wording of the Seven Fundamental Tenets; TST's Enlightenment-inspiration statement; poster download; advocacy 'in accordance with our tenets'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Fetched page text; tenets I-VII under 'There are Seven FUNDAMENTAL TENETS'; Enlightenment sentence under 'Seek knowledge & pursue noble works'. Undated page; text as of 10 Oct 2026."
+
+- id: "tst/2013_nine-tenets"
+  title: "Fundamental Tenets of the Satanic Temple"
+  publisher: "The Satanic Temple (Internet Archive Wayback Machine capture)"
+  date: "2013-01-16"
+  url: "https://web.archive.org/web/20130116090744/http://www.thesatanictemple.com/fundamental-tenets-of-the-satanic-temple/"
+  tier: "primary"
+  kind: "web"
+  parts: ["II"]
+  supports: "The nine-tenet versions of January 2013 and July-December 2013, before the seven-tenet text."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the 16 Jan 2013 capture (nine tenets, 'choir of nine Angels', 'compassion and wisdom'). Also read homepage captures of 22 Jul, 3 Nov and 12 Dec 2013 (e.g. https://web.archive.org/web/20131212065107/http://www.thesatanictemple.com/) showing a revised nine-tenet list."
+
+- id: "tst/2014_seven-tenets"
+  title: "The Satanic Temple, homepage Tenets section"
+  publisher: "The Satanic Temple (Internet Archive Wayback Machine capture)"
+  date: "2014-01-15"
+  url: "https://web.archive.org/web/20140115192324/http://www.thesatanictemple.com/"
+  tier: "primary"
+  kind: "web"
+  parts: ["II"]
+  supports: "Earliest capture found with seven tenets; 2014 wording including 'and justice', 'should prevail over laws and institutions' and 'forego your own'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the Tenets section of the 15 Jan 2014 capture. The previous content capture (12 Dec 2013) shows nine tenets; a 28 Jul 2014 capture of /about-us/35-2/ also shows seven."
+
+- id: "tst/2019_legal-notice"
+  title: "Legal Trademark and Copyright Notice"
+  publisher: "The Satanic Temple"
+  date: "2019"
+  url: "https://thesatanictemple.com/pages/legal-notices"
+  tier: "primary"
+  kind: "web"
+  parts: ["II"]
+  supports: "TST's registered trademarks and copyrights; '© 2019 All rights reserved'; no terms specific to the tenets."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full notice at the top of the page; it names the trademarks and copyrights and gives no licence or attribution terms for the tenets."
+
+- id: "npr/2018_satanists-sue-netflix"
+  title: "Satanists Sue Netflix, Warner Bros. For $150M, Saying 'Sabrina' Copied Their Statue"
+  authors: ["Colin Dwyer"]
+  publisher: "NPR (republished by WJCT Public Media)"
+  date: "2018-11"
+  url: "https://www.wjct.org/uncategorized/2018/11/satanists-sue-netflix-warner-bros-for-150m-saying-sabrina-copied-their-statue/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["II"]
+  supports: "TST sued Netflix and Warner Bros. in 2018 over its Baphomet statue design; Lucien Greaves described as co-founder."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full article on WJCT's republication of the NPR story; the exact day of publication is not shown on the page."
+
+- id: "raworth/2012_safe-and-just-space"
+  title: "A Safe and Just Space for Humanity: Can We Live Within the Doughnut?"
+  authors: ["Kate Raworth"]
+  publisher: "Oxfam"
+  date: "2012-02"
+  url: "https://policy-practice.oxfam.org/resources/a-safe-and-just-space-for-humanity-can-we-live-within-the-doughnut-210490/"
+  tier: "primary"
+  kind: "report"
+  parts: ["Preamble", "III"]
+  supports: "Origin of the Preamble's phrase 'a safe and just space for humanity'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the Oxfam Policy & Practice landing page: title, date 13/02/2012, author and summary using 'safe and just space'. The paper PDF was not opened."
+
+- id: "aha/1933_humanist-manifesto-i"
+  title: "Humanist Manifesto I"
+  publisher: "American Humanist Association"
+  date: "1933"
+  url: "https://americanhumanist.org/humanism/humanist-manifesto-i/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "II"]
+  supports: "Critique of 'acquisitive and profit-motivated society'; call for 'a socialized and cooperative economic order'; 'man is a part of nature'; now superseded by Manifesto III."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text (theses First to Fifteenth) and the AHA note that it is historic and superseded by Manifesto III."
+
+- id: "aha/1973_humanist-manifesto-ii"
+  title: "Humanist Manifesto II"
+  authors: ["Paul Kurtz", "Edwin H. Wilson"]
+  publisher: "American Humanist Association"
+  date: "1973"
+  url: "https://americanhumanist.org/humanism/humanist-manifesto-ii/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "I", "II", "OQ"]
+  supports: "World community and transnational federal government, keeping national pride; no single state ideology; guaranteed annual income; reducing wealth disproportions; single ecosystem and population growth."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text; claims are in articles Ninth, Eleventh, Twelfth, Fourteenth and Fifteenth."
+
+- id: "aha/2003_humanist-manifesto-iii"
+  title: "Humanist Manifesto III: Humanism and Its Aspirations"
+  publisher: "American Humanist Association"
+  date: "2003"
+  url: "https://americanhumanist.org/humanism/humanist-manifesto-iii/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "II", "XI"]
+  supports: "Values subject to change as knowledge advances; 'global community'; just distribution of nature's resources; planetary duty to protect nature; 22 Nobel laureate signers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text and the AHA introduction on the page."
+
+- id: "kurtz/2000_humanist-manifesto-2000"
+  title: "Humanist Manifesto 2000: A Call for a New Planetary Humanism"
+  authors: ["Paul Kurtz"]
+  publisher: "Council for Secular Humanism"
+  date: "2000"
+  url: "https://web.archive.org/web/20060904194544/http://www.secularhumanism.org/index.php?section=main&page=manifesto"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "I", "XII"]
+  supports: "'Planetary Humanism'; a Planetary Bill of Rights going beyond the UDHR; UN World Parliament, income tax for poorer countries, end of the veto, environmental agency, world court; free markets as one strategy."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the Council's abridged web version (sections I-X) in a 2006 Wayback capture; claims are in sections VI, VII, IX and X. The full book text was not read."
+
+- id: "humanists-international/2022_amsterdam-declaration"
+  title: "The Amsterdam Declaration 2022"
+  publisher: "Humanists International"
+  date: "2022"
+  url: "https://humanists.international/what-is-humanism/the-amsterdam-declaration/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "II"]
+  supports: "Reason and compassion; duty of care to future generations and sentient beings; rule of law; 'no one is infallible'; refusal to impose its view; adoption at the Glasgow General Assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full English text (points 1-4) and the history paragraph above it."
+
+- id: "earth-charter/2000_earth-charter"
+  title: "The Earth Charter"
+  publisher: "Earth Charter Commission (published by Earth Charter International)"
+  date: "2000-06-29"
+  url: "https://earthcharter.org/read-the-earth-charter/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "II", "X", "OQ"]
+  supports: "Preamble language; four pillars and 16 principles; precautionary burden of proof (principle 6); a common standard for all institutions; nations kept; population (principle 7)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the preamble, all four pillar pages (principles 1-16) and The Way Forward, linked from this page."
+
+- id: "earth-charter/2024_history"
+  title: "History"
+  publisher: "Earth Charter International"
+  date: "2024"
+  url: "https://earthcharter.org/about-the-earth-charter/history/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble"]
+  supports: "Drafting launched in 1994 by Strong and Gorbachev; text agreed at UNESCO in March 2000; launch on 29 June 2000; over 2,000 organizational endorsements, including UNESCO and IUCN."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full page; undated, site footer reads © 2000-2024."
+
+- id: "earth-charter/2024_faqs"
+  title: "FAQs"
+  publisher: "Earth Charter International"
+  date: "2024"
+  url: "https://earthcharter.org/about-the-earth-charter/faqs/"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble"]
+  supports: "The Earth Charter as 'a people's treaty' and 'a soft law document'; ECI based at the University for Peace, Costa Rica."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the FAQ answers on origin, purpose and use; undated, site footer reads © 2000-2024."
+
+- id: "un/1948_udhr"
+  title: "Universal Declaration of Human Rights"
+  publisher: "United Nations General Assembly"
+  date: "1948-12-10"
+  url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+  tier: "primary"
+  kind: "law"
+  parts: ["Preamble", "I", "II", "III"]
+  supports: "Articles mapped to the floor (1, 2, 7, 19-23, 25-27); nationality (15); religion (18); international order (28); abuse of rights (30); proclamation by resolution 217 A."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text on un.org; the page states proclamation on 10 December 1948 by resolution 217 A."
+
+- id: "un/1966_icescr"
+  title: "International Covenant on Economic, Social and Cultural Rights"
+  publisher: "United Nations General Assembly (text published by OHCHR)"
+  date: "1966-12-16"
+  url: "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["I", "II", "III"]
+  supports: "Arts. 1, 2, 3, 6-9, 11-13 and 15 mapped to the floor; progressive realization within available resources; States Parties as duty-bearers; entry into force 3 January 1976."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full text on OHCHR; adoption and entry-into-force dates are in the page header."
+
+- id: "un/2026_icescr-treaty-status"
+  title: "Status of Treaties: International Covenant on Economic, Social and Cultural Rights"
+  publisher: "United Nations Treaty Collection"
+  date: "2026-10-10"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&clang=_en"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["III"]
+  supports: "174 parties and 72 signatories; United States signed on 5 October 1977 and has not ratified (as of 10 October 2026)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the status header (Signatories: 72; Parties: 174) and the participant row for the United States."
+
+- id: "un/2010_resolution-64-292"
+  title: "The human right to water and sanitation (A/RES/64/292)"
+  publisher: "United Nations General Assembly"
+  date: "2010-07-28"
+  url: "https://documents.un.org/doc/undoc/gen/n09/479/35/pdf/n0947935.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["III"]
+  supports: "Recognition of the right to safe and clean drinking water and sanitation; 2010 estimates of 884 million and 2.6 billion people without access."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the PDF text; operative paragraph 1 and the preambular paragraph on access figures."
+
+- id: "un/2010_a-64-pv-108"
+  title: "General Assembly, 64th session, 108th plenary meeting (A/64/PV.108)"
+  publisher: "United Nations General Assembly"
+  date: "2010-07-28"
+  url: "https://documents.un.org/doc/undoc/gen/n10/466/29/pdf/n1046629.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III"]
+  supports: "Adoption of resolution 64/292 by 122 votes to none, with 41 abstentions; abstainers included the US, UK, Canada and Japan."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the PDF text: recorded vote lists and the adoption sentence for draft A/64/L.63/Rev.1."
+
+- id: "bolivia/2010_rights-of-mother-earth"
+  title: "Letter dated 7 May 2010 from the Permanent Representative of the Plurinational State of Bolivia (A/64/777), annex II: Draft universal declaration of the rights of Mother Earth"
+  publisher: "United Nations General Assembly"
+  date: "2010-05-07"
+  url: "https://documents.un.org/doc/undoc/gen/n10/356/85/pdf/n1035685.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["II", "III", "X", "OQ"]
+  supports: "Cochabamba conference of 20-22 April 2010; the declaration's text (rights of all beings, freedom from cruelty, duties on States, 'the capitalist system'); 24 April date in the UN translation; call for General Assembly adoption."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the PDF text of the covering letter and annex II, preamble and Articles 1-4."
+
+- id: "garn/2026_mother-earth-declaration"
+  title: "Universal Declaration for the Rights of Mother Earth"
+  publisher: "Global Alliance for the Rights of Nature (GARN)"
+  date: "2026"
+  url: "https://www.garn.org/universal-declaration-for-the-rights-of-mother-earth/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["III", "X"]
+  supports: "Date of 22 April 2010; GARN youth petition for UN adoption, aiming for 1 million signatures by COP30."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the landing page. The hosted English PDF has broken font encoding, so the UN text (A/64/777) was used for wording. Undated page with 2026 uploads."
+
+- id: "nozick/1974_anarchy-state-utopia"
+  title: "Anarchy, State, and Utopia"
+  authors: ["Robert Nozick"]
+  publisher: "Basic Books"
+  date: "1974"
+  url: "https://www.hachettebookgroup.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/?lens=basic-books"
+  tier: "primary"
+  kind: "book"
+  parts: ["VI"]
+  supports: "The book itself; page-specific claims in the note come via Mack (SEP) and Skoble."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Only the publisher's page (2013 reissue, 400 pages) was reachable; the book text was not read."
+
+- id: "mack/2026_nozick-political-philosophy"
+  title: "Robert Nozick's Political Philosophy"
+  authors: ["Eric Mack"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2026-06-03"
+  url: "https://plato.stanford.edu/entries/nozick-political/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VI", "IV"]
+  supports: "Framework 'equivalent to' the minimal state (p. 333); no 'central authority' (p. 329); entry and exit; discovery procedure; three kinds of utopians (pp. 319-320); critique of patterned principles; 6% kibbutz figure."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read section 5 'Utopia' (5.1 and 5.2) and section 4.2 on end-state and patterned principles; substantive revision dated 3 June 2026."
+
+- id: "skoble/2020_essential-nozick"
+  title: "The Essential Robert Nozick, chapter 7: A Framework for Utopia"
+  authors: ["Aeon J. Skoble"]
+  publisher: "Fraser Institute"
+  date: "2020"
+  url: "https://www.essentialscholars.org/sites/default/files/2023-01/essential-nozick-chapter-7.pdf"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VI"]
+  supports: "Quotations of Nozick with page numbers: p. 307, p. 319, pp. 320-21, p. 324."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full four-page chapter PDF (book pages 33-36); PDF metadata dated September 2020."
+
+- id: "hirschman/1970_exit-voice-loyalty"
+  title: "Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States"
+  authors: ["Albert O. Hirschman"]
+  publisher: "Harvard University Press"
+  date: "1970"
+  url: "https://www.hup.harvard.edu/books/9780674276604"
+  tier: "primary"
+  kind: "book"
+  parts: ["VI", "XII", "OQ"]
+  supports: "Publisher's summary: exit often undercuts voice; loyalty retards exit and lets voice work."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Live page blocked by a bot check; read the publisher description in a Wayback capture of 31 Jan 2026 (https://web.archive.org/web/20260131114416/https://www.hup.harvard.edu/books/9780674276604). Book text not read."
+
+- id: "hirschman/1978_exit-voice-state"
+  title: "Exit, Voice, and the State"
+  authors: ["Albert O. Hirschman"]
+  publisher: "World Politics (Cambridge University Press)"
+  date: "1978-10"
+  url: "https://doi.org/10.2307/2009968"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI", "IV", "XII"]
+  supports: "Exit by the wealthy hailed as a restraint on arbitrary rule or taxation; capital flight now hinders reform; exit and statelessness."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core (World Politics 31(1): 90-107); full text paywalled."
+
+- id: "hirschman/1993_exit-voice-gdr"
+  title: "Exit, Voice, and the Fate of the German Democratic Republic: An Essay in Conceptual History"
+  authors: ["Albert O. Hirschman"]
+  publisher: "World Politics (Cambridge University Press)"
+  date: "1993-01"
+  url: "https://doi.org/10.2307/2950657"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI", "XII", "OQ"]
+  supports: "East Germany 1989: mass flight and mass demonstrations combined to bring down the regime, though previously experienced as alternatives."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core (World Politics 45(2): 173-202); full text paywalled."
+
+- id: "okin/2002_mistresses-of-their-own-destiny"
+  title: "\"Mistresses of Their Own Destiny\": Group Rights, Gender, and Realistic Rights of Exit"
+  authors: ["Susan Moller Okin"]
+  publisher: "Ethics (University of Chicago Press); reprinted by Oxford University Press, 2003"
+  date: "2002-01"
+  url: "https://doi.org/10.1093/0199253668.003.0013"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI"]
+  supports: "A formal right of exit is insufficient for girls and women; the state should require fair treatment within groups; criticism of Raz, Galston and Kukathas."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Original (Ethics 112(2): 205-230, doi 10.1086/324645) blocked by a bot check; read the OUP abstract of the 2003 reprint chapter via its Crossref record. Full text not read."
+
+- id: "kukathas/2003_liberal-archipelago"
+  title: "The Liberal Archipelago: A Theory of Diversity and Freedom"
+  authors: ["Chandran Kukathas"]
+  publisher: "Oxford University Press"
+  date: "2003"
+  url: "https://doi.org/10.1093/019925754X.001.0001"
+  tier: "primary"
+  kind: "book"
+  parts: ["VI"]
+  supports: "Freedom of association as the basic principle; authority rests on acquiescence; liberal societies should tolerate illiberalism; the state as umpire."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "OUP site blocked; read the OUP book abstract and chapter abstracts (chapters 2, 5 and 7) via Crossref records. Book text not read."
+
+- id: "sosis/2000_religion-intragroup-cooperation"
+  title: "Religion and Intragroup Cooperation: Preliminary Results of a Comparative Analysis of Utopian Communities"
+  authors: ["Richard Sosis"]
+  publisher: "Cross-Cultural Research"
+  date: "2000-02"
+  url: "https://richardsosis.com/wp-content/uploads/2023/01/2000-sosis-religion-and-intragroup-cooperation.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI", "XII"]
+  supports: "200 communes (88 religious, 112 secular); mean life 25.3 vs 6.4 years; secular communes four times as likely to dissolve within 2 years; Owenite 2.1 and Fourierist 3.2 years."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the author's PDF of Cross-Cultural Research 34(1): 70-87 (doi 10.1177/106939710003400105); Tables 1-3 and results text."
+
+- id: "sosis-bressler/2003_commune-longevity"
+  title: "Cooperation and Commune Longevity: A Test of the Costly Signaling Theory of Religion"
+  authors: ["Richard Sosis", "Eric R. Bressler"]
+  publisher: "Cross-Cultural Research"
+  date: "2003-05"
+  url: "https://richardsosis.com/wp-content/uploads/2023/01/2003-sosis-cooperation-and-commune-longevity-a-test.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI", "II", "XII"]
+  supports: "83 communes (30 religious, 53 secular); median life 25 vs 5 years; costly requirements predict longevity only in religious communes; causes of dissolution; Hutterites the sole survivor."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the author's PDF of Cross-Cultural Research 37(2): 211-239 (Crossref doi 10.1177/1069397103037002003); Table 2, results text and dissolution-causes paragraph."
+
+- id: "wikipedia/2026_terran"
+  title: "Terran (disambiguation page)"
+  publisher: "Wikipedia"
+  date: "2026-02-18"
+  url: "https://en.wikipedia.org/wiki/Terran"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "Existing fictional and commercial uses of 'Terran'; no entry for Terran Humanism, Terran Charter or Terran Commonwealth."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full page; last edited 18 February 2026."
+
+- id: "wikipedia/2025_terran-federation"
+  title: "Terran Federation (disambiguation page)"
+  publisher: "Wikipedia"
+  date: "2025-03-15"
+  url: "https://en.wikipedia.org/wiki/Terran_Federation_(disambiguation)"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "'Terran Federation' in Starship Troopers, Blake's 7, Starfire and H. Beam Piper's fiction."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the full page; last edited 15 March 2025. Wikipedia pages titled Terran_Commonwealth, Terran_Charter and Terran_Humanism returned 404 on 10 Oct 2026."
+
+- id: "wikipedia/2026_starship-troopers"
+  title: "Starship Troopers"
+  publisher: "Wikipedia"
+  date: "2026-10-09"
+  url: "https://en.wikipedia.org/wiki/Starship_Troopers"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "Heinlein's 1959 Terran Federation, where only veterans of Federal Service vote; the society frequently described as fascist."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the lead and the 'Allegations of fascism' section; last edited 9 October 2026."
+
+- id: "wikipedia/2026_mirror-universe"
+  title: "Mirror Universe"
+  publisher: "Wikipedia"
+  date: "2026-04-17"
+  url: "https://en.wikipedia.org/wiki/Mirror_Universe"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "Star Trek's 'totalitarian Terran Empire', whose humans are called Terrans."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the lead section; last edited 17 April 2026."
+
+- id: "wikipedia/2026_starcraft"
+  title: "StarCraft (video game)"
+  publisher: "Wikipedia"
+  date: "2026-08-25"
+  url: "https://en.wikipedia.org/wiki/StarCraft_(video_game)"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "The 1998 game in which Terrans are humans exiled from Earth."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the lead and gameplay summary; last edited 25 August 2026."
+
+- id: "relativity-space/2026_terran-r"
+  title: "Terran R"
+  publisher: "Relativity Space"
+  date: "2026"
+  url: "https://www.relativityspace.com/terran-r"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "I"]
+  supports: "Commercial use of 'Terran' as a rocket brand; Terran R launches planned from late 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the page text; it states launches from Launch Complex 16 'starting in late 2026'."
+
+- id: "registries/2026_terran-domains-whois"
+  title: "WHOIS and RDAP lookups for Terran domain names"
+  publisher: "Verisign (.com) and Public Interest Registry (.org)"
+  date: "2026-10-10"
+  url: "https://rdap.verisign.com/com/v1/domain/terranfederation.com"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["Preamble", "I", "XII"]
+  supports: "terrancharter, terranhumanism and terrancommonwealth unregistered in .com and .org; terran, terrans and terranfederation registered (creation years 1996-2019); no active organization site seen."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Queried whois.verisign-grs.com, whois.publicinterestregistry.org and rdap.verisign.com on 10 Oct 2026, then fetched each registered domain over HTTP(S); terranfederation.com sat behind a browser check."
+
+- id: "commonwealth/2026_about-us"
+  title: "About us"
+  publisher: "Commonwealth Secretariat"
+  date: "2026"
+  url: "https://thecommonwealth.org/about-us"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "I", "XII"]
+  supports: "The Commonwealth as a voluntary association of 56 countries, home to 2.7 billion people."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the opening paragraph; undated page as of 10 Oct 2026."
+
+- id: "commonwealth/2026_charter"
+  title: "Commonwealth Charter"
+  publisher: "Commonwealth Secretariat"
+  date: "2026"
+  url: "https://thecommonwealth.org/charter"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "I", "XII"]
+  supports: "Existence of a 'Commonwealth Charter' for an association of sovereign states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the page introduction and opening recitals; the adoption date is not shown on the page."

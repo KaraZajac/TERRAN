@@ -1,0 +1,1221 @@
+- id: us-supreme-court/1886_santa-clara-v-southern-pacific
+  title: "Santa Clara County v. Southern Pacific Railroad Co., 118 U.S. 394 (1886)"
+  publisher: "Supreme Court of the United States"
+  date: "1886-05-10"
+  url: "https://supreme.justia.com/cases/federal/us/118/394/"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "Syllabus says corporations are persons under the Equal Protection Clause; the opinion turned on fence assessment and did not reach other questions; Waite's pre-argument remark."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened Justia text: syllabus, reporter's statement with Waite's remark ('We are all of opinion that it does'), and Harlan opinion ('not necessary to consider any other questions')."
+
+- id: us-supreme-court/1978_first-national-bank-v-bellotti
+  title: "First National Bank of Boston v. Bellotti, 435 U.S. 765 (1978)"
+  publisher: "Supreme Court of the United States"
+  date: "1978-04-26"
+  url: "https://supreme.justia.com/cases/federal/us/435/765/"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "5-4 ruling striking the Massachusetts ban on corporate referendum spending; graduated income tax ballot question; 'identity of its source' quote; Burger on media corporations; Rehnquist on Santa Clara."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened Justia full text; syllabus vote line-up, Powell opinion (Part III), footnotes 1-3, Burger concurrence, Rehnquist dissent opening."
+
+- id: us-supreme-court/2010_citizens-united-v-fec
+  title: "Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)"
+  publisher: "Supreme Court of the United States"
+  date: "2010-01-21"
+  url: "https://supreme.justia.com/cases/federal/us/558/310/"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "Austin overruled; ban on corporate and union independent expenditures struck; disclosure upheld; no precedent for separating media corporations; Stevens dissent; plaintiff a nonprofit."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened Justia full text; syllabus holdings 2-3, majority Part III on the media exemption, Stevens dissent passage on 'We the People'."
+
+- id: move-to-amend/2025_we-the-people-amendment
+  title: "Move to Amend's Proposed Amendment to the Constitution"
+  publisher: "Move to Amend"
+  date: "2025-02-12"
+  url: "https://www.movetoamend.org/amendment"
+  tier: primary
+  kind: web
+  parts: ["V"]
+  supports: "Amendment text: constitutional rights for natural persons only; governments shall regulate, limit or prohibit contributions and expenditures; press clause."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page; Sections 1-3 of the amendment text and the line 'Introduced on February 12, 2025'."
+
+- id: us-congress/2025_hjres-54
+  title: "H.J.Res.54 - Proposing an amendment to the Constitution providing that the rights protected and extended by the Constitution are the rights of natural persons only (119th Congress): all actions"
+  publisher: "Congress.gov (Library of Congress)"
+  date: "2025-02-12"
+  url: "https://www.congress.gov/bill/119th-congress/house-joint-resolution/54/all-actions"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Introduced 12 Feb 2025 by Rep. Jayapal; referred to House Judiciary; no later action; 82 cosponsors as of 10 Oct 2026."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened all-actions page (Overview: latest action 02/12/2025, Actions (2), Cosponsors (82)); also opened the introduced text at congress.gov/119/bills/hjres54."
+
+- id: germany/1949_grundgesetz
+  title: "Basic Law for the Federal Republic of Germany (English translation)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1949-05-23"
+  url: "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Article 19(3): basic rights apply to domestic legal persons to the extent that the nature of such rights permits."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened official English translation; Article 19(3) text."
+
+- id: coe/1950_echr
+  title: "Convention for the Protection of Human Rights and Fundamental Freedoms (European Convention on Human Rights)"
+  publisher: "Council of Europe"
+  date: "1950-11-04"
+  url: "https://www.echr.coe.int/documents/d/echr/Convention_ENG"
+  tier: primary
+  kind: treaty
+  parts: ["V"]
+  supports: "Protocol 1 Article 1 protects 'every natural or legal person'; Article 34 lets non-governmental organisations bring applications."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF of the consolidated Convention; Article 34 and Protocol No. 1 Article 1."
+
+- id: echr/1998_bowman-v-uk
+  title: "Bowman v. the United Kingdom"
+  publisher: "European Court of Human Rights"
+  date: "1998-02-19"
+  url: "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-58134"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "GBP 5 limit on a campaigner's spending was a 'total barrier'; violation of Article 10 by 14 votes to 6."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened HUDOC judgment text; summary, para. 47, and operative part ('Holds by fourteen votes to six')."
+
+- id: echr/2013_animal-defenders-v-uk
+  title: "Animal Defenders International v. the United Kingdom [GC], no. 48876/08"
+  publisher: "European Court of Human Rights"
+  date: "2013-04-22"
+  url: "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-119244"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "Grand Chamber found no violation, 9-8, of the UK ban on paid political broadcast advertising (Communications Act 2003 s. 321(2)) as applied to an NGO."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened HUDOC judgment text; paras 3, 58-60 on s. 321 and operative part ('Holds, by nine votes to eight')."
+
+- id: canada/2000_canada-elections-act
+  title: "Canada Elections Act, S.C. 2000, c. 9"
+  publisher: "Government of Canada (Justice Laws Website)"
+  date: "2000"
+  url: "https://laws-lois.justice.gc.ca/eng/acts/E-2.01/FullText.html"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "s. 2 election advertising excludes editorials, news and similar content; s. 363 only citizens and permanent residents may contribute; s. 367 C$1,500 limit rising C$25 a year; s. 350 third-party limit C$350,000; corporations and groups may register as third parties."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened consolidated full text, current to 2026-09-21 and last amended 2026-09-16; ss. 2, 349.01, 350, 363, 367 and third-party registration provisions."
+
+- id: canada-tbs/2006_reforming-political-party-financing
+  title: "Reforming the financing of political parties (Federal Accountability Act fact sheet)"
+  publisher: "Treasury Board of Canada Secretariat"
+  date: "2006-04-11"
+  url: "https://www.tbs-sct.canada.ca/faa-lfi/fs-fi/16/01fs-fi-eng.asp"
+  tier: primary
+  kind: web
+  parts: ["V"]
+  supports: "Effective 1 January 2007 the Act bans contributions by corporations, unions and organizations and cuts the individual party limit from C$5,000 to C$1,000."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened fact sheet; 'The Action Plan' section lists the ban and new limits."
+
+- id: scc/2004_harper-v-canada
+  title: "Harper v. Canada (Attorney General), 2004 SCC 33, [2004] 1 S.C.R. 827"
+  publisher: "Supreme Court of Canada"
+  date: "2004-05-18"
+  url: "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/2146/1/document.do"
+  tier: primary
+  kind: court
+  parts: ["V"]
+  supports: "Third-party advertising limits (C$3,000 per riding, C$150,000 nationally) upheld under s. 1 to promote electoral fairness; McLachlin C.J., Major and Binnie JJ. dissenting in part."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened judgment PDF; headnote, paras 3-6 (limits), majority on the egalitarian model, disposition line."
+
+- id: transparency-france/2015_financement-vie-politique
+  title: "Financement de la vie politique : état des lieux et recommandations"
+  publisher: "Transparency International France"
+  date: "2015-06"
+  url: "https://transparency-france.org/wp-content/uploads/2016/04/Juin-2015_Financement-de-la-vie-politique_Etat-des-lieux-recommandations.pdf"
+  tier: secondary
+  kind: report
+  parts: ["V"]
+  supports: "Law of 19 January 1995 banned donations and in-kind benefits from legal persons other than parties; public funding and spending caps; micro-parties multiplied before the 2013 law."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF; history list of laws (1988-2013), section on party financing sources, and campaign-financing section on micro-parties."
+
+- id: france-senat/2021_question-12087-l52-8
+  title: "Question écrite n° 12087 (financement des campagnes par les partis) et réponse du ministère de l'Intérieur"
+  publisher: "Sénat (France)"
+  date: "2021-02-11"
+  url: "https://www.senat.fr/questions/base/2019/qSEQ190912087.html"
+  tier: primary
+  kind: web
+  parts: ["V"]
+  supports: "Code électoral L52-8 quoted: legal persons other than parties may not fund campaigns; EUR 4,600 per election for individuals; EUR 7,500 a year to parties; no cap on party funding of candidates; ministry did not treat pass-through as circumvention."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened question (JO Sénat 05/09/2019) and ministry answer (JO Sénat 11/02/2021); quotes of L52-8 and of article 11-4 of the 1988 law."
+
+- id: thelocal-fr/2025_sarkozy-bygmalion-final
+  title: "France's top court upholds ex-president Sarkozy's second conviction"
+  publisher: "The Local France"
+  date: "2025-11-26"
+  url: "https://www.thelocal.fr/20251126/frances-top-court-upholds-ex-president-sarkozys-second-conviction"
+  tier: secondary
+  kind: news
+  parts: ["V"]
+  supports: "Court of Cassation made the 2012 campaign-financing conviction final; prosecutors said nearly EUR 43 million was spent against a EUR 22.5 million cap."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; paragraphs on the Court of Cassation ruling and the Bygmalion spending figures."
+
+- id: uk/2000_ppera-section-54
+  title: "Political Parties, Elections and Referendums Act 2000, s. 54 (permissible donors)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2000"
+  url: "https://www.legislation.gov.uk/ukpga/2000/41/section/54"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Permissible donors include registered electors, UK-registered companies carrying on business in the UK, registered parties and trade unions."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; s. 54(2)(a)-(d)."
+
+- id: uk/2000_ppera-schedule-8a
+  title: "Political Parties, Elections and Referendums Act 2000, Schedule 8A (controlled expenditure)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2000"
+  url: "https://www.legislation.gov.uk/ukpga/2000/41/schedule/8A"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Controlled expenditure excludes publishing election matter, other than an advertisement, in newspapers, periodicals and licensed broadcasts."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; para. 2(1)(a)(i)-(iii)."
+
+- id: uk/2000_ppera-schedule-9
+  title: "Political Parties, Elections and Referendums Act 2000, Schedule 9 (limits on campaign expenditure)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2000"
+  url: "https://www.legislation.gov.uk/ukpga/2000/41/schedule/9"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Party limit at a general election is GBP 54,010 per constituency contested, with floors for England, Scotland and Wales."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; para. 3(2)-(4) with amended figures."
+
+- id: uk/2000_ppera-schedule-10
+  title: "Political Parties, Elections and Referendums Act 2000, Schedule 10 (limits on controlled expenditure)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2000"
+  url: "https://www.legislation.gov.uk/ukpga/2000/41/schedule/10"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Non-party campaigner limit in England is 2% of the maximum campaign expenditure limit; Scotland, Wales and Northern Ireland GBP 20,000 plus 2%; constituency limit 0.05%."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; para. 3(2) and (2A)."
+
+- id: uk/2000_ppera-schedule-14
+  title: "Political Parties, Elections and Referendums Act 2000, Schedule 14 (referendum expenses limits)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2000"
+  url: "https://www.legislation.gov.uk/ukpga/2000/41/schedule/14"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "UK-wide referendum limits: GBP 5 million for designated organisations; GBP 500,000 for other non-party permitted participants; parties GBP 0.5-5 million by vote share."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; para. 1(2)(a)-(c)."
+
+- id: ifg/2024_election-spending-explainer
+  title: "How is election spending regulated in the UK?"
+  authors: ["Finn Baker", "Ben Paxton"]
+  publisher: "Institute for Government"
+  date: "2024-05-22"
+  url: "https://www.instituteforgovernment.org.uk/explainer/election-spending-regulated-uk"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "Limits rose 80% in November 2023 (about GBP 34 million for 632 seats); Commission fines capped at GBP 20,000, bill of February 2026 would raise to GBP 500,000; no prosecution ever brought after referral."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened explainer (last updated 25 Mar 2026); sections on party limits and enforcement."
+
+- id: sfao/2026_political-funding-transparency-rules
+  title: "Transparency rules (political funding)"
+  publisher: "Swiss Federal Audit Office"
+  date: "2026"
+  url: "https://www.efk.admin.ch/en/transparency-rules/"
+  tier: primary
+  kind: web
+  parts: ["V"]
+  supports: "Since 2022, campaigns spending over CHF 50,000 on federal votes or elections disclose funding; donors above CHF 15,000 are named (PRA Art. 76 ff.)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); introductory paragraphs and 'Votes and elections' summary."
+
+- id: avis/2017_campaign-spending-limits-brazil
+  title: "Money and Politics: The Effects of Campaign Spending Limits on Political Competition and Incumbency Advantage"
+  authors: ["Eric Avis", "Claudio Ferraz", "Frederico Finan", "Carlos Varjão"]
+  publisher: "National Bureau of Economic Research (Working Paper 23508)"
+  date: "2017-06"
+  url: "https://www.nber.org/papers/w23508"
+  tier: primary
+  kind: article
+  parts: ["V"]
+  supports: "Stricter spending limits in Brazilian mayoral races enlarged and made less wealthy the candidate pool and reduced incumbency advantage."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, on the NBER working-paper page."
+
+- id: klumpp/2016_business-of-american-democracy
+  title: "The Business of American Democracy: Citizens United, Independent Spending, and Elections"
+  authors: ["Tilman Klumpp", "Hugo M. Mialon", "Michael A. Williams"]
+  publisher: "Journal of Law and Economics"
+  date: "2016"
+  url: "https://chicagounbound.uchicago.edu/jle/vol59/iss1/1/"
+  tier: primary
+  kind: article
+  parts: ["V"]
+  supports: "Citizens United associated with about a 4 percentage point rise in Republicans' election probabilities in state house races, 10+ in several states."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, on Chicago Unbound (vol. 59, no. 1)."
+
+- id: us-senate/2018_s3348-accountable-capitalism-act
+  title: "S. 3348, Accountable Capitalism Act (115th Congress)"
+  publisher: "US Government Publishing Office"
+  date: "2018-08-15"
+  url: "https://www.govinfo.gov/content/pkg/BILLS-115s3348is/html/BILLS-115s3348is.htm"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Covers entities with over $1 billion gross receipts; at least 2/5 of directors elected by employees; political spending over $10,000 per candidate needs 75% shareholder and 75% director approval."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened introduced text; definition of large entity, director-election section, and political-expenditure section. Later actions not checked."
+
+- id: epi/2026_ceo-pay-2025
+  title: "CEO pay surged in 2025: CEOs are paid 325 times as much as the typical worker"
+  authors: ["Elise Gould", "Josh Bivens"]
+  publisher: "Economic Policy Institute"
+  date: "2026-09-17"
+  url: "https://www.epi.org/blog/ceo-pay-surged-in-2025-ceos-are-paid-325-times-as-much-as-the-typical-worker/"
+  tier: secondary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "2025 average CEO pay at top 350 firms $27.9 million (+14.0%); ratio 325 (realized) and 247 (granted); 21 in 1965; Musk's $158 billion package excluded as not paid."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened post; key findings, Figure A data table (1965-2025), and the passage on Musk's package."
+
+- id: aflcio/2026_paywatch-12-things
+  title: "12 Things You Need To Know from AFL-CIO's 2026 Executive Paywatch Report"
+  publisher: "AFL-CIO"
+  date: "2026-08-13"
+  url: "https://aflcio.org/2026/8/13/12-things-you-need-know-afl-cios-2026-executive-paywatch-report"
+  tier: secondary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "S&P 500 CEOs averaged $22.8 million in 2025 excluding Musk; average ratio 312:1 (285:1 in 2024); 5,387:1 including Musk."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened post; items 1-2."
+
+- id: sec/2015_pay-ratio-rule
+  title: "SEC Adopts Rule for Pay Ratio Disclosure (press release 2015-160 and fact sheet)"
+  publisher: "US Securities and Exchange Commission"
+  date: "2015-08-05"
+  url: "https://www.sec.gov/news/pressrelease/2015-160.html"
+  tier: primary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "Ratio of CEO pay to median employee; all employees incl. non-US, part-time, temporary and seasonal; excludes contractors and unaffiliated third-party staff; 5% non-US de minimis; sampling; median identified once every three years; first fiscal years from 1 Jan 2017."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened press release and attached fact sheet sections on methodology, covered employees and compliance dates."
+
+- id: sec/2026_release-33-11419
+  title: "Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies (proposed rule, Release No. 33-11419)"
+  publisher: "US Securities and Exchange Commission"
+  date: "2026-05-19"
+  url: "https://www.sec.gov/files/rules/proposed/2026/33-11419.pdf"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Proposal would exempt non-accelerated filers from Item 402(u) pay-ratio disclosure and raise the large accelerated filer threshold to $2 billion; LAFs would be 19.2% of reporting companies vs 35.4% today."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF; summary, filer-status section (public float threshold), economic analysis on NAF pay-ratio exemption; dated May 19, 2026. Final-rule status not checked."
+
+- id: switzerland/2013_initiative-1-12-text
+  title: "Bundesbeschluss betreffend die Volksinitiative «1:12 – Für gerechte Löhne» vom 22. März 2013"
+  publisher: "Federal Assembly of the Swiss Confederation (via Swissvotes)"
+  date: "2013-03-22"
+  url: "https://swissvotes.ch/vote/575.00/abstimmungstext-de.pdf"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Proposed Art. 110a: highest wage no more than 12 times lowest in the same company; wage includes all benefits in money and kind; law to regulate exceptions and agency and part-time work."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened voting-text PDF; Art. 110a paras 1-2."
+
+- id: swissvotes/2013_vote-575-results
+  title: "Initiative «1:12 – Für gerechte Löhne» (vote no. 575)"
+  publisher: "Swissvotes"
+  date: "2013-11-24"
+  url: "https://swissvotes.ch/vote/575.00"
+  tier: secondary
+  kind: dataset
+  parts: ["V", "OQ"]
+  supports: "Rejected on 24 Nov 2013 with 34.70% yes and 0 of 23 cantons."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened vote page; 'Abstimmungsergebnis' line."
+
+- id: switzerland/2012_botschaft-1-12
+  title: "Botschaft zur Volksinitiative «1:12 – Für gerechte Löhne» vom 18. Januar 2012"
+  publisher: "Swiss Federal Council"
+  date: "2012-01-18"
+  url: "https://swissvotes.ch/vote/575.00/botschaft-de.pdf"
+  tier: primary
+  kind: report
+  parts: ["V", "OQ"]
+  supports: "Government warned firms might outsource tasks such as cleaning to soften the 1:12 rule; flagged enforcement and avoidance problems."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF; section on effects on firms (outsourcing of 'Reinigungsarbeiten') and section 5.5 on feasibility."
+
+- id: bank-of-israel/2024_executive-pay-cap-law
+  title: "Effectiveness of Executive Compensation Cap Law: Evidence from Israel (Discussion Paper 2024.07)"
+  authors: ["Meital Graham Rozen"]
+  publisher: "Bank of Israel"
+  date: "2024-07"
+  url: "https://boi.org.il/media/ijld4zdd/dp202407en.pdf"
+  tier: primary
+  kind: report
+  parts: ["V", "OQ"]
+  supports: "2016 law caps financial-firm executive pay at 35x the lowest paid, incl. outsourced staff; pay incl. shares and fees; no deduction above NIS 2.5 million; treated pay fell 27%; top-5 departures up 80%; stock returns no worse and risk-taking unchanged, but return on equity fell (return on assets unchanged); gaming routes incl. part-time hiring and vesting changes."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF; abstract, introduction (law description, footnote 2, summary of performance results incl. the ROE finding), results on pay (27%), turnover (15 to 27), and discussion of ratio gaming."
+
+- id: portland/2026_city-code-7-02-500
+  title: "Portland City Code 7.02.500 Tax Imposed and Rate (pay ratio surtax, subsection E)"
+  publisher: "City of Portland"
+  date: "2026"
+  url: "https://www.portland.gov/code/7/02/500"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "From tax years 2017, surtax of 10% of base tax at SEC-reported ratios of 100:1 to under 250:1 and 25% at 250:1 or more; applies to companies subject to SEC pay-ratio reporting."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened current code page (undated; year of access used); subsection E."
+
+- id: wweek/2026_portland-ceo-surtax-proposal
+  title: "Portland City Councilors Seek to Raise Taxes on Companies With Highly Paid CEOs and Exempt More Small Businesses From Business Tax"
+  authors: ["Sophie Peel"]
+  publisher: "Willamette Week"
+  date: "2026-09-23"
+  url: "https://www.wweek.com/news/city/2026/09/23/portland-councilors-seek-to-raise-taxes-on-companies-with-highly-paid-ceos/"
+  tier: secondary
+  kind: news
+  parts: ["V", "OQ"]
+  supports: "Councilors Morillo and Green proposed surtaxes from 25% (50-75x) to 500% (500x+), claiming $72 million a year more; business tax is 2.6% of net income."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; paragraphs describing the proposal and current tax."
+
+- id: sf-treasurer/2025_prop-m-business-tax-reform
+  title: "Proposition M (2024) - Business Tax Reform"
+  publisher: "San Francisco Office of the Treasurer and Tax Collector"
+  date: "2025-05-21"
+  url: "https://sftreasurer.org/prop-m-2024-business-tax-reform"
+  tier: primary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "Overpaid Executive Tax uses highest-paid managerial employee (anywhere) vs median city-based employee; 2025-26 gross-receipts rates 0.020% (100-200:1) to 0.120% (over 600:1); Prop M lowered rates and exempted firms with 1,000 or fewer US employees and $1 billion or less receipts."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (modified 2025-05-21); overview list and Overpaid Executive Tax rate table."
+
+- id: us-senate/2025_s2818-tax-excessive-ceo-pay
+  title: "S. 2818, Tax Excessive CEO Pay Act of 2025 (119th Congress)"
+  publisher: "US Government Publishing Office"
+  date: "2025-09-16"
+  url: "https://www.govinfo.gov/content/pkg/BILLS-119s2818is/html/BILLS-119s2818is.htm"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Corporate tax increase from +0.5 points above 50:1 to +5 above 500:1; CEO or highest-paid vs median; five-year annualized average; private firms with $100 million+ receipts covered; Treasury to prevent contractor substitution."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened introduced text; ratio definition, penalty table and anti-avoidance subsection. Later actions not checked."
+
+- id: eu/2013_directive-2013-36
+  title: "Directive 2013/36/EU on access to the activity of credit institutions and prudential supervision (CRD IV)"
+  publisher: "European Parliament and Council of the European Union"
+  date: "2013-06-26"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013L0036"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Art. 94(1): performance assessed in a multi-year framework; variable pay up to 100% of fixed (200% with shareholder approval); at least 40% deferred over three to five years; malus and clawback."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened original 2013 text on EUR-Lex; Article 94(1)(b), (g), (m), (n). Later amendments not checked."
+
+- id: fca/2023_ps23-15-bonus-cap
+  title: "PS23/15: Remuneration: Ratio between fixed and variable components of total remuneration"
+  publisher: "Financial Conduct Authority"
+  date: "2023-10-24"
+  url: "https://www.fca.org.uk/publications/policy-statements/ps23-15-remuneration-ratio-between-fixed-and-variable-components-total-remuneration"
+  tier: primary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "FCA and PRA removed the bonus cap from 31 October 2023, citing growth in fixed pay that reduced firms' ability to adjust pay for losses or misconduct."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened policy statement page; 'Why we are making these changes' and 'Next steps'."
+
+- id: hutton/2011_fair-pay-review
+  title: "Hutton Review of Fair Pay in the Public Sector: Final Report"
+  authors: ["Will Hutton"]
+  publisher: "HM Treasury"
+  date: "2011-03"
+  url: "https://dera.ioe.ac.uk/id/eprint/2562/1/hutton_fairpay_review.pdf"
+  tier: primary
+  kind: report
+  parts: ["V", "OQ"]
+  supports: "Rejected a fixed 20:1 maximum as unfair and a possible target; HMRC vs Land Registry example; recommended publishing top-to-median multiples (Recommendation 1)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened PDF; executive summary, Chapter 2 paras 2.1-2.4 and the HMRC/Land Registry example, Recommendation 1."
+
+- id: uk/2018_si-2018-860-pay-ratio
+  title: "The Companies (Miscellaneous Reporting) Regulations 2018 (SI 2018/860)"
+  publisher: "UK Government (legislation.gov.uk)"
+  date: "2018"
+  url: "https://www.legislation.gov.uk/uksi/2018/860/made"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Companies with over 250 UK employees report CEO pay against 25th, 50th and 75th percentile full-time-equivalent pay of UK employees."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened made version; paras 19A-19C of the inserted schedule and the explanatory note."
+
+- id: germany/1965_aktiengesetz-87
+  title: "Aktiengesetz (AktG) § 87 Grundsätze für die Bezüge der Vorstandsmitglieder"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1965"
+  url: "https://www.gesetze-im-internet.de/aktg/__87.html"
+  tier: primary
+  kind: law
+  parts: ["V", "OQ"]
+  supports: "Listed companies' variable board pay should have a multi-year assessment basis; supervisory board should agree a cap for extraordinary developments."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened current § 87 text, para. (1). Date is that of the parent act."
+
+- id: us-dol/2026_federal-minimum-wage
+  title: "Minimum Wage"
+  publisher: "US Department of Labor, Wage and Hour Division"
+  date: "2026"
+  url: "https://www.dol.gov/agencies/whd/minimum-wage"
+  tier: primary
+  kind: web
+  parts: ["V", "OQ"]
+  supports: "Federal minimum wage is $7.25 per hour, effective 24 July 2009 (basis for the note's 50x/100x arithmetic)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); overview paragraph."
+
+- id: co-op-news/2025_co-operative-approaches-to-pay
+  title: "Co-operative approaches to pay"
+  authors: ["Alice Toomer-McAlpine"]
+  publisher: "Co-operative News"
+  date: "2025-03-18"
+  url: "https://www.thenews.coop/co-operative-approaches-to-pay/"
+  tier: secondary
+  kind: news
+  parts: ["V", "OQ"]
+  supports: "Mondragon ratio 1:3 at founding (1956), 1:4.5 in the 1970s, 1:6 since 1988; set by cooperatives' general assemblies."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; Mondragon section."
+
+- id: kasmir/2016_mondragon-successes-challenges
+  title: "The Mondragon Cooperatives: Successes and Challenges"
+  authors: ["Sharryn Kasmir"]
+  publisher: "Global Dialogue (International Sociological Association)"
+  date: "2016-02-13"
+  url: "https://globaldialogue.isa-sociology.org/articles/the-mondragon-cooperatives-successes-and-challenges"
+  tier: secondary
+  kind: article
+  parts: ["V", "OQ"]
+  supports: "One member, one vote; managerial pay limit about 9:1; global from 1990 with about 100 non-cooperative subsidiaries; half of businesses co-ops and a third of employees members; Fagor bankruptcy (5,600 jobs; contract and subsidiary workers not protected)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; paragraphs on structure, pay, subsidiaries and Fagor."
+
+- id: mondragon/2026_about-us
+  title: "Introduction, MONDRAGON Corporation (About us)"
+  publisher: "MONDRAGON Corporation"
+  date: "2026"
+  url: "https://www.mondragon-corporation.com/en/about-us/"
+  tier: primary
+  kind: web
+  parts: ["V"]
+  supports: "Project launched in 1956; 81 self-governing cooperatives, around 70,000 people, 12 R&D centres; principles include wage solidarity."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); 'About us' figures and basic principles list."
+
+- id: geo/2013_mondragon-cooperative-faltering
+  title: "Major Mondragon Co-operative Faltering: General Council declares Fagor Electrodomesticos 'not viable'"
+  publisher: "Grassroots Economic Organizing (GEO)"
+  date: "2013-11-04"
+  url: "https://geo.coop/story/major-mondragon-co-operative-faltering"
+  tier: secondary
+  kind: news
+  parts: ["V"]
+  supports: "Fagor sales down 37% since 2007; total debt about EUR 800 million; General Council called the plan not viable."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; opening paragraphs and quoted General Council statement."
+
+- id: fortune/2013_fagor-workers-lock-in
+  title: "Defiant Spanish workers stage lock-in, resist layoffs"
+  publisher: "Fortune"
+  date: "2013-11-27"
+  url: "https://fortune.com/2013/11/27/defiant-spanish-workers-stage-lock-in-resist-layoffs/"
+  tier: secondary
+  kind: news
+  parts: ["V"]
+  supports: "Fagor debts EUR 859 million; Mondragon lent about EUR 300 million; workers voted pay cuts reaching about 20%."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; paragraphs on revenues, debts and pay cuts."
+
+- id: co-op-news/2023_ulma-orona-leave-mondragon
+  title: "New trouble for Mondragon as two industrial co-ops leave the fold"
+  authors: ["Miles Hadfield"]
+  publisher: "Co-operative News"
+  date: "2023-02-01"
+  url: "https://www.thenews.coop/new-trouble-for-mondragon-as-two-industrial-co-ops-leave-the-fold/"
+  tier: secondary
+  kind: news
+  parts: ["V"]
+  supports: "Ulma and Orona voted to leave on 16 Dec 2022 (11,000 of 80,000 workers; 15% of sales); end of 10% profit contributions to a common fund; Ampo and Irizar left in 2008."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened article; first five paragraphs."
+
+- id: kelso-institute/2026_important-dates
+  title: "Important Dates in the History of Binary Economics"
+  publisher: "Kelso Institute"
+  date: "2026"
+  url: "https://kelsoinstitute.org/louiskelso/kelso-paradigm/important-dates/"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "1956 Kelso devised the ESOP leveraged buyout for Peninsula Newspapers; 1974 ERISA wrote the ESOP into the Internal Revenue Code."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); entries for 1956, 1973 and 1974."
+
+- id: us/1974_erisa-section-407
+  title: "29 U.S.C. § 1107 (ERISA § 407), Limitation with respect to acquisition and holding of employer securities"
+  publisher: "US Congress (via Cornell Legal Information Institute)"
+  date: "1974-09-02"
+  url: "https://www.law.cornell.edu/uscode/text/29/1107"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Subsection (d)(6) defines an ESOP as a qualified stock bonus plan designed to invest primarily in qualifying employer securities; Pub. L. 93-406 of 2 Sept 1974."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened LII text; (d)(6) and source credit line."
+
+- id: nceo/2026_employee-ownership-by-the-numbers
+  title: "Employee Ownership by the Numbers"
+  publisher: "National Center for Employee Ownership"
+  date: "2026-01"
+  url: "https://www.nceo.org/articles/esops-by-the-numbers"
+  tier: secondary
+  kind: dataset
+  parts: ["V"]
+  supports: "2023: 6,609 ESOPs, 15.1 million participants; 511 public-company plans with 12.2 million; 6,098 private plans with 2.9 million; 6,669 plans in 2015."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (updated January 2026); Table 1 and Table 5 (2015-2023)."
+
+- id: nceo/2026_how-an-esop-works
+  title: "How an Employee Stock Ownership Plan (ESOP) Works"
+  publisher: "National Center for Employee Ownership"
+  date: "2026"
+  url: "https://www.nceo.org/what-is-employee-ownership/esop-employee-stock-ownership-plan"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "Shares held in trust and voted by the trustee; in closely held firms employees direct votes only in a few situations such as an asset sale; full vesting within six years or three-year cliff."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); 'ESOP Company Governance' and vesting rules."
+
+- id: uk/2014_finance-act-schedule-37
+  title: "Finance Act 2014, Schedule 37 (employee-ownership trusts)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2014"
+  url: "https://www.legislation.gov.uk/ukpga/2014/26/schedule/37"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "No-gain/no-loss treatment for disposals giving an employee-ownership trust a controlling interest (over 50%) with all-employee benefit on the same terms; income-tax-free bonuses up to GBP 3,600; no employee voting requirement in the relief conditions."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; new TCGA ss. 236H-236N and ITEPA bonus exemption."
+
+- id: uk/2025_finance-act-schedule-6
+  title: "Finance Act 2025, Schedule 6 (employee-ownership trusts)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2025"
+  url: "https://www.legislation.gov.uk/ukpga/2025/8/schedule/6"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "For disposals from 30 Oct 2024: UK-resident trustees; excluded participators under 50% of trustees and without control; price not above market value; disqualifying-event period extended to four tax years."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened revised text; paras 2-7 and new s. 236LA."
+
+- id: uk/2026_finance-act-section-35
+  title: "Finance Act 2026, s. 35 (restriction of relief on disposals to employee-ownership trusts)"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2026"
+  url: "https://www.legislation.gov.uk/ukpga/2026/11/section/35"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "For disposals from 26 Nov 2025 only 50% of the gain on a sale to an employee-ownership trust is chargeable."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened section text; new s. 236H(2A) and commencement subsection (4)."
+
+- id: eoa/2026_uk-closes-in-on-3000
+  title: "Growth Strategy Update: UK Closes in on 3,000 Employee Owned Businesses"
+  publisher: "Employee Ownership Association"
+  date: "2026-09-03"
+  url: "https://employeeownership.co.uk/Site/content/News-and-Insights/News/uk-closes-in-3000-employee-owned-businesses.aspx"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "2,925 UK employee-owned businesses; 125 transitions so far in 2026; target 7,500 by 2030."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened news item; first paragraph (Employee Ownership Business Register data)."
+
+- id: sweden/1983_prop-1983-84-50
+  title: "Regeringens proposition 1983/84:50 om löntagarfonder"
+  publisher: "Government of Sweden (Sveriges riksdag)"
+  date: "1983-11-04"
+  url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/om-lontagarfonder_g70350/html/"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Five fund boards in the AP pension system; nine government-appointed members, at least five for employee interests; 20% profit-sharing tax above an exemption and 0.2-point pension levy; under 8% of a listed company's shares or votes per fund; history of Meidner's 1975 book and 1976 LO report with three aims."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened scanned bill (Swedish); summary on p. 1, profit-sharing tax law § 2, fund rules on the 8% limit, and history section citing Meidner and the 1976 LO congress."
+
+- id: sweden/1991_prop-1991-92-36
+  title: "Regeringens proposition 1991/92:36 om avveckling av löntagarfonderna"
+  publisher: "Government of Sweden (Sveriges riksdag)"
+  date: "1991-10-24"
+  url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/om-avveckling-av-lontagarfonderna_gf0336/html/"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Funds wound up by the Bildt government; inflows ended after 1990 by design; SEK 22,369 million in assets on 31 Aug 1991; assets to savings incentives and research; argued funds incompatible with private saving."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened bill (Swedish); summary, background section 2.1, asset table and the minister's reasoning."
+
+- id: meidner/1978_employee-investment-funds
+  title: "Employee Investment Funds: An Approach to Collective Capital Formation"
+  authors: ["Rudolf Meidner"]
+  publisher: "George Allen & Unwin"
+  date: "1978"
+  url: ""
+  tier: primary
+  kind: book
+  parts: ["V"]
+  supports: "Would confirm the original 1975-76 plan's mechanism (share issues to wage-earner funds); not confirmed in this pass."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: unverified
+    note: "No accessible copy found without a web search (search budget exhausted); flagged for a follow-up pass."
+
+- id: pontusson/1992_swedish-wage-earner-funds
+  title: "Swedish Wage-Earner Funds: An Experiment in Economic Democracy"
+  authors: ["Jonas Pontusson", "Sarosh Kuruvilla"]
+  publisher: "ILR Review"
+  date: "1992-07"
+  url: "https://doi.org/10.1177/001979399204500412"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Funds generally met financial objectives but influence was limited by size and the seven-year (1984-90) inflow restriction."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata for the DOI."
+
+- id: pontusson/1993_labor-initiated-reforms
+  title: "The Comparative Politics of Labor-Initiated Reforms"
+  authors: ["Jonas Pontusson"]
+  publisher: "Comparative Political Studies"
+  date: "1993-01"
+  url: "https://doi.org/10.1177/0010414093025004005"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Wage-earner funds a failure case: reforms that challenge capital provoke countermobilization unless they appeal broadly."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata; scispace PDF blocked."
+
+- id: westerberg/2022_wage-earner-funds-market-turn
+  title: "From Marxist Venture to Venture Capitalists: The Swedish Wage-Earner Funds and the Market Turn, 1983-1994"
+  authors: ["Rikard Westerberg"]
+  publisher: "Enterprise & Society"
+  date: "2022-06-23"
+  url: "https://doi.org/10.1017/eso.2022.23"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Funds slightly underperformed financial targets; dismantled in 1991 for ideological reasons; assets to research foundations and public venture capital funds."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata."
+
+- id: whyman/2004_wage-earner-funds-myth-reality
+  title: "An Analysis of Wage-Earner Funds in Sweden: Distinguishing Myth from Reality"
+  authors: ["Philip Whyman"]
+  publisher: "Economic and Industrial Democracy"
+  date: "2004-08"
+  url: "https://doi.org/10.1177/0143831X04044833"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Mixed results: favourable financial and macroeconomic performance limited by scale; employee influence inconsistent."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata."
+
+- id: warner/2025_asymmetric-mobilisation
+  title: "'What is it actually about?' Asymmetric mobilisation and the defeat of wage-earner fund policies in Sweden"
+  authors: ["Neil Warner"]
+  publisher: "Economic and Industrial Democracy"
+  date: "2025-05-03"
+  url: "https://doi.org/10.1177/0143831X251336584"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Capital owners mobilised against the funds as an existential threat while most Social Democratic leaders, voters and members saw the issue as remote."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata."
+
+- id: perotin/2013_worker-cooperatives
+  title: "Worker Cooperatives: Good, Sustainable Jobs in the Community"
+  authors: ["Virginie Pérotin"]
+  publisher: "Journal of Entrepreneurial and Organizational Diversity"
+  date: "2013"
+  url: "https://jeodonline.com/wp-content/uploads/2016/06/perotinultimo.pdf"
+  tier: secondary
+  kind: article
+  parts: ["V"]
+  supports: "Worker co-ops present in most industries, often larger, survive at least as well, probably more productive; few exist because very few are created; entry barriers, law against demutualisation, density effects; Estrin and Jones on capital access."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened full PDF (JEOD 2(2): 34-47, DOI 10.5947/jeod.2013.009); sections 2-3 and the conclusion."
+
+- id: burdin/2014_worker-managed-firms-uruguay
+  title: "Are Worker-Managed Firms More Likely to Fail Than Conventional Enterprises? Evidence from Uruguay"
+  authors: ["Gabriel Burdín"]
+  publisher: "ILR Review"
+  date: "2014-01"
+  url: "https://doi.org/10.1177/001979391406700108"
+  tier: primary
+  kind: article
+  parts: ["V"]
+  supports: "Hazard of dissolution 29% lower for worker-managed firms after excluding microenterprises and controlling for tax; linked to employment stability."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher page returned 403; abstract and conclusions excerpt read from Crossref metadata (vol. 67, no. 1, pp. 202-238)."
+
+- id: dow/2003_governing-the-firm
+  title: "Governing the Firm: Workers' Control in Theory and Practice"
+  authors: ["Gregory K. Dow"]
+  publisher: "Cambridge University Press"
+  date: "2003"
+  url: "https://www.cambridge.org/core/books/governing-the-firm/EBDB30B708EF0A88AB94466ACA666B74"
+  tier: secondary
+  kind: book
+  parts: ["V"]
+  supports: "Rarity of workers' control traced to labour's inalienability: financing problems, collective choice dilemmas, and no market for control positions."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Book description on Cambridge Core (also in Crossref metadata, DOI 10.1017/CBO9780511615849); chapters not opened."
+
+- id: hansmann/1996_ownership-of-enterprise
+  title: "The Ownership of Enterprise"
+  authors: ["Henry Hansmann"]
+  publisher: "Harvard University Press"
+  date: "1996"
+  url: "https://www.hup.harvard.edu/books/9780674001718"
+  tier: secondary
+  kind: book
+  parts: ["V"]
+  supports: "Ownership forms explained by the balance between costs of market contracting and costs of ownership."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Publisher description only (paperback edition page); worker-ownership chapters not opened."
+
+- id: italy/1992_legge-59
+  title: "Legge 31 gennaio 1992, n. 59, Nuove norme in materia di società cooperative, art. 11"
+  publisher: "Italian Parliament (Normattiva)"
+  date: "1992-01-31"
+  url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-31;59~art11"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Federation mutual funds exclusively promote and finance new cooperatives; member cooperatives pay 3% of annual profits; residual assets of liquidated cooperatives go to the funds."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened Article 11 (text in force); paras 1-5."
+
+- id: germany/1976_mitbestimmungsgesetz
+  title: "Gesetz über die Mitbestimmung der Arbeitnehmer (Mitbestimmungsgesetz - MitbestG)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1976-05-04"
+  url: "https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "Covers AG, KGaA, GmbH and cooperatives with usually over 2,000 employees (§ 1), counted group-wide (§ 5); equal boards of 12, 16 or 20 (§ 7); chair by two-thirds or shareholder side (§ 27); chair's second vote on repeated tie (§ 29)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened current consolidated text; §§ 1, 5, 7, 27, 29."
+
+- id: germany/2004_drittelbeteiligungsgesetz
+  title: "Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat (Drittelbeteiligungsgesetz - DrittelbG)"
+  publisher: "Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "2004-05-18"
+  url: "https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html"
+  tier: primary
+  kind: law
+  parts: ["V"]
+  supports: "One third of supervisory board for companies with usually over 500 employees; non-family AGs registered before 10 Aug 1994 covered below 500 (§ 1); composition (§ 4)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened current consolidated text; §§ 1, 2, 4."
+
+- id: etui/2026_board-level-representation-across-europe
+  title: "Industrial relations across Europe: board-level employee representation"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2026"
+  url: "https://www.worker-participation.eu/National-Industrial-Relations/Across-Europe"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "Board-level representation in private and public sectors in 14 of 30 states, public sector only in five more; thresholds 25 to 1,000 employees; seats from one to half."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened page (undated; year of access used); 'Board-level employee representation' paragraph."
+
+- id: etui/2026_sweden
+  title: "National industrial relations: Sweden"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2026"
+  url: "https://www.worker-participation.eu/national-industrial-relations/countries/sweden"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "Board representation from 25 employees: two members (three at 1,000+ across industries), never a majority; PTK 2020 estimate of a shortage of about 50,000 employee board members."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened country page ('Updated in 2026'); board-level representation section."
+
+- id: etui/2026_norway
+  title: "National industrial relations: Norway"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2026"
+  url: "https://www.worker-participation.eu/national-industrial-relations/countries/norway"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "One employee board member from 30 employees; one third above 50."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened country page (no update year shown; year of access used); board-level representation section."
+
+- id: etui/2025_denmark
+  title: "National industrial relations: Denmark"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2025"
+  url: "https://www.worker-participation.eu/national-industrial-relations/countries/denmark"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "From 35 employees, if a majority of employees vote for it; half the owners' seats, at least two; 20% of eligible companies had employee board members in 2021."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened country page ('Updated in 2025'); board-level representation section."
+
+- id: etui/2026_austria
+  title: "National industrial relations: Austria"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2026"
+  url: "https://www.worker-participation.eu/national-industrial-relations/countries/austria"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "Works council chooses one third of the supervisory board; all AGs and most GmbHs with at least 300 employees must have one."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened country page ('Updated in 2026'); board-level representation section."
+
+- id: etui/2025_france
+  title: "National industrial relations: France"
+  publisher: "European Trade Union Institute (worker-participation.eu)"
+  date: "2025"
+  url: "https://www.worker-participation.eu/national-industrial-relations/countries/france"
+  tier: secondary
+  kind: web
+  parts: ["V"]
+  supports: "SAs with 1,000+ employees in France or 5,000+ worldwide: one employee director on boards of up to eight, two above eight (PACTE 2019)."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: verified
+    note: "Opened country page ('Updated in 2025'); 'The extent of board-level employee representation'."
+
+- id: jager/2021_labor-in-the-boardroom
+  title: "Labor in the Boardroom"
+  authors: ["Simon Jäger", "Benjamin Schoefer", "Jörg Heining"]
+  publisher: "The Quarterly Journal of Economics"
+  date: "2021"
+  url: "https://doi.org/10.1093/qje/qjaa038"
+  tier: primary
+  kind: article
+  parts: ["V"]
+  supports: "One-third board mandate had no effect on wages, wage structure, rent sharing or labour share; if anything increased capital formation."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: partial
+    note: "Abstract only, read from Crossref metadata (vol. 136, no. 2, pp. 669-725; online 30 Oct 2020)."
+
+- id: gorton/2004_codetermination
+  title: "Capital, Labor, and the Firm: A Study of German Codetermination"
+  authors: ["Gary Gorton", "Frank A. Schmid"]
+  publisher: "Journal of the European Economic Association"
+  date: "2004-09"
+  url: "https://doi.org/10.1162/1542476042782260"
+  tier: primary
+  kind: article
+  parts: ["V"]
+  supports: "Older study of parity codetermination and firm value; findings not checked."
+  checked:
+    by: claude
+    on: "2026-10-10"
+    result: unverified
+    note: "Crossref confirms bibliographic data (vol. 2, no. 5, pp. 863-905) but has no abstract; publisher page returned 403."

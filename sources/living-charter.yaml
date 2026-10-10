@@ -1,0 +1,964 @@
+- id: "germany/1949_grundgesetz"
+  title: "Basic Law for the Federal Republic of Germany (English translation)"
+  publisher: "German Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1949"
+  url: "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 79(2) two-thirds rule and Art. 79(3) eternity clause; content of Arts. 1 and 20; Art. 146 lapse on adoption of a new constitution."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the full English translation (includes amendments to 22 March 2025); read Arts. 1, 20, 79 and 146 directly."
+
+- id: "brazil/1988_constitution"
+  title: "Brazil's Constitution of 1988 with Amendments through 2017"
+  publisher: "Constitute Project"
+  date: "1988"
+  url: "https://www.constituteproject.org/constitution/Brazil_2017.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 60 §2 (three-fifths in two rounds) and §4 (subjects that may not be abolished, including individual rights)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 19 Oct 2023); read Art. 60 in full."
+
+- id: "brazil/2026_constituicao-compilada"
+  title: "Constituição da República Federativa do Brasil de 1988 (texto compilado)"
+  publisher: "Presidência da República (Planalto)"
+  date: "2026"
+  url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "The official compiled text cites Constitutional Amendment No. 139 of 2026, showing frequent amendment despite Art. 60 §4."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the official compiled text; the highest amendment cited is 'Emenda Constitucional nº 139, de 2026'. Amendment count inferred from numbering, not an official tally."
+
+- id: "italy/1947_constitution"
+  title: "Constitution of the Italian Republic"
+  publisher: "Constitutional Court of the Italian Republic (hosted by the Quirinale)"
+  date: "1947"
+  url: "https://www.quirinale.it/allegati_statici/costituzione/costituzione_inglese.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 138 (two debates at least three months apart; referendum on request unless two-thirds) and Art. 139 (republican form unamendable)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the English PDF (text includes amendments to 2023); read Arts. 138-139. The Senate's copy returned a bot challenge."
+
+- id: "roznai/2014_unconstitutional-amendments-thesis"
+  title: "Unconstitutional Constitutional Amendments: A Study of the Nature and Limits of Constitutional Amendment Powers"
+  authors: ["Yaniv Roznai"]
+  publisher: "London School of Economics and Political Science (PhD thesis)"
+  date: "2014"
+  url: "https://researchonline.lse.ac.uk/id/eprint/132337/1/Roznai_Unconstitutional-constitutional-amendments.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["XI", "II"]
+  supports: "Counts of unamendable provisions (735 constitutions; 17%, 27%, 53%; 28% overall); Kesavananda 7-6 and case-by-case doctrine; Italy 1146/1988; no German amendment voided under Art. 79(3) as of 2014; Brazil ADI 939; dead-hand and revolution objections."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the full thesis PDF. Counts in Ch. 2 (printed p. 28); India in Ch. 3 s. II (pp. 55-57); Germany and Brazil in Ch. 7 (p. 187); Italy and objections in Ch. 8."
+
+- id: "roznai/2014_amending-unamendable-provisions"
+  title: "Amending 'Unamendable' Provisions"
+  authors: ["Yaniv Roznai"]
+  publisher: "Constitutional Change (constitutional-change.com)"
+  date: "2014-10-20"
+  url: "https://www.constitutional-change.com/amending-unamendable-provisions/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["XI"]
+  supports: "Most unamendable provisions are not self-entrenched; double-amendment risk; Portugal's 1989 removal of its unamendable collective-ownership principle."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the blog post dated 20 October 2014; claims in the opening paragraphs."
+
+- id: "pai/2023_kesavananda-golden-jubilee"
+  title: "Golden Jubilee Of Kesavananda Bharati: Celebration And Introspection"
+  authors: ["V. Sudhish Pai"]
+  publisher: "LiveLaw"
+  date: "2023-04-24"
+  url: "https://www.livelaw.in/top-stories/kesavananda-bharati-judgment-basic-structure-doctrine-parliament-power-to-amend-constitution-fundamental-rights-227023"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XI"]
+  supports: "Kesavananda Bharati was delivered on 24 April 1973 by a 7:6 majority."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the article; date and 7:6 majority stated in the body. The judgment itself (Indian Kanoon) returned a bot challenge."
+
+- id: "vora/2025_why-sc-struck-down-njac"
+  title: "Why did the SC strike down the NJAC Act in 2015?"
+  authors: ["Advay Vora"]
+  publisher: "Supreme Court Observer"
+  date: "2025-04-04"
+  url: "https://www.scobserver.in/journal/why-did-the-sc-strike-down-the-njac-act-in-2015/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["XI", "II"]
+  supports: "In October 2015 the Supreme Court struck down the 99th Amendment (NJAC) 4:1, testing whether judicial primacy in appointments was preserved; the Law Minister sat on the commission."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the analysis page; 4:1 outcome and the primacy test in the section on why the NJAC was struck down."
+
+- id: "france/2016_decision-2016-737-dc"
+  title: "Décision n° 2016-737 DC du 4 août 2016 (Loi pour la reconquête de la biodiversité, de la nature et des paysages)"
+  publisher: "Conseil constitutionnel"
+  date: "2016-08-04"
+  url: "https://www.conseil-constitutionnel.fr/decision/2016/2016737DC.htm"
+  tier: "primary"
+  kind: "court"
+  parts: ["XI", "III"]
+  supports: "Wording of the non-regression principle added to the Environment Code; it binds the regulatory power, while the legislature may amend or repeal earlier laws."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the decision; the principle is quoted at paras. 7-10 and the legislature's freedom stated at para. 11. Legifrance returned a bot challenge."
+
+- id: "cescr/1990_general-comment-3"
+  title: "General Comment No. 3: The nature of States parties' obligations (art. 2, para. 1, of the Covenant)"
+  publisher: "UN Committee on Economic, Social and Cultural Rights"
+  date: "1990"
+  url: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=INT%2FCESCR%2FGEC%2F4758&Lang=en"
+  tier: "primary"
+  kind: "report"
+  parts: ["XI", "III"]
+  supports: "Para. 9: deliberately retrogressive measures require the most careful consideration and full justification."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the English .doc from the OHCHR treaty body database (fifth session, 1990; contained in E/1991/23); read para. 9."
+
+- id: "leeds/2026_good-life-for-all-site"
+  title: "A Good Life For All Within Planetary Boundaries"
+  publisher: "University of Leeds"
+  date: "2026"
+  url: "https://goodlife.leeds.ac.uk/"
+  tier: "primary"
+  kind: "web"
+  parts: ["XI", "III"]
+  supports: "No country currently meets the basic needs of its residents at a globally sustainable level of resource use (2018 study)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the project home page; statement under 'National Snapshots'. Page undated; dated 2026 from the site footer, matching the id used by the floor-and-ceiling strand."
+
+- id: "elster/2000_ulysses-unbound"
+  title: "Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints"
+  authors: ["Jon Elster"]
+  publisher: "Cambridge University Press"
+  date: "2000"
+  url: "https://www.cambridge.org/core/books/abs/ulysses-unbound/preface-and-acknowledgments/6AEA4ECD5522129D20070A1D6B8A827B"
+  tier: "secondary"
+  kind: "book"
+  parts: ["XI"]
+  supports: "Elster's revision of constitutions as self-binding; quotes Seip ('In politics, people never try to bind themselves, only to bind others') and the wax-in-the-ears line."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the Cambridge Core preface page (preface text shown) and the Chapter II summary page; both quotes are in the preface."
+
+- id: "jefferson/1789_letter-to-madison"
+  title: "Thomas Jefferson to James Madison, 6 Sept. 1789"
+  authors: ["Thomas Jefferson"]
+  publisher: "The Founders' Constitution (University of Chicago Press)"
+  date: "1789-09-06"
+  url: "https://press-pubs.uchicago.edu/founders/documents/v1ch2s23.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["XI", "X"]
+  supports: "'that the earth belongs in usufruct to the living'; constitutions and laws expire after 19 years; derivation from Buffon's mortality table; limited-duration law more manageable than repeal."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the full transcription (Papers 15:392-97); quotes checked verbatim. Founders Online returned a bot challenge."
+
+- id: "madison/1790_letter-to-jefferson"
+  title: "James Madison to Thomas Jefferson, 4 Feb. 1790"
+  authors: ["James Madison"]
+  publisher: "The Founders' Constitution (University of Chicago Press)"
+  date: "1790-02-04"
+  url: "https://press-pubs.uchicago.edu/founders/documents/v1ch2s24.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["XI"]
+  supports: "Objections to periodic revision: 'too mutable', 'pernicious factions', and the risk of an interregnum."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the full transcription; phrases checked verbatim."
+
+- id: "sweden/1974_instrument-of-government"
+  title: "Sweden's Constitution of 1974 with Amendments through 2012"
+  publisher: "Constitute Project"
+  date: "1974"
+  url: "https://www.constituteproject.org/constitution/Sweden_2012.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Instrument of Government Ch. 8 Arts. 14-16: two identical decisions with an election between, the nine-month rule, and the referendum rule."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 27 Apr 2022); read Ch. 8 Arts. 14-17. Later changes checked only for the pending 2025 reform."
+
+- id: "riksdagen/2025_enhanced-protection-democracy"
+  title: "Enhanced protection of democracy and the independence of the courts"
+  publisher: "Sveriges riksdag"
+  date: "2025-10-01"
+  url: "https://www.riksdagen.se/en/news/articles/2025/oct/1/enhanced-protection-of-democracy-and-the_cms4009ce55-725f-49f3-a7a5-9623a9d76295en/"
+  tier: "primary"
+  kind: "news"
+  parts: ["XI"]
+  supports: "Riksdag adopted, as a pending decision, a rule requiring half of members for the first decision and two-thirds for the second after an election; proposed entry into force 1 April 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the Riksdag news article published 1 October 2025."
+
+- id: "riksdagen/2026_amendments-pending-decision"
+  title: "Constitutional amendments pending decision"
+  publisher: "Sveriges riksdag"
+  date: "2026-06-16"
+  url: "https://www.riksdagen.se/en/news/articles/2026/jun/16/constitutional-amendments-pending-decision_cms2d688979-b1a3-4158-90eb-f6bf86a98087en/"
+  tier: "primary"
+  kind: "news"
+  parts: ["XI"]
+  supports: "As of 16 June 2026 the reform awaited a second identical decision in the coming electoral period."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the Riksdag article published 16 June 2026. No report of the second vote was found by 10 October 2026."
+
+- id: "netherlands/1815_grondwet"
+  title: "Grondwet voor het Koninkrijk der Nederlanden"
+  publisher: "Overheid.nl (wetten.overheid.nl)"
+  date: "1815-08-24"
+  url: "https://wetten.overheid.nl/BWBR0001840/2023-02-22"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 137: a law declares the amendment; the newly elected Tweede Kamer, then the Eerste Kamer, adopt it at second reading by two-thirds of votes cast."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the consolidated text valid from 22 February 2023, consulted 10 October 2026; read Art. 137 in Dutch. The page flags amendments without a commencement date."
+
+- id: "denmark/1953_constitutional-act"
+  title: "Denmark's Constitution of 1953"
+  publisher: "Constitute Project"
+  date: "1953"
+  url: "https://www.constituteproject.org/constitution/Denmark_1953.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "s.88: bill, election, re-passage unamended, referendum within six months; needs a majority of voters and at least 40% of the electorate in favour (an approval threshold, not a turnout floor)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 14 Apr 2022); read s.88 (Part X)."
+
+- id: "switzerland/1999_federal-constitution"
+  title: "Switzerland's Constitution of 1999 with Amendments through 2014"
+  publisher: "Constitute Project"
+  date: "1999"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 139 (100,000 signatures in 18 months), Art. 140 (mandatory referendum), Art. 142 (majority of people and cantons), Art. 193 (total revision; new elections if voters approve)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the PDF export of this Constitute page (Switzerland_2014.pdf, generated 27 Apr 2022); Arts. 139-142 and 192-195."
+
+- id: "ireland/1937_constitution"
+  title: "Constitution of Ireland"
+  publisher: "Irish Statute Book"
+  date: "1937"
+  url: "https://www.irishstatutebook.ie/eli/cons/en/html"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Arts. 46-47: amendment bills pass both Houses, then a referendum decided by a majority of votes cast."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the current HTML text; read Arts. 46-47."
+
+- id: "referendum-ie/2024_previous-referendums"
+  title: "Previous Referendums"
+  publisher: "Referendum Returning Officer (Ireland)"
+  date: "2024"
+  url: "https://www.referendum.ie/previous-referendums/"
+  tier: "primary"
+  kind: "web"
+  parts: ["XI"]
+  supports: "List of referendums, including two on 22 May 2015 and the blasphemy referendum of 26 October 2018."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the list page: 43 dated constitutional referendums from 1959 to March 2024, plus the 1937 plebiscite. Results are not on the page."
+
+- id: "us/1787_constitution"
+  title: "The Constitution of the United States: A Transcription"
+  publisher: "U.S. National Archives"
+  date: "1787-09-17"
+  url: "https://www.archives.gov/founding-docs/constitution-transcript"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. V: two-thirds of both Houses (or a convention) to propose; three-quarters of states to ratify; equal Senate suffrage entrenched."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the transcript; read Art. V."
+
+- id: "us/1992_amendments-11-27"
+  title: "The Constitution: Amendments 11-27"
+  publisher: "U.S. National Archives"
+  date: "1992-05-07"
+  url: "https://www.archives.gov/founding-docs/amendments-11-27"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "27 amendments; the 27th was proposed on 25 Sept. 1789 and ratified on 7 May 1992."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the page; read the Amendment XXVII entry."
+
+- id: "drapcho/2022_nh-ballot-measures"
+  title: "Ballot measures on N.H. constitutional convention, county offices appear to fail"
+  authors: ["Adam Drapcho"]
+  publisher: "New Hampshire Public Radio (Granite State News Collaborative)"
+  date: "2022-11-09"
+  url: "https://www.nhpr.org/nh-news/2022-11-09/nh-ballot-questions-2022-election-results"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XI"]
+  supports: "New Hampshire amendments need two-thirds of voters; a Register of Probate clean-up won 63.7% (partial count) and failed; a convention got 33.9%; convention proposals need three-fifths of delegates; last convention dated 1982."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the article (with editor's correction note); figures based on about 78% of polling places."
+
+- id: "nevada/1864_constitution"
+  title: "Constitution of the State of Nevada"
+  publisher: "Nevada Legislature"
+  date: "1864"
+  url: "https://www.leg.state.nv.us/Const/NvConst.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. 19 §2(4): initiated constitutional amendments must be approved at two successive general elections."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the full text; read Art. 19 §2(4)."
+
+- id: "fisher/2024_nevada-two-election-requirement"
+  title: "Voters in Nevada must approve Question 6, related to abortion, and Question 7, related to voter ID, again due to Nevada's two-election requirement"
+  authors: ["Nicole Fisher"]
+  publisher: "Ballotpedia News"
+  date: "2024-11-12"
+  url: "https://news.ballotpedia.org/2024/11/12/voters-in-nevada-must-approve-question-6-related-to-abortion-and-question-7-related-to-voter-id-again-due-to-nevadas-two-election-requirement/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XI"]
+  supports: "Since 1980, 13 of 17 initiated amendments passed the second vote; yes-share fell in 14 of 17, by 8.7 points on average; 72.4% to 33.0% (2016/2018); ranked-choice measure 53% to 47%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the article; statistics in the body text. Ballotpedia's main measure pages returned a bot challenge."
+
+- id: "venice-commission/2022_code-of-good-practice-referendums"
+  title: "Revised Code of Good Practice on Referendums, CDL-AD(2022)015"
+  publisher: "European Commission for Democracy through Law (Venice Commission), Council of Europe"
+  date: "2022-06-20"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2022)015-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["XI", "OQ"]
+  supports: "Advises against turnout and approval quorums; accepts an approval quorum or qualified majority for matters of fundamental constitutional significance (including secession where allowed), and multiple majorities for revisions in federal states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the PDF (adopted 17-18 June 2022); read guideline III.7 and paras. 62-65."
+
+- id: "lutz/1994_theory-constitutional-amendment"
+  title: "Toward a Theory of Constitutional Amendment"
+  authors: ["Donald S. Lutz"]
+  publisher: "American Political Science Review"
+  date: "1994"
+  url: "https://ideas.repec.org/a/cup/apsrev/v88y1994i02p355-370_09.html"
+  tier: "secondary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Constitution length, amendment difficulty and amendment rate interlock; based on all 50 US states and 32 national constitutions."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened the abstract on IDEAS/RePEc (APSR 88(2): 355-370); full text not opened."
+
+- id: "ginsburg-melton/2014_amendment-rule-matter"
+  title: "Does the Constitutional Amendment Rule Matter at All? Amendment Cultures and the Challenges of Measuring Amendment Difficulty"
+  authors: ["Tom Ginsburg", "James Melton"]
+  publisher: "University of Chicago Law School (Public Law and Legal Theory Working Paper No. 472); later International Journal of Constitutional Law 13 (2015)"
+  date: "2014-05"
+  url: "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1917&context=public_law_and_legal_theory"
+  tier: "secondary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Difficulty measures correlate poorly; institutions are not the primary determinant of amendment rates; amendment culture predicts better; Lutz's index ranks the US most rigid; flexible constitutions should last longer; judicial review may not substitute for amendment."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the full working paper (May 2014); claims in the introduction, the section on Lutz, the results and the conclusion. The 2015 journal version was not opened."
+
+- id: "elkins-ginsburg-melton/2009_endurance-national-constitutions"
+  title: "The Endurance of National Constitutions"
+  authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"]
+  publisher: "Cambridge University Press"
+  date: "2009"
+  url: "https://clinecenter.illinois.edu/node/206"
+  tier: "secondary"
+  kind: "book"
+  parts: ["XI"]
+  supports: "Only half of national constitutions live more than nineteen years."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened the Cline Center page reproducing the publisher's description; the book was not opened."
+
+- id: "dinan/2010_mandatory-convention-referendums"
+  title: "The Political Dynamics of Mandatory State Constitutional Convention Referendums: Lessons from the 2000s Regarding Obstacles and Pathways to their Passage"
+  authors: ["John J. Dinan"]
+  publisher: "Montana Law Review"
+  date: "2010"
+  url: "https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=2018&context=mlr"
+  tier: "secondary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Fourteen states with mandatory convention referendums and their intervals; 30 approvals and 25 conventions in US history, half from New Hampshire; no Oklahoma vote since 1970; Hawaii 1996 blank-vote challenge."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the full PDF (71 Mont. L. Rev. 395); figures on pp. 395 and 402-403."
+
+- id: "dinan/2022_prevalence-state-conventions"
+  title: "Explaining the Prevalence of State Constitutional Conventions in the Nineteenth and Twentieth Centuries"
+  authors: ["John Dinan"]
+  publisher: "Journal of Policy History"
+  date: "2022"
+  url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/56913797B260E375E566F7DDFBD9F8D3/S0898030622000094a.pdf/explaining-the-prevalence-of-state-constitutional-conventions-in-the-nineteenth-and-twentieth-centuries.pdf"
+  tier: "secondary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Last full-scale convention was Rhode Island 1986, after an automatic referendum; voters fear a 'Pandora's box'; Hawaii 1996 and Maryland 2010 had more yes than no votes but were deemed insufficient."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the open-access PDF (vol. 34, no. 3); claims in the introduction and notes 1-4."
+
+- id: "michigan/1963_constitution"
+  title: "Constitution of Michigan of 1963, Article XII, Section 3"
+  publisher: "Michigan Legislature"
+  date: "1963"
+  url: "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Article-XII-3"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "The general-revision question goes to voters in 1978 and each 16th year thereafter, which puts it on the 2026 general election ballot."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the section text. The 2026 ballot listing itself was not checked."
+
+- id: "florida/1968_constitution"
+  title: "Constitution of the State of Florida"
+  publisher: "The Florida Senate"
+  date: "1968"
+  url: "https://www.flsenate.gov/Laws/Constitution"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI"]
+  supports: "Art. XI §2: a 37-member revision commission in 2017 and every twentieth year, filing proposals for the ballot; Art. XI §5: 60% voter approval."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the full text; read Art. XI §§2 and 5. Results of the 2018 commission proposals were not checked (the results site is script-driven)."
+
+- id: "nysboe/2017_convention-question-results"
+  title: "2017 General Election: constitutional convention question (Proposal One) results"
+  publisher: "New York State Board of Elections"
+  date: "2017"
+  url: "https://elections.ny.gov/election-results"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XI"]
+  supports: "New York's November 2017 vote on whether to call a constitutional convention (result not confirmed)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "The results page links only to a script-driven archive; guessed PDF paths returned 404; the shared web-search budget was exhausted. Needs a follow-up."
+
+- id: "citizens-assembly-ie/2026_convention-on-the-constitution"
+  title: "Convention on the Constitution (2013-2014)"
+  publisher: "The Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/"
+  tier: "primary"
+  kind: "web"
+  parts: ["XI"]
+  supports: "Approved July 2012; 66 randomly selected citizens, 33 politicians and a chair; government accepted six constitutional recommendations; two referendums in May 2015; marriage equality passed with 62.1%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the archive page. Page undated (footer 2026); the latest event it reports is the government response of 14 January 2016. Id matches the deliberation strand."
+
+- id: "canada/1982_charter-of-rights"
+  title: "Canadian Charter of Rights and Freedoms (Constitution Act, 1982, Part I), section 33"
+  publisher: "Department of Justice Canada (Justice Laws Website)"
+  date: "1982"
+  url: "https://laws-lois.justice.gc.ca/eng/const/page-12.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI", "II"]
+  supports: "s.33: legislatures may override certain rights; each declaration lapses after five years unless re-enacted."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the page; read s.33(1)-(5)."
+
+- id: "south-africa/1996_constitution"
+  title: "South Africa's Constitution of 1996 with Amendments through 2012"
+  publisher: "Constitute Project"
+  date: "1996"
+  url: "https://www.constituteproject.org/constitution/South_Africa_2012.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["XI", "II"]
+  supports: "s.39 interpretation clause ('spirit, purport and objects'); s.74 tiered, self-entrenched amendment rules (75% of the National Assembly and six provinces for s.1 and s.74(1))."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 27 Apr 2022); read ss. 1, 39 and 74."
+
+- id: "canada-scc/2004_same-sex-marriage-reference"
+  title: "Reference re Same-Sex Marriage, 2004 SCC 79"
+  publisher: "Supreme Court of Canada"
+  date: "2004-12-09"
+  url: "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/2196/index.do"
+  tier: "primary"
+  kind: "court"
+  parts: ["XI", "II"]
+  supports: "The living tree as a fundamental interpretive principle (para. 22); Edwards' 'within its natural limits' quoted (para. 26); natural-limits argument rejected for lack of an objective core (paras. 27-28)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the judgment through its iframe view; read paras. 22-28."
+
+- id: "uk-jcpc/1929_edwards-v-canada"
+  title: "Edwards v Attorney-General for Canada, [1930] AC 124 (the Persons case)"
+  publisher: "Judicial Committee of the Privy Council"
+  date: "1929"
+  url: "https://www.bailii.org/uk/cases/UKPC/1929/1929_86.html"
+  tier: "primary"
+  kind: "court"
+  parts: ["XI", "II"]
+  supports: "Origin of the 'living tree' metaphor and the phrase 'capable of growth and expansion within its natural limits'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "BAILII served an anti-scraping challenge and CanLII a JavaScript block; the wording was checked only as quoted in 2004 SCC 79, para. 26."
+
+- id: "un/1969_vienna-convention-law-of-treaties"
+  title: "Vienna Convention on the Law of Treaties"
+  publisher: "United Nations"
+  date: "1969-05-23"
+  url: "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["XI", "II", "OQ"]
+  supports: "Art. 31(1) general rule of interpretation; Art. 56 no withdrawal absent a clause; Art. 70 obligations created before termination survive."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the UN PDF; read Arts. 31, 56 and 70."
+
+- id: "canada-scc/1998_secession-reference"
+  title: "Reference re Secession of Quebec, [1998] 2 SCR 217"
+  publisher: "Supreme Court of Canada"
+  date: "1998-08-20"
+  url: "https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1643/index.do"
+  tier: "primary"
+  kind: "court"
+  parts: ["OQ", "XII", "II"]
+  supports: "No unilateral secession; a clear majority on a clear question triggers a duty to negotiate; four underlying principles; primacy of the written text (para. 53); 'two legitimate majorities'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the judgment through its iframe view; read the headnote and paras. 32, 53, 88, 111 and 126, and the passage on negotiation."
+
+- id: "canada/2000_clarity-act"
+  title: "Clarity Act (S.C. 2000, c. 26)"
+  publisher: "Department of Justice Canada (Justice Laws Website)"
+  date: "2000-06-29"
+  url: "https://laws-lois.justice.gc.ca/eng/acts/c-31.8/FullText.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ"]
+  supports: "The Commons decides within 30 days whether a question is clear; a clear majority weighs size of majority and turnout; no unilateral right; terms must cover assets and liabilities, borders, Aboriginal rights and minority protection."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the consolidated full text (assented 29 June 2000; page modified 28 September 2026); read ss. 1-3."
+
+- id: "commons-library/2017_article-50-process"
+  title: "Brexit: how does the Article 50 process work?"
+  authors: ["Vaughne Miller", "Arabella Lang", "Jack Simson Caird"]
+  publisher: "House of Commons Library"
+  date: "2017-01-16"
+  url: "https://researchbriefings.files.parliament.uk/documents/CBP-7551/CBP-7551.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["XII", "OQ"]
+  supports: "Text of Art. 50 TEU: constitutional requirements, notification, negotiated agreement, two-year limit unless unanimously extended, rejoining under Art. 49."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded briefing CBP-7551; Art. 50 reproduced in section 1.1. EUR-Lex and legislation.gov.uk returned bot challenges."
+
+- id: "commons-library/2021_brexit-timeline"
+  title: "Brexit timeline: events leading to the UK's exit from the European Union"
+  authors: ["Nigel Walker"]
+  publisher: "House of Commons Library"
+  date: "2021-01-06"
+  url: "https://commonslibrary.parliament.uk/research-briefings/cbp-7960/"
+  tier: "secondary"
+  kind: "report"
+  parts: ["XII", "OQ"]
+  supports: "Notice 29 March 2017; extensions agreed 21 March, 10 April and 28 October 2019; exit 31 January 2020; transition ended 31 December 2020."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the briefing summary page (CBP-7960)."
+
+- id: "icc/1998_rome-statute"
+  title: "Rome Statute of the International Criminal Court"
+  publisher: "International Criminal Court"
+  date: "1998"
+  url: "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["XII", "OQ"]
+  supports: "Art. 127: withdrawal takes effect one year after notice; obligations arising while a Party, cooperation in investigations begun before withdrawal, and matters already before the Court survive."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the ICC PDF (2024 edition); read Art. 127."
+
+- id: "liechtenstein/1921_constitution"
+  title: "Liechtenstein's Constitution of 1921 with Amendments through 2011"
+  publisher: "Constitute Project"
+  date: "1921-10-05"
+  url: "https://www.constituteproject.org/constitution/Liechtenstein_2011.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ"]
+  supports: "Art. 4(2): communes may secede; a majority of resident voters starts the procedure; secession by law or treaty; a second commune ballot after negotiations."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF; read Art. 4. Date of the 1921 Constitution from the Lilex page title."
+
+- id: "liechtenstein/2003_constitutional-law-lgbl-2003-186"
+  title: "Verfassungsgesetz vom 16. März 2003 über die Abänderung der Verfassung vom 5. Oktober 1921 (LGBl. 2003 Nr. 186)"
+  publisher: "Lilex, Rechtsdienst der Regierung (Liechtenstein)"
+  date: "2003-03-16"
+  url: "https://www.gesetze.li/chrono/2003186000"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ"]
+  supports: "A constitutional law of 16 March 2003 amended the 1921 Constitution."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened the Lilex metadata page (issued 15 September 2003); the amending text did not load, so it is not confirmed that this law added Art. 4(2)."
+
+- id: "ethiopia/1994_constitution"
+  title: "Ethiopia's Constitution of 1994"
+  publisher: "Constitute Project"
+  date: "1994"
+  url: "https://www.constituteproject.org/constitution/Ethiopia_1994.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ", "XI"]
+  supports: "Art. 39 right to secession and its five-step procedure; Art. 62(3) House of the Federation decides self-determination issues; Art. 105(1) self-entrenching amendment rule."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 27 Apr 2022); read Arts. 39, 62 and 105. Constitute labels it 1994; the brief calls it the 1995 Constitution. Use of Art. 39 not checked."
+
+- id: "ussr/1977_constitution"
+  title: "1977 Constitution of the USSR, Part III"
+  publisher: "Bucknell University (Russian Program)"
+  date: "1977"
+  url: "http://www.departments.bucknell.edu/russian/const/77cons03.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ"]
+  supports: "Art. 72: each Union Republic retains the right freely to secede from the USSR."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the English translation page; read Art. 72."
+
+- id: "sunstein/1991_constitutionalism-and-secession"
+  title: "Constitutionalism and Secession"
+  authors: ["Cass R. Sunstein"]
+  publisher: "University of Chicago Law Review"
+  date: "1991"
+  url: "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=4715&context=uclrev"
+  tier: "secondary"
+  kind: "article"
+  parts: ["OQ"]
+  supports: "Constitutions ought not to include a right to secede (strategic threats, blackmail, de facto veto); USSR Art. 72 lacked a mechanism; an April 1990 law required a two-thirds referendum and a five-year transition."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the full PDF (58 U. Chi. L. Rev. 633); thesis on the opening pages; USSR discussion in Part II."
+
+- id: "st-kitts-nevis/1983_constitution"
+  title: "Saint Kitts and Nevis's Constitution of 1983"
+  publisher: "Constitute Project"
+  date: "1983"
+  url: "https://www.constituteproject.org/service/html?cons_id=St_Kitts_and_Nevis_1983&lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ", "XI"]
+  supports: "s.38: entrenched clauses need two-thirds of Representatives and two-thirds referendum votes on each island; s.113: Nevis secession needs two-thirds of the Assembly, a 90-day wait, a two-thirds referendum, published proposals and observers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "The Constitute PDF had no text layer; read ss. 38 and 113 through Constitute's HTML service for the same text."
+
+- id: "sudd/2018_nevis-1998-referendum"
+  title: "Nevis (St. Kitts and Nevis), 10. August 1998: Trennung von St. Kitts"
+  publisher: "Datenbank und Suchmaschine für direkte Demokratie (sudd.ch)"
+  date: "2018-10-08"
+  url: "https://www.sudd.ch/event.php?lang=en&id=kn011998"
+  tier: "secondary"
+  kind: "dataset"
+  parts: ["OQ", "XI"]
+  supports: "Required 66.67% of valid votes; electorate 6,785; turnout 57.99%; yes 2,427 (61.83%), no 1,498 (38.17%); Nevis Assembly passed the bill 6-2 on 7 July 1998."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the database entry (in German; last modified 8 October 2018)."
+
+- id: "pdba/2005_nevis-1998-referendum"
+  title: "St. Kitts and Nevis: 1998 Referendum"
+  publisher: "Political Database of the Americas, Georgetown University"
+  date: "2005-09-22"
+  url: "https://pdba.georgetown.edu/Elecdata/Kitts/ref1998.html"
+  tier: "secondary"
+  kind: "dataset"
+  parts: ["OQ"]
+  supports: "Yes 2,427; No 1,498; total 3,935 (source given as the Electoral Office of St Kitts and Nevis and IFES)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the page (last updated 22 September 2005)."
+
+- id: "us-scotus/1869_texas-v-white"
+  title: "Texas v. White, 74 U.S. 700 (1869)"
+  publisher: "Supreme Court of the United States (text via Justia)"
+  date: "1869"
+  url: "https://supreme.justia.com/cases/federal/us/74/700/"
+  tier: "primary"
+  kind: "court"
+  parts: ["OQ"]
+  supports: "An indestructible Union of indestructible States; no reconsideration or revocation 'except through revolution or through consent of the States'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the Justia text; both phrases appear in the syllabus and in the opinion."
+
+- id: "buchanan-levinson/2026_secession"
+  title: "Secession"
+  authors: ["Allen Buchanan", "Elizabeth Levinson"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2026-03-10"
+  url: "https://plato.stanford.edu/entries/secession/"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "Remedial-right-only theory and Buchanan's three injustices; plebiscitary theory and Wellman's conditions; risk-sensitivity; Sunstein's critique and Buchanan's hedging reply; 'bail out' inducement (Buchanan 1991, ch. 4); only a few constitutions contain a right to secede."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the entry (first published 2003; substantive revision 10 March 2026); sections 1.3, 2.1, 2.2 and 2.4."
+
+- id: "buchanan/1991_secession"
+  title: "Secession: The Morality of Political Divorce from Fort Sumter to Lithuania and Quebec"
+  authors: ["Allen Buchanan"]
+  publisher: "Westview Press"
+  date: "1991"
+  url: "https://www.routledge.com/Secession-The-Morality-Of-Political-Divorce-From-Fort-Sumter-To-Lithuania-And-Quebec/Buchanan/p/book/9780367009823"
+  tier: "secondary"
+  kind: "book"
+  parts: ["OQ"]
+  supports: "Remedial-right theory; a hedged constitutional right to secede; a 'bail out' option as an inducement to join (as reported in the SEP entry)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "Book not opened; the Routledge URL served an unrelated book. The SEP bibliography gives the subtitle as 'The Legitimacy of Political Divorce...' (Boulder: Westview Press); the title wording needs checking."
+
+- id: "hrc/1997_general-comment-26"
+  title: "General Comment No. 26: Continuity of obligations (CCPR/C/21/Rev.1/Add.8/Rev.1)"
+  publisher: "UN Human Rights Committee"
+  date: "1997-12-08"
+  url: "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=hcS2STj6mMWKaT31dsNJmivG435jNvb7bjicABhPxrIMbqSrlVQIFBGw6GC%2F5UglW2bUE4FeObEGS6yrEW9g53z1MYFHI5RLcznl8ynCvr0%3D"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ", "III"]
+  supports: "The ICCPR permits no withdrawal; its rights belong to the people, and protection devolves with territory, including on dismemberment or succession."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded the English PDF (adopted 29 October 1997; issued 8 December 1997); read paras. 1-5."
+
+- id: "untc/2026_paris-agreement-status"
+  title: "Paris Agreement: status (Chapter XXVII-7-d)"
+  publisher: "United Nations Treaty Collection"
+  date: "2026"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "III"]
+  supports: "US withdrawal notified 4 Nov 2019, effective 4 Nov 2020; re-accepted 20 Jan 2021; withdrawal notified 27 Jan 2025, effective 27 Jan 2026 under Art. 28(1)-(2)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the status page; read end note 7."
+
+- id: "unep/1987_montreal-protocol"
+  title: "Montreal Protocol on Substances that Deplete the Ozone Layer, Article 4: Control of trade with non-Parties"
+  publisher: "UNEP Ozone Secretariat"
+  date: "1987"
+  url: "https://ozone.unep.org/treaties/montreal-protocol/articles/article-4-control-trade-non-parties"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["OQ", "III"]
+  supports: "Parties must ban imports of controlled substances from, and exports to, states not party to the Protocol."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the article page; read paras. 1-2."
+
+- id: "nordhaus/2015_climate-clubs"
+  title: "Climate Clubs: Overcoming Free-Riding in International Climate Policy"
+  authors: ["William Nordhaus"]
+  publisher: "American Economic Review"
+  date: "2015-04"
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.15000001"
+  tier: "secondary"
+  kind: "article"
+  parts: ["OQ", "III"]
+  supports: "Without sanctions on non-participants, only minimal-abatement coalitions are stable; small trade penalties can sustain a large, high-abatement coalition."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened the AEA abstract page (AER 105(4): 1339-70); full text not opened."
+
+- id: "european-commission/2026_cbam"
+  title: "Carbon Border Adjustment Mechanism (CBAM)"
+  publisher: "European Commission, Taxation and Customs Union"
+  date: "2026"
+  url: "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "III"]
+  supports: "CBAM prices the embedded carbon of imports to address carbon leakage; its definitive regime has applied since 1 January 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened the Commission page; the definitive-regime statement is at the top."

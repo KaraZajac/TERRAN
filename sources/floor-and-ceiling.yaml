@@ -1,0 +1,673 @@
+- id: "raworth/2012_safe-and-just-space"
+  title: "A Safe and Just Space for Humanity: Can We Live Within the Doughnut?"
+  authors: ["Kate Raworth"]
+  publisher: "Oxfam International"
+  date: "2012-02"
+  url: "https://policy-practice.oxfam.org/resources/a-safe-and-just-space-for-humanity-can-we-live-within-the-doughnut-210490/"
+  tier: "primary"
+  kind: "report"
+  parts: ["Preamble", "III"]
+  supports: "First doughnut; 11 illustrative social dimensions from Rio+20 submissions; voice, jobs and resilience 'To be determined'; both rings 'essentially normative'; poverty arithmetic (1% of food supply, 0.2% of income)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read. Figure 1 note ('illustrative') PDF p. 4; food, energy and income arithmetic PDF p. 5; 'Boundaries based on norms' PDF p. 8; social priorities and Table 1 PDF pp. 9-10. Checked at https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf."
+
+- id: "raworth/2017_doughnut-economics"
+  title: "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist"
+  authors: ["Kate Raworth"]
+  publisher: "Random House Business"
+  date: "2017"
+  url: "https://www.penguin.co.uk/books/429710/doughnut-economics-by-kate-raworth/9781847941398"
+  tier: "primary"
+  kind: "book"
+  parts: ["III", "VII"]
+  supports: "The 2017 doughnut with 12 social dimensions; the book's call to be 'agnostic about growth'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Book not opened. Publisher page confirms title, imprint and 2017 ebook edition. The 12-dimension list is taken from Raworth 2025 Table 3; the p. 287 'agnostic about growth' passage is as quoted in Schokkaert 2019."
+
+- id: "raworth/2025_evolving-doughnut"
+  title: "The Evolving Doughnut"
+  authors: ["Kate Raworth"]
+  publisher: "Doughnut Economics Action Lab"
+  date: "2025-10"
+  url: "https://doughnuteconomics.org/tools/the-evolving-doughnut"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "Dimensions and indicators of the 2012, 2017 and 2025 doughnuts; 2025 renamings; plain-language boundary labels chosen for public comprehension; ocean acidification baseline 3.44 in Doughnut 3.0; no data for whole-population inequality; doughnut will keep evolving."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF (DOI 10.64981/XGRX2738) read. Version histories PDF pp. 6-10; 'would ideally have liked' and future iterations PDF p. 12; Tables 1, 3, 5, 6 on PDF pp. 14, 16, 18, 19."
+
+- id: "deal/2026_what-is-the-doughnut"
+  title: "What is the Doughnut?"
+  publisher: "Doughnut Economics Action Lab"
+  date: "2026"
+  url: "https://doughnuteconomics.org/doughnut"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "III"]
+  supports: "Current DEAL framing: 12 dimensions, 22 social and 13 ecological indicators; median 2022 shortfall 35% of people (about 3 billion); six of nine boundaries transgressed by 2022; shortfall reported per indicator."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page (footer 2026). Claims in the 'Social foundation', 'Ecological ceiling' and '21st century trends' sections."
+
+- id: "deal/2026_about-doughnut-economics"
+  title: "About Doughnut Economics"
+  publisher: "Doughnut Economics Action Lab"
+  date: "2026"
+  url: "https://doughnuteconomics.org/about-doughnut-economics"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "VII"]
+  supports: "Doughnut Economics is 'not a set of policies and institutions, but rather a way of thinking'; five layers of organisational design (purpose, networks, governance, ownership, finance)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page (footer 2026). Quote in 'What is Doughnut Economics?'; design layers in 'Why design matters'."
+
+- id: "deal/2026_data-portraits-in-action"
+  title: "Downscaling the Doughnut: Data Portraits in action"
+  publisher: "Doughnut Economics Action Lab"
+  date: "2026-05-20"
+  url: "https://doughnuteconomics.org/tools/downscaling-the-doughnut-data-portraits-in-action"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "VII"]
+  supports: "Amsterdam first city portrait (April 2020); portraits or frameworks for Barcelona, Brussels, Copenhagen, Cornwall, Birmingham and others; Copenhagen annual portrait since 2023 informs budget prioritisation."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Page posted 4 March 2021, last updated 20 May 2026; claims in the 'Examples of places creating Doughnut Data Portraits' list."
+
+- id: "fanning/2025_doughnut-world-out-of-balance"
+  title: "Doughnut of social and planetary boundaries monitors a world out of balance"
+  authors: ["Andrew L. Fanning", "Kate Raworth"]
+  publisher: "Nature"
+  date: "2025-10-01"
+  url: "https://www.nature.com/articles/s41586-025-09385-1"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "Annual doughnut 2000-2022; GDP more than doubled; deprivation progress must accelerate fivefold; richest 20% of countries over 40% of overshoot, poorest 40% over 60% of shortfall; ecological ring not comparably divisible by country; per capita shares for four boundaries; no traceable social-ecological link."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access full text read (Nature 646:47-56). Abstract; 'Inequalities in shortfall and overshoot' section; Discussion (no traceable link); Methods (country clusters, per capita boundaries)."
+
+- id: "rockstrom/2009_safe-operating-space"
+  title: "A safe operating space for humanity"
+  authors: ["Johan Rockström", "Will Steffen", "Kevin Noone"]
+  publisher: "Nature"
+  date: "2009-09-23"
+  url: "https://www.nature.com/articles/461472a"
+  tier: "primary"
+  kind: "article"
+  parts: ["Preamble", "III"]
+  supports: "Original nine planetary boundaries, published 23 September 2009."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Paywalled; landing page only (publication date, author list, standfirst). Nature 461:472-475; 29 authors in total."
+
+- id: "rockstrom/2009_planetary-boundaries-ecology-society"
+  title: "Planetary Boundaries: Exploring the Safe Operating Space for Humanity"
+  authors: ["Johan Rockström", "Will Steffen", "Kevin Noone"]
+  publisher: "Ecology and Society"
+  date: "2009"
+  url: "https://ecologyandsociety.org/vol14/iss2/art32/"
+  tier: "primary"
+  kind: "article"
+  parts: ["Preamble", "III", "XI"]
+  supports: "Boundaries are 'human-determined values' at a safe distance from danger; setting that distance 'involves normative judgments of how societies choose to deal with risk and uncertainty'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full open-access text read (vol. 14, issue 2, art. 32; DOI 10.5751/ES-03180-140232); quotes in the section defining thresholds and boundaries."
+
+- id: "steffen/2015_planetary-boundaries-update"
+  title: "Planetary boundaries: Guiding human development on a changing planet"
+  authors: ["Will Steffen", "Katherine Richardson", "Johan Rockström"]
+  publisher: "Science"
+  date: "2015-01-15"
+  url: "https://www.science.org/doi/10.1126/science.1259855"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "XI"]
+  supports: "Two-tier regional boundaries; core boundaries; novel entities defined to include 'modified life forms'; four boundaries exceeded; development choices are 'political decisions' including equity."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Paywalled; structured abstract read on science.org (Results and Conclusions). Science 347(6223):1259855; date is first online publication per Europe PMC."
+
+- id: "richardson/2023_six-of-nine"
+  title: "Earth beyond six of nine planetary boundaries"
+  authors: ["Katherine Richardson", "Will Steffen", "Wolfgang Lucht"]
+  publisher: "Science Advances"
+  date: "2023-09-13"
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10499318/"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "XI"]
+  supports: "Six of nine crossed; precautionary placement at lower end of zone of increasing risk; freshwater change replaces freshwater use (1,700 vs 4,000 km3/yr; crossed 1905 and 1929); novel entities exclude mobilised natural elements; regional distribution critical for N and P; ocean acidification baseline 3.44."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access full text on PMC (Sci. Adv. 9(37):eadh2458); Table 1; Introduction; 'Freshwater change' and 'Novel entities' sections. Many co-authors beyond the three listed."
+
+- id: "pik/2024_planetary-health-check"
+  title: "Planetary Health Check Report 2024"
+  authors: ["Levke Caesar", "Boris Sakschewski", "Johan Rockström"]
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2024"
+  url: "https://www.planetaryhealthcheck.org/wp-content/uploads/PHC_Report_2024_online_version.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "XI"]
+  supports: "PBScience formed end of 2023 for annual checks; works closely with the Planetary Guardians; six of nine crossed; ocean acidification 2.80 vs 2.75 boundary."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read (January 2025 reprint with minor corrections). Partnership note PDF p. 3; six of nine PDF p. 7; ocean acidification status PDF p. 57."
+
+- id: "pik/2025_planetary-health-check"
+  title: "Planetary Health Check 2025: A Scientific Assessment of the State of the Planet"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2025-09"
+  url: "https://publications.pik-potsdam.de/rest/items/item_32589_5/component/file_33151/content"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "XI"]
+  supports: "Seven of nine crossed; new aragonite baseline 3.57 and tighter ocean acidification boundary 2.86; transgression noted for the first time."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read. Seven of nine in Executive Summary PDF p. 11; baseline and boundary change in the 'what is new' table PDF p. 33."
+
+- id: "pik/2025_seven-of-nine-press-release"
+  title: "Seven of nine planetary boundaries now breached – ocean acidification joins the danger zone"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2025-09-24"
+  url: "https://www.pik-potsdam.de/en/news/latest-news/seven-of-nine-planetary-boundaries-now-breached-2013-ocean-acidification-joins-the-danger-zone"
+  tier: "primary"
+  kind: "web"
+  parts: ["III"]
+  supports: "On 24 September 2025 ocean acidification was assessed as breached for the first time, making seven of nine."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release dated 24.09.2025; claims in the opening paragraph and 'Oceans in focus' section."
+
+- id: "pik/2026_planetary-health-check"
+  title: "Planetary Health Check 2026: A Scientific Assessment of the State of Our Planet (full report)"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2026-09-21"
+  url: "https://publications.pik-potsdam.de/rest/items/item_35009_3/component/file_35022/content"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII", "XI"]
+  supports: "2026 control variables, boundaries, current and high-risk values for 13 control variables; boundary changes since 2023; corrected forest estimate 'not actual forest recovery'; ocean acidification 2.85 vs 2.86; novel entities definition, 'not actionable', focus on stability not health."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read. Table 1.1 PDF p. 23; ocean acidification sheet PDF p. 86; novel entities sheet PDF p. 101; Table 7.1 PDF p. 109."
+
+- id: "pik/2026_planetary-health-check-summary"
+  title: "Planetary Health Check 2026: A Scientific Assessment of the State of Our Planet (summary report)"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2026-09-21"
+  url: "https://publications.pik-potsdam.de/rest/items/item_34947_3/component/file_35023/content"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "XI"]
+  supports: "Boundaries are 'set through a broad scientific assessment' using Holocene data, models, IPCC and IPBES assessments and expert evaluation, with precautionary placement."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read; passage on how boundaries are set, PDF p. 10."
+
+- id: "pik/2026_phc-press-release"
+  title: "Planetary Health Check 2026 finds mounting pressures across Earth's life support systems"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2026-09-21"
+  url: "https://www.pik-potsdam.de/en/news/latest-news/planetary-health-check-2026-finds-mounting-pressures-across-earth2019s-life-support-systems"
+  tier: "primary"
+  kind: "web"
+  parts: ["Preamble", "III", "X", "XI"]
+  supports: "Seven of nine crossed, all at highest recorded transgression; more than 60 authors; risk of large-scale, potentially irreversible change; Planetary Guardians' mission to make boundaries 'a measurement and operating framework for the world'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Press release dated 21.09.2026; status in first paragraphs; Planetary Guardians note at the end."
+
+- id: "rockstrom/2023_safe-and-just-esbs"
+  title: "Safe and just Earth system boundaries"
+  authors: ["Johan Rockström", "Joyeeta Gupta", "Dahe Qin"]
+  publisher: "Nature"
+  date: "2023-05-31"
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10322705/"
+  tier: "primary"
+  kind: "article"
+  parts: ["Preamble", "III", "IX", "XI"]
+  supports: "Safe vs just boundaries; stricter governs; just climate boundary at or below 1.0 C vs safe 1.5 C; PM2.5 15 ug/m3; nitrogen surplus 57 vs 61 Tg N/yr; seven of eight exceeded; necessary but not sufficient; corridor; interspecies justice; proposals open to debate; Future Earth nominations; Paris 1.5 C guardrail."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access full text on PMC (Nature 619:102-111); Abstract, Box 1, Table 1, climate section, Methods and ethics statement."
+
+- id: "oneill/2018_good-life-for-all"
+  title: "A good life for all within planetary boundaries"
+  authors: ["Daniel W. O'Neill", "Andrew L. Fanning", "William F. Lamb", "Julia K. Steinberger"]
+  publisher: "Nature Sustainability"
+  date: "2018-02-05"
+  url: "https://www.nature.com/articles/s41893-018-0021-4"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "Over 150 countries; no country meets basic needs at a globally sustainable level of resource use; physical needs likely meetable; qualitative goals need 2-6 times sustainable resource use."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Paywalled; abstract read on the journal page (Nature Sustainability 1:88-95)."
+
+- id: "fanning/2022_shortfall-overshoot-nations"
+  title: "The social shortfall and ecological overshoot of nations"
+  authors: ["Andrew L. Fanning", "Daniel W. O'Neill", "Jason Hickel", "Nicolas Roux"]
+  publisher: "Nature Sustainability"
+  date: "2022"
+  url: "https://www.nature.com/articles/s41893-021-00799-z"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "11 social and 6 biophysical indicators, more than 140 countries, 1992-2015; countries transgress boundaries faster than they meet social thresholds."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read on the journal page (Nature Sustainability 5:26-36; published online 18 November 2021)."
+
+- id: "leeds/2026_good-life-for-all-site"
+  title: "A Good Life For All Within Planetary Boundaries (project website)"
+  publisher: "University of Leeds"
+  date: "2026"
+  url: "https://goodlife.leeds.ac.uk/"
+  tier: "primary"
+  kind: "web"
+  parts: ["III"]
+  supports: "National doughnut data still cover 1992-2015 from the 2022 study; no country has met needs sustainably for at least 30 years."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated site, accessed 10 October 2026; home page and National Trends page."
+
+- id: "chancel/2022_global-carbon-inequality"
+  title: "Global carbon inequality over 1990–2019"
+  authors: ["Lucas Chancel"]
+  publisher: "Nature Sustainability"
+  date: "2022-09-29"
+  url: "https://www.nature.com/articles/s41893-022-00955-z"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "Individual emissions estimated from income and wealth data plus input-output tables; bottom 50% emitted 12% and top 10% emitted 48% of greenhouse gases in 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read on the journal page (Nature Sustainability 5:931-938)."
+
+- id: "raworth/2020_amsterdam-city-doughnut"
+  title: "Introducing the Amsterdam City Doughnut"
+  authors: ["Kate Raworth"]
+  publisher: "Doughnut Economics (republished by Resilience.org)"
+  date: "2020-04-09"
+  url: "https://www.resilience.org/stories/2020-04-09/introducing-the-amsterdam-city-doughnut/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Amsterdam City Doughnut launched 8 April 2020; four lenses; the portrait is 'not a report and assessment of Amsterdam' but a workshop tool."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full post read; launch date in first sentence; 'not a report and assessment' after the four-lens description."
+
+- id: "emf/2024_amsterdam-circular"
+  title: "Aiming for 100% circularity: Amsterdam"
+  publisher: "Ellen MacArthur Foundation"
+  date: "2024-01-10"
+  url: "https://www.ellenmacarthurfoundation.org/circular-examples/shaping-a-sharing-economy-amsterdam"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Amsterdam targets: halve virgin materials by 2030, fully circular by 2050; strategy based on the doughnut; Circular Monitor 2022; social impacts to be added later."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Case page published 10 January 2024; targets in the introduction; 'Amsterdam Circular Monitor' section. The city's own site returned 403."
+
+- id: "un/2026_beyond-gdp-hleg-report"
+  title: "Counting What Counts: Report of the High-Level Expert Group on Beyond GDP"
+  publisher: "United Nations"
+  date: "2026-05-07"
+  url: "https://www.un.org/sites/un2.un.org/files/high-level_expert_group_on_beyond_gdp_final_report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "Dashboard of 31 indicators in four components; respect for the planet including planetary boundaries; planet indicators limited to greenhouse gas emissions and biodiversity intactness; multidimensional poverty index; Raworth and Fanning among those thanked."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read. Acknowledgements; Executive Summary (31 indicators); Box 3; Figure 3 and Table 1 (proposed indicators)."
+
+- id: "un/2026_beyond-gdp-intergovernmental"
+  title: "Beyond GDP: Intergovernmental Process"
+  publisher: "United Nations"
+  date: "2026"
+  url: "https://www.un.org/en/beyondGDP/intergovernmental-process"
+  tier: "primary"
+  kind: "web"
+  parts: ["III"]
+  supports: "Process mandated by the Pact for the Future; Spain and Guyana appointed co-facilitators in April 2026; elements paper to inform negotiations; no adopted outcome shown."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page, accessed 10 October 2026; 'Overview' section. Report presentation date (7 May 2026) from the UN Beyond GDP home page."
+
+- id: "rao/2018_decent-living-standards"
+  title: "Decent Living Standards: Material Prerequisites for Human Wellbeing"
+  authors: ["Narasimha D. Rao", "Jihoon Min"]
+  publisher: "Social Indicators Research"
+  date: "2018"
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6013539/"
+  tier: "primary"
+  kind: "article"
+  parts: ["III"]
+  supports: "Decent living standard dimensions including clothing, mobility, communication and information access; standards are 'instrumental (but not sufficient)'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access full text on PMC (Soc. Indic. Res. 138:225-244; online 23 May 2017); Table 1 and 'Concepts and Principles' section."
+
+- id: "millward-hopkins/2020_decent-living-minimum-energy"
+  title: "Providing decent living with minimum energy: A global scenario"
+  authors: ["Joel Millward-Hopkins", "Julia K. Steinberger", "Narasimha D. Rao", "Yannick Oswald"]
+  publisher: "Global Environmental Change"
+  date: "2020-11"
+  url: "https://pure.iiasa.ac.at/16764/1/1-s2.0-S0959378020307512-main.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["III"]
+  supports: "Decent living for 2050 population at 149 EJ (15.3 GJ/cap/yr), over 60% below current use; ~95% cuts in top-consuming countries; needs best technology and sufficiency regardless of income; 'entirely avoided the most difficult question'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access published version (CC BY) via IIASA repository (Glob. Environ. Change 65:102168). Abstract and intro PDF pp. 1-2; results PDF p. 6; discussion PDF p. 9."
+
+- id: "millward-hopkins/2022_inequality-decent-living-energy"
+  title: "Inequality can double the energy required to secure universal decent living"
+  authors: ["Joel Millward-Hopkins"]
+  publisher: "Nature Communications"
+  date: "2022-08-26"
+  url: "https://doi.org/10.1038/s41467-022-32729-8"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IV"]
+  supports: "Fair inequality raises energy for universal decent living by 40%; a super-rich 1% could use as much energy as decent living for 1.7 billion."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read via the Europe PMC API (PMC9418152); full text not opened."
+
+- id: "rammelt/2022_minimum-access-great-inequality"
+  title: "Impacts of meeting minimum access on critical earth systems amidst the Great Inequality"
+  authors: ["Crelis F. Rammelt", "Joyeeta Gupta", "Diana Liverman"]
+  publisher: "Nature Sustainability"
+  date: "2022-11-10"
+  url: "https://pure.iiasa.ac.at/id/eprint/18355/"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IV"]
+  supports: "Just access in 2018 with existing inequality and technology adds 2-26% to impacts on climate, water, land and nutrients; equal to the wealthiest 1-4%; calls for radical redistribution."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read on the IIASA repository record; full PDF available but not read. Crossref: published 10 November 2022, Nat. Sustain. 6:212-221."
+
+- id: "brook/2013_terrestrial-tipping-points"
+  title: "Does the terrestrial biosphere have planetary tipping points?"
+  authors: ["Barry W. Brook", "Erle C. Ellis", "Michael P. Perring", "Anson W. Mackay", "Linus Blomqvist"]
+  publisher: "Trends in Ecology & Evolution"
+  date: "2013-07"
+  url: "https://doi.org/10.1016/j.tree.2013.01.016"
+  tier: "secondary"
+  kind: "article"
+  parts: ["III"]
+  supports: "Planetary-scale tipping points in the terrestrial biosphere unconfirmed; single global aggregates 'inapt'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read via the Europe PMC API (TREE 28(7):396-401); publisher PDF blocked."
+
+- id: "montoya/2018_implausible-science"
+  title: "Planetary Boundaries for Biodiversity: Implausible Science, Pernicious Policies"
+  authors: ["José M. Montoya", "Ian Donohue", "Stuart L. Pimm"]
+  publisher: "Trends in Ecology & Evolution"
+  date: "2018-02"
+  url: "https://doi.org/10.1016/j.tree.2017.10.004"
+  tier: "secondary"
+  kind: "article"
+  parts: ["III"]
+  supports: "A safe operating space for biodiversity is 'vague' and 'encourages harmful policies'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read via the Europe PMC API (TREE 33(2):71-73; online 7 November 2017). HAL open copy blocked by bot protection."
+
+- id: "rockstrom/2018_separating-fact-from-fiction"
+  title: "Planetary Boundaries: Separating Fact from Fiction. A Response to Montoya et al."
+  authors: ["Johan Rockström", "Katherine Richardson", "Will Steffen", "Georgina Mace"]
+  publisher: "Trends in Ecology & Evolution"
+  date: "2018-04"
+  url: "https://discovery.ucl.ac.uk/id/eprint/10044125/1/Mace_Rockstrom_etal_TREE.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "A boundary 'is not equivalent to a global threshold or tipping point'; framework is global only and complements local management; downscaling 'has never been either proposed or encouraged'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author manuscript read in full from UCL Discovery (TREE 33(4):233-234)."
+
+- id: "montoya/2018_reply-to-rockstrom"
+  title: "Why a Planetary Boundary, If It Is Not Planetary, and the Boundary Is Undefined? A Reply to Rockström et al."
+  authors: ["José M. Montoya", "Ian Donohue", "Stuart L. Pimm"]
+  publisher: "Trends in Ecology & Evolution"
+  date: "2018-04"
+  url: "https://doi.org/10.1016/j.tree.2018.01.008"
+  tier: "secondary"
+  kind: "article"
+  parts: ["III"]
+  supports: "The rejoinder's title states its argument; content not read."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Metadata only via Europe PMC (TREE 33(4):234); no abstract; HAL copy blocked by bot protection."
+
+- id: "biermann/2020_boundaries-of-pb-framework"
+  title: "The Boundaries of the Planetary Boundary Framework: A Critical Appraisal of Approaches to Define a 'Safe Operating Space' for Humanity"
+  authors: ["Frank Biermann", "Rakhyun E. Kim"]
+  publisher: "Annual Review of Environment and Resources"
+  date: "2020-10"
+  url: "https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-012320-080337"
+  tier: "secondary"
+  kind: "article"
+  parts: ["III", "XI"]
+  supports: "2009 group of 29 mostly natural scientists, no systematic civil-society or government input; shift of power to experts ('global expertocracy'); Earth Commission not UN-legitimated; 'decided by professors, not by the people'; weak Global South support; quotes Pickering and Persson."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Open-access PDF read (Annu. Rev. Environ. Resour. 45:497-521). Authors PDF p. 3; STS critique PDF p. 8; Earth Commission PDF p. 15; conclusions PDF p. 18."
+
+- id: "pickering/2019_democratising-planetary-boundaries"
+  title: "Democratising planetary boundaries: experts, social values and deliberative risk evaluation in Earth system governance"
+  authors: ["Jonathan Pickering", "Åsa Persson"]
+  publisher: "Journal of Environmental Policy & Planning"
+  date: "2019-09-09"
+  url: "https://doi.org/10.1080/1523908X.2019.1661233"
+  tier: "secondary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Deliberative, iterative process to negotiate planetary targets (as quoted by Biermann and Kim 2020)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Crossref metadata only (J. Environ. Policy Plan. 22:59-71); publisher page returned 403. The quoted phrase is taken from Biermann and Kim 2020, PDF p. 8."
+
+- id: "schokkaert/2019_review-doughnut-economics"
+  title: "Review of Kate Raworth's Doughnut Economics"
+  authors: ["Erik Schokkaert"]
+  publisher: "Erasmus Journal for Philosophy and Economics"
+  date: "2019"
+  url: "https://ejpe.org/journal/article/download/412/289/909"
+  tier: "secondary"
+  kind: "article"
+  parts: ["III"]
+  supports: "Book lacks analysis of mechanisms, including how to secure decent consumption within limits; unclear who 'we' is; quotes p. 287 'agnostic about growth'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF read (EJPE 12(1):125-132, DOI 10.23941/ejpe.v12i1.412); quote on p. 125; mechanisms critique pp. 126-127."
+
+- id: "alternative-uk/2018_raworth-reply-to-milanovic"
+  title: "Are there holes in 'doughnut economics'? Kate Raworth takes on a major critic"
+  authors: ["Pat Kane"]
+  publisher: "The Alternative UK"
+  date: "2018-06"
+  url: "https://thealternative.org.uk/dailyalternative/2018/6/28/raworth-doughnuts-critics"
+  tier: "secondary"
+  kind: "web"
+  parts: ["III"]
+  supports: "Milanovic's four critiques as summarised by Raworth, including that global GDP 'must rise significantly to end poverty'; Raworth's reply that growth 'is very much needed' in low- and middle-income countries, home to 80% of people."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Post reproducing excerpts of Raworth's reply; Milanovic's original not opened."
+
+- id: "teicher/2021_doughnut-hole-at-core"
+  title: "Doughnut Economics Has a Hole at Its Core"
+  authors: ["Jordan G. Teicher"]
+  publisher: "Jacobin"
+  date: "2021-09-24"
+  url: "https://jacobin.com/2021/09/doughnut-economics-raworth-amsterdam-capitalism-socialism"
+  tier: "secondary"
+  kind: "news"
+  parts: ["III"]
+  supports: "Doughnut economics 'fails to confront the power relations that stop the economy from serving most people's needs'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Standfirst and opening paragraphs read; remainder paywalled."
+
+- id: "acharya/2026_hole-in-the-doughnut"
+  title: "The hole in the doughnut: Formalizing and testing a key model of degrowth"
+  authors: ["Ashruta Acharya", "Vincent Geloso", "Aleksander Psurek"]
+  publisher: "Contemporary Economic Policy"
+  date: "2026-04-02"
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/coep.70031"
+  tier: "primary"
+  kind: "article"
+  parts: ["III"]
+  supports: "Using economic freedom as a proxy for capitalism, little support for the doughnut model 'as here formalized'; relationship often reversed."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract read via Crossref and the Wiley landing page (vol. 44(3):549-575); full text not read."
+
+- id: "vogel/2023_is-green-growth-happening"
+  title: "Is green growth happening? An empirical analysis of achieved versus Paris-compliant CO2-GDP decoupling in high-income countries"
+  authors: ["Jefim Vogel", "Jason Hickel"]
+  publisher: "The Lancet Planetary Health"
+  date: "2023-09"
+  url: "https://doi.org/10.1016/S2542-5196(23)00174-2"
+  tier: "primary"
+  kind: "article"
+  parts: ["III"]
+  supports: "11 high-income countries achieved absolute decoupling 2013-2019; at those rates a 95% emissions cut would take over 220 years."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Structured abstract read via the Europe PMC API (Lancet Planet. Health 7(9):e759-e769)."
+
+- id: "ipcc/2026_preparing-reports"
+  title: "Preparing Reports"
+  publisher: "Intergovernmental Panel on Climate Change"
+  date: "2026"
+  url: "https://www.ipcc.ch/about/preparingreports/"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "XI"]
+  supports: "Authors selected by the Bureau from government and observer nominations; expert then expert-and-government review; Summary for Policymakers approved line by line by a plenary of governments with authors."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page, accessed 10 October 2026; full page read."
+
+- id: "sbtn/2026_who-we-are"
+  title: "Who we are"
+  publisher: "Science Based Targets Network"
+  date: "2026"
+  url: "https://sciencebasedtargetsnetwork.org/about/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Civil-society and science-led initiative founded 2019 to define what companies and cities must do to stay within Earth's limits and meet society's needs; member of the Global Commons Alliance with the Earth Commission."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page, accessed 10 October 2026; 'Who we are' and 'What we do' sections."

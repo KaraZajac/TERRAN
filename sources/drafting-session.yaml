@@ -1,0 +1,1964 @@
+# Sources cited in research/drafting-session-2026-10-09.md, checked link by link.
+# One record per distinct URL in that doc, plus primary or original sources added during checking.
+# Machine-performed checks (by: claude). Not reviewed by Kara.
+
+# ---------------------------------------------------------------- Wealth limits
+
+- id: "epi/2026_ceo-pay-2025"
+  title: "CEO pay surged in 2025: CEOs are paid 325 times as much as the typical worker"
+  authors: ["Elise Gould", "Josh Bivens"]
+  publisher: "Economic Policy Institute"
+  date: "2026-09-17"
+  url: "https://www.epi.org/blog/ceo-pay-surged-in-2025-ceos-are-paid-325-times-as-much-as-the-typical-worker/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "US CEOs earned about 325 times typical worker pay in 2025 (top of the 220-325 range), against about 21 times in 1965."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Key findings: 'CEOs made 325 times as much as the typical worker in 2025' and 'In 1965, CEOs were paid 21 times'. Top 350 firms, realized-pay measure."
+
+- id: "aflcio/2026_paywatch-12-things"
+  title: "12 Things You Need To Know from AFL-CIO's 2026 Executive Paywatch Report"
+  publisher: "AFL-CIO"
+  date: "2026-08-13"
+  url: "https://aflcio.org/2026/8/13/12-things-you-need-know-afl-cios-2026-executive-paywatch-report"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "One of three measures behind 'about 220 to 325 times typical or median worker pay in 2025'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Lead: S&P 500 CEOs 'made 312 times the wage of the median U.S. worker, up from 285 times in 2024' (excluding Musk; 5,387:1 with him)."
+
+- id: "equilar/2026_ceo-pay-trends-recap"
+  title: "CEO Pay Trends: A Post-Proxy Season Recap"
+  authors: ["Joyce Chen", "Courtney Yu"]
+  publisher: "Harvard Law School Forum on Corporate Governance (Equilar)"
+  date: "2026-06-04"
+  url: "https://corpgov.law.harvard.edu/2026/06/04/ceo-pay-trends-a-post-proxy-season-recap-2/"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Low end of the 220-325 range for 2025 CEO-to-worker pay ratios."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Equilar 500: 'the median CEO pay ratio rose from 210:1 in 2024 to 219:1 in 2025'. 219 rounds to the doc's 220."
+
+- id: "aflcio/2026_company-pay-ratios"
+  title: "Company Pay Ratios - 2026"
+  publisher: "AFL-CIO"
+  date: "2026"
+  url: "https://aflcio.org/paywatch/company-pay-ratios"
+  tier: "secondary"
+  kind: "dataset"
+  parts: ["IV", "V", "OQ"]
+  supports: "At least 20 US-listed companies reported ratios above 1,000:1 for 2025, including Starbucks 1,794:1 and Coca-Cola 1,739:1."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Table, sorted by ratio: Starbucks 1,794:1 (median pay $17,279), Coca-Cola 1,739:1. Pages 1-4 list 64 firms above 1,000:1, so 'at least 20' understates."
+
+- id: "co-op-news/2025_co-operative-approaches-to-pay"
+  title: "Co-operative approaches to pay"
+  authors: ["Alice Toomer-McAlpine"]
+  publisher: "Co-operative News"
+  date: "2025-03-18"
+  url: "https://www.thenews.coop/co-operative-approaches-to-pay/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "Mondragon caps pay at 6:1 since 1988, 3:1 at founding in 1956, and the cap is still in force."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Ratio set at 1:3 at founding (1956), 1:4.5 in the 1970s, 1:6 in 1988; 'has remained at 1:6 since then'."
+
+- id: "kasmir/2016_mondragon-successes-challenges"
+  title: "The Mondragon Cooperatives: Successes and Challenges"
+  authors: ["Sharryn Kasmir"]
+  publisher: "Global Dialogue (International Sociological Association)"
+  date: "2016-02-13"
+  url: "https://globaldialogue.isa-sociology.org/articles/the-mondragon-cooperatives-successes-and-challenges"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IV", "V", "OQ"]
+  supports: "One sociologist reports Mondragon pay at about 9:1 in practice; only about a third of Mondragon's workers were members in 2016."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Says Mondragon 'limits its highest managerial salary to about nine times the pay of its lowest-paid members': a cap, not an in-practice figure. 'only one-third of its employees are members' matches."
+
+- id: "swissvotes/2019_vote-575-summary"
+  title: "Unternehmen erhalten keine Vorgaben zur Lohngestaltung (Volksinitiative '1:12 - Für gerechte Löhne', vote of 24.11.2013)"
+  authors: ["Silas Schweizer"]
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2019"
+  url: "https://swissvotes.ch/vote/575.00/kurzbeschreibung-de.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["IV", "V", "OQ"]
+  supports: "Swiss 1:12 initiative (2013) for a 12:1 cap in every company was rejected 65.3% to 34.7%, in every canton."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Ergebnis: 'mit 65,3% Nein-Stimmen deutlich verworfen'; highest support Ticino 49%, Jura 48%. Cantons confirmed 0 of 23 on the swissvotes results page."
+
+- id: "swissvotes/2013_vote-575-results"
+  title: "Initiative «1:12 – Für gerechte Löhne» (vote 575, 24.11.2013): results"
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2013-11-24"
+  url: "https://swissvotes.ch/vote/575.00"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "V", "OQ"]
+  supports: "Primary result behind the doc's 1:12 figures: 34.7% yes and rejection in every canton."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. 'Abgelehnt (34.70% Ja-Stimmen und 0.0 von 23 Standesstimmen)'; turnout 53.63%."
+
+- id: "bank-of-israel/2024_executive-pay-cap-law"
+  title: "Effectiveness of Executive Compensation Cap Law: Evidence from Israel"
+  authors: ["Meital Graham Rozen"]
+  publisher: "Bank of Israel Research Department (Discussion Paper 2024.07)"
+  date: "2024-07"
+  url: "https://boi.org.il/media/ijld4zdd/dp202407en.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IV", "V", "OQ"]
+  supports: "Israel's 2016 law: 35:1 to the lowest-paid, outsourced staff included, no deduction above NIS 2.5M; affected pay fell about 27%, turnover rose, stock returns no worse."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Intro p.2: cap at 35x lowest paid incl. outsourced staff; NIS 2.5M deduction rule. p.19: treated pay fell 27%. Abstract: higher turnover. Return on equity did fall."
+
+- id: "the-local-fr/2013_france-scraps-pay-cap"
+  title: "France scraps plan to limit fat cat salaries"
+  authors: ["Ben McPartland"]
+  publisher: "The Local France"
+  date: "2013-05-24"
+  url: "https://www.thelocal.fr/20130524/france-scraps-plan-to-limit-fat-cat-salaries"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "France capped state-firm pay at 20:1 or EUR 450,000 and dropped the extension to private firms in 2013."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Limit pay 'in state firms to €450,000'; bosses barred 'from earning 20 times more than the lowest paid worker'. Private-sector plan ditched."
+
+- id: "portland/2024_business-license-law-exhibit-a"
+  title: "Exhibit A: Amend Section 7.02.500 (Portland Business License Law)"
+  publisher: "City of Portland, Oregon"
+  date: "2024-02"
+  url: "https://efiles.portlandoregon.gov/record/16627461/file/document"
+  tier: "primary"
+  kind: "law"
+  parts: ["IV", "V", "OQ"]
+  supports: "Portland's business tax surtax since 2017: +10% at 100:1, +25% at 250:1."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Subsection E: tax years from 1 Jan 2017, 'a surtax of 10 percent of base tax liability' at 100:1 to under 250:1; 25 percent at 250:1 or greater."
+
+- id: "nbc-news/2020_portland-ceo-tax"
+  title: "Can a CEO tax strike a blow to inequality? In Portland, the answer is elusive"
+  authors: ["Cyrus Farivar"]
+  publisher: "NBC News"
+  date: "2020-11-27"
+  url: "https://www.nbcnews.com/business/business-news/can-ceo-tax-strike-blow-inequality-portland-answer-elusive-n1248484"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "Portland's surtax raised $3.5-5.2M a year in 2017-19 with no measured effect on pay."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "'The tax raised $3.5 million in 2017 and $4 million in 2018'; 2019 expected 'comparable'. No $5.2M anywhere. Experts doubt any effect on pay; none measured."
+
+- id: "sf-standard/2026_overpaid-ceo-tax-report"
+  title: "Report says Overpaid CEO Tax could eliminate jobs and shrink SF economy"
+  authors: ["Kevin V. Nguyen"]
+  publisher: "The San Francisco Standard"
+  date: "2026-05-14"
+  url: "https://sfstandard.com/2026/05/14/sf-overpaid-ceo-tax-city-report-economy/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "San Francisco's tax since 2022: 0.1-0.6% of gross receipts above 100:1, about $140M a year at peak."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Confirms 100:1 trigger, January 2022 start, 'roughly $140 million annually' at peak, and the 2024 measure cutting the rate 80%. The 0.1-0.6% rates are not in it."
+
+- id: "sf-treasurer/2025_prop-m-business-tax-reform"
+  title: "Proposition M (2024) - Business Tax Reform"
+  publisher: "San Francisco Treasurer & Tax Collector"
+  date: "2025-05-21"
+  url: "https://sftreasurer.org/prop-m-2024-business-tax-reform"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "San Francisco cut its overpaid-executive tax by 80% in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "2025-26 rates 0.020%-0.120% of gross receipts; 'OET rates have been significantly reduced'. Exactly one fifth of the pre-2025 0.1%-0.6% rates."
+
+- id: "sf-treasurer/2024_overpaid-executive-tax-pre-prop-m"
+  title: "Overpaid Executive Tax (OE): 2024 and prior years"
+  publisher: "San Francisco Treasurer & Tax Collector"
+  date: "2026"
+  url: "https://sftreasurer.org/business/taxes-fees/overpaid-executive-gross-receipts-tax-oe/overpaid-executive-tax-oe-2024-and"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Primary source for the original 0.1-0.6% rates above 100:1 and for the 80% cut."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Pre-Prop M gross receipts surtax 0.1% (100:1-200:1) rising to 0.6% (over 600:1); admin-office payroll rates 0.4%-2.4%."
+
+- id: "mission-local/2026_overpaid-ceo-tax-fails"
+  title: "San Francisco's 'Overpaid CEO' tax measure fails, a smarting loss for city unions"
+  authors: ["Io Yeh Gilman"]
+  publisher: "Mission Local"
+  date: "2026-06-08"
+  url: "https://missionlocal.org/2026/06/sf-overpaid-ceo-tax-fails-union-prop-d/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "An increase in San Francisco's CEO tax (Prop D) failed with 47.2% in June 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened with a Safari fingerprint (Chrome got a bot wall). Reports Prop D 'trailing 54-46' with about 20% left to count. 47.2% is not in it; the official final count is."
+
+- id: "sf-elections/2026_june-2-final-results"
+  title: "June 2, 2026, Consolidated Statewide Direct Primary Election Results (Final)"
+  publisher: "San Francisco Department of Elections"
+  date: "2026-06-25"
+  url: "https://sfelections.org/results/20260602/"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "V", "OQ"]
+  supports: "Primary result for 'an increase failed with 47.2% in June 2026'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Final update 25 June 2026. Measure D: 'NO 132,959 52.81% YES 118,802 47.19%'."
+
+- id: "us-senate/2025_s2818-tax-excessive-ceo-pay"
+  title: "S. 2818 (IS): Tax Excessive CEO Pay Act of 2025"
+  publisher: "US Senate (via GovInfo)"
+  date: "2025-09-16"
+  url: "https://www.govinfo.gov/content/pkg/BILLS-119s2818is/html/BILLS-119s2818is.htm"
+  tier: "primary"
+  kind: "law"
+  parts: ["IV", "V", "OQ"]
+  supports: "S. 2818 adds 0.5 to 5 points of corporate tax from 50:1 to above 500:1 and tells the Treasury to stop firms shifting work to contractors."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sec. 2 table: +0.5 (50-100:1) to +5 (over 500:1); ratio uses 5-year average pay. 2(d): rules against 'using the services of contractors rather than employees'."
+
+- id: "congress-gov/2025_s2818-actions"
+  title: "S.2818 - Tax Excessive CEO Pay Act of 2025: All Actions"
+  publisher: "Congress.gov (Library of Congress)"
+  date: "2026"
+  url: "https://www.congress.gov/bill/119th-congress/senate-bill/2818/all-actions"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Status behind 'Pending' for S. 2818."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Latest action 16 Sep 2025: 'Read twice and referred to the Committee on Finance.' Status: Introduced."
+
+- id: "lse/2020_outsourcing-disguises-inequality"
+  title: "Outsourcing low paid work disguises true extent of growing inequality"
+  publisher: "London School of Economics and Political Science"
+  date: "2020-12-01"
+  url: "https://www.lse.ac.uk/News/Latest-news-from-LSE/2020/L-December/Outsourcing-low-paid-work-disguises-true-extent-of-growing-inequality-within-companies"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Outsourcing and offshoring lower the pay ratio without reducing inequality."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Willman and Pepper: the real gap is bigger 'due to the ease with which firms can outsource low paid work'; global supply chains (Apple, Nike) noted."
+
+- id: "lbs/2017_edmans-pay-ratio-disclosure"
+  title: "Disclosing CEO-worker pay gap could hurt employees"
+  publisher: "London Business School"
+  date: "2017-09-05"
+  url: "https://www.london.edu/news/disclosing-ceo-worker-pay-gap-could-hurt-employees-1276"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Outsourcing, franchising and part-time hiring game the ratio; critics say ratios penalise low-wage industries and some studies link wide gaps to performance."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Edmans: 'Outsourcing low-paid jobs, hiring more part-time than full-time workers'; franchising lowers ratio; banks vs supermarkets; 'rigorous studies show a positive association'."
+
+- id: "irs-soi/2002_individual-income-tax-rates-1913-2002"
+  title: "Personal Exemptions and Individual Income Tax Rates, 1913-2002"
+  publisher: "Internal Revenue Service, Statistics of Income"
+  date: "2002"
+  url: "https://www.irs.gov/pub/irs-soi/02inpetr.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "V", "OQ"]
+  supports: "US top income tax rate of 91-94% above $200,000 for single filers, 1944-63."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "CONTRADICTED: Table 1 top rate is 94% in 1944-45 and 91-92% in 1951-63, but 86.45% (1946-47), 82.13% (1948-49) and 84.36% (1950); effective-rate caps of 77-90% applied."
+
+- id: "tax-policy-associates/2025_rich-paid-less-1970s"
+  title: "Why the rich paid less tax in the 1970s – despite 98% tax rates"
+  authors: ["Dan Neidle"]
+  publisher: "Tax Policy Associates"
+  date: "2025-05-08"
+  url: "https://taxpolicy.org.uk/2025/05/08/tax-rich-1970s-loopholes/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "UK top rate up to 98% in 1974-79; the top 1% paid 11% of income tax in 1978/79 against about 29% now."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'In 1978/79, top 1% paid 11% of all income tax' and about 29% in 2024/25. Caveat: 98% applied to investment income; the earned-income top rate was 83%."
+
+- id: "euronews/2025_wealth-taxes-in-europe"
+  title: "Wealth taxes in Europe: Who collects them and how much do they raise?"
+  authors: ["Servet Yanatma"]
+  publisher: "Euronews"
+  date: "2025-09-29"
+  url: "https://www.euronews.com/business/2025/09/29/wealth-taxes-in-europe-who-collects-them-and-how-much-do-they-raise"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "Norway 1-1.1%, Spain 0.16-3.5% plus 1.7-3.5% above EUR 3M, Swiss cantons; OECD wealth taxes fell from 12 (1990) to 4 (2017); survivors raise 0.2-1.2% of GDP."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "All rates as stated; 'fell from 12 in 1990 to just 4 in 2017'; 2023 revenue 0.21% of GDP (Spain) to 1.16% (Switzerland)."
+
+- id: "zucman/2024_g20-minimum-tax-summary"
+  title: "A Blueprint for a Coordinated Minimum Effective Taxation Standard for Ultra-High-Net-Worth Individuals (Executive Summary for the Media)"
+  authors: ["Gabriel Zucman"]
+  publisher: "EU Tax Observatory"
+  date: "2024-06-25"
+  url: "https://taxobservatory.world//www-site/uploads/2024/06/Zucman-Report-Executive-Summary-EN.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IV", "V", "OQ"]
+  supports: "Zucman proposed a 2% minimum tax on fortunes above $1B to the G20 in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Commissioned by Brazil's G20 presidency; billionaires to pay 'a minimum amount of tax annually, equal to 2% of their wealth'. Says nothing on the later G20 pledge."
+
+- id: "the-local-fr/2025_assembly-rejects-zucman-tax"
+  title: "French lawmakers reject wealth tax as budget tensions mount"
+  publisher: "The Local France (AFP)"
+  date: "2025-11-01"
+  url: "https://www.thelocal.fr/20251101/french-lawmakers-reject-wealth-tax-as-budget-tensions-mount"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "France's National Assembly rejected its version of the Zucman tax 228-172 in October 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Rejected 'on Friday evening' (31 Oct 2025), '228 voting against and 172 in favour'. French version: 2% on wealth over EUR 100 million."
+
+- id: "wikipedia/2026_share-our-wealth"
+  title: "Share Our Wealth"
+  publisher: "Wikipedia"
+  date: "2026-10-09"
+  url: "https://en.wikipedia.org/wiki/Share_Our_Wealth"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Huey Long's 1933 bill: 1% above $1M, rising one point per extra $1M to 100% above $100M; never enacted."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Proposed legislation' section: March 1933 bill as stated; the Senate was 'unwilling to support his proposals'. The 1934 plan capped fortunes at $50M. Primary not checked."
+
+- id: "uu/2023_what-is-limitarianism"
+  title: "What is limitarianism? Professor Ingrid Robeyns explains"
+  publisher: "Utrecht University"
+  date: "2023-12-06"
+  url: "https://www.uu.nl/en/in-the-media/what-is-limitarianism-professor-ingrid-robeyns-explains"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IV", "V", "OQ"]
+  supports: "Robeyns proposes a EUR 10M political limit and a EUR 1M personal ethical limit; most Dutch respondents saw EUR 2.2M (2018 prices) as more than enough."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Quotes Robeyns: 10 million euros is 'the political limit'; a 'personal, ethical limit' at 1 million; Dutch research: 2.2 million is more than enough (2018 prices)."
+
+- id: "bruelhart/2022_wealth-tax-responses-switzerland"
+  title: "Behavioral Responses to Wealth Taxes: Evidence from Switzerland"
+  authors: ["Marius Brülhart", "Jonathan Gruber", "Matthias Krapf", "Kurt Schmidheiny"]
+  publisher: "American Economic Journal: Economic Policy 14(4)"
+  date: "2022-11"
+  url: "https://www.aeaweb.org/articles?id=10.1257/pol.20200258"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "V"]
+  supports: "In Switzerland a 1-point wealth-tax cut raises reported wealth by at least 43%; about a quarter is moving, most of the rest looks like hidden assets."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract only (full text paywalled): at least 43% after 6 years; 24% mobility, 21% house prices, remainder suggests 'sizable evasion responses'. Figures match."
+
+- id: "agrawal/2025_wealth-tax-mobility-spain"
+  title: "Wealth Tax Mobility and Tax Coordination"
+  authors: ["David R. Agrawal", "Dirk Foremny", "Clara Martínez-Toledano"]
+  publisher: "American Economic Journal: Applied Economics 17(1)"
+  date: "2025-01"
+  url: "https://www.aeaweb.org/doi/10.1257/app.20220615"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "V"]
+  supports: "When the rich moved to zero-tax Madrid, lost income tax was about six times the lost wealth tax."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract only (full text paywalled): losses to personal income tax 'six times larger than the direct losses to wealth taxes'. Figure matches."
+
+- id: "financial-express/2025_norway-wealth-tax-reuters"
+  title: "Norway's wealth tax trades millionaires for equality"
+  publisher: "The Financial Express (Bangladesh), reprinting Reuters"
+  date: "2025-11-24"
+  url: "https://thefinancialexpress.com.bd/trade/norways-wealth-tax-trades-millionaires-for-equality"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V"]
+  supports: "Departures of wealthy Norwegians roughly doubled after 2022."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Civita data: 261 left in 2022 and 254 in 2023, 'more than double the typical rate'. Reprint has a stray chipmaker sentence; cite the Reuters original."
+
+- id: "ring/2024_wealth-taxation-household-saving"
+  title: "Wealth Taxation and Household Saving: Evidence from Assessment Discontinuities in Norway"
+  authors: ["Marius A. K. Ring"]
+  publisher: "The Review of Economic Studies"
+  date: "2024-10-08"
+  url: "https://www.restud.com/wealth-taxation-and-household-saving-evidence-from-assessment-discontinuities-in-norway/"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "V"]
+  supports: "Norwegian households save more under the wealth tax, not less."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Journal summary page only: 'I find that wealth taxation causes households to save more.' Full paper not opened."
+
+- id: "tax-foundation/2024_high-cost-of-wealth-taxes"
+  title: "The High Cost of Wealth Taxes"
+  authors: ["Cristina Enache"]
+  publisher: "Tax Foundation"
+  date: "2024-06-26"
+  url: "https://taxfoundation.org/research/all/eu/wealth-tax-impact/"
+  tier: "secondary"
+  kind: "report"
+  parts: ["IV", "V", "OQ"]
+  supports: "A 2% wealth tax on a 5% return equals a 40% income tax; on low-return assets the rate can pass 100%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Table 1 Scenario A: 5% return, 2% tax, 40% implied income tax; Table 2: 2% return, 5% tax, 250%. Spain's combined rates 'well above 100 percent'."
+
+- id: "presse-citron/2025_aghion-zucman-tax"
+  title: "Les startups comme Mistral AI mettront la clé sous la porte: le Prix Nobel d'Économie tacle la Taxe Zucman"
+  publisher: "Presse-citron"
+  date: "2025-10-17"
+  url: "https://www.presse-citron.net/les-startups-comme-mistral-ai-mettront-la-cle-sous-la-porte-le-prix-nobel-deconomie-tacle-la-taxe-zucman/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V"]
+  supports: "Critics: founders rich on paper but short of cash may have to sell or shut down."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Reports Philippe Aghion: high-valuation, low-cash startups like Mistral AI could hit a 'impasse financière'. A critic's claim in a tech news site, not evidence."
+
+- id: "wbur/2019_sanders-wealth-tax"
+  title: "Sanders Proposes His Own Wealth Tax, Setting Up A Clash With Fellow Progressive Warren"
+  authors: ["Will Weissert"]
+  publisher: "WBUR (Associated Press)"
+  date: "2019-09-24"
+  url: "https://www.wbur.org/news/2019/09/24/bernie-sanders-wealth-tax"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "US wealth-tax plans began at $32-50M (Sanders' threshold)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Sanders 'seeks a 1% levy on households worth more than $32 million', rising to 8% above $10 billion."
+
+- id: "colorado-politics/2024_warren-ultra-millionaires-tax"
+  title: "Elizabeth Warren, others reintroduce 'ultra-millionaires' tax"
+  authors: ["Zachary Halaschak"]
+  publisher: "Colorado Politics (Washington Examiner)"
+  date: "2024-03-19"
+  url: "https://www.coloradopolitics.com/2024/03/19/elizabeth-warren-others-reintroduce-ultra-millionaires-tax-3/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "V", "OQ"]
+  supports: "US wealth-tax plans began at $32-50M (Warren's threshold)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'a 2% annual tax on the net worth of households and trusts between $50 million and $1 billion', 3% above $1 billion."
+
+# ---------------------------------------------------------------- Business
+
+- id: "lii/2010_citizens-united-v-fec"
+  title: "Citizens United v. Federal Election Commission (No. 08-205), syllabus"
+  publisher: "Supreme Court of the United States (via Cornell Legal Information Institute)"
+  date: "2010-01-21"
+  url: "https://www.law.cornell.edu/supremecourt/text/08-205"
+  tier: "primary"
+  kind: "court"
+  parts: ["V"]
+  supports: "Citizens United (2010, 5-4) let corporations and unions spend without limit on elections; Citizens United was a nonprofit distributing a film."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Decided 21 Jan 2010; Kennedy with Roberts, Scalia, Alito, Thomas; four dissented on Part IV. Struck independent-expenditure limits; 'Citizens United, a nonprofit corporation, released a documentary'."
+
+- id: "fec/2010_speechnow-v-fec"
+  title: "SpeechNow.org v. FEC"
+  publisher: "Federal Election Commission"
+  date: "2010-03-26"
+  url: "https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec"
+  tier: "primary"
+  kind: "court"
+  parts: ["V"]
+  supports: "SpeechNow.org v. FEC created super PACs two months after Citizens United."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'On March 26, 2010, the D.C. Circuit Court of Appeals held' contribution limits to an independent-spending group unconstitutional. Page does not use the term super PAC."
+
+- id: "wausau-pilot/2025_outside-spending-2024-record"
+  title: "Outside spending on 2024 elections shatters records, fueled by billion-dollar dark money infusion"
+  authors: ["Anna Massoglia"]
+  publisher: "Wausau Pilot & Review (republishing OpenSecrets)"
+  date: "2025-05-31"
+  url: "https://wausaupilotandreview.com/2025/05/31/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V"]
+  supports: "Outside spending hit a record $4.5B in 2024 (OpenSecrets)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Reprint of OpenSecrets: 'Outside spending on 2024 federal elections has hit a record $4.5 billion'. Original dated 5 Nov 2024 (election day); cite it instead."
+
+- id: "opensecrets/2024_outside-spending-record"
+  title: "Outside spending on 2024 elections shatters records, fueled by billion-dollar 'dark money' infusion"
+  authors: ["Anna Massoglia"]
+  publisher: "OpenSecrets"
+  date: "2024-11-05"
+  url: "https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Original source of the $4.5B outside-spending record."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Same sentence and figure, dated 5 November 2024: an election-day tally, not a final cycle total."
+
+- id: "brennan-center/2025_dark-money-record-2024"
+  title: "Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races"
+  authors: ["Anna Massoglia"]
+  publisher: "Brennan Center for Justice"
+  date: "2025-05-07"
+  url: "https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races"
+  tier: "secondary"
+  kind: "report"
+  parts: ["V"]
+  supports: "Undisclosed dark money hit a record $1.9B in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Dark money groups 'plowed more than $1.9 billion into last year’s election cycle', up from a $1 billion record in 2020; called an underestimate."
+
+- id: "mayer-brown/2026_nrsc-v-fec"
+  title: "Supreme Court Strikes Down Limits on Political Party Coordinated Expenditures"
+  authors: ["Mickey Leibner", "Jonathan H. Becker", "Anjani D. Nadadur", "Philip R. Recht", "Howard W. Waltzman"]
+  publisher: "Mayer Brown"
+  date: "2026-07-02"
+  url: "https://www.mayerbrown.com/en/insights/publications/2026/07/supreme-court-strikes-down-limits-on-political-party-coordinated-expenditures"
+  tier: "secondary"
+  kind: "web"
+  parts: ["V"]
+  supports: "In NRSC v. FEC (June 30, 2026) the Supreme Court struck limits on party spending coordinated with candidates."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'On June 30, 2026, the Supreme Court issued a consequential 6-3 ruling' striking FECA party coordinated-expenditure limits, overturning Colorado II."
+
+- id: "scotus/2026_nrsc-v-fec-docket"
+  title: "Docket No. 24-621, National Republican Senatorial Committee v. Federal Election Commission"
+  publisher: "Supreme Court of the United States"
+  date: "2026-06-30"
+  url: "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24-621.html"
+  tier: "primary"
+  kind: "court"
+  parts: ["V"]
+  supports: "Primary record of the NRSC v. FEC decision date and vote."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. 'Jun 30 2026 Judgment REVERSED and case REMANDED.' Kavanaugh for the Court with Roberts, Thomas, Alito, Gorsuch, Barrett; Kagan dissenting."
+
+- id: "daily-montanan/2026_hawaii-montana-plan"
+  title: "Hawaii enacts law modeled on 'Montana Plan'"
+  authors: ["Micah Drew"]
+  publisher: "Daily Montanan"
+  date: "2026-06-17"
+  url: "https://dailymontanan.com/2026/06/17/hawaii-enacts-law-modeled-on-montana-plan/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V"]
+  supports: "Hawaii passed a law denying corporations the power to spend politically in May 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Last month, Democratic Hawaii Gov. Josh Green signed Senate Bill 2471 into law' (article of 17 June, so May 2026)."
+
+- id: "ballotpedia/2026_montana-i-194-certified"
+  title: "Montana Secretary of State certifies three ballot initiatives for November, addressing judicial elections, the initiative power, and corporate contributions to campaigns"
+  authors: ["Victoria Antram"]
+  publisher: "Ballotpedia News"
+  date: "2026-08-19"
+  url: "https://news.ballotpedia.org/?p=50534"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V"]
+  supports: "Montana's I-194 is on the November 3, 2026 ballot."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Three ballot initiatives were certified for the November ballot on Aug. 17 in Montana', including I-194 on artificial persons. Page says November, not the 3rd."
+
+- id: "hansmann-kraakman/2000_essential-role-organizational-law"
+  title: "The Essential Role of Organizational Law"
+  authors: ["Henry Hansmann", "Reinier Kraakman"]
+  publisher: "Yale Law Journal 110"
+  date: "2000"
+  url: "https://www.yalelawjournal.org/pdf/386_hxm176pg.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["V"]
+  supports: "Removing legal personhood breaks firms, unions and nonprofits and makes them harder to fine or prosecute."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Full text: legal entities matter because of asset partitioning (holding assets, contracting, creditor claims), incl. nonprofits. Never mentions unions or fining or prosecuting firms."
+
+- id: "move-to-amend/2025_we-the-people-amendment"
+  title: "We the People Amendment (Move to Amend's proposed amendment, introduced 12 February 2025)"
+  publisher: "Move to Amend"
+  date: "2025-02-12"
+  url: "https://www.movetoamend.org/amendment"
+  tier: "primary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Under 'no constitutional rights', speech and property protections become revocable privileges; row adds this strips groups like the NAACP and newspapers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Sec. 1: entity privileges 'shall not be construed to be inherent or inalienable'. But Sec. 3 protects press freedom, so the 'newspapers' problem does not fit this draft."
+
+- id: "idea/2026_corporate-donation-bans"
+  title: "Political Finance Database: Is there a ban on corporate donations to political parties?"
+  publisher: "International IDEA"
+  date: "2026"
+  url: "https://www.idea.int/data-tools/question-view/529"
+  tier: "secondary"
+  kind: "dataset"
+  parts: ["V"]
+  supports: "47 of 181 countries ban corporate donations to parties."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Question 3 totals: No 131, Yes 47, not applicable 1, no data 2, of 181. Country data years run from 2018 to 2025."
+
+- id: "elections-canada/2026_contribution-limits"
+  title: "Annual Limits on Contributions – 2026"
+  publisher: "Elections Canada"
+  date: "2026"
+  url: "https://www.elections.ca/content.aspx?section=pol&dir=lim&document=lim2026&lang=e"
+  tier: "primary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Canada bans corporate and union donations, caps individual giving and funds parties publicly."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "'Only individuals who are Canadian citizens or permanent residents can make contributions'; cap $1,775 in 2026. Public funding of parties is not covered on this page."
+
+- id: "transparency-france/2015_financement-vie-politique"
+  title: "Le financement des campagnes électorales et des partis politiques en France: état des lieux et recommandations"
+  publisher: "Transparency International France"
+  date: "2015-06"
+  url: "https://transparency-france.org/wp-content/uploads/2016/04/Juin-2015_Financement-de-la-vie-politique_Etat-des-lieux-recommandations.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["V"]
+  supports: "France bans corporate and union donations, caps individual giving and funds parties publicly."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Donations by 'personnes morales' banned since 1995; individuals capped (EUR 4,600 per election, EUR 7,500 a year to parties); large public funding by votes. Dated 2015."
+
+- id: "co-op-news/2026_mondragon-2025-figures"
+  title: "Mondragon posts positive 2025 revenue and job figures"
+  authors: ["Ciarán Daly"]
+  publisher: "Co-operative News"
+  date: "2026-06-12"
+  url: "https://www.thenews.coop/mondragon-posts-positive-2025-revenue-and-job-figures/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V"]
+  supports: "Mondragon: EUR 11.3B sales and 71,415 workers in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'€11.322bn in sales' (1% growth) and 'bringing its total number of employees up to 71,415'."
+
+- id: "perotin/2016_worker-coop-report-mirror"
+  title: "What do we really know about worker co-operatives? (mirror copy)"
+  authors: ["Virginie Pérotin"]
+  publisher: "United Diversity file library (mirror of Co-operatives UK report)"
+  date: "2016"
+  url: "https://files.uniteddiversity.coop/Cooperatives/Worker_Co-ops/worker_co-op_report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["V"]
+  supports: "Worker co-ops have productivity and survival at least as good, cut pay before jobs, and few are founded."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "unverified"
+    note: "404 (the whole folder is gone). Listed in a Feb 2025 Wayback folder capture but the PDF was never archived. Same-named Co-operatives UK copy checked instead."
+
+- id: "co-operatives-uk/2016_perotin-what-do-we-know"
+  title: "What do we really know about worker co-operatives?"
+  authors: ["Virginie Pérotin"]
+  publisher: "Co-operatives UK"
+  date: "2016"
+  url: "https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["V"]
+  supports: "Replacement for the dead Pérotin link: co-op productivity, survival, pay-before-jobs and rarity."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source; live URL 403, read Wayback copy of 3 Jan 2024. Co-ops 'survive at least as long' and 'drop wages rather than reducing their workforce'; 'a very small proportion of all firms'."
+
+- id: "cepr/2021_what-does-codetermination-do"
+  title: "What Does Codetermination Do? (CEPR Discussion Paper DP16261)"
+  authors: ["Simon Jäger", "Shakked Noy", "Benjamin Schoefer"]
+  publisher: "Centre for Economic Policy Research"
+  date: "2021-06-15"
+  url: "https://repec.cepr.org/repec/cpr/ceprdp/DP16261.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["V"]
+  supports: "Germany gives workers half the supervisory board above 2,000 staff; effects are small either way; shareholders keep the tie-break."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Live URL 403; read Wayback copy of 3 Jun 2024. Above 2,000 staff '50% of seats go to workers, but shareholders receive a tie-breaking vote'; 'zero or very small positive effects'."
+
+- id: "nceo/2026_employee-ownership-by-the-numbers"
+  title: "Employee Ownership by the Numbers"
+  publisher: "National Center for Employee Ownership"
+  date: "2026-01"
+  url: "https://www.nceo.org/articles/esops-by-the-numbers"
+  tier: "secondary"
+  kind: "web"
+  parts: ["V"]
+  supports: "US ESOPs: about 6,600 plans and 15M participants."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Updated Jan 2026 (2023 data): 'there were 6,609 plans identified as ESOPs'; 'ESOPs cover 15.1 million participants', 12.2M of them in 511 public-company plans."
+
+- id: "blasi-kruse/2025_employee-ownership-esops"
+  title: "Employee Ownership and ESOPs: What We Know from Recent Research"
+  authors: ["Joseph Blasi", "Douglas Kruse"]
+  publisher: "Rutgers University"
+  date: "2025-04"
+  url: "https://cleo.rutgers.edu/wp-content/uploads/2025/06/April-2025-FINAL-Employee-Ownership-and-ESOPs-What-We-Know-from-Recent-Research-.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["V"]
+  supports: "ESOP participants have about double the retirement wealth of similar workers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Key findings: 'ESOP participants have about double the retirement wealth of otherwise similar non-ESOP individuals' (2008-2018 federal survey)."
+
+- id: "patagonia/2026_ownership"
+  title: "Yvon Chouinard Donates Patagonia to Fight Climate Crisis (ownership page)"
+  publisher: "Patagonia"
+  date: "2026"
+  url: "https://www.patagonia.com/ownership/"
+  tier: "primary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Patagonia as an example of steward or foundation ownership."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page: Holdfast Collective owns 98% (all non-voting stock); Patagonia Purpose Trust owns 2% (all voting stock)."
+
+- id: "schroder-thomsen/2025_foundation-ownership"
+  title: "Purpose That Matters: What Foundation Ownership Teaches Us About Sustainable Capitalism"
+  authors: ["David Schröder", "Steen Thomsen"]
+  publisher: "Harvard Law School Forum on Corporate Governance"
+  date: "2025-05-28"
+  url: "https://corpgov.law.harvard.edu/2025/05/28/purpose-that-matters-what-foundation-ownership-teaches-us-about-sustainable-capitalism"
+  tier: "primary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Foundation-owned firms (Bosch, Novo Nordisk) are as competitive, with better environmental and social scores."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Foundation-owned firms are as economically competitive as their conventional counterparts'; outperform on E and S; no difference on governance scores."
+
+- id: "wikipedia/2026_b-corporation-certification"
+  title: "B Corporation (certification)"
+  publisher: "Wikipedia"
+  date: "2026-09-30"
+  url: "https://en.wikipedia.org/wiki/B_Corporation_(certification)"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["V"]
+  supports: "9,576 certified B Corps; the weakest option because the standards are not legally enforceable."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Says 9,576 'as of March 2025' and 'B Lab certification has no legal status'. Out of date: B Lab's site showed 11,185 companies on 10 Oct 2026."
+
+- id: "b-lab/2026_bcorporation-home"
+  title: "B Lab Global: Certified B Corporations (home page)"
+  publisher: "B Lab"
+  date: "2026"
+  url: "https://www.bcorporation.net/en-us/"
+  tier: "primary"
+  kind: "web"
+  parts: ["V"]
+  supports: "Current count of certified B Corps, replacing the doc's 9,576."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Home page counters: '11,185 Companies', 1,131,080 workers, 105 countries, 163 industries."
+
+# ---------------------------------------------------------------- Direct digital democracy
+
+- id: "estonia-seo/2026_i-voting-statistics"
+  title: "Statistics about Internet voting in Estonia"
+  publisher: "Estonian State Electoral Office (valimised.ee)"
+  date: "2026"
+  url: "https://www.valimised.ee/en/archive/statistics-about-internet-voting-estonia"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Estonia has had binding online voting since 2005; it peaked at 51.1% of voters in 2023 and fell to 41.7% in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'I-voting was first introduced during the local elections of 2005.' I-voters among participating voters: 51.1% (2023), 41.7% (2024 EP). No 2025 row."
+
+- id: "err/2025_supreme-court-declines-ekre"
+  title: "Supreme Court declines to hear EKRE local elections e-vote complaint"
+  publisher: "ERR News"
+  date: "2025-10-30"
+  url: "https://news.err.ee/1609843611/supreme-court-declines-to-hear-ekre-local-elections-e-vote-complaint"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "About 45.6% voted online in 2025; a paper vote cancels an online one and voters can revote online."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'270,818 final e-votes were cast out of a total 594,117 votes cast' (45.6%). E-vote can be re-cast and 'overruled by voting on paper'."
+
+- id: "err/2025_mobile-voting-delayed"
+  title: "Estonia's mobile voting delayed by auditing concerns"
+  authors: ["Kadri Põlendik"]
+  publisher: "ERR News"
+  date: "2025-06-16"
+  url: "https://news.err.ee/1609723092/estonia-s-mobile-voting-delayed-by-auditing-concerns"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Smartphone voting became legal in 2024, but officials blocked it in 2025 because app-store apps could not be audited."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Electoral committee voted 'narrowly' to block m-voting for autumn 2025 over app-store audit doubts. Says nothing about it becoming legal in 2024."
+
+- id: "b2trust/2026_eidas-2-status"
+  title: "eIDAS 2.0 Across EU-27: Implementation Status Eight Months Before the Deadline"
+  authors: ["Hubert Zerniak"]
+  publisher: "B2Trust"
+  date: "2026-04-12"
+  url: "https://b2trust.com/en/blog/eidas-2-implementation-status-eu-27-q2-2026"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Every EU country must offer a digital identity wallet by 24 December 2026; rollout is uneven."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Member states are 'obliged to issue at least one European Digital Identity Wallet' by 2026-12-24 (Reg. 2024/1183 Art 5a); three readiness tiers. Vendor blog; EUR-Lex was blocked."
+
+- id: "wikipedia/2026_aadhaar"
+  title: "Aadhaar"
+  publisher: "Wikipedia"
+  date: "2026-10-04"
+  url: "https://en.wikipedia.org/wiki/Aadhaar"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Aadhaar covers about 1.38 billion people; 12% biometric failure rate in 2018; about 3 million voters lost their place on the rolls."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Infobox: 1.383 billion holders as of Oct 2024; UIDAI 2018 '12% error rate'; voter-ID linkage disenfranchised about 3 million in Andhra and Telangana in 2015."
+
+- id: "uidai/2026_homepage-counters"
+  title: "Unique Identification Authority of India: home page dashboard"
+  publisher: "Unique Identification Authority of India"
+  date: "2026"
+  url: "https://uidai.gov.in/en/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Primary check on Aadhaar's scale behind the Wikipedia figure."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Dashboard: 145.32 crore (about 1.45 billion) Aadhaar enrolments. Enrolments are not the same as living people covered."
+
+- id: "muralidharan/2020_identity-verification-standards"
+  title: "Identity Verification Standards in Welfare Programs: Experimental Evidence from India (NBER Working Paper 26744)"
+  authors: ["Karthik Muralidharan", "Paul Niehaus", "Sandip Sukhtankar"]
+  publisher: "National Bureau of Economic Research"
+  date: "2020-02"
+  url: "https://www.nber.org/papers/w26744"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "1.5-2 million people lost welfare benefits during Aadhaar's rollout in one state."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract plus full PDF: Jharkhand's food ration system, 'leading to 1.5-2 million people losing access to their PDS benefits at some point during our study period'."
+
+- id: "estoniaevoting/2014_executive-summary"
+  title: "Independent Report on E-voting in Estonia: Executive Summary"
+  publisher: "Independent Report on E-voting in Estonia (estoniaevoting.org)"
+  date: "2014-05"
+  url: "https://estoniaevoting.org/findings/summary/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "2014: Estonia's system was open to malware on voters' PCs and attacks on the counting server; reviewers urged halting it."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "May 2014 team showed client-side and counting-server attacks; 'use of the Estonian I-voting system should be immediately discontinued'. Names not on this page."
+
+- id: "nasem/2018_securing-the-vote-release"
+  title: "Securing the Vote – New Report (news release)"
+  publisher: "National Academies of Sciences, Engineering, and Medicine"
+  date: "2018-09-06"
+  url: "https://www.nationalacademies.org/news/2018/09/securing-the-vote-new-report"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "2018: internet voting should not be used at present."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Internet voting should not be used at the present time'; 'no known technology can guarantee the secrecy, security, and verifiability' of a marked ballot sent online."
+
+- id: "cisa/2020_electronic-ballot-return-risk"
+  title: "Risk Management for Electronic Ballot Delivery, Marking, and Return"
+  publisher: "Cybersecurity and Infrastructure Security Agency"
+  date: "2020-05-08"
+  url: "https://www.cisa.gov/resources-tools/resources/risk-management-electronic-ballot-delivery-marking-and-return"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "2020, reaffirmed 2024: returning ballots electronically is high-risk even with controls (CISA, EAC, FBI, NIST)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Page (now marked archived): 2020 guidance re-issued for 2024 and 'remains operative'. Its PDF, read via Wayback, has the 'high-risk even with controls' wording."
+
+- id: "cisa/2020_electronic-ballot-return-guidance-pdf"
+  title: "Risk Management for Electronic Ballot Delivery, Marking, and Return (guidance PDF)"
+  publisher: "CISA, US Election Assistance Commission, FBI and NIST"
+  date: "2020-05-08"
+  url: "https://www.cisa.gov/sites/default/files/2024-02/Final_%20Risk_Management_for_Electronic-Ballot_05082020_508c.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Primary text for 'returning ballots electronically is high-risk even with controls'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source; live PDF 404, read Wayback copy of 18 Dec 2025: 'electronic ballot return technologies are high-risk even with controls in place'."
+
+- id: "mit-csail/2020_voatz-vulnerabilities"
+  title: "MIT researchers identify security vulnerabilities in voting app"
+  authors: ["Abby Abazorius"]
+  publisher: "MIT CSAIL (MIT News)"
+  date: "2020-02-13"
+  url: "https://www.csail.mit.edu/node/7661"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "2020: the Voatz blockchain app let attackers change or learn votes."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Specter and Koppel found 'the opportunity for hackers to alter, stop, or expose how an individual user has voted'; used in West Virginia 2018."
+
+- id: "park/2021_bad-to-worse"
+  title: "Going from bad to worse: from Internet voting to blockchain voting"
+  authors: ["Sunoo Park", "Michael Specter", "Neha Narula", "Ronald L. Rivest"]
+  publisher: "Journal of Cybersecurity (Oxford University Press)"
+  date: "2021"
+  url: "https://people.csail.mit.edu/rivest/pubs/PSNR21.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "2021: blockchain fixes none of internet voting's problems and adds new ones."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full text (J. Cybersecurity 2021, tyaa025): no known technology incl. blockchain meets the requirements; blockchains may add new problems."
+
+- id: "citp/2026_internet-voting-insecure"
+  title: "Internet voting is insecure and should not be used in public elections"
+  authors: ["Andrew Appel"]
+  publisher: "Princeton CITP Blog"
+  date: "2026-01-16"
+  url: "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "Jan 2026: 21 computer scientists say no known technology can secure internet voting."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Signed by a group of 21 computer scientists'; 'there is no known or foreseeable technology that can make it secure'. Also covers device malware and coercion."
+
+- id: "the-register/2026_basel-evote-snafu"
+  title: "Swiss e-voting pilot can't count 2,048 ballots after USB keys fail to decrypt them"
+  authors: ["SA Mathieson"]
+  publisher: "The Register"
+  date: "2026-03-11"
+  url: "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII", "OQ"]
+  supports: "March 2026: Basel-Stadt could not decrypt 2,048 e-votes, with no attacker involved."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "2,048 votes undecryptable after three USB keys failed. No statement that no attacker was involved: an external analysis was ordered and prosecutors opened criminal proceedings."
+
+- id: "wikipedia/2026_voting-in-switzerland"
+  title: "Voting in Switzerland"
+  publisher: "Wikipedia"
+  date: "2026-08-12"
+  url: "https://en.wikipedia.org/wiki/Voting_in_Switzerland"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "About four federal voting days a year, with turnout around 50%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Approximately four times a year'; average popular-vote turnout over five years 49.7% (as of March 2024, citing BFS). BFS page is script-only; primary not opened."
+
+- id: "wikipedia/2026_popular-initiative-switzerland"
+  title: "Popular initiative in Switzerland"
+  publisher: "Wikipedia"
+  date: "2026-08-07"
+  url: "https://en.wikipedia.org/wiki/Popular_initiative_in_Switzerland"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "About 11.5% of citizen initiatives passed between 1893 and 2014."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Between 1893 and 2014, out of a total of 192 federal initiatives put to the vote, 22 were successful' (11.5%). Chancellery list page is script-only."
+
+- id: "swissinfo/2019_minaret-ban-ten-years-on"
+  title: "Switzerland's controversial minaret ban, ten years on"
+  authors: ["Abdelhafidh Abdeleli"]
+  publisher: "SWI swissinfo.ch"
+  date: "2019-11-29"
+  url: "https://swissinfo.ch/eng/political-history_the-controversial-minaret-ban--ten-years-on/45399822"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "The 2009 minaret ban passed with 57.5%; Muslim groups saw it as targeting them."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'accepted by 57.5% of Swiss voters'; Islamic organisations opposed it and refused 'to be used as pawns' of right-wing extremists."
+
+- id: "swissinfo/2021_burka-ban-accepted"
+  title: "Swiss 'burka ban' accepted by slim majority"
+  authors: ["Domhnall O'Sullivan"]
+  publisher: "SWI swissinfo.ch"
+  date: "2021-03-07"
+  url: "https://swissinfo.ch/eng/swiss--burka-ban--vote-too-close-to-call/46420534"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "The 2021 face-covering ban passed with 51.2%; Muslim groups saw it as targeting them."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "51.2% yes. Federation of Islamic Organisations: the vote 'targeted a specific community, just like with the minarets'. URL now redirects to the final-result story."
+
+- id: "swissinfo/2019_historic-verdict-re-vote"
+  title: "Historic verdict could force Swiss re-vote on family tax breaks"
+  authors: ["Urs Geiser"]
+  publisher: "SWI swissinfo.ch"
+  date: "2019-04-10"
+  url: "https://swissinfo.ch/eng/politics/wrong-statistics_historic-verdict-forces-swiss-re-vote-on-family-tax-breaks/44887174"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "In 2019 a court annulled a national vote for the first time, because the government had given voters wrong figures."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Federal Court annulled the 2016 vote, 'a first in the history of Switzerland’s system of direct democracy'; 454,000 couples affected, not 80,000."
+
+- id: "wikipedia/2026_thirty-sixth-amendment-ireland"
+  title: "Thirty-sixth Amendment of the Constitution of Ireland"
+  publisher: "Wikipedia"
+  date: "2026-06-13"
+  url: "https://en.wikipedia.org/wiki/Thirty-sixth_Amendment_of_the_Constitution_of_Ireland"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Ireland's 2016-17 citizens' assembly led to a 66.4% referendum win in 2018."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Assembly met Nov 2016 to Apr 2017 and recommended repeal; 25 May 2018 vote 'approved by 66.4% of voters'. Official refcom.ie page now redirects without results."
+
+- id: "wikipedia/2026_2024-irish-constitutional-referendums"
+  title: "2024 Irish constitutional referendums"
+  publisher: "Wikipedia"
+  date: "2026-09-01"
+  url: "https://en.wikipedia.org/wiki/2024_Irish_constitutional_referendums"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "When the government rewrote a later assembly's proposal, voters rejected both 2024 amendments."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Both rejected: 67.69% No (Family), 73.93% No (Care). Gender-equality assembly (report 2021) noted; 'Gender equality was not included'. Never says the government rewrote it."
+
+- id: "mit-technology-review/2018_vtaiwan"
+  title: "The simple but ingenious system Taiwan uses to crowdsource its laws"
+  authors: ["Chris Horton"]
+  publisher: "MIT Technology Review"
+  date: "2018-08-21"
+  url: "https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "vTaiwan used Pol.is to find common ground on Uber rules; about 80% of its 26 cases led to government action, but results are not binding."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Pol.is and Uber case described; 26 cases, 80% 'decisive government action' is vTaiwan's own 2018 claim; 'the government is not required to heed the discussions'."
+
+- id: "kling/2015_liquidfeedback-super-voters"
+  title: "Voting Behaviour and Power in Online Democracy: A Study of LiquidFeedback in Germany's Pirate Party"
+  authors: ["Christoph Carl Kling", "Jérôme Kunegis", "Heinrich Hartmann", "Markus Strohmaier", "Steffen Staab"]
+  publisher: "arXiv (ICWSM 2015)"
+  date: "2015-03-26"
+  url: "https://arxiv.org/abs/1503.07723v1"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Liquid democracy concentrated power in a few super-voters in Germany's Pirate Party."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract and PDF: super-voters' theoretical power is high, 'we also observe that they use their power wisely', mostly voting with the majority. The doc omits this."
+
+- id: "p2p-foundation/2013_pirate-party-liquid-feedback"
+  title: "The failure of the Pirate Party's direct democracy based on the Liquid Feedback system"
+  authors: ["Michel Bauwens"]
+  publisher: "P2P Foundation blog (excerpting Evgeny Morozov)"
+  date: "2013-02-11"
+  url: "https://blog.p2pfoundation.net/the-failure-of-the-pirate-partys-direct-democracy-based-on-the-liquid-feedback-system/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Liquid democracy drew very few participants in Germany's Pirate Party."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Morozov excerpt: in North Rhine-Westphalia LiquidFeedback was used on two issues and one poll 'attracted only twenty votes'. An opinion piece."
+
+# ---------------------------------------------------------------- Global enforcement
+
+- id: "un/1945_charter-chapter-5"
+  title: "United Nations Charter, Chapter V: The Security Council (Articles 23-32)"
+  publisher: "United Nations"
+  date: "1945-06-26"
+  url: "https://www.un.org/en/about-us/un-charter/chapter-5"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX", "XII"]
+  supports: "Security Council decisions bind every member; the five permanent members hold a veto."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Art 25: members 'agree to accept and carry out the decisions of the Security Council'; Art 27: substantive decisions need the permanent members' concurring votes."
+
+- id: "un/1945_charter-chapter-18"
+  title: "United Nations Charter, Chapter XVIII: Amendments (Articles 108-109)"
+  publisher: "United Nations"
+  date: "1945-06-26"
+  url: "https://www.un.org/en/about-us/un-charter/chapter-18"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX", "XII"]
+  supports: "Basis for 'five permanent members can veto anything, including reform of the veto'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Art 108: amendments need ratification by two thirds of members 'including all the permanent members of the Security Council'."
+
+- id: "security-council-report/2026_living-with-the-veto"
+  title: "Living with the Veto (Research Report 2026, No. 1)"
+  publisher: "Security Council Report"
+  date: "2026-03-23"
+  url: "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Veto_report_2026_F.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["IX", "XII"]
+  supports: "320 vetoes from 1946 to 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "p.3: through end of 2025 'the veto has been used 320 times on 264 draft resolutions and amendments'; Soviet Union/Russia 155 times."
+
+- id: "cp24/2026_guterres-un-financial-collapse"
+  title: "UN on 'imminent financial collapse': Guterres"
+  publisher: "CP24 (Reuters)"
+  date: "2026-01-30"
+  url: "https://www.cp24.com/news/world/2026/01/30/guterres-warns-of-uns-imminent-financial-collapse/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX", "XII"]
+  supports: "A record $1.57B in unpaid UN dues by end of 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'by the end of 2025 there was a record US$1.57 billion in outstanding dues'. Also: US refused mandatory regular and peacekeeping payments."
+
+- id: "icc/2026_about-the-court"
+  title: "About the Court"
+  publisher: "International Criminal Court"
+  date: "2026"
+  url: "https://www.icc-cpi.int/about/the-court"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "ICC: 125 member states; 20 of 49 people with warrants at large; 11 convictions by the Court's own count."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "CONTRADICTED: 'ICC judges have issued 68 arrest warrants', 23 detained, '34 people remain at large', '15 convictions and 4 acquittals'. No member count (ASP page says 125)."
+
+- id: "icc-asp/2026_states-parties"
+  title: "The States Parties to the Rome Statute"
+  publisher: "International Criminal Court, Assembly of States Parties"
+  date: "2026"
+  url: "https://asp.icc-cpi.int/states-parties"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "Source for the ICC's 125 member states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. '125 countries are States Parties to the Rome Statute of the International Criminal Court.'"
+
+- id: "icc/1998_rome-statute"
+  title: "Rome Statute of the International Criminal Court"
+  publisher: "International Criminal Court"
+  date: "1998-07-17"
+  url: "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX", "XII", "OQ"]
+  supports: "No ICC trials in absentia; the ICC keeps jurisdiction over crimes committed while a country was a member, even after it leaves."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Added source; ICC site now bot-walled, read Wayback copy of 3 Oct 2026. Art 63: 'The accused shall be present during the trial.' Art 127(2) is narrower than the doc's wording."
+
+- id: "jurist/2026_icc-confirms-duterte-charges"
+  title: "ICC confirms charges against Philippines ex-president Duterte"
+  authors: ["Abigail Austin"]
+  publisher: "JURIST"
+  date: "2026-04-23"
+  url: "https://www.jurist.org/news/2026/04/icc-confirms-charges-against-philippines-ex-president-duterte/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX", "XII"]
+  supports: "Duterte reached The Hague in 2025 only because his own country's police arrested him."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Covers the April 2026 confirmation of charges and Article 63 presence at trial. Says nothing about his arrest; the ICC case page does."
+
+- id: "icc/2026_duterte-case"
+  title: "The Prosecutor v. Rodrigo Roa Duterte (ICC-01/21-01/25): case page"
+  publisher: "International Criminal Court"
+  date: "2026"
+  url: "https://www.icc-cpi.int/philippines/duterte"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX", "XII"]
+  supports: "Primary source for how Duterte reached The Hague."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source; live page bot-walled, read Wayback copy of 29 Sep 2026: surrendered on 12 Mar 2025 'after being arrested by the authorities of the Republic of the Philippines'."
+
+- id: "interpol/2026_red-notices"
+  title: "About Red Notices"
+  publisher: "INTERPOL"
+  date: "2026"
+  url: "https://www.interpol.int/en/How-we-work/Notices/Red-Notices"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "Interpol's 196 members share wanted-person alerts (Red Notices); a Red Notice is not an arrest warrant."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "'A Red Notice is an international alert for a wanted person, but it is not an arrest warrant.' No member count or notice totals on this page."
+
+- id: "disclose/2026_interpol-misuse"
+  title: "Revelations on the misuse of Interpol by the world's most repressive regimes"
+  publisher: "Disclose"
+  date: "2026-01-25"
+  url: "https://disclose.ngo/en/article/revelations-on-the-misuse-of-interpol-by-the-worlds-most-repressive-regimes"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX", "XII"]
+  supports: "Leaked files show about 86,000 Red Notices, with authoritarian states the top filers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "CONTRADICTED: the 86,000 figure 'was sent to us by the Interpol communications department'; leaked documents show the ranking (Russia first). States 196 members."
+
+- id: "euronews/2024_hungary-fine-deduction"
+  title: "Brussels moves to deduct €200 million fine from Hungary's EU funds, as country refuses to pay up"
+  authors: ["Jorge Liboreiro"]
+  publisher: "Euronews"
+  date: "2024-09-18"
+  url: "https://www.euronews.com/my-europe/2024/09/18/brussels-moves-to-deduct-200-million-fine-from-hungarys-eu-funds-as-country-refuses-to-pay"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX", "XII"]
+  supports: "The EU collected an unpaid fine from Hungary by deducting it from EU payments."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Commission 'has triggered a special procedure to deduct the €200 million fine' and says it 'will take a bit of time'. Does not show the money was collected."
+
+- id: "verfassungsblog/2026_unfreezing-eu-funds"
+  title: "Unfreezing EU Funds Without Melting the Rule of Law"
+  authors: ["John Morijn", "Kim Lane Scheppele"]
+  publisher: "Verfassungsblog"
+  date: "2026-05-25"
+  url: "https://verfassungsblog.de/unfreezing-eu-funds-without-melting-the-rule-of-law/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IX", "XII"]
+  supports: "The EU froze about EUR 35-36B of Hungary's funds."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'Around €36 billion worth of EU funds earmarked for Hungary were frozen'. Same essay: after Hungary's 2026 election, unfreezing is under way."
+
+- id: "wikipedia/2026_article-7-teu"
+  title: "Article 7 of the Treaty on European Union"
+  publisher: "Wikipedia"
+  date: "2026-09-02"
+  url: "https://en.wikipedia.org/wiki/Article_7_of_the_Treaty_on_European_Union"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "EU Article 7 sanctions have never reached the penalty stage."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Describes the unanimity hurdle, Hungary's expected veto for Poland and Poland's case closed in May 2024. Never says outright that no sanction has been imposed."
+
+- id: "helfer-slaughter/1997_effective-supranational-adjudication"
+  title: "Toward a Theory of Effective Supranational Adjudication"
+  authors: ["Laurence R. Helfer", "Anne-Marie Slaughter"]
+  publisher: "Yale Law Journal 107"
+  date: "1997"
+  url: "https://scholarship.law.duke.edu/faculty_scholarship/2031"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX", "XII"]
+  supports: "Supranational law has worked where it runs through local courts."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Landing page plus full PDF (107 Yale L.J. 273): ECJ and ECHR effectiveness tied to private parties' direct claims and links with national courts."
+
+- id: "hathaway-shapiro/2011_outcasting"
+  title: "Outcasting: Enforcement in Domestic and International Law"
+  authors: ["Oona Hathaway", "Scott J. Shapiro"]
+  publisher: "Yale Law Journal"
+  date: "2011"
+  url: "https://yalelawjournal.org/pdf/1020_z6ibu4n2.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["IX", "XII"]
+  supports: "Supranational law works where breaking it costs the benefits of membership."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Abstract: 'outcasting involves denying the disobedient the benefits of social cooperation and membership', common in international law (WTO, Montreal Protocol)."
+
+- id: "wfm-canada/2023_earth-constitution-structure"
+  title: "Constitution for the Federation of Earth: Structure and Function"
+  publisher: "World Federalist Movement – Canada"
+  date: "2023-04-11"
+  url: "https://wfmcanada.org/blogs/news/constitution-for-the-federation-of-earth-structure-and-function"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "The Earth Constitution arms its police only to arrest individuals."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Says World Police will be 'nonmilitary' and use 'non-lethal' means of apprehension. The doc's arrest-only wording rests on the Constitution's Article 10, not this page."
+
+- id: "wcpa/1977_earth-constitution"
+  title: "Constitution for the Federation of Earth"
+  publisher: "World Constituent Assembly (World Constitution and Parliament Association)"
+  date: "1977-06"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "law"
+  parts: ["VI", "VIII", "IX", "XII", "OQ"]
+  supports: "Arrest-only police; staged joining (WMD first, militaries last); also shows the text's own exit right."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Added source. Art 10: police armed only to apprehend individuals. Art 17: WMD handed over on joining; 50% stage two; full stage at 80% of nations with 90% of people, or 90% of people. Art 14.1.4: exit right. Checked at https://earthconstitution.world/text-of-the-earth-constitution/."
+
+- id: "wikipedia/2026_karim-ahmad-khan"
+  title: "Karim Ahmad Khan"
+  publisher: "Wikipedia"
+  date: "2026-09-04"
+  url: "https://en.wikipedia.org/wiki/Karim_Ahmad_Khan"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["IX", "XII"]
+  supports: "Under US sanctions, ICC officials lost Microsoft email and bank cards."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Sanctions led to 'Microsoft blocking Khan's access to his official email account'; Microsoft denies cutting ICC services. Nothing on bank cards."
+
+- id: "ap/2025_icc-sanctions-khan"
+  title: "Trump's sanctions on ICC prosecutor have halted tribunal's work"
+  authors: ["Molly Quell"]
+  publisher: "Associated Press"
+  date: "2025-05-15"
+  url: "https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX", "XII"]
+  supports: "Original report behind the Khan email and banking claim."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Added source. Khan 'has lost access to his email, and his bank accounts have been frozen' (UK accounts); Microsoft cancelled his email. Accounts, not cards; one official, not 'officials'."
+
+- id: "transcend/2025_nonmilitary-earth-federation"
+  title: "Transition to a Nonmilitary Earth Federation through the World Disarmament Agency"
+  authors: ["Glen T. Martin"]
+  publisher: "TRANSCEND Media Service"
+  date: "2025-10-13"
+  url: "https://www.transcend.org/tms/?p=304701"
+  tier: "secondary"
+  kind: "web"
+  parts: ["IX", "XII", "OQ"]
+  supports: "The Earth Constitution's stages: weapons of mass destruction handed over first, national militaries dismantled only at the final stage."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Art 17.3: joining nations 'are required to turn over their weapons of mass destruction'; conventional forces kept; Art 17.5: all militaries dismantled by the final stage."
+
+- id: "sep/2021_world-government"
+  title: "World Government"
+  authors: ["Catherine Lu"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2021-01-05"
+  url: "https://plato.stanford.edu/entries/world-government/"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VI", "XII", "OQ"]
+  supports: "Critics from Kant and Rawls on argue a world authority removes the checks on tyranny: somewhere to flee, and rival states."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Kant's 'tyranny objection' (universal despotism) and Rawls preferring a federation of states to a world state. The doc's flee-or-rival-states framing comes from Somin, not SEP."
+
+- id: "somin/2008_perils-of-world-government"
+  title: "Perils of World Government"
+  authors: ["Ilya Somin"]
+  publisher: "The Volokh Conspiracy"
+  date: "2008-12-14"
+  url: "https://volokh.com/?p=15118"
+  tier: "primary"
+  kind: "web"
+  parts: ["VI", "XII", "OQ"]
+  supports: "Somin argues world government removes emigration and competition between states as checks on tyranny."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Three dangers: stifling diversity and competition, 'elimination of the possibility of emigration' and 'voting with your feet', and global totalitarianism."
+
+- id: "80000-hours/2024_stable-totalitarianism"
+  title: "Stable totalitarianism"
+  authors: ["Stephen Clare"]
+  publisher: "80,000 Hours"
+  date: "2024-06-19"
+  url: "https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VI", "XII", "OQ"]
+  supports: "Caplan puts lasting global totalitarianism within 1,000 years at 5% with many states, 25% with one."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "CONTRADICTED: footnote quotes Caplan (2008): 5% is his 'unconditional probability'; if countries do not decrease it 'falls to .1%'; if they fall to 1, 'rises to 25%'."
+
+- id: "wikipedia/2026_exit-voice-and-loyalty"
+  title: "Exit, Voice, and Loyalty"
+  publisher: "Wikipedia"
+  date: "2026-07-03"
+  url: "https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VI", "XII", "OQ"]
+  supports: "Hirschman implies that when exit disappears, voice must become much stronger."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Summary: 'the greater the availability of exit, the less likely voice will be used'. 'Voice must become much stronger' is the doc's inference, not a stated finding."
+
+# ---------------------------------------------------------------- Guardians
+
+- id: "wales/2015_future-generations-act"
+  title: "Well-being of Future Generations (Wales) Act 2015"
+  publisher: "National Assembly for Wales (legislation.gov.uk)"
+  date: "2015-04-29"
+  url: "https://www.legislation.gov.uk/anaw/2015/2/enacted"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Wales' Future Generations Commissioner: ministers appoint for 7 years; public bodies must follow advice or publicly explain why not."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened with a Safari fingerprint (Chrome got an empty 202). s17(2) appointed by Welsh Ministers; Sch 2 para 3 term of 7 years; s22 duty to follow or publish reasons."
+
+- id: "reasons-to-be-cheerful/2022_wales-future-generations-commissioner"
+  title: "Meet the 'Future Generations' Commissioner of Wales"
+  authors: ["Peter Yeung"]
+  publisher: "Reasons to be Cheerful"
+  date: "2022-04-05"
+  url: "https://reasonstobecheerful.world/meet-the-future-generations-commissioner-of-wales/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "The Wales Commissioner is credited with stopping a motorway."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Interview with Commissioner Sophie Howe: 'The government changed its mind on the basis of the Future Generations Act and stopped that road.' Her own account; no independent check."
+
+- id: "business-news-wales/2025_wfg-act-not-driving-change"
+  title: "Well-being of Future Generations Act 'Not Driving the System-Wide Change That Was Intended'"
+  publisher: "Business News Wales"
+  date: "2025-04-29"
+  url: "https://businessnewswales.com/ten-years-on-ambitions-of-the-well-being-of-future-generations-act-remain-unfulfilled"
+  tier: "secondary"
+  kind: "news"
+  parts: ["X"]
+  supports: "Wales' auditor said in 2025 the law is not driving system-wide change."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'The Well-being of Future Generations Act is not driving the system-wide change that was intended, Audit Wales says'; quotes Auditor General Adrian Crompton."
+
+- id: "fdsd/2014_hungary-ombudsman"
+  title: "Hungarian Parliament's Deputy Commissioner for Fundamental Rights, the Ombudsman for Future Generations"
+  authors: ["Andrea Westall"]
+  publisher: "Foundation for Democracy and Sustainable Development"
+  date: "2014-10-20"
+  url: "https://fdsd.org/ideas/the-hungarian-parliaments-ombudsman-for-future-generations/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Hungary's Ombudsman for Future Generations (2008), chosen by parliament, gives opinions on draft laws, can trigger constitutional review; downgraded to a deputy post in 2011-12."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Deputy elected by parliament; opinions on draft laws; possible Constitutional Court review; pre-2011 office could stop harmful laws. No 2008 date; downgrade only implied."
+
+- id: "unu-cpr/2025_parliamentary-committees-future"
+  title: "Parliamentary Committees for the Future: A Legislative Movement to Overcome Political Myopia"
+  authors: ["Paola Aceituno O."]
+  publisher: "United Nations University Centre for Policy Research"
+  date: "2025-07-09"
+  url: "https://unu.edu/cpr/blog-post/parliamentary-committees-future-legislative-movement-overcome-political-myopia"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Finland's Committee for the Future (1993, 17 members) does foresight and agenda-setting; permanent since 2000 and copied by about a dozen parliaments."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Opened with a Safari fingerprint. 1993 start; 'a permanent parliamentary committee in 2000'; table lists 16 other bodies, 12 active. Membership of 17 is not given."
+
+- id: "knesset/2016_commission-for-future-generations"
+  title: "The Knesset Commission for Future Generations"
+  publisher: "Knesset Commission for Future Generations (hosted by World Future Council)"
+  date: "2001"
+  url: "https://www.worldfuturecouncil.org/wp-content/uploads/2016/10/Knesset-Paper.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "Israel's Commissioner (2001) was chosen via a mixed panel of legislators and academics, saw every bill and could delay bills."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Law enacted March 2001; Public Committee of three MKs and 'Three faculty members from institutions of higher education'; secretariat 'must supply the Commission with every bill'."
+
+- id: "fdsd/2017_knesset-commission"
+  title: "Knesset Commission for Future Generations"
+  publisher: "Foundation for Democracy and Sustainable Development"
+  date: "2017-06-25"
+  url: "https://fdsd.org/ideas/knesset-commission-future-generations/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Israel's commission was left vacant in 2006 and repealed in 2010; it was attacked as an unelected moral arbiter."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "'lasted for one term of office until 2006'; delay was its main power; abolished over cost and its 'authority to interfere'; MK quote on moral judgments. No 2010 date."
+
+- id: "un/2025_pact-paragraph-32a"
+  title: "Pact for the Future: Paragraph 32(a)"
+  publisher: "United Nations"
+  date: "2024-09"
+  url: "https://www.un.org/pact-for-the-future/en/paragraph-32a"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "The UN Special Envoy for Future Generations (2024), named by the Secretary-General for advocacy, was never funded and is on hold."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Para 32(a) notes the SG's proposal; 'the appointment of the Special Envoy for Future Generations is temporarily on hold' over UN finances. 'Never funded' is not stated."
+
+- id: "environment-guide/2026_te-awa-tupua-act"
+  title: "Te Awa Tupua (Whanganui River Claims Settlement) Act"
+  publisher: "Environment Guide"
+  date: "2026"
+  url: "https://environmentguide.org.nz/regional/te-awa-tupua-whanganui-river-claims-settlement"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Whanganui River guardians (2017): one iwi nominee, one Crown nominee, acting in the river's name, with a $30M fund."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Te Pou Tupua acts in the river's name (s18); two appointees, Crown and Whanganui iwi (s20); 'A $30 million contestable fund' for river health."
+
+- id: "te-arawhiti/2020_te-pou-tupua-appointment-term"
+  title: "Te Awa Tupua: modifying the current appointment term for Te Pou Tupua (Cabinet paper, proactive release)"
+  publisher: "New Zealand Government, Te Arawhiti (Office for Māori Crown Relations)"
+  date: "2020-08-03"
+  url: "https://whakatau.govt.nz/assets/Publications/Proactive-release-Modifying-the-current-appointment-term-of-Te-Pou-Tupua.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "The Whanganui guardian office nearly fell vacant in 2020."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Paper of 3 Aug 2020 (released 14 Sep 2020): 'Without an IMO, the office of Te Pou Tupua will fall vacant as at 3 September 2020'."
+
+- id: "biographic/2025_mar-menor-legal-personhood"
+  title: "A Spanish Lagoon Was Granted Legal Personhood. Then What Happened?"
+  authors: ["Goldy Levy"]
+  publisher: "bioGraphic"
+  date: "2025-06-19"
+  url: "https://biographic.com/a-spanish-lagoon-was-granted-legal-personhood-then-what-happened/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Mar Menor (2022) is a legal person anyone may sue for; its guardians were seated only in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Opened with a Safari fingerprint. Sep 2022 law; Art 6 lets any person defend the lagoon; the representing council 'was only established in May 2025'."
+
+- id: "boe/2025_real-decreto-90-2025-mar-menor"
+  title: "Real Decreto 90/2025, de 11 de febrero, por el que se regula el régimen de constitución, composición y funcionamiento de los órganos de representación y gobernanza de la laguna del Mar Menor y su cuenca"
+  publisher: "Boletín Oficial del Estado"
+  date: "2025-02-12"
+  url: "https://boe.es/boe/dias/2025/02/12/pdfs/BOE-A-2025-2577.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["X"]
+  supports: "Mar Menor's guardians: officials, citizens and scientists in three bodies."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Preamble: Law 19/2022 'crea tres órganos': representatives' committee (state, region, citizens), monitoring commission (guardians), scientific committee. Cites STC 142/2024."
+
+- id: "earth-law-center/2025_mar-menor-constitutional-ruling"
+  title: "In a European First, Landmark Verdict Upholds Constitutionality of Mar Menor's Legal Rights"
+  authors: ["Karen Maessen"]
+  publisher: "Earth Law Center"
+  date: "2025-01-15"
+  url: "https://www.earthlawcenter.org/blog-entries/2025/1/in-a-european-first-landmark-verdict-upholds-constitutionality-of-mar-menors-legal-rights"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Spain's Constitutional Court upheld Mar Menor's rights in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Court ruled on 20 November 2024 upholding Law 19/2022 against a Vox appeal; matches STC 142/2024 cited in the BOE decree."
+
+- id: "verfassungsblog/2024_rights-of-nature-los-cedros"
+  title: "Are Rights of Nature Working? The Impact of the Los Cedros Ruling in Ecuador"
+  authors: ["César Rodríguez-Garavito", "Melina De Bona"]
+  publisher: "Verfassungsblog"
+  date: "2024-08-08"
+  url: "https://verfassungsblog.de/rights-of-nature-implementation/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["X"]
+  supports: "Ecuador's courts stopped mining at Los Cedros by putting the burden on the state and developers."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "2021 ruling annulled the mining permits and banned extraction. Nothing on a burden of proof; 'burden' here means implementation falling on scientists and advocates."
+
+- id: "bverfg/2021_climate-change-act-ruling"
+  title: "Constitutional complaints against the Federal Climate Change Act partially successful (Press Release No. 31/2021)"
+  publisher: "Federal Constitutional Court of Germany"
+  date: "2021-04-29"
+  url: "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2021/bvg21-031.html"
+  tier: "primary"
+  kind: "court"
+  parts: ["X"]
+  supports: "Germany's top court ordered lawmakers to set climate targets beyond 2030 to protect future generations' freedom."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Order of 24 Mar 2021: provisions 'lack sufficient specifications for further emission reductions from 2031 onwards'; burdens offloaded after 2030 threaten freedom."
+
+- id: "te-ao-maori-news/2023_te-urewera-huts"
+  title: "High Court condemns 29 Te Urewera huts burnt down as unlawful"
+  publisher: "Te Ao Māori News"
+  date: "2023-12-14"
+  url: "https://www.teaonews.co.nz/2023/12/14/high-court-condemns-29-te-urewera-huts-burnt-down-as-unlawful/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["X"]
+  supports: "In 2023 a New Zealand court found Te Urewera's own board acted unlawfully when 29 huts that supported predator control were burned."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "'A total of 29 huts were burned down at the direction of Te Uru Taumatua'; Te Uru Taumatua and the board acted contrary to the Act; huts used for predator trapping."

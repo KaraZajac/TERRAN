@@ -1,0 +1,722 @@
+- id: "keynes/1942_clearing-union-proposals"
+  title: "Proposals for an International Clearing Union"
+  authors: ["John Maynard Keynes"]
+  publisher: "US Department of State, Office of the Historian (Foreign Relations of the United States, 1942, Vol. I, Document 160)"
+  date: "1942-08-28"
+  url: "https://history.state.gov/historicaldocuments/frus1942v01/d160"
+  tier: "primary"
+  kind: "report"
+  parts: ["IV", "OQ"]
+  supports: "Bancor defined in gold and held only by central banks; trade-based quotas; 1% charges on credit and debit balances above a quarter and a half of quota, paid to a Reserve Fund; everyone else keeps national money."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text of FRUS doc 160: covering letter from Redvers Opie dated Washington, 28 August 1942; enclosure paras 4 and 7(1)-(7)."
+
+- id: "federal-reserve-history/2013_bretton-woods-created"
+  title: "Creation of the Bretton Woods System"
+  authors: ["Sandra Kollen Ghizoni"]
+  publisher: "Federal Reserve History (Federal Reserve System)"
+  date: "2013-11-22"
+  url: "https://www.federalreservehistory.org/essays/bretton-woods-created"
+  tier: "secondary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "44 nations met at Bretton Woods in July 1944; the adopted plan resembled White's; US concern about holding most bancor; dollar fixed to gold at $35 an ounce until 1971."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text; HTML says 'Written as of November 22, 2013'. Its plan sizes read 'million' where billions seem meant, so those figures were not used."
+
+- id: "imf/2023_sdr-factsheet"
+  title: "Special Drawing Rights (SDR)"
+  publisher: "International Monetary Fund"
+  date: "2023-10-07"
+  url: "https://www.imf.org/en/About/Factsheets/Sheets/2023/special-drawing-rights-sdr"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "OQ"]
+  supports: "SDR created in 1969; 'not a currency'; private parties cannot hold it; 2021 general allocation of about SDR 456 billion (about US$650 billion)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Raw fetch blocked (HTTP 403); page read only through a model-processed digest, which quoted these sentences and the date 'Published: October 7, 2023'."
+
+- id: "imf/2022_sdr-valuation-review"
+  title: "IMF Executive Board Concludes Quinquennial SDR Valuation Review (Press Release No. 22/153)"
+  publisher: "International Monetary Fund"
+  date: "2022-05-14"
+  url: "https://www.imf.org/en/News/Articles/2022/05/14/pr22153-imf-board-concludes-sdr-valuation-review"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "OQ"]
+  supports: "SDR weights from 1 August 2022: US dollar 43.38%, euro 29.31%, renminbi 12.28%, yen 7.59%, sterling 7.44%; next review to conclude before end-July 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "IMF page read via digest (raw fetch 403); exact weights and review date confirmed in raw text of a verbatim republication at mondovisione.com (Annex, 'Currency Weights in the SDR')."
+
+- id: "imf/2026_sdr-valuation"
+  title: "SDR Valuation"
+  publisher: "International Monetary Fund"
+  date: "2026-10-09"
+  url: "https://www.imf.org/external/np/fin/data/rms_sdrv.aspx"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "OQ"]
+  supports: "SDR 1 = US$1.353260 on 9 October 2026; currency amounts used to compute the dollar's 42.7% share of SDR value and the SDR 7.39 million equivalent of $10 million."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text for Friday, October 09, 2026: US dollar amount 0.57813, total 1.353261, 'SDR1 = US$ 1.353260'. Shares computed by Claude."
+
+- id: "imf/1944_articles-of-agreement"
+  title: "Articles of Agreement of the International Monetary Fund"
+  publisher: "International Monetary Fund"
+  date: "1944"
+  url: "https://www.imf.org/external/pubs/ft/aa/index.htm"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["OQ", "VIII"]
+  supports: "SDR allocation decisions and quota changes need an 85 percent majority of total voting power."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw text of the current amended Articles: Art. XVIII, Sec. 4(d) (allocations) and Art. III, Sec. 2(c) (quotas). Current member vote shares could not be opened."
+
+- id: "icao/2024_montreal-convention-revised-limits"
+  title: "2024 Revised Limits of Liability Under the Montreal Convention 1999"
+  publisher: "International Civil Aviation Organization"
+  date: "2024"
+  url: "https://www.icao.int/sites/default/files/secretariat/legal/LEB%20Treaty%20Collection%20Documents/2024_Revised_Limits_of_Liability_Under_the_Montreal_Convention_of_1999_en.pdf"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IV"]
+  supports: "Montreal Convention liability limits are set in SDRs and revised under Article 24; the Article 21 limit went from SDR 100,000 to 128,821 (28 Dec 2019) and 151,880 (28 Dec 2024)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "One-page PDF text with table of original and revised limits; found via ICAO Treaty Collection page. Article 24's inflation method itself was not read."
+
+- id: "un/2009_stiglitz-commission-report"
+  title: "Report of the Commission of Experts of the President of the United Nations General Assembly on Reforms of the International Monetary and Financial System"
+  publisher: "United Nations"
+  date: "2009-09-21"
+  url: "https://www.un.org/en/ga/econcrisissummit/docs/FinalReport_CoE.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ"]
+  supports: "A global reserve currency is 'an idea whose time has come'; IMF on SDRs or a new Global Reserve Bank; $150-300 billion annual emissions; surplus penalties; revenues for development or global public goods."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "PDF text, Chapter 5 'The Global Reserve System', paras 6-7, 33-35, 39-42; cover dated September 21, 2009; chaired by Joseph E. Stiglitz."
+
+- id: "zhou/2009_reform-international-monetary-system"
+  title: "Reform the international monetary system"
+  authors: ["Zhou Xiaochuan"]
+  publisher: "People's Bank of China (reprinted in BIS Review 41/2009)"
+  date: "2009-03-23"
+  url: "https://www.bis.org/speeches/20090402-reform-international-monetary-system.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["OQ"]
+  supports: "Call for a reserve currency 'disconnected from individual nations'; wider SDR basket, possibly GDP-weighted; IMF-managed pooled reserves; describes bancor as based on 30 commodities."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full three-page PDF text; Sections II.1, III and IV."
+
+- id: "lietaer/2008_terra-interview"
+  title: "The Terra: Interview with Bernard by Tesa, January 5-6 2008 (annotated)"
+  authors: ["Bernard Lietaer"]
+  publisher: "Bernard Lietaer archive (bernard-lietaer.org)"
+  date: "2008-01"
+  url: "https://bernard-lietaer.org/wp-content/uploads/2022/07/2008-The-Terra-Interview-Silvestre-Lietaer-annotated.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["OQ", "IV"]
+  supports: "Terra Trade Reference Currency: private, supranational, backed by about a dozen commodities and services, 3.5-4% demurrage, aimed at corporations; first set out in The Future of Money (1999/2001); pilot vetoed and model still being funded in 2008."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "PDF text: definition and four characteristics near the start; funding and vetoed pilot mid-document; 27 November 2008 letter and footnote on the 1999 German and 2001 English editions."
+
+- id: "doj/2025_kwon-sentenced"
+  title: "Crypto-Enabled Fraudster Sentenced For Orchestrating $40 Billion Fraud"
+  publisher: "US Attorney's Office, Southern District of New York (US Department of Justice)"
+  date: "2025-12-11"
+  url: "https://www.justice.gov/usao-sdny/pr/crypto-enabled-fraudster-sentenced-orchestrating-40-billion-fraud"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "VII"]
+  supports: "TerraUSD and LUNA crashed in May 2022 with over $40 billion in investor losses; Do Kwon sentenced to 15 years; claims of user governance; secret 2021 peg support by a trading firm."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text after an Akamai interstitial; release dated Thursday, December 11, 2025; facts drawn from the indictment summary."
+
+- id: "ecb/2026_euro-introduction"
+  title: "Our money"
+  publisher: "European Central Bank"
+  date: "2026"
+  url: "https://www.ecb.europa.eu/euro/intro/html/index.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "XII"]
+  supports: "Euro launched 1 January 1999 for accounting only, cash from 1 January 2002; legal tender in 21 of 27 EU states including Bulgaria from 2026; about 358 million people; Montenegro and Kosovo use it without formal arrangement."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; raw text read on the check date (introduction and membership table)."
+
+- id: "ecb/2026_emu-history"
+  title: "Economic and Monetary Union (EMU)"
+  publisher: "European Central Bank"
+  date: "2026"
+  url: "https://www.ecb.europa.eu/ecb/history-arts-culture/history/emu/html/index.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII", "OQ"]
+  supports: "Three EMU stages starting 1 July 1990, 1 January 1994 and 1 January 1999; stage one included free use of the ECU, the euro's forerunner."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; raw text read on the check date ('Stages of Economic and Monetary Union (EMU)' overview)."
+
+- id: "lane/2012_european-sovereign-debt-crisis"
+  title: "The European Sovereign Debt Crisis"
+  authors: ["Philip R. Lane"]
+  publisher: "Journal of Economic Perspectives (American Economic Association)"
+  date: "2012"
+  url: "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.26.3.49"
+  tier: "secondary"
+  kind: "article"
+  parts: ["OQ", "XII"]
+  supports: "Euro lacked banking and fiscal union; 3% and 60% limits and no-bailout rule; market exclusion of Greece (May 2010), Ireland (Nov 2010), Portugal (Apr 2011); no devaluation to offset austerity; crisis traced to flawed original design."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF text, vol. 26 no. 3 (Summer 2012), pp. 49-68: introduction, 'Cobbling Together a Response', conclusion."
+
+- id: "draghi/2012_global-investment-conference-speech"
+  title: "Verbatim of the remarks made by Mario Draghi: Speech at the Global Investment Conference in London"
+  authors: ["Mario Draghi"]
+  publisher: "European Central Bank"
+  date: "2012-07-26"
+  url: "https://www.ecb.europa.eu/press/key/date/2012/html/sp120726.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "The ECB was 'ready to do whatever it takes to preserve the euro'."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text; sentence in the body of the remarks."
+
+- id: "dellas-tavlas/2009_optimum-currency-area-odyssey"
+  title: "An Optimum-Currency-Area Odyssey"
+  authors: ["Harris Dellas", "George S. Tavlas"]
+  publisher: "Bank of Greece (Working Paper No. 102)"
+  date: "2009-09"
+  url: "https://www.bankofgreece.gr/Publications/Paper2009102.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["OQ"]
+  supports: "Optimum currency area criteria from Mundell (1961), McKinnon (1963) and Kenen (1969); later argument that monetary union can create some criteria after the fact."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF text; Sections 3.2-3.4, criteria list in Section 4, Section 5.3 'Endogeneity of the criteria'."
+
+- id: "hayek/1976_denationalisation-of-money"
+  title: "Denationalisation of Money: The Argument Refined"
+  authors: ["F. A. Hayek"]
+  publisher: "Institute of Economic Affairs"
+  date: "1976-10"
+  url: "https://iea.org.uk/publications/research/denationalisation-of-money/"
+  tier: "primary"
+  kind: "book"
+  parts: ["OQ", "VI"]
+  supports: "Case against government monopoly of money; Gresham's law holds only under legally fixed rates; the private 'ducat' redeemable in francs, marks or dollars; regional wholesale-price standards."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Read the 3rd edition (October 1990). The IEA PDF is a scan with no text layer, so text came from the Mises Institute copy (cdn.mises.org); pp. 41-43, 46-48, 75."
+
+- id: "bis/2025_next-generation-monetary-system"
+  title: "Annual Economic Report 2025, Chapter III: The next-generation monetary and financial system"
+  publisher: "Bank for International Settlements"
+  date: "2025-06-29"
+  url: "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ", "VII"]
+  supports: "Stablecoins track fiat, 'overwhelmingly the US dollar', fail singleness, elasticity and integrity, and resemble free-banking notes; unbacked crypto is a speculative asset with large price gyrations."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw HTML text: key takeaways, introduction, 'Stablecoins and the integrity imperative', Box A."
+
+- id: "stodder-lietaer/2016_wir-macro-stability"
+  title: "The Macro-Stability of Swiss WIR-Bank Credits: Balance, Velocity, and Leverage"
+  authors: ["James Stodder", "Bernard Lietaer"]
+  publisher: "Comparative Economic Studies"
+  date: "2016-07"
+  url: "https://bernard-lietaer.org/wp-content/uploads/2022/07/2016-The-Macro-Stability-of-Swiss-WIR-Bank-Credits-Balance-Velocity-and-Leverage-Stodder-Lietaer-annotated.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["OQ", "VI"]
+  supports: "WIR has issued its own currency since 1934; turnover is countercyclical; over 70,000 customers; turnover peaked in the early 1990s and has declined since 1992; WIR prices often exceed franc prices."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Author manuscript PDF (DOI 10.1057/s41294-016-0001-5): abstract, introduction, Figure 1 discussion. Co-author Lietaer was an advocate of complementary currencies."
+
+- id: "wir/2026_annual-results-2025"
+  title: "Starkes Zinsergebnis, starke VIAC-Ergebnisse: Bank WIR blickt auf ein erfolgreiches Jahr zurück"
+  publisher: "Bank WIR"
+  date: "2026-02-13"
+  url: "https://www.wir.ch/fileadmin/downloads/Publikationen/Medienmitteilungen/2026-02-13-Jahresergebnis-de.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ", "VI"]
+  supports: "End-2025 customer deposits in WIR currency of CHW 352.0 million (down 8.7%) against CHF 4.7 billion total deposits; WIR-currency mortgages down 6.0%."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "PDF text (German): press release and balance sheet at 31 December 2025, rows 'davon in CHW'."
+
+- id: "bristol-pound/2024_legacy-site"
+  title: "Bristol Pound: Leaving a legacy"
+  publisher: "Bristol Pay CIC (formerly Bristol Pound CIC)"
+  date: "2024"
+  url: "https://www.bristolpoundlegacy.info/"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "VI"]
+  supports: "The Bristol Pound operated 2012-2021 with paper and digital money and local tax payments; successor Bristol Pay closed in mid-2023 after failing to raise funds."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw homepage text; undated, mentions a book published 1 August 2024."
+
+- id: "bristol-cable/2022_bristol-pound-director"
+  title: "'We need to keep the local currency dream alive'"
+  authors: ["Sean Morrison"]
+  publisher: "The Bristol Cable"
+  date: "2022-11-25"
+  url: "https://thebristolcable.org/2022/11/bristol-pound-director-we-need-keep-local-currency-dream-alive/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["OQ", "VI"]
+  supports: "At its peak about one million Bristol Pounds circulated a year; about 0.02% of residents used it and about 80% of users had a degree; withdrawn September 2021 after failing to secure funding."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw article text; usage figures attributed to managing director Diana Finch."
+
+- id: "iosifidis/2018_cyclic-motifs-sardex"
+  title: "Cyclic motifs in the Sardex monetary network"
+  authors: ["George Iosifidis", "Yanick Charette", "Edoardo M. Airoldi", "Giuseppe Littera", "Leandros Tassiulas", "Nicholas A. Christakis"]
+  publisher: "Nature Human Behaviour"
+  date: "2018-11"
+  url: "https://doi.org/10.1038/s41562-018-0450-0"
+  tier: "primary"
+  kind: "article"
+  parts: ["OQ", "VI"]
+  supports: "Sardex launched 2010; electronic mutual credit pegged 1:1 to the euro, not convertible, Sardinia only, no interest; 1,477 businesses and 48,170 transactions; trading in cycles linked to higher turnover and less debt build-up."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF text (humannaturelab.net copy), vol. 2, pp. 822-829; competing-interests note says Littera is a founder and employee of Sardex Spa."
+
+- id: "ancona/2025_sardex-resilience"
+  title: "Imitation and Heterogeneity Shape the Resilience of Community Currency Networks"
+  authors: ["C. Ancona", "D. Ricci", "C. Bernardo", "F. Lo Iudice", "A. Proskurnikov", "F. Vasca"]
+  publisher: "arXiv (preprint 2507.02678)"
+  date: "2025-07-03"
+  url: "https://arxiv.org/pdf/2507.02678"
+  tier: "primary"
+  kind: "article"
+  parts: ["OQ", "VI"]
+  supports: "Sardex 2022-2024: filtered giant connected component fell from 14,072 to 10,323 nodes; authors infer declining liquidity recirculation; dates Sardex to 2009."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Full PDF text (v1, 3 July 2025): introduction, results on condensed components, conclusion. Preprint, not peer reviewed."
+
+- id: "coinmetrics/2026_btc-price-series"
+  title: "Coin Metrics Community API: BTC PriceUSD, daily, 1 October 2025 to 9 October 2026"
+  publisher: "Coin Metrics"
+  date: "2026-10-09"
+  url: "https://community-api.coinmetrics.io/v4/timeseries/asset-metrics?assets=btc&metrics=PriceUSD&frequency=1d&start_time=2025-10-01&end_time=2026-10-09&page_size=1000"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["OQ", "VII"]
+  supports: "Inputs for computed bitcoin volatility of 44.2% a year (365-day basis) and a 53.1% maximum fall; prices of $118,393 (1 Oct 2025) and $82,563 (9 Oct 2026)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded 374 daily observations; statistics computed by Claude from daily log returns, not published by Coin Metrics."
+
+- id: "ecb/2026_eur-usd-reference-rates"
+  title: "ECB reference exchange rate, US dollar/Euro (series EXR.D.USD.EUR.SP00.A)"
+  publisher: "European Central Bank (ECB Data Portal)"
+  date: "2026-10-09"
+  url: "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?startPeriod=2025-10-01&endPeriod=2026-10-09&format=csvdata"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["OQ", "IV"]
+  supports: "Inputs for computed euro-dollar volatility of 5.5% a year (252-day basis), a 6.7% maximum fall, and a 1.1177-1.1974 range."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Downloaded 262 daily observations; statistics computed by Claude."
+
+- id: "cambridge-judge/2025_bitcoin-mining-energy"
+  title: "Cambridge study: sustainable energy rising in Bitcoin mining"
+  publisher: "Cambridge Judge Business School (Cambridge Centre for Alternative Finance)"
+  date: "2025-04-28"
+  url: "https://www.jbs.cam.ac.uk/2025/cambridge-study-sustainable-energy-rising-in-bitcoin-mining/"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "III"]
+  supports: "Bitcoin uses about 138 TWh of electricity a year, about 0.5% of global use, with 39.8 MtCO2e of emissions; a linked study puts Ethereum at 7.87 GWh a year."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text announcing the Cambridge Digital Mining Industry Report; Ethereum figure is in a linked-study teaser on the same page. Live 2026 estimates not checked."
+
+- id: "alvarez/2022_bitcoin-legal-tender-el-salvador"
+  title: "Are Cryptocurrencies Currencies? Bitcoin as Legal Tender in El Salvador"
+  authors: ["Fernando E. Alvarez", "David Argente", "Diana Van Patten"]
+  publisher: "National Bureau of Economic Research (Working Paper 29968)"
+  date: "2022-04"
+  url: "https://www.nber.org/papers/w29968"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ", "VII"]
+  supports: "Use of bitcoin and the Chivo wallet in El Salvador was low, concentrated and decreasing; privacy concerns were a key barrier."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Only the NBER landing page and abstract read (issued April 2022, revised February 2023)."
+
+- id: "imf/2024_el-salvador-eff-agreement"
+  title: "El Salvador: IMF Reaches Staff-Level Agreement on an EFF Arrangement (Press Release No. 24/485)"
+  publisher: "International Monetary Fund"
+  date: "2024-12-18"
+  url: "https://www.imf.org/en/news/articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "Legal reforms to make private bitcoin acceptance voluntary; taxes to be paid only in US dollars; government role in the Chivo wallet to be unwound."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Raw fetch blocked (HTTP 403); read only through a model-processed digest. Voluntary-acceptance point corroborated by The Block, 30 January 2025."
+
+- id: "theblock/2025_el-salvador-bitcoin-law"
+  title: "El Salvador passes bill to revise bitcoin adoption strategy per IMF deal: Reuters"
+  authors: ["Danny Park"]
+  publisher: "The Block"
+  date: "2025-01-30"
+  url: "https://www.theblock.co/post/337885/el-salvador-passes-bill-to-revise-bitcoin-adoption-strategy-per-imf-deal-reuters"
+  tier: "secondary"
+  kind: "news"
+  parts: ["OQ"]
+  supports: "El Salvador's Congress approved, 55 to 2, a bill making private-sector bitcoin acceptance voluntary under the IMF deal."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw article text; relays a Reuters report."
+
+- id: "bis/2025_cbdc-survey-2024"
+  title: "Advancing in tandem - results of the 2024 BIS survey on central bank digital currencies and crypto (BIS Papers No 159)"
+  authors: ["Anamaria Illes", "Anneke Kosse", "Peter Wierts"]
+  publisher: "Bank for International Settlements"
+  date: "2025-08-22"
+  url: "https://www.bis.org/publications/paper-159-advancing-tandem-results-2024-bis-survey-central-bank-digital-currencies-and-crypto"
+  tier: "primary"
+  kind: "report"
+  parts: ["OQ", "VII"]
+  supports: "Of 93 central banks, 91% explore CBDCs; three live retail CBDCs (Bahamas, Jamaica, Nigeria), none new in 2024; holding limits considered by 56% of advanced and 63% of emerging economies."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Landing-page abstract and full PDF text (retail CBDC progress and design features sections)."
+
+- id: "ecb/2026_digital-euro"
+  title: "Digital euro"
+  publisher: "European Central Bank"
+  date: "2026"
+  url: "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ", "VII"]
+  supports: "October 2025 move to the next phase; pilot in 2027; aim to be ready for a potential first issuance during 2029 if EU legislation is adopted in 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text read on the check date ('Progress on the digital euro', 'When will the digital euro be ready?', pilot link)."
+
+- id: "eunews/2026_digital-euro-parliament-vote"
+  title: "Digital euro: Parliament says 'yes'; inter-institutional negotiations to start on 13 July"
+  authors: ["Emanuele Bonini"]
+  publisher: "Eunews"
+  date: "2026-07-09"
+  url: "https://www.eunews.it/en/2026/07/09/digital-euro-parliament-says-yes-inter-institutional-negotiations-to-start-on-13-july/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["OQ", "VII"]
+  supports: "The European Parliament voted 416-169 with 22 abstentions to open trilogue talks, first trilogue 13 July 2026; it wants offline use, privacy and acceptance by most businesses."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw article text. The Parliament's own press release was not opened."
+
+- id: "council-eu/2026_digital-euro-trilogue-notice"
+  title: "Notice of meeting and provisional agenda: Working Party on Financial Services and the Banking Union (Digital Euro), 21 September 2026 (CM 4227/26)"
+  publisher: "Council of the European Union"
+  date: "2026-09-18"
+  url: "https://data.consilium.europa.eu/doc/document/CM-4227-2026-INIT/en/pdf"
+  tier: "primary"
+  kind: "web"
+  parts: ["OQ"]
+  supports: "A Council working party met on 21 September 2026 to prepare the third trilogue on the Single Currency Package."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "One-page PDF text dated Brussels, 18 September 2026."
+
+- id: "us/2025_executive-order-14178"
+  title: "Executive Order 14178: Strengthening American Leadership in Digital Financial Technology"
+  publisher: "Executive Office of the President (Federal Register, 90 FR 8647)"
+  date: "2025-01-23"
+  url: "https://www.federalregister.gov/documents/2025/01/31/2025-02123/strengthening-american-leadership-in-digital-financial-technology"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ", "VII"]
+  supports: "US agencies are barred from any action to establish, issue or promote CBDCs; the order cites risks to financial stability, privacy and US sovereignty."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw Federal Register text: Sec. 1(a)(v) and Sec. 5."
+
+- id: "ecb/2026_independence"
+  title: "Independence"
+  publisher: "European Central Bank"
+  date: "2026"
+  url: "https://www.ecb.europa.eu/ecb/our-values/independence/html/index.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "OQ"]
+  supports: "Article 130 bars instructions to the ECB; non-renewable eight-year Executive Board terms; removal only for incapacity or serious misconduct; Eurosystem may not lend to public bodies; ECB adopts binding regulations."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Undated page; raw text read on the check date. The Treaty text on EUR-Lex could not be fetched (bot challenge)."
+
+- id: "garriga-rodriguez/2020_cbi-inflation-developing"
+  title: "More effective than we thought: Central bank independence and inflation in developing countries"
+  authors: ["Ana Carolina Garriga", "Cesar M. Rodriguez"]
+  publisher: "Economic Modelling"
+  date: "2020"
+  url: "https://doi.org/10.1016/j.econmod.2019.05.009"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "OQ"]
+  supports: "Across 118 developing countries, 1980-2013, higher legal central bank independence is associated with lower inflation, more strongly in democracies."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Publisher page blocked by captcha; abstract read on IDEAS/RePEc (vol. 85, pp. 87-105)."
+
+- id: "campillo-miron/1997_why-inflation-differs"
+  title: "Why Does Inflation Differ across Countries?"
+  authors: ["Marta Campillo", "Jeffrey A. Miron"]
+  publisher: "National Bureau of Economic Research (chapter in Reducing Inflation: Motivation and Strategy)"
+  date: "1997"
+  url: "https://ideas.repec.org/h/nbr/nberch/8889.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "OQ"]
+  supports: "Central bank independence and exchange-rate arrangements are relatively unimportant for inflation compared with openness and optimal-tax factors."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "partial"
+    note: "Abstract only, on IDEAS/RePEc (pp. 335-362)."
+
+- id: "switzerland/2014_gold-initiative-results"
+  title: "Eidgenössische Volksabstimmung vom 30. November 2014: Resultate (Volksinitiative 'Rettet unser Schweizer Gold')"
+  publisher: "Swiss federal government, VOTE INFO open government data"
+  date: "2014-11-30"
+  url: "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20141130-eidgAbstimmung.json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "OQ"]
+  supports: "The gold initiative won 22.7% yes and no full cantons, on 49.8% turnout."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw JSON, vorlagenId 5890: jaStimmenInProzent 22.72, stimmbeteiligungInProzent 49.81, jaStaendeGanz 0."
+
+- id: "switzerland/2018_vollgeld-initiative-results"
+  title: "Eidgenössische Volksabstimmung vom 10. Juni 2018: Resultate (Vollgeld-Initiative)"
+  publisher: "Swiss federal government, VOTE INFO open government data"
+  date: "2018-06-10"
+  url: "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20180610-eidgAbstimmung.json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "OQ"]
+  supports: "The sovereign money initiative (money creation by the National Bank alone) won 24.3% yes and no full cantons, on 34.6% turnout."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw JSON, vorlagenId 6180: jaStimmenInProzent 24.28, stimmbeteiligungInProzent 34.55, jaStaendeGanz 0."
+
+- id: "switzerland/2026_cash-initiative-results"
+  title: "Eidgenössische Volksabstimmung vom 8. März 2026: Resultate (Bargeld-Initiative und Gegenvorschlag)"
+  publisher: "Swiss federal government, VOTE INFO open government data"
+  date: "2026-03-08"
+  url: "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20260308-eidgAbstimmung.json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "OQ"]
+  supports: "The 'cash is freedom' initiative failed with 45.6% yes; the counter-proposal on the Swiss currency and cash supply passed with 73.4% and all 20 full cantons."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw JSON, vorlagenIds 6821 (45.61%, rejected) and 6822 (73.41%, accepted, jaStaendeGanz 20)."
+
+- id: "wcpa/1977_earth-constitution"
+  title: "Constitution for the Federation of Earth"
+  publisher: "World Constitution and Parliament Association"
+  date: "1977-06"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "law"
+  parts: ["OQ", "VIII", "XII"]
+  supports: "World government may 'establish, issue and regulate world currency, credit and exchange' (Art. IV.17); a Planetary Banking System makes 'the transition to a common global currency' and funds government with interest-free credit (Art. VIII, Sec. G-1(e)-(f))."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw text of the amended constitution (ratified Innsbruck, June 1977; amended Troia, May 1991): Art. IV item 17; Art. VIII Sec. G-1(e)-(f)."
+
+- id: "worldbank/2025_june-2025-poverty-lines"
+  title: "June 2025 Update to Global Poverty Lines"
+  publisher: "World Bank"
+  date: "2025-06-05"
+  url: "https://www.worldbank.org/en/news/factsheet/2025/06/05/june-2025-update-to-global-poverty-lines"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "III"]
+  supports: "Poverty line moved from $2.15 (2017 PPP) to $3.00 (2021 PPP); 838 million in extreme poverty in 2022, up about 125 million from 713 million; 2021 PPPs raise incomes 13% on average against 11% US inflation, about 21% in low-income countries."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw factsheet text (Q&A on the new line, headcount revision and factors behind it)."
+
+- id: "worldbank/2026_wdi-ppp-price-levels"
+  title: "World Development Indicators: PPP conversion factors (PA.NUS.PRVT.PP, PA.NUS.PPP) and official exchange rate (PA.NUS.FCRF), 2021-2025"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/USA;CHE;CHN;IND;NGA;EGY/indicator/PA.NUS.PRVT.PP?format=json&date=2021:2025"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "III"]
+  supports: "Household-consumption price levels relative to the US, computed as PPP factor over exchange rate: Switzerland 1.36, China 0.62, Nigeria 0.39, India 0.26, Egypt 0.26 (2021); Nigeria 0.18 (2024)."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw API JSON (last updated 2026-10-08) for both indicators; ratios computed by Claude; post-2021 PPPs are World Bank extrapolations."
+
+- id: "worldbank/2026_icp-programme"
+  title: "International Comparison Program (ICP)"
+  publisher: "World Bank"
+  date: "2026"
+  url: "https://www.worldbank.org/en/programs/icp"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV"]
+  supports: "The latest ICP results, for the 2021 cycle, were released in May 2024 with extrapolated GDP PPPs for 2022 and 2023."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text read on the check date ('LATEST RELEASE')."
+
+- id: "bls/2026_cpi-august-release"
+  title: "Consumer Price Index"
+  publisher: "US Bureau of Labor Statistics"
+  date: "2026-09-11"
+  url: "https://www.bls.gov/cpi/"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV"]
+  supports: "CPI-U rose 3.4% over the 12 months to August 2026 (not seasonally adjusted); the September 2026 CPI is due on 14 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text read on the check date; news release summary dated 09/11/2026."
+
+- id: "bls/2026_shutdown-cpi-faq"
+  title: "2025 federal government shutdown impact on the CPI: frequently asked questions"
+  publisher: "US Bureau of Labor Statistics"
+  date: "2026-09-16"
+  url: "https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi-faq.htm"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV"]
+  supports: "BLS did not issue an October 2025 CPI news release and will not publish 12-month changes for October 2026 where October 2025 data are missing."
+  checked:
+    by: "claude"
+    on: "2026-10-10"
+    result: "verified"
+    note: "Raw page text, FAQ items 1, 2 and 16; 'Last modified date: September 16, 2026'."
