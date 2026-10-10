@@ -1,6 +1,6 @@
 # The Terran Charter
 
-Oct 10, 2026 · @kara Zajac
+Oct 10, 2026 · Kara Zajac
 
 *Founding principles of Terran Humanism. Working draft.*
 
@@ -149,7 +149,24 @@ Terrans govern themselves cooperatively, openly, and digitally, and every instit
 
 Terrans make planetary decisions directly, after open deliberation, and no single body holds enough power to rule alone.
 
-&#91;embedded content: decision flow · 6 steps, 2 loops back to the vote\]
+<!-- Reconstructed from the caption below and Parts VIII and X. The drafting doc's embedded drawing did not survive export. -->
+
+```mermaid
+flowchart TD
+    propose["Anyone proposes, and enough terrans back it (VIII.1)"]
+    ground["Open discussion maps common ground (VIII.2)"]
+    assembly["An assembly drawn by lot studies it with experts<br/>and Guardians, and writes the ballot (VIII.3)"]
+    vote["Every terran votes (VIII.4–5)"]
+    audit{"Audit (VIII.6)"}
+    longview{"Long-view test (X.4)"}
+    stewards["Stewards carry it out (VIII.7)"]
+
+    propose --> ground --> assembly --> vote --> audit
+    audit -->|"fails: new vote"| vote
+    audit -->|"passes"| longview
+    longview -->|"fails: second vote a year later"| vote
+    longview -->|"passes"| stewards
+```
 
 A failed audit sends a proposal to a new vote, and a failed long-view test means a second vote a year later; only then do the Stewards act.
 
@@ -228,4 +245,4 @@ The Commonwealth grows by choice and in stages, never by force, until nations ar
 - [ ] **Money:** With no nations, what money does the Commonwealth use in place of US dollars?
 - [ ] **Leaving after stage three:** Once nations are gone, may a community ever leave the Commonwealth, and on what terms?
 
-Research behind this draft: Research
+Research behind this draft: [Research](research/drafting-session-2026-10-09.md)
