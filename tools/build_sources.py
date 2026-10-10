@@ -8,8 +8,8 @@ A source cited by several research notes can appear in several YAML files.
 Records with the same id are merged: the first file's details are kept and
 gaps filled from the others, their Charter parts and "supports" lines are
 combined, and the strongest check result is kept. Every [author/2024_slug]
-citation in the research notes, thoughts and open questions must resolve to a
-record.
+citation in the research notes, thoughts and open questions, alone or grouped
+as [id; id], must resolve to a record.
 """
 
 from __future__ import annotations
@@ -50,7 +50,7 @@ RESULTS = ("verified", "partial", "unverified")  # strongest first
 
 SLUG = r"[a-z0-9][a-z0-9-]*/[0-9]{4}[a-z]?_[a-z0-9][a-z0-9-]*"
 ID_RE = re.compile(rf"^{SLUG}$")
-CITE_RE = re.compile(rf"\[({SLUG})\]")
+BRACKET_RE = re.compile(r"\[([^\[\]\n]+)\]")
 DATE_RE = re.compile(r"^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$")
 
 
@@ -162,11 +162,14 @@ def load(errors: list[str], warnings: list[str]) -> dict[str, dict]:
 
 
 def citations() -> dict[str, set[str]]:
+    """Ids cited as [id], or grouped as [id; id] or [id, id]."""
     cited: dict[str, set[str]] = defaultdict(set)
     for pattern in CITING_GLOBS:
         for path in sorted(ROOT.glob(pattern)):
-            for rid in CITE_RE.findall(path.read_text(encoding="utf-8")):
-                cited[rid].add(path.relative_to(ROOT).as_posix())
+            for group in BRACKET_RE.findall(path.read_text(encoding="utf-8")):
+                for token in re.split(r"[;,]\s*", group):
+                    if ID_RE.match(token.strip()):
+                        cited[token.strip()].add(path.relative_to(ROOT).as_posix())
     return cited
 
 
