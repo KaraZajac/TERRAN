@@ -1,0 +1,11 @@
+# Editors and OS
+.DS_Store
+*~
+*.swp
+
+# Python
+__pycache__/
+.venv/
+
+# Scratch space for fetches and drafts that shouldn't be committed
+/scratch/
