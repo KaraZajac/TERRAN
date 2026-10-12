@@ -1,6 +1,6 @@
 # Open questions for the next draft
 
-*Compiled by Claude on 10 October 2026, from the working draft's five open questions and the first research pass · updated 12 October 2026 for the second working draft: ticked items are settled there, and "in part" notes say what remains · tick a box when a draft settles it*
+*Compiled by Claude on 10 October 2026, from the working draft's five open questions and the first research pass · updated 12 October 2026 for the second working draft: ticked items are settled there, and "in part" notes say what remains · updated the same day for the third working draft, which split the Charter into Foundations, Articles and Schedules · clause numbers here follow the second draft, and the [changelog](CHANGELOG.md#third-working-draft--12-october-2026) maps them to the third · tick a box when a draft settles it*
 
 The draft's five open questions now have evidence and options behind them. The research also turned up a short list of fixes and credits, where the text contradicts itself, its sources, or the precedents it credits. And it raised about seventy narrower questions, listed by Part.
 
@@ -30,6 +30,8 @@ These correct the text against itself, its sources, or the precedents it credits
 ### 1. The numbers
 
 > Are the proposed figures right: a $10 million wealth limit, the first $2 million free of wealth tax, and pay limits at 50 and 100 times the lowest pay?
+
+*In part: the third draft keeps these figures as defaults, and moves every number into the Schedules with a reason and a range ([Schedule 1](schedules/1-safeguards.md), [Schedule 2](schedules/2-settings.md)). Whether the figures are right is still open.*
 
 **What the research says**
 
@@ -175,7 +177,7 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part II
 
-- [ ] Credit The Satanic Temple's Seven Tenets, and if so, how? Part II adapts their 2014 text in number, order and substance. ([lineage](research/lineage.md))
+- [x] Credit The Satanic Temple's Seven Tenets, and if so, how? Part II adapts their 2014 text in number, order and substance. ([lineage](research/lineage.md)) *Done in the third draft: "The Seven Principles adapt The Satanic Temple's Seven Fundamental Tenets."*
 - [ ] Do the Principles bind individuals, or only institutions? ([lineage](research/lineage.md))
 - [ ] Is Principle V a rule for public decisions, or for private belief, given that I.3 lets faith flourish? ([lineage](research/lineage.md))
 - [ ] Is Principle VII an aid to reading the text, or an override of it? ([lineage](research/lineage.md), [living charter](research/living-charter.md))
@@ -183,8 +185,9 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part III
 
+- [ ] Should the Earth Science Panel report more often than every four years? Planetary Health Checks are yearly, and boundary values changed in both 2025 and 2026. ([floor and ceiling](research/floor-and-ceiling.md))
 - [ ] Update the floor list to Raworth's 2025 version, or give a reason for each difference? The draft mixes her 2012 and 2017 lists. ([floor and ceiling](research/floor-and-ceiling.md))
-- [ ] Move the floor and ceiling lists into a revisable schedule? How can items be renamed or merged without counting as "lowering" under XI.4? ([floor and ceiling](research/floor-and-ceiling.md))
+- [ ] Move the floor and ceiling lists into a revisable schedule? How can items be renamed or merged without counting as "lowering" under XI.4? ([floor and ceiling](research/floor-and-ceiling.md)) *In part: the third draft keeps both lists in the Foundations, and records the Earth Science Panel's ranges and the ceiling's limits in [Schedule 4](schedules/4-boundaries.md). Renaming or merging items is open.*
 - [x] Who certifies "the best available science", and who picks where in the risk zone a limit sits? ([floor and ceiling](research/floor-and-ceiling.md)) *Settled: an Earth Science Panel publishes recommended ranges every four years. Ceiling acts within them need two-thirds of a panel and the Council of Communities' key, and acts outside them are void (III, VIII.12).*
 - [ ] Seven of nine boundaries are already crossed. Replace the no-crossing rule with fair shares and timelines, and on what sharing principle? ([floor and ceiling](research/floor-and-ceiling.md)) *In part: a sharing principle, adopted as a Charter amendment, now divides the ceiling into fair shares with timelines, and where a limit is already crossed, everyone moves toward their share on that timeline (III). The principle itself is open.*
 - [ ] Should the stricter of the safe and just limits govern, with a duty to protect and compensate people harmed? ([floor and ceiling](research/floor-and-ceiling.md))
@@ -205,11 +208,11 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 - [ ] Define "political rights", and keep expression, petition, litigation and publishing. Add a category for civic associations, funded by capped individual gifts, that may campaign within limits? ([business](research/business.md))
 - [ ] Exempt press *content* rather than press *companies*, as the UK and Canada do? ([business](research/business.md))
 - [ ] Add a separate rule for lobbying? ([business](research/business.md))
-- [ ] Define "larger organization", "the board", "long-term" and "growing share". ([business](research/business.md))
+- [ ] Define "larger organization", "the board", "long-term" and "growing share". ([business](research/business.md)) *In part: [Schedule 2](schedules/2-settings.md) now lists the size of a larger organization as not yet set.*
 
 ### Part VI
 
-- [ ] Credit Nozick's framework for utopia, naming the departure: a floor and a ceiling? ([lineage](research/lineage.md))
+- [x] Credit Nozick's framework for utopia, naming the departure: a floor and a ceiling? ([lineage](research/lineage.md)) *Done in the third draft, where Part VI is Part IV: "A utopia of utopias draws on Robert Nozick's framework for utopia, joined here to a floor and a ceiling."*
 - [ ] What do communities owe children and people who leave: education to the floor standard, a fair share of communal assets? ([lineage](research/lineage.md))
 - [ ] May communities set entry conditions, given VIII.10's right to move to any community? ([deliberation](research/deliberation.md))
 
@@ -229,8 +232,11 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 - [ ] Who checks proposals against the Seven Principles before a vote, and can the Court void a result? ([deliberation](research/deliberation.md)) *In part: the Court checks each act before its vote (VIII.4) and voids ceiling acts outside the science's range (VIII.12). Whether it can void other results is open.*
 - [x] Set the assembly's size, the traits it matches, a published selection algorithm and audits. Should regional assemblies feed a global one? ([deliberation](research/deliberation.md)) *Settled: VIII.3 and VIII.15. The draft doesn't nest regional assemblies.*
 - [x] Stewards: how long is the term, is re-election allowed, how is a Steward removed, and why a direct election? ([deliberation](research/deliberation.md)) *Settled: VIII.7.*
-- [ ] Ombudsman: selection, term, size, powers and oversight. May it review judgments? ([deliberation](research/deliberation.md), [accountability](research/accountability.md)) *In part: VIII.9 sets a council of five, drawn from certified candidates, on fixed terms, removable only for misconduct, with a protected budget, and the Court hears complaints against it. The length of the terms and review of judgments are open.*
+- [ ] Ombudsman: selection, term, size, powers and oversight. May it review judgments? ([deliberation](research/deliberation.md), [accountability](research/accountability.md)) *In part: VIII.9 sets a council of five, drawn from certified candidates, on fixed terms, removable only for misconduct, with a protected budget, and the Court hears complaints against it. The third draft sets terms of seven years ([Schedule 1](schedules/1-safeguards.md)). Whether the term is single, as for Stewards and judges, and review of judgments are open.*
 - [x] Set a minimum turnout? The research of 9 October suggested one; the draft left it out, and the Venice Commission advises against turnout quorums. ([deliberation](research/deliberation.md)) *Settled for now: the second draft sets none, following the Venice Commission.*
+- [ ] Urgent acts and the long view clash. An urgent act lapses within a year unless ratified with the waits included (VIII.23), but the long-view wait is itself a year (X.4), and votes of all terrans come once a year. Can a flagged or challenged urgent act ever be ratified in time? ([decision mechanisms](research/decision-mechanisms.md), [long view](research/long-view.md))
+- [ ] One review panel per draft rule, or a sample of rules? VIII.15 gives every draft its own panel of 200, while the research advises reviewing a sample of delegated rules rather than convening a jury for each. ([sortition at scale](research/sortition-at-scale.md))
+- [ ] Single terms for ombudsmen and the independent offices, as for Stewards, judges and Guardians? The third draft sets their length, seven and eight years, but not whether they renew. ([accountability](research/accountability.md), [executive](research/executive-and-administration.md))
 - [x] Which bodies hold key shares, at what threshold, and is a vote re-run if the lost ballots couldn't change the outcome? ([digital voting](research/digital-voting.md)) *Settled: five independent bodies hold the keys, and any three can act. A failed audit means a hand count of the paper record, and a new vote only if the missing votes could change the result (VIII.6).*
 
 ### Part IX
@@ -256,12 +262,13 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part XI
 
-- [ ] Tiered entrenchment, with a lower bar for clerical repairs? ([living charter](research/living-charter.md))
+- [ ] Tiered entrenchment, with a lower bar for clerical repairs? ([living charter](research/living-charter.md)) *In part: the third draft tiers the Charter. The Foundations, the Articles and the Schedules each have their own bar (V.4 to V.6 in the third draft). A clerical repair still faces its layer's full bar.*
 - [ ] Can Part XI itself be amended? ([living charter](research/living-charter.md))
 - [ ] A route to a wholesale rewrite, as Germany and Switzerland keep? ([living charter](research/living-charter.md))
 - [ ] What threshold do the 25-year review's proposals face, and may the review touch XI.4? ([living charter](research/living-charter.md)) *In part: review proposals are amendments, so XI.3 applies. Whether the review may touch XI.4 is open.*
+- [ ] Is 25 years too long between reviews? Jefferson proposed 19, and US states that put regular convention questions to voters use 9 to 20 years. ([living charter](research/living-charter.md))
 - [ ] A rule for when the floor and the ceiling conflict? ([living charter](research/living-charter.md))
-- [ ] Define "votes": how blanks count, the base, and any spread across regions. ([living charter](research/living-charter.md))
+- [ ] Define "votes": how blanks count, the base, and any spread across regions. ([living charter](research/living-charter.md)) *In part: a change to the Articles now also needs a majority in a majority of the regions (V.5 in the third draft). How blanks count, and the base, are open.*
 
 ### Part XII
 

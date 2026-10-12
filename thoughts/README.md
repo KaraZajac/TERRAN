@@ -1,6 +1,6 @@
 # Thoughts
 
-The reasoning behind the Charter.
+The reasoning behind the Charter. The files here cite the twelve Parts of the first and second drafts; the [changelog](../CHANGELOG.md#third-working-draft--12-october-2026) maps them to the third draft's Foundations and Articles. For a reader's guide to the current text, part by part, see the [Commentary](../commentary/README.md).
 
 | File | What it is |
 | --- | --- |

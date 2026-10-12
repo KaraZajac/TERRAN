@@ -29,7 +29,7 @@ One YAML file per research note (`research/<name>.md` pairs with `sources/<name>
 | `date` | `"YYYY"`, `"YYYY-MM"` or `"YYYY-MM-DD"`, quoted. |
 | `tier` | `primary`: the law, treaty, ruling, original paper, official data, or an organization's own text. `secondary`: scholarship and journalism. `tertiary`: encyclopedias and aggregators. |
 | `kind` | `book`, `article`, `report`, `law`, `treaty`, `court`, `dataset`, `web` or `news`. |
-| `parts` | The Charter parts the source informs: `Preamble`, `I` to `XII`, or `OQ` for the open questions. |
+| `parts` | The Charter parts the source informs, by the twelve Parts of the second working draft: `Preamble`, `I` to `XII`, or `OQ` for the open questions. The [changelog](../CHANGELOG.md#third-working-draft--12-october-2026) maps those Parts to the third draft's Foundations and Articles. |
 | `checked.result` | `verified`: the claim was found on the fetched page. `partial`: only part of it was, or only an abstract or landing page could be reached; a note starting `CONTRADICTED:` means the page says something materially different. `unverified`: the page could not be opened. |
 | `checked.by` | Who made the check. Every check so far is machine-performed, by `claude`. `by: kara` marks Kara's own check and is only ever written by her. |
 

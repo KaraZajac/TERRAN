@@ -2,6 +2,8 @@
 
 The evidence behind the Charter, Part by Part.
 
+The notes cite the Charter by the twelve Parts of its first and second drafts. The third draft moved most of those clauses into the Articles of Terra, and the [changelog](../CHANGELOG.md#third-working-draft--12-october-2026) maps each Part to its new place.
+
 ## The drafting session's research
 
 [drafting-session-2026-10-09.md](drafting-session-2026-10-09.md) is the research the working draft was written from, kept verbatim. It covers pay ratios, wealth taxes and hard caps, organizations' political rights, digital ID and online-voting security, global enforcement, and guardians for the future. [drafting-session-checks.md](drafting-session-checks.md) checks each of its links against the claim the link supports. [../thoughts/research-to-charter.md](../thoughts/research-to-charter.md) traces its recommendations into the Charter.

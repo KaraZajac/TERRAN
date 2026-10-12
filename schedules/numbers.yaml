@@ -1,0 +1,946 @@
+# SPDX-License-Identifier: CC0-1.0
+#
+# Schedules 1 and 2 of the Terran Charter, as data. tools/build_schedules.py
+# checks every number in the Articles of Terra against this file and writes
+# schedules/1-safeguards.md and schedules/2-settings.md from it.
+#
+# Each entry:
+#   id        the label the Articles link with, as in [1,000][panel-size]
+#   schedule  safeguards (Schedule 1) or settings (Schedule 2)
+#   name      what the number is
+#   value     the number itself, in the unit `show` uses; null if not yet set
+#   show      the value as the Schedule shows it
+#   range     safeguards: where the research suggests it could sensibly sit
+#             settings: the range a planetary act may set it within
+#   min, max  settings only: the allowed range as numbers
+#   where     entries without a value: the clauses that need one
+#   why       the reason, citing the research; it explains and does not bind
+
+schedules:
+  safeguards:
+    file: 1-safeguards.md
+    title: Schedule 1 — Safeguards
+    intro: >-
+      These numbers hold power in check. They cap wealth and pay, limit terms and
+      emergencies, protect terrans' power to propose and to call a vote, and fix the
+      size of the bodies that guard against capture. They change only as the Articles
+      do (Part V.6), so a passing majority can't use an ordinary act to loosen a check
+      on itself. Only the values bind. Each range shows where the research suggests the
+      number could sensibly sit, as advice for any future vote, and each reason explains
+      the choice.
+  settings:
+    file: 2-settings.md
+    title: Schedule 2 — Settings
+    intro: >-
+      These numbers tune how the Commonwealth works. A planetary act that is not urgent
+      may set each one anywhere within its allowed range. Moving a range, or setting a
+      number outside it, is a change made only as the Articles change (Part V.6). Where
+      a setting has no value yet, the first act that sets it must stay within its range,
+      and a setting with no range yet needs a change made as the Articles change. A
+      change to the voting age takes effect only after the next yearly voting day. A
+      change to the size or term of a body applies from its next regular draw or
+      appointment, and never shortens or lengthens a term being served. The values,
+      the ranges and these rules bind; the reasons explain.
+
+numbers:
+
+  # ---- Article 1: The Culture of Enough ----------------------------------------
+
+  - id: wealth-limit
+    schedule: safeguards
+    name: Wealth limit
+    value: 10000000
+    show: $10 million
+    range: $10 million to $14 million (a judgment)
+    why: >-
+      Adapts Robeyns' political limit of "roughly ten million per person", which she ties
+      to the Dutch context: "if you live in New York and don't have a pension, it should
+      be more" [gordon/2024_review-limitarianism; uu/2023_what-is-limitarianism]. At Swiss
+      prices, $10 million in the US would be $13.6 million at 2021 price levels and about
+      $12.8 million at 2025's [worldbank/2026_wdi-ppp-price-levels].
+
+  - id: pay-ratio-cap
+    schedule: safeguards
+    name: Pay cap
+    value: 100
+    show: 100 times the lowest pay
+    range: 35 to 100 times (low confidence)
+    why: >-
+      No cap across a whole economy has been tried. Israel's 35:1 cap on financial
+      firms, the only one with outcome data, cut executive pay by 27% without hurting
+      stock returns [bank-of-israel/2024_executive-pay-cap-law]. Swiss voters rejected
+      a 12:1 cap [swissvotes/2013_vote-575-results].
+
+  - id: board-share
+    schedule: safeguards
+    name: Workers' seats on the board of a larger organization
+    value: 0.3333
+    show: a third
+    range: a third to a half
+    why: >-
+      The commonest share in law: Germany, Norway and Austria give employees a third of
+      the board [germany/2004_drittelbeteiligungsgesetz; etui/2026_norway;
+      etui/2026_austria]. A study of Germany's one-third rule found no effect on wages
+      and, if anything, more investment [jager/2021_labor-in-the-boardroom].
+
+  - id: wealth-tax-free
+    schedule: settings
+    name: Wealth free of wealth tax
+    value: 2000000
+    show: $2 million
+    range: $1.5 million to $3.4 million
+    min: 1500000
+    max: 3400000
+    why: >-
+      Sits between the thresholds of France's old wealth tax, about $1.46 million per
+      household, and Spain's solidarity tax, about $3.4 million per person
+      [oecd/2018_net-wealth-taxes; spain/2022_ley-38-2022]. Dutch respondents put a
+      "riches line" at €1 million to €3 million [robeyns-et-al/2021_riches-line].
+
+  - id: wealth-tax-start
+    schedule: settings
+    name: Starting rate of the wealth tax
+    value: 0.01
+    show: 1%
+    range: 0.2% to 2.2%
+    min: 0.002
+    max: 0.022
+    why: >-
+      Starting rates in the research run from the 0.2% first band of Spain's state scale
+      to Denmark's former 2.2%. Norway's is 1%, and Spain's solidarity tax starts at 1.7%.
+      The UK's Wealth Tax Commission called 1% high by international standards
+      [wtc/2020_final-report]. How fast the rate rises matters more than where it starts.
+
+  - id: pay-ratio-tax
+    schedule: settings
+    name: Where the steep tax on pay starts
+    value: 50
+    show: 50 times the lowest pay
+    range: 50 to 75 times
+    min: 50
+    max: 75
+    why: >-
+      Every pay-ratio tax in the research starts between 50 and 100 times median pay, such
+      as US bill S. 2818 at 50 and Portland at 100
+      [us-senate/2025_s2818-tax-excessive-ceo-pay; portland/2026_city-code-7-02-500].
+      Dividing by the lowest pay makes 50 times stricter than any of them. The range stays
+      below today's cap of 100 times; if the cap falls, this range must fall with it.
+
+  - id: pay-averaging
+    schedule: settings
+    name: Years over which the highest pay is averaged
+    value: null
+    show: Not yet set
+    where: ["1.12"]
+    range: three to five years
+    min: 3
+    max: 5
+    why: >-
+      Averaging smooths one-off awards, so one unusual year doesn't set the ratio. US bill
+      S. 2818 averages over five years [us-senate/2025_s2818-tax-excessive-ceo-pay].
+
+  - id: larger-organization
+    schedule: settings
+    name: Workers at which an organization counts as larger
+    value: null
+    show: Not yet set
+    where: ["1.14"]
+    range: 50 to 500 workers, counted across a group
+    min: 50
+    max: 500
+    why: >-
+      Laws that give workers a third of the board apply it above 50 workers in Norway and
+      above 500 in Germany [etui/2026_norway; germany/2004_drittelbeteiligungsgesetz].
+      Counting across a group stops a firm splitting itself to avoid the line. Unions and
+      nonprofits are organizations too, so the line reaches them.
+
+  - id: spending-cap
+    schedule: settings
+    name: Cap on a terran's spending on a vote
+    value: null
+    show: Not yet set
+    where: ["1.11"]
+    range: —
+    why: >-
+      A cap must leave room to speak: Strasbourg found a £5 limit on one campaigner
+      disproportionate [echr/1998_bowman-v-uk].
+
+  # ---- Article 2: Working Together ---------------------------------------------
+
+  - id: subsidiarity-objection
+    schedule: safeguards
+    name: Delegates who can force a ruling that an act isn't planetary
+    value: 0.25
+    show: a quarter of the Council
+    range: a quarter to a third
+    why: >-
+      Lets a sizeable minority of communities make the Court rule on what is planetary.
+      The EU's "yellow card" needs national parliaments holding a third of the votes, and
+      its Court has never struck down a measure for breaching subsidiarity
+      [european-parliament/2026_subsidiarity-factsheet].
+
+  - id: subsidiarity-days
+    schedule: safeguards
+    name: Court's deadline to rule on that objection
+    value: 90
+    show: 90 days
+    range: up to 90 days
+    why: >-
+      Brings the ruling inside the 100 days terrans have to call a vote on the act (3.5).
+      The known failure is an umpire that never finds against the centre: the EU's Court
+      has never voided a measure on subsidiarity grounds ([scale and
+      federalism](../research/scale-and-federalism.md)). A deadline at least forces a
+      ruling.
+
+  - id: coc-min
+    schedule: safeguards
+    name: Fewest delegates for a region
+    value: 2
+    show: two
+    range: one to three
+    why: >-
+      Gives every region a voice, however small its population. European Citizens'
+      Panels seat at least two people from each member state
+      [european-commission/2026_european-citizens-panels].
+
+  - id: coc-size
+    schedule: settings
+    name: Council of Communities
+    value: 200
+    show: 200 delegates
+    range: 150 to 250 delegates
+    min: 150
+    max: 250
+    why: >-
+      The Earth Constitution's House of Counsellors has 200
+      [wcpa/1977_earth-constitution]. Planetary bodies with a seat for each member are of
+      the same order: the ITU has 194 member states, and the Montreal Protocol 198 parties
+      [itu/2026_about; untc/2026_montreal-protocol-status].
+
+  - id: coc-term
+    schedule: settings
+    name: A delegate's longest term
+    value: 4
+    show: four years
+    range: two to four years
+    min: 2
+    max: 4
+    why: >-
+      Switzerland's Federal Council serves four years. Delegates can also be recalled,
+      as the IETF can recall its leaders by petition [ietf/2020_rfc-8713].
+
+  - id: transparency
+    schedule: settings
+    name: Wealth or power above which more is open to view
+    value: null
+    show: Not yet set
+    where: ["2.6"]
+    range: —
+    why: >-
+      No evidence for a threshold. On rough estimates, about 23 million adults hold more
+      than $2 million, and 2.9 million more than $10 million, so either line could serve.
+      The EU Court of Justice struck down general public access to ownership registers
+      [cjeu/2022_wm-sovim].
+
+  # ---- Article 3: How Terrans Decide -------------------------------------------
+
+  - id: answer-signatures
+    schedule: settings
+    name: Signatures that earn a reasoned answer
+    value: 100000
+    show: "100,000"
+    range: 100,000 to 500,000
+    min: 100000
+    max: 500000
+    why: >-
+      The UK answers a petition at 10,000 signatures and considers it for debate at
+      100,000, and Taiwan's Join platform answers at 5,000
+      [uk-parliament/2026_petitions-help; bertelsmann/2022_taiwan-join-vtaiwan]. Among
+      eight billion people, 100,000 is still a low bar. The research advises a response at
+      a low threshold and deliberation at a higher one, so the range stays well below the
+      million that reaches an assembly.
+
+  - id: answer-days
+    schedule: settings
+    name: Deadline for that answer
+    value: 90
+    show: 90 days
+    range: 30 to 90 days
+    min: 30
+    max: 90
+    why: >-
+      No precedent in the research: the UK and Taiwan promise dated answers, and the notes
+      record no deadline.
+
+  - id: assembly-signatures
+    schedule: safeguards
+    name: Signatures that send a proposal to an assembly
+    value: 1000000
+    show: one million
+    range: one million to 1.6 million (a judgment)
+    why: >-
+      The European Citizens' Initiative asks the same number within twelve months, but
+      earns only a reply [eci/2026_how-it-works]. Low thresholds suit a step that leads to
+      deliberation rather than to a decision. The top of the range scales Taiwan's reply
+      threshold, 0.02%, to all humanity; the Citizens' Initiative's own share would scale
+      to about 23 million.
+
+  - id: petition-spread
+    schedule: safeguards
+    name: Regions a petition or a call must span
+    value: 0.25
+    show: a quarter of the regions
+    range: a quarter to a third
+    why: >-
+      Stops one region from filling the agenda or calling every vote. The European
+      Citizens' Initiative needs signatures from at least 7 of 27 member states
+      [eci/2026_how-it-works], and Nigeria's president needs a quarter of the votes in
+      two-thirds of the states [nigeria/1999_constitution]. With ten regions, a quarter
+      needs a rounding rule.
+
+  - id: vote-petition
+    schedule: safeguards
+    name: Signatures that send a rejected proposal to all terrans
+    value: 0.01
+    show: 1%
+    range: 1% to 1.8%
+    why: >-
+      Keeps the route rare, since a Swiss-sized agenda is about ten questions a year.
+      Madrid let 1% force a vote, and 2 of 25,418 proposals got there
+      [royo/2020_decide-madrid]. A Swiss initiative needs about 1.8%
+      [swissvotes/2026_dataset].
+
+  - id: signature-window
+    schedule: safeguards
+    name: Time to gather signatures
+    value: 12
+    show: twelve months
+    range: 6 to 18 months
+    why: >-
+      Matches the European Citizens' Initiative. Switzerland allows 18 months for an
+      initiative, and Taiwan six [switzerland-bk/2026_volksinitiativen;
+      taiwan/2003_referendum-act].
+
+  - id: assembly-size
+    schedule: settings
+    name: Each standing assembly, and the Budget Assembly
+    value: 450
+    show: 450 terrans
+    range: 300 to 600 terrans
+    min: 300
+    max: 600
+    why: >-
+      Guerrero's Lottocracy (2024) proposes single-issue bodies of 450
+      [greene/2026_review-guerrero-lottocracy]. At 450, an assembly's split matches all
+      terrans' within about 4.6 points, 19 times in 20.
+
+  - id: agenda-size
+    schedule: settings
+    name: Agenda Council
+    value: 300
+    show: 300 terrans
+    range: 150 to 450 terrans
+    min: 150
+    max: 450
+    why: >-
+      Guerrero's 2021 design uses bodies of 300 [guerrero/2021_single-issue-legislatures],
+      accurate within about 5.7 points. Whoever staffs and briefs it shapes the agenda, so
+      3.3 rotates them.
+
+  - id: assembly-term
+    schedule: settings
+    name: Term on an assembly or the Agenda Council
+    value: 3
+    show: three years
+    range: two to three years
+    min: 2
+    max: 3
+    why: >-
+      Guerrero's 2021 design uses three-year terms
+      [guerrero/2021_single-issue-legislatures], Bouricius about three
+      [bouricius/2013_multi-body-sortition], and Gastil and Wright two or five
+      [gastil/2018_legislature-by-lot]. Ostbelgien's decree set eighteen months, though at
+      times too few former members volunteered to keep its rotation.
+
+  - id: assembly-rotation
+    schedule: settings
+    name: How often a share of members is replaced
+    value: 6
+    show: six months
+    range: six to twelve months
+    min: 6
+    max: 12
+    why: >-
+      Guerrero's 2021 design replaces a third of each body every year
+      [guerrero/2021_single-issue-legislatures]. Ostbelgien's decree set a third every six
+      months, though in practice the rhythm slipped
+      [pdg/2025_buergerdialog-evaluation-2019-2024].
+
+  - id: panel-size
+    schedule: safeguards
+    name: Deciding panel, at least
+    value: 1000
+    show: 1,000 terrans
+    range: 1,000 to 10,000 terrans
+    why: >-
+      A random 1,000 matches all terrans' split within about 3 points, 19 times in 20. The
+      research advises at least 450 to 1,000 for bodies that decide ([sortition at
+      scale](../research/sortition-at-scale.md)), and one option floats samples of perhaps
+      10,000 ([decision mechanisms](../research/decision-mechanisms.md)).
+
+  - id: rejected-wait
+    schedule: settings
+    name: Bar on an act rejected twice
+    value: 2
+    show: two years
+    range: two to three years
+    min: 2
+    max: 3
+    why: >-
+      No precedent in the research. The nearest is Switzerland, where a refused urgent
+      act can't be renewed. A shorter bar would let an assembly resubmit an act until
+      some panel passes it.
+
+  - id: veto-days
+    schedule: safeguards
+    name: Time to call a vote of all terrans
+    value: 100
+    show: 100 days
+    range: 100 days
+    why: >-
+      Switzerland gives voters 100 days to call a referendum on a federal act, the only
+      precedent [switzerland/1999_federal-constitution]. Most Swiss acts take effect
+      without one.
+
+  - id: voting-age
+    schedule: settings
+    name: Voting age
+    value: null
+    show: Not yet set
+    where: ["3.1", "3.5", "5.3"]
+    range: 16 to 18
+    min: 16
+    max: 18
+    why: >-
+      The research counts adults from about 18, while Paris's citizens' assembly and the
+      European Citizens' Panels take people from 16 ([sortition at
+      scale](../research/sortition-at-scale.md)). Every share of terrans in these
+      Schedules moves with it, so its range is fixed in advance.
+
+  - id: veto-petition
+    schedule: safeguards
+    name: Signatures that call a vote of all terrans
+    value: 0.005
+    show: 0.5%
+    range: 0.5% to 0.9%
+    why: >-
+      Switzerland asks 0.89% of voters [swissvotes/2026_dataset]. At planetary scale,
+      0.5% is still about 30 million signatures (estimate).
+
+  - id: veto-council
+    schedule: safeguards
+    name: Delegates who can call a vote of all terrans
+    value: 0.25
+    show: a quarter of the Council
+    range: a quarter to a third
+    why: >-
+      Lets the communities' own delegates check a panel, as 8 of 26 Swiss cantons, or
+      about 31%, can call a referendum [switzerland/1999_federal-constitution].
+
+  - id: ceiling-majority
+    schedule: safeguards
+    name: Majority of the panel for a ceiling act
+    value: 0.6667
+    show: two-thirds
+    range: two-thirds
+    why: >-
+      The Montreal Protocol's rule for adjusting ozone limits when consensus fails, the
+      clearest working precedent for a planetary limit
+      [unep/1987_montreal-protocol-article-2].
+
+  - id: ceiling-panel
+    schedule: safeguards
+    name: Ceiling panel, at least
+    value: 3000
+    show: 3,000 terrans
+    range: 3,000 to 10,000 terrans
+    why: >-
+      A ceiling act binds everyone, so its panel is larger. At 3,000, its split matches
+      all terrans' within about 1.8 points (estimate).
+
+  # ---- Article 4: Votes, Draws and Offices -------------------------------------
+
+  - id: key-holders
+    schedule: safeguards
+    name: Independent bodies holding the voting keys
+    value: 5
+    show: five
+    range: three to five
+    why: >-
+      With a key split so that any three of five shares can count a vote, two lost or
+      destroyed shares can't lose it [shamir/1979_how-to-share-a-secret]. The IACR voided
+      its 2025 election when one of three trustees lost a key, because all three shares
+      were needed [iacr/2025_election-update].
+
+  - id: key-quorum
+    schedule: safeguards
+    name: Key holders needed to count a vote
+    value: 3
+    show: three
+    range: two of three to three of five
+    why: >-
+      A majority of the holders, so no single holder can block a count or make one
+      alone. The digital-voting research suggests three of five.
+
+  - id: draw-operators
+    schedule: safeguards
+    name: Independent operators running each draw, at least
+    value: 3
+    show: three
+    range: three to five
+    why: >-
+      One operator would be a single point of failure, and with three a majority can
+      expose a faulty run. The IETF chooses its nominating committee by a lottery
+      anyone can verify [ietf/2020_rfc-8713].
+
+  - id: register-custodians
+    schedule: safeguards
+    name: Custodians of the identity register, at least
+    value: 2
+    show: two
+    range: two to three
+    why: >-
+      One custodian would be a single point of failure. One chip flaw exposed 750,000
+      Estonian ID cards at once [nemec/2017_roca; err/2017_id-card-security-risk].
+
+  - id: office-term
+    schedule: safeguards
+    name: Term in an independent office
+    value: 8
+    show: eight years
+    range: seven to nine years
+    why: >-
+      The European Central Bank's board members serve one eight-year term and can be
+      removed only for cause [ecb/2026_independence]. The EU's chief prosecutor serves
+      one term of seven years [eu/2017_regulation-2017-1939].
+
+  - id: budget-shares
+    schedule: safeguards
+    name: Protected budget shares, for the independent offices, inspectors, Ombudsman council and Guardians
+    value: null
+    show: Not yet set
+    where: ["4.5", "7.3", "7.11", "8.7"]
+    range: —
+    why: >-
+      Costa Rica's constitution gives its judiciary at least 6% of ordinary revenue
+      [costa-rica/1949_constitution], but a World Bank review found earmarking "in
+      general, it has not worked very well" [mccleary/1991_earmarking]. The research
+      estimates planetary costs, not revenue, and there is no planetary revenue until
+      stage two (9.10).
+
+  # ---- Article 5: The Stewards -------------------------------------------------
+
+  - id: stewards
+    schedule: safeguards
+    name: Stewards
+    value: 7
+    show: seven
+    range: five to nine
+    why: >-
+      Switzerland's seven-member Federal Council has governed since 1848. Uruguay's
+      council of nine was abolished as ineffective [loc/1990_uruguay-constitution]. The
+      research recommends five to nine.
+
+  - id: stewards-per-region
+    schedule: safeguards
+    name: Most Stewards from one region
+    value: 2
+    show: two
+    range: one to two
+    why: >-
+      Keeps any region from dominating the council. The research proposed no two from one
+      region. Python, Rust and the IETF's nominating committee cap any one employer at two
+      seats [python/2018_pep-13; rust/2023_rfc-3392-leadership-council;
+      ietf/2020_rfc-8713].
+
+  - id: steward-term
+    schedule: safeguards
+    name: A Steward's single term
+    value: 6
+    show: six years
+    range: five to seven years
+    why: >-
+      One term, so no Steward governs to be re-elected, and staggered, so the council
+      never turns over at once. The research proposed about six years; Swiss federal
+      councillors serve four, renewable.
+
+  - id: steward-round
+    schedule: safeguards
+    name: Rounds of Steward appointments
+    value: 2
+    show: two years
+    range: two years
+    why: >-
+      Fills the seven seats in three rounds over a six-year term, two or three at a
+      time, so no single round can seat a majority of the council.
+
+  - id: steward-removal
+    schedule: safeguards
+    name: Vote of either council to remove a Steward
+    value: 0.6667
+    show: two-thirds
+    range: an absolute majority to two-thirds
+    why: >-
+      Python's steering council can be removed by two-thirds of its voters
+      [python/2018_pep-13]. Removal can become so hard that only threats work: none of 13
+      formal censure motions against the European Commission succeeded
+      [alemanno/2025_von-der-leyen-faces-the-vote].
+
+  - id: steward-fallback
+    schedule: safeguards
+    name: Before an empty Steward's seat is filled by lot
+    value: 6
+    show: six months
+    range: two to six months
+    why: >-
+      Stops a deadlock between the councils from leaving a seat empty for long. If no
+      German constitutional judge is elected within two months, the Court itself is
+      asked to propose candidates [germany/1951_bverfgg].
+
+  - id: oversight-size
+    schedule: settings
+    name: Oversight Council
+    value: 150
+    show: 150 terrans
+    range: 150 to 300 terrans
+    min: 150
+    max: 300
+    why: >-
+      France's climate convention had 150 members, and French majorities backed a
+      permanent assembly of 150 with a veto
+      ([sortition at scale](../research/sortition-at-scale.md)).
+
+  - id: oversight-term
+    schedule: settings
+    name: Oversight Council term
+    value: 2
+    show: two years
+    range: eighteen months to two years
+    min: 1.5
+    max: 2
+    why: >-
+      Ostbelgien's decree set eighteen-month terms for its council, though in practice its
+      rotation slipped [pdg/2025_buergerdialog-evaluation-2019-2024]. Two years spans a
+      full round of Steward appointments.
+
+  - id: oversight-cooling
+    schedule: safeguards
+    name: Wait before an Oversight Council member may become a Steward
+    value: 5
+    show: five years
+    range: —
+    why: >-
+      Keeps those who approve Stewards from auditioning for the job. No precedent in
+      the research.
+
+  - id: rule-panel
+    schedule: settings
+    name: Panel reviewing a draft rule
+    value: 200
+    show: 200 terrans
+    range: 150 to 450 terrans
+    min: 150
+    max: 450
+    why: >-
+      The EU Conference's citizens' panels had 200 members each ([sortition at
+      scale](../research/sortition-at-scale.md)). The research advises reviewing a sample
+      of delegated rules rather than convening a jury for each, while 5.3 gives every
+      draft a panel; the open questions ask which is meant.
+
+  - id: objection-window
+    schedule: settings
+    name: Objection window for a draft rule
+    value: 60
+    show: 60 days
+    range: 28 to 100 days
+    min: 28
+    max: 100
+    why: >-
+      In 2024 the EU put 108 draft rules out for four weeks' comment
+      [european-commission/2025_comitology-report-2024], and Montreal Protocol adjustments
+      bind six months after they circulate [unep/1987_montreal-protocol-article-2]. A
+      window counts silence as consent, which fails when absent people are counted as
+      agreeing.
+
+  - id: call-in-signatures
+    schedule: safeguards
+    name: Signatures that force a call-in
+    value: 100000
+    show: "100,000"
+    range: 100,000 to one million
+    why: >-
+      The UK considers a petition for debate at 100,000 signatures
+      [uk-parliament/2026_petitions-help]. A call-in only sends a rule back to its
+      assembly, so the bar is low.
+
+  - id: call-in-council
+    schedule: safeguards
+    name: Delegates who can force a call-in
+    value: 0.1
+    show: a tenth of the Council
+    range: a tenth to a quarter
+    why: >-
+      Below the quarter that calls a vote of all terrans, since a call-in only returns a
+      rule to its assembly. The EU's yellow card needs national parliaments holding a
+      third of the votes [european-parliament/2026_subsidiarity-factsheet].
+
+  # ---- Article 6: Emergencies --------------------------------------------------
+
+  - id: emergency-days
+    schedule: safeguards
+    name: Longest emergency before any extension
+    value: 21
+    show: 21 days
+    range: 21 days
+    why: >-
+      South Africa's states of emergency lapse after 21 days unless parliament extends
+      them [south-africa/1996_constitution]. In one study, emergencies made democratic
+      erosion 75% more likely [luhrmann-rooney/2021_autocratization-by-decree].
+
+  - id: confirm-days
+    schedule: safeguards
+    name: Deadline to confirm an emergency
+    value: 7
+    show: seven days
+    range: under 21 days
+    why: >-
+      An option from the research, not a precedent: a panel drawn in advance confirms
+      or ends the emergency long before its 21 days run out.
+
+  - id: emergency-panel
+    schedule: safeguards
+    name: Panel that confirms or extends an emergency
+    value: 1000
+    show: 1,000 terrans
+    range: 1,000 terrans
+    why: >-
+      The government design's default, the size of an ordinary deciding panel, so an
+      emergency faces no smaller check than an ordinary act.
+
+  - id: emergency-pool
+    schedule: settings
+    name: Emergency pool, drawn each year
+    value: 20000
+    show: 20,000 terrans
+    range: 20,000 to 50,000 terrans
+    min: 20000
+    max: 50000
+    why: >-
+      Athens drew a yearly pool of 6,000 jurors and a panel from it for each case
+      [bouricius/2013_multi-body-sortition]. Each panel is fresh, the longest emergency
+      needs six panels of 1,000, and continuity panels draw on the pool too, so 20,000
+      leaves room for more than one emergency in a year.
+
+  - id: extension-length
+    schedule: safeguards
+    name: Longest extension
+    value: 3
+    show: three months
+    range: three to six months
+    why: >-
+      South Africa's longest extension [south-africa/1996_constitution]. The UK's
+      Coronavirus Act needed renewing every six months [uk/2020_coronavirus-act].
+
+  - id: extension-second
+    schedule: safeguards
+    name: Majority for a second extension
+    value: 0.6
+    show: 60%
+    range: 60%
+    why: >-
+      South Africa asks 60% for every extension after the first
+      [south-africa/1996_constitution].
+
+  - id: extension-step
+    schedule: safeguards
+    name: Rise for each later extension
+    value: 10
+    show: ten points
+    range: —
+    why: >-
+      New here: each further extension needs more support, so an emergency can't roll
+      over for good. With the cap below, an emergency lasts at most 21 days and 15
+      months.
+
+  - id: extension-cap
+    schedule: safeguards
+    name: Extension after which no other may follow
+    value: 0.9
+    show: 90%
+    range: —
+    why: >-
+      New here: no extension may follow one passed at 90%, which allows five
+      extensions at most.
+
+  - id: continuity-days
+    schedule: safeguards
+    name: Longest a continuity panel may act
+    value: 90
+    show: 90 days
+    range: 90 to 180 days
+    why: >-
+      An option from the research. Laws made by Germany's emergency Joint Committee lapse
+      within six months of the emergency's end [germany/1949_grundgesetz].
+
+  - id: urgent-lapse
+    schedule: safeguards
+    name: Life of an urgent act not yet ratified
+    value: 1
+    show: a year
+    range: up to a year
+    why: >-
+      Swiss urgent acts take effect at once; if a referendum is requested, they lapse
+      after a year unless voters approve, and a rejected one can't be renewed
+      [switzerland/1999_federal-constitution]. The long-view wait (8.4) is also a year, so
+      the two can clash.
+
+  # ---- Article 7: Accountability -----------------------------------------------
+
+  - id: judges
+    schedule: safeguards
+    name: Judges of the Planetary Court
+    value: 15
+    show: fifteen
+    range: —
+    why: >-
+      A size fixed in the Charter, with judges seated automatically, so the Court can be
+      neither packed nor starved: Poland's was captured through appointments and refused
+      oaths ([failure modes](../research/failure-modes.md)). The research has no precedent
+      for fifteen; it lets a third of the judges change every four years.
+
+  - id: judge-term
+    schedule: safeguards
+    name: A judge's single term
+    value: 12
+    show: twelve years
+    range: nine to twelve years
+    why: >-
+      German constitutional judges serve one twelve-year term [germany/1951_bverfgg].
+      Single terms reduced European human rights judges' bias toward their own
+      governments, in preliminary results [stiansen/2019_institutional-reform-ecthr].
+
+  - id: judge-removal
+    schedule: safeguards
+    name: Vote of fellow judges to remove a judge
+    value: 0.6667
+    show: two-thirds
+    range: two-thirds
+    why: >-
+      European human rights judges can be dismissed only by two-thirds of their peers
+      [coe/1950_echr].
+
+  - id: ombudsmen
+    schedule: safeguards
+    name: Ombudsman council
+    value: 5
+    show: five
+    range: three to five
+    why: >-
+      The Earth Constitution's council of five World Ombudsmen
+      [wcpa/1977_earth-constitution]. A council avoids the isolation that France's
+      Outreau inquiry blamed in a lone investigating judge
+      [assemblee-nationale/2006_outreau-inquiry-report].
+
+  - id: ombudsman-term
+    schedule: safeguards
+    name: An ombudsman's term
+    value: 7
+    show: seven years
+    range: six to ten years
+    why: >-
+      The EU's chief prosecutor serves one seven-year term
+      [eu/2017_regulation-2017-1939], and Wales's Commissioner for future generations
+      seven years. The Earth Constitution's ombudsmen serve ten.
+
+  # ---- Article 8: The Long View ------------------------------------------------
+
+  - id: guardians
+    schedule: safeguards
+    name: Guardians
+    value: null
+    show: Not yet set
+    where: ["8.3"]
+    range: 10 to 20 (estimate)
+    why: >-
+      No precedent in the research. New Zealand's guardian bodies have two to nine
+      members. Half drawn by lot and terms renewed a fifth at a time would need a
+      multiple of ten.
+
+  - id: guardian-term
+    schedule: safeguards
+    name: A Guardian's single term
+    value: 10
+    show: ten years
+    range: 7 to 12 years if nominated; 2 to 3 if drawn by lot
+    why: >-
+      Every Guardian serves ten years (8.3). Wales's Commissioner for future generations
+      serves seven. The research found no body drawn by lot that sits for ten, and
+      suggests two- to three-year terms for Guardians drawn by lot ([long
+      view](../research/long-view.md)), so for them the value sits outside the range.
+
+  - id: long-view-wait
+    schedule: safeguards
+    name: Wait after a finding of likely serious, irreversible harm
+    value: 1
+    show: one year
+    range: —
+    why: >-
+      No evidence on the length; a year lets the next voting day decide. Israel's
+      commissioner for future generations rarely used a power to delay laws, which drew
+      antagonism, and the office was abolished [fdsd/2017_knesset-commission].
+
+  # ---- Article 9: Becoming the Commonwealth ------------------------------------
+
+  - id: stage-two
+    schedule: safeguards
+    name: Stage two begins
+    value: 0.5
+    show: half of humanity
+    range: half
+    why: >-
+      From the Earth Constitution, which also asks half of all nations
+      [wcpa/1977_earth-constitution]. The seven largest states hold 51.1% of humanity
+      [un-desa/2024_world-population-prospects].
+
+  - id: stage-three
+    schedule: safeguards
+    name: Stage three begins
+    value: 0.9
+    show: nine in ten terrans
+    range: 90% to 91%
+    why: >-
+      From the Earth Constitution [wcpa/1977_earth-constitution]. The US, Pakistan,
+      Russia, North Korea and Israel, all nuclear-armed, hold 9.5% of humanity
+      [un-desa/2024_world-population-prospects; aca/2026_nuclear-who-has-what]. At nine in
+      ten they could all stay outside; above about 90.5% they could not.
+
+  - id: tripwire-council
+    schedule: safeguards
+    name: Delegates who can certify that safeguards failed
+    value: 0.25
+    show: a quarter of the Council
+    range: a quarter to a third
+    why: >-
+      The same quarter that can call a vote of all terrans. The tripwire opens only on a
+      certified failure of a safeguard, not at will. Buchanan argues that supermajorities
+      and waits can contain the risk that a right to leave becomes a threat
+      [buchanan-levinson/2026_secession].
+
+  - id: tripwire-days
+    schedule: safeguards
+    name: Court unable to sit
+    value: 90
+    show: 90 days
+    range: —
+    why: >-
+      The longest a continuity panel may act (6.3). No precedent in the research.

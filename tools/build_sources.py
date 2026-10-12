@@ -9,8 +9,8 @@ A source cited by several research notes can appear in several YAML files.
 Records with the same id are merged: the first file's details are kept and
 gaps filled from the others, their Charter parts and "supports" lines are
 combined, and the strongest check result is kept. Every [author/2024_slug]
-citation in the research notes, thoughts, proposals and open questions, alone or grouped
-as [id; id], must resolve to a record.
+citation in the research notes, thoughts, proposals, open questions, Commentary and
+Schedules, alone or grouped as [id; id], must resolve to a record.
 """
 
 from __future__ import annotations
@@ -26,7 +26,10 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = ROOT / "sources"
 OUTPUT = ROOT / "SOURCES.md"
-CITING_GLOBS = ("research/*.md", "thoughts/*.md", "proposals/*.md", "OPEN-QUESTIONS.md")
+CITING_GLOBS = (
+    "research/*.md", "thoughts/*.md", "proposals/*.md", "OPEN-QUESTIONS.md",
+    "commentary/*.md", "schedules/*.md",
+)
 
 PARTS = {
     "Preamble": "Preamble",
@@ -225,7 +228,8 @@ def render(records: dict[str, dict], cited: dict[str, set[str]]) -> str:
         "# TERRAN — sources",
         "",
         f"Every source cited in the research behind the Terran Charter: {len(records)} records, "
-        "grouped by the Part of the Charter they inform. Generated from `sources/*.yaml` by "
+        "grouped by the Part of the Charter they inform, in the second working draft's numbering "
+        "([mapped to the third](CHANGELOG.md#third-working-draft--12-october-2026)). Generated from `sources/*.yaml` by "
         "`tools/build_sources.py`; do not edit by hand.",
         "",
         f"**Tiers:** {tiers['primary']} primary · {tiers['secondary']} secondary · "

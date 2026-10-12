@@ -1,6 +1,6 @@
 # How the Charter is built
 
-*A reading of the first working draft, 10 October 2026 · by Claude · where this reading and Kara's intent differ, hers governs · it cites first-draft clauses, several of which the second draft changed ([changelog](../CHANGELOG.md)); the nine moves still describe the second draft*
+*A reading of the first working draft, 10 October 2026 · by Claude · where this reading and Kara's intent differ, hers governs · it cites first-draft clauses, several of which the second draft changed ([changelog](../CHANGELOG.md)); the nine moves still describe the second and third drafts, and the [changelog](../CHANGELOG.md#third-working-draft--12-october-2026) maps the Parts cited here to the third draft's Articles*
 
 The Charter applies one test everywhere: does this bring more terrans inside the doughnut and keep them there (VII.7)? Most of its other clauses are machinery for passing that test without creating a power that could abuse it. Nine design moves recur across the twelve Parts. Naming them makes the draft easier to extend consistently, and shows where a new clause would break the pattern.
 
