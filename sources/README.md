@@ -1,6 +1,6 @@
 # Source records
 
-One YAML file per research note (`research/<name>.md` pairs with `sources/<name>.yaml`), with one record per source. [SOURCES.md](../SOURCES.md) is generated from these files: run `make sources` after any change, and `make check` to confirm it's current.
+One YAML file per research note (`research/<name>.md` pairs with `sources/<name>.yaml`), with one record per source. [SOURCES.md](../SOURCES.md) is generated from these files: run `make sources` after any change, and `make check` to confirm it's current. The records are dedicated to the public domain under [CC0 1.0](../LICENSE).
 
 ## Record format
 

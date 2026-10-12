@@ -246,3 +246,7 @@ The Commonwealth grows by choice and in stages, never by force, until nations ar
 - [ ] **Leaving after stage three:** Once nations are gone, may a community ever leave the Commonwealth, and on what terms?
 
 Research behind this draft: [Research](research/drafting-session-2026-10-09.md)
+
+---
+
+*To the extent possible under law, Kara Zajac has waived all copyright and related or neighboring rights to The Terran Charter. ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))*

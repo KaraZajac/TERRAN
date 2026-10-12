@@ -23,9 +23,14 @@ The Terran Commonwealth it describes grows by choice and in stages, never by for
 | [SOURCES.md](SOURCES.md) | Every source cited, with what it supports and how it was checked. Generated. |
 | [sources/](sources/README.md) | The source records behind SOURCES.md, one YAML file per research note. |
 | [CHANGELOG.md](CHANGELOG.md) | The Charter's draft history. |
+| [RIGHTS.md](RIGHTS.md) | What you may do with each part. The Charter is in the public domain. |
 
 ## Working on it
 
 - **Change the Charter** by editing CHARTER.md, then add a line to CHANGELOG.md saying what changed and why. Part VII.5 asks for amendments to be recorded on an open, tamper-evident ledger; until the Commonwealth has one, this repository's history serves.
 - **Add a source** to the matching file in `sources/` and cite it in a note by its id in square brackets. Then run `make sources` to validate the records and regenerate SOURCES.md. The record format is in [sources/README.md](sources/README.md).
 - **Mind who checked what.** Every source record says who checked it and when. The first pass, on 10 October 2026, was machine-performed by Claude; none of it is Kara's own verification.
+
+## License
+
+The Charter is dedicated to the public domain under [CC0 1.0](LICENSE): anyone may copy, translate, adapt, adopt or enact it, without permission or credit. The source records are CC0 too. The research and reasoning are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and the tools are [MIT](tools/LICENSE). Details are in [RIGHTS.md](RIGHTS.md).
