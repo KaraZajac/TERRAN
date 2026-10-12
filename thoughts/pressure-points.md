@@ -1,6 +1,6 @@
 # Pressure points
 
-*Where the first research pass says the working draft is under strain · compiled by Claude from the research notes, 10 October 2026*
+*Where the first research pass says the working draft is under strain · compiled by Claude from the research notes, 10 October 2026 · written against the first working draft; the second (12 October 2026) addresses strains 2, 3, 5, 6, 8 and 11 in part, and the rest still stand*
 
 Read Part by Part, most of the draft holds up against its precedents. Read across Parts, thirteen strains recur. In each, two clauses pull against each other, or a mechanism carries more than its precedent ever has. Each entry names the clauses, the evidence and the notes to read. The ways out are options, collected in [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
 

@@ -2,6 +2,124 @@
 
 The Charter's draft history, newest first. Each entry says what changed and why. The git history holds the exact wording of every version.
 
+## Second working draft — 12 October 2026
+
+The second draft replaces the rule that every terran votes on every planetary question, which the research showed can't work at planetary scale. Its government follows [proposals/modern-terran-government.md](proposals/modern-terran-government.md), with that proposal's defaults and the further choices listed below. It also makes the plain fixes the research found, and the fixes a final review of the draft asked for. Parts II and VI, and every clause not listed here, are unchanged.
+
+**Preamble and Part I**
+
+- **Preamble.** "Toward collapse" becomes "past their safe limits, risking changes that cannot be undone".
+- **I.2.** Nations grew with print and literacy, and today's networks can reach every terran.
+
+**Part III**
+
+- **Names.** The nine boundaries use their official names, with plain glosses.
+- **The science.** "Moves only as that science does" becomes "never leaves the range it sets". An Earth Science Panel publishes a range every four years, and the ceiling is set within it (VIII.12).
+- **Fair shares (new).** A sharing principle, adopted as a Charter amendment, divides the ceiling into fair shares with timelines. Where a limit is already crossed, everyone moves toward their share on that timeline.
+- **Credit.** Setting the ceiling draws on the Montreal Protocol.
+
+**Parts IV and V**
+
+- **IV.5.** Rates are set "by planetary act (Part VIII)", not "by vote".
+- **Credit.** The wealth limit "adapts" Robeyns' limitarianism.
+- **V.3.** "Full-time-equivalent" pay; the lowest pay counts contractors and agency, franchise, and outsourced workers.
+- **V.4.** Start-up money is "one of the barriers" that keep cooperatives rare.
+
+**Part VII**
+
+- **VII.2.** Every service and vote has a non-digital route.
+- **VII.3**, retitled "Decided by samples, checked by all". Panels drawn by lot decide. Any act except a ceiling act can be sent to a vote of all terrans, and the Charter changes only by such votes.
+- **VII.4.** A list of planetary powers, including the Commons Fund. Everything else belongs to communities. The Court rules within 90 days when a quarter of the Council of Communities object.
+- **VII.5**, retitled "Open logs". The logs are run by several independent bodies, with blockchain only where no single operator can be trusted.
+- **VII.7.** A yearly doughnut account; worsening indicators trigger a Guardian review.
+- **Credits.** The Swiss and Nigerian constitutions; Certificate Transparency.
+
+**Part VIII, rebuilt**
+
+The opening, the diagram rebuilt at the first import, and its caption are all replaced. Clauses 1–10 keep their numbers; 11–24 are new.
+
+- **VIII.1.** Three thresholds:
+    - 100,000 signatures earn a reasoned answer from the Agenda Council.
+    - One million across a quarter of the regions send a proposal to an assembly.
+    - 1% sends a proposal the assembly rejected to a vote of all terrans. This route is closed to the ceiling.
+
+    Signatures must be gathered within twelve months. The Stewards, Guardians and member communities may also propose.
+- **VIII.2.** Assemblies take the maps as input.
+- **VIII.3.** Standing assemblies of 450 for each listed power, a Budget Assembly, and an Agenda Council of 300, all drawn by lot, on three-year terms. Different people recruit, brief and facilitate. The old assembly "for each proposal", which wrote the ballot question, is replaced; VIII.11 now gives the question and summary to the assembly concerned.
+- **VIII.4.** Deciding panels of at least 1,000 vote in secret on each act exactly as drafted, after a Court check and after hearing advocates chosen by the assembly's majority and minority. "Except where this Charter requires more" is kept. A rejected act returns once, then waits two years.
+- **VIII.5.** An in-person vote is final, whatever the order, and online voting closes first.
+- **VIII.6.** Where an audit fails, the paper record is counted by hand, and a new vote follows only if the missing votes could change the result. Five independent bodies hold the voting keys, and any three can act.
+- **VIII.7.** Seven Stewards, at most two per region, each on one six-year term:
+    - chosen from a certified pool, with the approval of two councils
+    - removable by two-thirds of either council
+    - a six-month fallback to lot if a seat goes unfilled
+    - leading a civil service hired on merit
+- **VIII.8.** The separation of powers adds the Council of Communities' second key and rules made only under an act. The Ombudsman council oversees them all.
+- **VIII.9.** An Ombudsman council of five, with a red team. Fixed terms, removal only for misconduct, automatic successors, and a protected budget.
+- **New VIII.11–24:**
+    - a vote of all terrans
+    - the ceiling
+    - the Council of Communities
+    - the Oversight Council
+    - rules under an act
+    - drawn fairly
+    - certified candidates
+    - independent offices
+    - emergencies expire
+    - limits on emergencies
+    - continuity
+    - decisions are versions
+    - urgent acts
+    - rules anyone can run
+- **Credits.** Ostbelgien, Mongolia, Switzerland (its optional referendum, Federal Council and urgent laws), the IETF, South Africa, open-source projects, and Sweden's Ombudsman. The Earth Constitution is now credited for the Ombudsman council of five rather than for the Stewards.
+
+**Part IX**
+
+- **IX.1.** Appeals to the Planetary Court go "on questions under this Charter", and the Court settles disputes between communities.
+- **IX.2.** Fifteen judges, chosen by an assembly drawn by lot for that purpose, from certified candidates. Each serves one twelve-year term, staggered, and is seated automatically. Removal takes two-thirds of the other judges, after an independent review.
+- **IX.3.** The inspectors' budget is a fixed share of planetary revenue.
+- **IX.10.** "Ombudsman council"; "open logs".
+- **Credits.** The Earth Constitution, "though here only a court may order an arrest"; Norway's rehabilitative prisons.
+
+**Part X**
+
+- **Introduction.** "Tens of thousands of generations".
+- **X.4.** "Every planetary act", not "every major decision". A Guardian finding of likely serious, irreversible harm means a year's wait and a fresh decision: by a panel, or by a new vote of all terrans if all terrans passed the act.
+- **X.7.** "Ombudsman council".
+- **Credits.** Guardians from Wales and New Zealand; speaking for nature from Ecuador's rights of nature; the burden of proof from Ecuador's Article 397 and the Wingspread Statement.
+
+**Parts XI and XII**
+
+- **XI.3.** "Two votes of all terrans" where it said "two planetary votes", since panels vote too. An assembly drafts each amendment, the Court checks it against XI.4, and it carries the Guardians' statement.
+- **XI.4.** "The ceiling moves only as the science does" becomes "No amendment may set the ceiling outside the range the science supports".
+- **New XII.7–10:** proven before binding; a way out if safeguards fail; who counts until stage three; funding until stage two.
+- **New schedule** of world regions, not yet chosen.
+
+**Open questions**
+
+- "Paper votes" now asks whether every vote of all terrans should also be on paper.
+- "Leaving after stage three" asks about leaving by choice, beyond XII.8.
+- Three questions are new: sharing the ceiling, regions, and voting age and service.
+- The research link now points to the research index and the government design.
+
+**Defaults to confirm**
+
+The draft makes choices the proposal left open or didn't cover:
+
+- **Sizes and terms:**
+    - assemblies of 450, an Agenda Council of 300, an Oversight Council of 150
+    - a Council of Communities of 200, by population, at least two per region
+    - panels of 1,000, or 3,000 for the ceiling
+    - an Ombudsman council of five
+    - fifteen judges on twelve-year terms, and seven Stewards on six-year terms
+- **Thresholds:** 100,000; one million; 1%; 0.5%; twelve months to gather; a quarter of the regions; 100 days; 90 days.
+- **Service by lot** is voluntary, paid and protected.
+- **Regions** change only by amendment.
+- **Footprint classes** are set per person, yearly, by the Statistics Office.
+- **Independent offices and inspectors** have protected budgets.
+
+Credits for Parts II and VI remain open; see [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md).
+
 ## Public domain dedication — 11 October 2026
 
 The Charter is dedicated to the public domain under CC0 1.0, so anyone may copy, translate, adapt, adopt or enact it without permission or credit. That matches the Preamble: the Charter "belongs to no government". A dedication notice now closes CHARTER.md; the Charter's wording is unchanged. CC0 waives copyright, not trademark, so the names "Terran Charter", "Terran Humanism" and "Terran Commonwealth" fall outside the dedication. The rest of the repository followed the same day: the research, the reasoning, the source records and the tools are CC0 too. See [RIGHTS.md](RIGHTS.md).

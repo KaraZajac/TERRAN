@@ -1,6 +1,6 @@
 # Open questions for the next draft
 
-*Compiled by Claude on 10 October 2026, from the working draft's five open questions and the first research pass · tick a box when the next draft settles it*
+*Compiled by Claude on 10 October 2026, from the working draft's five open questions and the first research pass · updated 12 October 2026 for the second working draft: ticked items are settled there, and "in part" notes say what remains · tick a box when a draft settles it*
 
 The draft's five open questions now have evidence and options behind them. The research also turned up a short list of fixes and credits, where the text contradicts itself, its sources, or the precedents it credits. And it raised about seventy narrower questions, listed by Part.
 
@@ -10,15 +10,15 @@ The research notes hold the evidence; this file holds the decisions. For the str
 
 These correct the text against itself, its sources, or the precedents it credits. They change wording, not policy.
 
-- [ ] **VIII.5 contradicts itself.** "A later vote replaces an earlier one" lets an online vote cast after an in-person vote replace it, against the very next rule. Estonia's rule is simply that paper wins. Suggested wording: *"An in-person vote is final and replaces any online vote, whenever cast. Among online votes, the last counts. Online voting closes before in-person voting does."* "Can always be changed" should become "can be changed until voting closes". ([digital voting](research/digital-voting.md))
-- [ ] **I.2 inverts the scholarship.** More communication built more nations, not fewer: UN membership rose from 51 states in 1945 to 193 in 2011, and scholars tie nations to print and mass literacy. Suggested wording: *"Nations grew with the printing press and mass literacy, which taught strangers who would never meet to see themselves as one people. Today's networks reach every terran, so that bond can now span the planet."* "Has made us one people" should become "can make us one people". ([commonwealth](research/commonwealth.md))
-- [ ] **V.4's start-up claim.** Finance is one barrier to cooperatives among several, alongside the cost of collective decisions, unsellable membership stakes and weak law. Reword "a main reason". ([business](research/business.md))
-- [ ] **The ceiling's names.**
+- [x] **VIII.5 contradicts itself.** *Fixed in the second draft.* "A later vote replaces an earlier one" lets an online vote cast after an in-person vote replace it, against the very next rule. Estonia's rule is simply that paper wins. Suggested wording: *"An in-person vote is final and replaces any online vote, whenever cast. Among online votes, the last counts. Online voting closes before in-person voting does."* "Can always be changed" should become "can be changed until voting closes". ([digital voting](research/digital-voting.md))
+- [x] **I.2 inverts the scholarship.** *Fixed in the second draft.* More communication built more nations, not fewer: UN membership rose from 51 states in 1945 to 193 in 2011, and scholars tie nations to print and mass literacy. Suggested wording: *"Nations grew with the printing press and mass literacy, which taught strangers who would never meet to see themselves as one people. Today's networks reach every terran, so that bond can now span the planet."* "Has made us one people" should become "can make us one people". ([commonwealth](research/commonwealth.md))
+- [x] **V.4's start-up claim.** *Fixed in the second draft.* Finance is one barrier to cooperatives among several, alongside the cost of collective decisions, unsellable membership stakes and weak law. Reword "a main reason". ([business](research/business.md))
+- [x] **The ceiling's names.** *Fixed in the second draft.*
     - "Freshwater use" was retired in 2023, and the verdict flips under its replacement: inside the old limit, outside the new one since 1905.
     - "Biodiversity loss", "air pollution" and "chemical pollution" narrow or shift what is actually measured.
     - Fix: use the official process names, with plain glosses. ([floor and ceiling](research/floor-and-ceiling.md))
-- [ ] **The Preamble's "toward collapse"** outruns the sources, which speak of a rising risk of irreversible change. ([floor and ceiling](research/floor-and-ceiling.md))
-- [ ] **Credits.**
+- [x] **The Preamble's "toward collapse"** *Fixed in the second draft.* outruns the sources, which speak of a rising risk of irreversible change. ([floor and ceiling](research/floor-and-ceiling.md))
+- [x] **Credits.** *Fixed in the second draft.*
     - Credit Sweden's Ombudsman (1809), the original of the office. ([deliberation](research/deliberation.md))
     - Part X credits Ecuador's rights of nature for the Guardians, but Ecuador has no guardian office. What X.6 takes from Ecuador is the reversed burden of proof in its Article 397, which goes uncredited. Credit Article 397 and the Wingspread Statement there. ([long view](research/long-view.md))
     - Robeyns: "adapts" fits better than "draws on". She pairs her €10M limit with a €1M ethical limit and a €200,000 inheritance limit. ([wealth and tax](research/wealth-and-tax.md))
@@ -69,6 +69,8 @@ These correct the text against itself, its sources, or the precedents it credits
 ### 2. Paper votes
 
 > Should Charter amendments stay on paper until online voting can be fully secured, or should every vote be digital?
+
+*Second draft: votes that change the Charter are cast on paper too, all votes of all terrans fall on one yearly day, and keys are held three-of-five (VIII.5, VIII.6, VIII.11). Whether every vote of all terrans should be on paper is still open.*
 
 **What the research says**
 
@@ -138,6 +140,8 @@ Whatever the choice, fix VIII.5, and hold keys on a k-of-n threshold with recove
 
 > Once nations are gone, may a community ever leave the Commonwealth, and on what terms?
 
+*Second draft: XII.8 adds a way out if safeguards fail. The people keep their floor rights, the community keeps its ceiling duties, and the Court keeps its authority over past acts (option B below). Leaving by choice is still open.*
+
 **What the research says**
 
 - **The credited precedent already answers it.** Earth Constitution 14.1.4 lets individuals and groups "peacefully leave" once the Federation covers 90% of Earth's territory. They go to a disarmed zone of at most 5% of habitable land. ([commonwealth](research/commonwealth.md))
@@ -181,8 +185,8 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 - [ ] Update the floor list to Raworth's 2025 version, or give a reason for each difference? The draft mixes her 2012 and 2017 lists. ([floor and ceiling](research/floor-and-ceiling.md))
 - [ ] Move the floor and ceiling lists into a revisable schedule? How can items be renamed or merged without counting as "lowering" under XI.4? ([floor and ceiling](research/floor-and-ceiling.md))
-- [ ] Who certifies "the best available science", and who picks where in the risk zone a limit sits? ([floor and ceiling](research/floor-and-ceiling.md))
-- [ ] Seven of nine boundaries are already crossed. Replace the no-crossing rule with fair shares and timelines, and on what sharing principle? ([floor and ceiling](research/floor-and-ceiling.md))
+- [x] Who certifies "the best available science", and who picks where in the risk zone a limit sits? ([floor and ceiling](research/floor-and-ceiling.md)) *Settled: an Earth Science Panel publishes recommended ranges every four years. Ceiling acts within them need two-thirds of a panel and the Council of Communities' key, and acts outside them are void (III, VIII.12).*
+- [ ] Seven of nine boundaries are already crossed. Replace the no-crossing rule with fair shares and timelines, and on what sharing principle? ([floor and ceiling](research/floor-and-ceiling.md)) *In part: a sharing principle, adopted as a Charter amendment, now divides the ceiling into fair shares with timelines, and where a limit is already crossed, everyone moves toward their share on that timeline (III). The principle itself is open.*
 - [ ] Should the stricter of the safe and just limits govern, with a duty to protect and compensate people harmed? ([floor and ceiling](research/floor-and-ceiling.md))
 - [ ] Replace the per-person count with two headlines: the share of terrans above every floor item, and the distance to each boundary? ([floor and ceiling](research/floor-and-ceiling.md))
 - [ ] Should the Charter say anything about growth? ([floor and ceiling](research/floor-and-ceiling.md))
@@ -197,7 +201,7 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part V
 
-- [ ] Restore "full-time-equivalent" in V.3, as the research of 9 October said? "Full-time pay" lets an organization hire part-timers to lower the ratio. Name agency and franchise workers too? ([business](research/business.md))
+- [x] Restore "full-time-equivalent" in V.3, as the research of 9 October said? "Full-time pay" lets an organization hire part-timers to lower the ratio. Name agency and franchise workers too? ([business](research/business.md)) *Done: V.3 now measures full-time-equivalent pay and counts agency and franchise workers.*
 - [ ] Define "political rights", and keep expression, petition, litigation and publishing. Add a category for civic associations, funded by capped individual gifts, that may campaign within limits? ([business](research/business.md))
 - [ ] Exempt press *content* rather than press *companies*, as the UK and Canada do? ([business](research/business.md))
 - [ ] Add a separate rule for lobbying? ([business](research/business.md))
@@ -211,28 +215,28 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part VII
 
-- [ ] Is the digital ID a right or a duty? Is it activated at an age of consent? Are there non-digital routes to every service and to the vote? ([digital voting](research/digital-voting.md))
+- [ ] Is the digital ID a right or a duty? Is it activated at an age of consent? Are there non-digital routes to every service and to the vote? ([digital voting](research/digital-voting.md)) *In part: VII.2 now guarantees a non-digital route to every service and vote.*
 - [ ] How is everyone enrolled once, from anywhere, without state registries or compulsory biometrics? ([digital voting](research/digital-voting.md))
 - [ ] What wealth or office thresholds trigger VII.6's transparency? ([digital voting](research/digital-voting.md))
-- [ ] Reword VII.5 as "tamper-evident public logs run and monitored by several independent bodies", with blockchain only where no single operator can be trusted? ([digital voting](research/digital-voting.md))
-- [ ] Which matters are planetary, and who umpires disputes? ([deliberation](research/deliberation.md))
-- [ ] What is the voting age? ([deliberation](research/deliberation.md))
+- [x] Reword VII.5 as "tamper-evident public logs run and monitored by several independent bodies", with blockchain only where no single operator can be trusted? ([digital voting](research/digital-voting.md)) *Done.*
+- [x] Which matters are planetary, and who umpires disputes? ([deliberation](research/deliberation.md)) *Settled: VII.4 lists them, and the Court umpires, ruling within 90 days when a quarter of the Council of Communities object.*
+- [ ] What is the voting age? ([deliberation](research/deliberation.md)) *Now among the Charter's own open questions.*
 
 ### Part VIII
 
-- [ ] What share of terrans, over what period and across how many regions, sends a proposal to an assembly? ([deliberation](research/deliberation.md))
+- [x] What share of terrans, over what period and across how many regions, sends a proposal to an assembly? ([deliberation](research/deliberation.md)) *Settled: VIII.1, with twelve months to gather signatures.*
 - [ ] Keep the original proposal on the ballot beside the assembly's version, with a tie-break question, as Switzerland does? ([deliberation](research/deliberation.md))
-- [ ] Who checks proposals against the Seven Principles before a vote, and can the Court void a result? ([deliberation](research/deliberation.md))
-- [ ] Set the assembly's size, the traits it matches, a published selection algorithm and audits. Should regional assemblies feed a global one? ([deliberation](research/deliberation.md))
-- [ ] Stewards: how long is the term, is re-election allowed, how is a Steward removed, and why a direct election? ([deliberation](research/deliberation.md))
-- [ ] Ombudsman: selection, term, size, powers and oversight. May it review judgments? ([deliberation](research/deliberation.md), [accountability](research/accountability.md))
-- [ ] Set a minimum turnout? The research of 9 October suggested one; the draft left it out, and the Venice Commission advises against turnout quorums. ([deliberation](research/deliberation.md))
-- [ ] Which bodies hold key shares, at what threshold, and is a vote re-run if the lost ballots couldn't change the outcome? ([digital voting](research/digital-voting.md))
+- [ ] Who checks proposals against the Seven Principles before a vote, and can the Court void a result? ([deliberation](research/deliberation.md)) *In part: the Court checks each act before its vote (VIII.4) and voids ceiling acts outside the science's range (VIII.12). Whether it can void other results is open.*
+- [x] Set the assembly's size, the traits it matches, a published selection algorithm and audits. Should regional assemblies feed a global one? ([deliberation](research/deliberation.md)) *Settled: VIII.3 and VIII.15. The draft doesn't nest regional assemblies.*
+- [x] Stewards: how long is the term, is re-election allowed, how is a Steward removed, and why a direct election? ([deliberation](research/deliberation.md)) *Settled: VIII.7.*
+- [ ] Ombudsman: selection, term, size, powers and oversight. May it review judgments? ([deliberation](research/deliberation.md), [accountability](research/accountability.md)) *In part: VIII.9 sets a council of five, drawn from certified candidates, on fixed terms, removable only for misconduct, with a protected budget, and the Court hears complaints against it. The length of the terms and review of judgments are open.*
+- [x] Set a minimum turnout? The research of 9 October suggested one; the draft left it out, and the Venice Commission advises against turnout quorums. ([deliberation](research/deliberation.md)) *Settled for now: the second draft sets none, following the Venice Commission.*
+- [x] Which bodies hold key shares, at what threshold, and is a vote re-run if the lost ballots couldn't change the outcome? ([digital voting](research/digital-voting.md)) *Settled: five independent bodies hold the keys, and any three can act. A failed audit means a hand count of the paper record, and a new vote only if the missing votes could change the result (VIII.6).*
 
 ### Part IX
 
-- [ ] How does the Planetary Court filter cases, and who pays for poor claimants? ([accountability](research/accountability.md))
-- [ ] Who certifies "qualified" judges? What are the term, age limit and removal vote? ([accountability](research/accountability.md))
+- [ ] How does the Planetary Court filter cases, and who pays for poor claimants? ([accountability](research/accountability.md)) *In part: appeals from community courts now reach it only on questions under this Charter (IX.1).*
+- [ ] Who certifies "qualified" judges? What are the term, age limit and removal vote? ([accountability](research/accountability.md)) *In part: certified pools (VIII.15), one twelve-year term, removal by two-thirds of the other judges (IX.2). No age limit yet.*
 - [ ] How are residents shielded, or money redirected to them, when funds are withheld? ([accountability](research/accountability.md))
 - [ ] May officers arrest someone in the act, with prompt court review? ([accountability](research/accountability.md))
 - [ ] Which enforcement records are personal, and when do they expire? ([accountability](research/accountability.md))
@@ -241,21 +245,21 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 
 ### Part X
 
-- [ ] Who rules that a proposal "fails" the long-view test, and by what criteria? ([long view](research/long-view.md))
-- [ ] Which decisions get the test: "every planetary decision" (III), "every major decision" or "each planetary ballot" (X.4)? ([long view](research/long-view.md))
+- [x] Who rules that a proposal "fails" the long-view test, and by what criteria? ([long view](research/long-view.md)) *Settled: a Guardian finding of likely serious, irreversible harm (X.4).*
+- [x] Which decisions get the test: "every planetary decision" (III), "every major decision" or "each planetary ballot" (X.4)? ([long view](research/long-view.md)) *Settled: every planetary act (X.4).*
 - [ ] What standard of proof applies under X.6, and how are the risks of not acting weighed? ([long view](research/long-view.md))
 - [ ] Which "scientific bodies" nominate Guardians without nations? Should place-based or Indigenous guardians exist? ([long view](research/long-view.md))
 - [ ] Shorter, staggered terms for Guardians drawn by lot? ([long view](research/long-view.md))
 - [ ] Should XI.4 entrench the Guardians and their budget? ([long view](research/long-view.md))
 - [ ] What happens when future terrans and the living world conflict? ([long view](research/long-view.md))
-- [ ] Reconcile the time scales. A million years is about 40,000 generations, so "thousands of generations" understates it; "tens of thousands"? ([long view](research/long-view.md))
+- [x] Reconcile the time scales. A million years is about 40,000 generations, so "thousands of generations" understates it; "tens of thousands"? ([long view](research/long-view.md)) *Done in Part X. The Preamble's "thousands of generations still to come" still reads true.*
 
 ### Part XI
 
 - [ ] Tiered entrenchment, with a lower bar for clerical repairs? ([living charter](research/living-charter.md))
 - [ ] Can Part XI itself be amended? ([living charter](research/living-charter.md))
 - [ ] A route to a wholesale rewrite, as Germany and Switzerland keep? ([living charter](research/living-charter.md))
-- [ ] What threshold do the 25-year review's proposals face, and may the review touch XI.4? ([living charter](research/living-charter.md))
+- [ ] What threshold do the 25-year review's proposals face, and may the review touch XI.4? ([living charter](research/living-charter.md)) *In part: review proposals are amendments, so XI.3 applies. Whether the review may touch XI.4 is open.*
 - [ ] A rule for when the floor and the ceiling conflict? ([living charter](research/living-charter.md))
 - [ ] Define "votes": how blanks count, the base, and any spread across regions. ([living charter](research/living-charter.md))
 

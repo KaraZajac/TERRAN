@@ -1,6 +1,6 @@
 # A modern Terran government
 
-*Proposal for the next draft of Parts IV, VII–X and XII · drafted by Claude from the second research round, 11 October 2026, revised after adversarial review · nothing here changes the Charter until Kara adopts it*
+*Proposal for the next draft of Parts IV, VII–X and XII · drafted by Claude from the second research round, 11 October 2026, revised after adversarial review · **adopted into the [second working draft](../CHARTER.md) on 12 October 2026, with its recommended defaults and the further choices listed in the [changelog](../CHANGELOG.md)**; clause numbers in the Charter differ from the draft wording below*
 
 **The proposal:** replace "every terran votes on every question" with a division of labour.
 

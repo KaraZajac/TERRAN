@@ -10,7 +10,7 @@ The Charter sets out the founding principles of Terran Humanism:
 
 The Terran Commonwealth it describes grows by choice and in stages, never by force.
 
-**Read it:** [CHARTER.md](CHARTER.md), the working draft of 10 October 2026, by Kara Zajac.
+**Read it:** [CHARTER.md](CHARTER.md), the second working draft of 12 October 2026, by Kara Zajac. What changed from the first draft is in [CHANGELOG.md](CHANGELOG.md).
 
 ## What's here
 
@@ -28,7 +28,7 @@ The Terran Commonwealth it describes grows by choice and in stages, never by for
 
 ## Working on it
 
-- **Change the Charter** by editing CHARTER.md, then add a line to CHANGELOG.md saying what changed and why. Part VII.5 asks for amendments to be recorded on an open, tamper-evident ledger; until the Commonwealth has one, this repository's history serves.
+- **Change the Charter** by editing CHARTER.md, then add a line to CHANGELOG.md saying what changed and why. Part VII.5 asks for amendments to be recorded on an open, tamper-evident log; until the Commonwealth has one, this repository's history serves.
 - **Add a source** to the matching file in `sources/` and cite it in a note by its id in square brackets. Then run `make sources` to validate the records and regenerate SOURCES.md. The record format is in [sources/README.md](sources/README.md).
 - **Mind who checked what.** Every source record says who checked it and when. The first pass, on 10 October 2026, was machine-performed by Claude; none of it is Kara's own verification.
 
