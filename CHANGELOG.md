@@ -4,7 +4,7 @@ The Charter's draft history, newest first. Each entry says what changed and why.
 
 ## Public domain dedication — 11 October 2026
 
-The Charter is dedicated to the public domain under CC0 1.0, so anyone may copy, translate, adapt, adopt or enact it without permission or credit. That matches the Preamble: the Charter "belongs to no government". A dedication notice now closes CHARTER.md; the Charter's wording is unchanged. CC0 waives copyright, not trademark, so the names "Terran Charter", "Terran Humanism" and "Terran Commonwealth" fall outside the dedication. See [RIGHTS.md](RIGHTS.md).
+The Charter is dedicated to the public domain under CC0 1.0, so anyone may copy, translate, adapt, adopt or enact it without permission or credit. That matches the Preamble: the Charter "belongs to no government". A dedication notice now closes CHARTER.md; the Charter's wording is unchanged. CC0 waives copyright, not trademark, so the names "Terran Charter", "Terran Humanism" and "Terran Commonwealth" fall outside the dedication. The rest of the repository followed the same day: the research, the reasoning, the source records and the tools are CC0 too. See [RIGHTS.md](RIGHTS.md).
 
 ## Working draft — 10 October 2026
 

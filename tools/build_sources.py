@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: CC0-1.0
 """Validate the source records in sources/*.yaml and generate SOURCES.md.
 
     python3 tools/build_sources.py           validate, then write SOURCES.md
