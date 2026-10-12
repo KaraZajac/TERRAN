@@ -4,7 +4,7 @@
 
 The draft's five open questions now have evidence and options behind them. The research also turned up a short list of fixes and credits, where the text contradicts itself, its sources, or the precedents it credits. And it raised about seventy narrower questions, listed by Part.
 
-The research notes hold the evidence; this file holds the decisions. For the strains that cut across Parts, start with [thoughts/pressure-points.md](thoughts/pressure-points.md).
+The research notes hold the evidence; this file holds the decisions. For the strains that cut across Parts, start with [thoughts/pressure-points.md](thoughts/pressure-points.md). For how the Commonwealth decides, acts and checks itself (Parts IV, VII–X and XII), [proposals/modern-terran-government.md](proposals/modern-terran-government.md) answers many of the questions below as one design.
 
 ## Fixes and credits
 

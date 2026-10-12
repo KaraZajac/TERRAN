@@ -18,8 +18,9 @@ The Terran Commonwealth it describes grows by choice and in stages, never by for
 | --- | --- |
 | [CHARTER.md](CHARTER.md) | The Charter itself: the living text. |
 | [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) | Questions for the next draft, and what the research says about each. |
+| [proposals/](proposals/README.md) | Worked designs for the next draft, starting with a modern, efficient Terran government. |
 | [thoughts/](thoughts/README.md) | The reasoning: how the research became clauses, how the draft is built, and where it's under strain. |
-| [research/](research/README.md) | The drafting session's research, checks on its sources, and a research note for every Part. |
+| [research/](research/README.md) | The drafting session's research, checks on its sources, a research note for every Part, and a second round on how to govern a planet. |
 | [SOURCES.md](SOURCES.md) | Every source cited, with what it supports and how it was checked. Generated. |
 | [sources/](sources/README.md) | The source records behind SOURCES.md, one YAML file per research note. |
 | [CHANGELOG.md](CHANGELOG.md) | The Charter's draft history. |

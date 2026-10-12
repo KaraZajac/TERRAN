@@ -6,7 +6,7 @@ The evidence behind the Charter, Part by Part.
 
 [drafting-session-2026-10-09.md](drafting-session-2026-10-09.md) is the research the working draft was written from, kept verbatim. It covers pay ratios, wealth taxes and hard caps, organizations' political rights, digital ID and online-voting security, global enforcement, and guardians for the future. [drafting-session-checks.md](drafting-session-checks.md) checks each of its links against the claim the link supports. [../thoughts/research-to-charter.md](../thoughts/research-to-charter.md) traces its recommendations into the Charter.
 
-## Research notes
+## Round one: the Charter, Part by Part
 
 These are a first pass, made on 10 October 2026, one note per area of the Charter. Each note covers:
 
@@ -31,9 +31,23 @@ Each note's sources are in the matching file in [sources/](../sources/README.md)
 | [living-charter.md](living-charter.md) | XI | Unamendable clauses, amendment rules compared, generational review, reading by spirit, and exit and secession |
 | [money.md](money.md) | IV, open questions | Supranational money, alternatives to one currency, and indexing a planet-wide limit to prices |
 
+## Round two: an efficient Terran government
+
+Made on 11 October 2026 from Kara's brief: an efficient form of Terran-wide government. Every terran voting on every question is ruled out, and the brief asks for something more modern than the 18th-century template. Each note ends in design patterns and options; three also add a design sketch. The proposal built from them is [../proposals/modern-terran-government.md](../proposals/modern-terran-government.md).
+
+| Note | Covers |
+| --- | --- |
+| [scale-and-federalism.md](scale-and-federalism.md) | How governing scales; how many decisions a large polity makes; what universal voting would cost in attention; a minimum planetary core |
+| [polycentric-governance.md](polycentric-governance.md) | Ostrom's polycentricity; functional and personal (non-territorial) jurisdictions; bottom-up confederations; the Montreal Protocol, the IETF and ICANN as planetary precedents |
+| [sortition-at-scale.md](sortition-at-scale.md) | Legislatures by lot: designs, permanent allotted bodies in practice, selection statistics, capture, costs and throughput |
+| [executive-and-administration.md](executive-and-administration.md) | Collegial executives, merit-based civil services, independent agencies, digital government at scale, and the cost of a thin planetary core |
+| [decision-mechanisms.md](decision-mechanisms.md) | What can replace the universal vote, job by job: direct votes, delegation, quadratic voting, deliberative polls, AI mediation, participatory budgets, prediction markets |
+| [failure-modes.md](failure-modes.md) | A threat model: emergencies, backsliding, capture, new attack surfaces in modern designs, the no-exit risk, and the safeguards to keep |
+| [modern-governance.md](modern-governance.md) | How open-source communities govern themselves, experimental policy, rules as code, feedback-driven government, participation platforms |
+
 ## How the research was done
 
-The research was split into eleven strands, one per note, run in parallel. A twelfth pass checked the drafting session's research, and a review pass re-checked the claims the synthesis files lean on. As of 10 October 2026 the pass had produced 716 sources after merging duplicates: 488 primary, 201 secondary and 27 tertiary, of which 595 are verified, 112 partial and 9 unverified ([SOURCES.md](../SOURCES.md) has the live counts). Every strand worked to the same rules:
+Round one was split into eleven strands, one per note, run in parallel. A twelfth pass checked the drafting session's research, and a review pass re-checked the claims the synthesis files lean on. Round two added seven strands. As of 11 October 2026 the two rounds had produced 1,155 sources after merging duplicates: 830 primary, 287 secondary and 38 tertiary, of which 948 are verified, 195 partial and 12 unverified ([SOURCES.md](../SOURCES.md) has the live counts). Every strand worked to the same rules:
 
 - **Opened, not searched.** Claims rest only on pages that were opened and read; search snippets don't count. A source that mattered but couldn't be opened is cited only to say so, and is marked unverified.
 - **Primary first.** Strands preferred the statute, treaty, ruling, original paper or official statistics, and used scholarship and journalism for evaluation.
