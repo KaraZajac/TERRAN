@@ -1,0 +1,1134 @@
+- id: "debian/1998_constitution"
+  title: "Constitution for the Debian Project (v1.9)"
+  publisher: "Debian Project"
+  date: "2022-03-26"
+  url: "https://www.debian.org/devel/constitution"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Decision bodies; Leader elected for one year; Technical Committee of up to 8, with yearly expiry for up to two most-senior members past 42 months; developers override the Leader by majority, the Committee by 2:1 and amend by 3:1; 2K sponsors put a decision on hold; K = min(5, Q), Q = half the square root of developers; Condorcet/Schwartz counting; versions 1.0 (1998) to 1.9 (2022)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full page read: version history at the top, sections 4.1-4.2, 5.2, 6.2 and A.5."
+
+- id: "debian/2026_vote-index"
+  title: "Debian Voting Information (vote index)"
+  publisher: "Debian Project"
+  date: "2026"
+  url: "https://www.debian.org/vote/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The index's Decided list holds 33 general resolutions or constitutional amendments (2003-2026) and 28 leader elections (1999-2026)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Counted the Decided list on the index page; the counts are my tally."
+
+- id: "debian/2026_dpl-election"
+  title: "Debian Project Leader Elections 2026"
+  publisher: "Debian Project"
+  date: "2026-04"
+  url: "https://www.debian.org/vote/2026/vote_001"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "1,039 voting developers; one candidate, ranked above None of the Above by 289 and below by 50 (339 used for an estimate of about 33% turnout); secret ballot with a per-voter HMAC so voters can find their vote in the tally."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Quorum, beat matrix and Data and Statistics sections of the results page."
+
+- id: "debian/2026_gr-llm-usage"
+  title: "General Resolution: LLM usage in Debian"
+  publisher: "Debian Project"
+  date: "2026-08"
+  url: "https://www.debian.org/vote/2026/vote_002"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "1,045 voting developers; voting 15-28 August 2026 on eight options plus None of the Above; 'Responsible Use of Generative AI' beat every other option pairwise."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Time line, quorum section, beat matrix and pairwise-defeats list."
+
+- id: "debian/2006_gr-recall-leader"
+  title: "General Resolution: Recall the project leader"
+  publisher: "Debian Project"
+  date: "2006"
+  url: "https://www.debian.org/vote/2006/vote_005"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A recall of the Project Leader failed, 48 votes to 277 for Further Discussion, with 1,000 developers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Quorum, majority and beat-matrix sections."
+
+- id: "debian/2014_tc-init-decision"
+  title: "Bug#727708: call for votes on default Linux init system for jessie"
+  authors: ["Bdale Garbee"]
+  publisher: "debian-ctte mailing list"
+  date: "2014-02-11"
+  url: "https://lists.debian.org/debian-ctte/2014/02/msg00405.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The Technical Committee vote left two undefeated options (Schwartz set D and U); the chair used his casting vote to make systemd the default."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "lists.debian.org served a bot challenge; read the Wayback snapshot of 10 April 2021. Claim in the message body."
+
+- id: "debian/2014_gr-tc-term-limits"
+  title: "General Resolution: Limiting the term of the technical committee members"
+  publisher: "Debian Project"
+  date: "2015-01"
+  url: "https://www.debian.org/vote/2014/vote_004"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Both proposals created regular Technical Committee turnover with a term limit of about four years; Option 1 won with 3:1 majorities among 1,026 developers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Summary, majority requirement and outcome sections; voting ran into 8 January 2015."
+
+- id: "python/2018_pep-13"
+  title: "PEP 13 – Python Language Governance"
+  publisher: "Python Software Foundation"
+  date: "2018-12-16"
+  url: "https://peps.python.org/pep-0013/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Five-member Steering Council elected after each feature release, no term limits; authority exercised as rarely as possible; at most 2 members per employer; no-confidence by two-thirds of voters; Guido stepped down as BDFL in July 2018; first council January 2019; amendments 2019, 2024 and 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Abstract, Specification and History sections as shown on 2026-10-11."
+
+- id: "python/2025_pep-8107"
+  title: "PEP 8107 – 2026 Term Steering Council election"
+  authors: ["Ee Durbin"]
+  publisher: "Python Software Foundation"
+  date: "2025-12"
+  url: "https://peps.python.org/pep-8107/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Of 106 eligible voters, 74 cast ballots; first council election under Multi-winner Bloc STAR voting."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Election Implementation and Results sections."
+
+- id: "van-rossum/2018_transfer-of-power"
+  title: "[python-committers] Transfer of power"
+  authors: ["Guido van Rossum"]
+  publisher: "python-committers mailing list"
+  date: "2018-07-12"
+  url: "https://mail.python.org/pipermail/python-committers/2018-July/005664.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Guido stepped back after the hard fight over PEP 572 and declined to appoint a successor."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full message read; quote in the second paragraph."
+
+- id: "rust/2026_rfc-process"
+  title: "Rust RFCs (README: the RFC process)"
+  publisher: "The Rust Project"
+  date: "2026"
+  url: "https://github.com/rust-lang/rfcs"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Only substantial changes need an RFC; other changes use normal pull requests; the final comment period lasts ten calendar days and is advertised widely."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the README from raw.githubusercontent.com (master branch); opening section and RFC life-cycle."
+
+- id: "rust/2021_mod-team-resignation"
+  title: "mod team resignation (rust-lang/team pull request 671)"
+  publisher: "The Rust Project (GitHub)"
+  date: "2021-11-22"
+  url: "https://github.com/rust-lang/team/pull/671"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The entire moderation team resigned in protest at a Core Team unaccountable to anyone but themselves, and urged oversight of the Core Team."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Pull request description, merged 22 November 2021."
+
+- id: "rust/2023_rustconf-keynote"
+  title: "On the RustConf keynote"
+  publisher: "Rust Blog"
+  date: "2023-05-29"
+  url: "https://blog.rust-lang.org/2023/05/29/RustConf/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XII"]
+  supports: "The interim leadership chat, formed after the 2021 resignation, lacked clear rules and processes; it demoted a keynote; the new council was to launch as soon as possible."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full post read; the .html URL redirects here."
+
+- id: "rust/2023_rfc-3392-leadership-council"
+  title: "RFC 3392: Leadership Council"
+  publisher: "The Rust Project"
+  date: "2023-06"
+  url: "https://rust-lang.github.io/rfcs/3392-leadership-council.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Council of top-level team representatives; consent decisions (do you object?) with N-2 sign-offs, no objection and 10 days; an evaluation date for every policy; one-year terms ending March or September, soft limit of three; affiliation caps; teams may change representatives; no unassigned work; old core team model had not scaled and led to burnout; hundreds of people."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Motivation, duties, term limits, single-company limits, consent process, approval criteria and feedback sections."
+
+- id: "rust/2023_introducing-leadership-council"
+  title: "Introducing the Rust Leadership Council"
+  publisher: "Rust Blog"
+  date: "2023-06-20"
+  url: "https://blog.rust-lang.org/2023/06/20/introducing-leadership-council/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "RFC 3392 merged on 20 June 2023; the Council ends the Core Team and Leadership Chat; nine top-level teams each chose a representative."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full post read."
+
+- id: "asf/2026_how-it-works"
+  title: "How the ASF works"
+  publisher: "The Apache Software Foundation"
+  date: "2026"
+  url: "https://www.apache.org/foundation/how-it-works/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Formed 1999; meritocracy; project committees hold technical authority; board of nine elected every year by and from members; the board can terminate a PMC."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Meritocracy, Foundation structure, Board of Directors and PMC sections."
+
+- id: "asf/2026_voting-process"
+  title: "Apache Voting Process"
+  publisher: "The Apache Software Foundation"
+  date: "2026"
+  url: "https://www.apache.org/foundation/voting.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Procedural votes by majority; code changes by consensus, with vetoes valid only with a technical justification; releases by majority with three binding +1 votes; lazy consensus as silence gives assent."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Opening section, Vetoes and Gauging consensus through silence."
+
+- id: "asf/2026_homepage"
+  title: "Welcome to The Apache Software Foundation"
+  publisher: "The Apache Software Foundation"
+  date: "2026"
+  url: "https://www.apache.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "290+ open-source projects, 1,300+ releases, 10,100+ committers and 1,190+ members, as shown on 2026-10-11."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Our Impact counters on the home page."
+
+- id: "asf/2026_attic"
+  title: "The Apache Attic"
+  publisher: "The Apache Software Foundation"
+  date: "2026"
+  url: "https://attic.apache.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Created in November 2008 to make clear when a project has reached end of life; lists about 105 retired projects (my count of project links)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page description and Retired Projects list; count is my tally of /projects/ links."
+
+- id: "csrb/2022_log4j-review"
+  title: "Review of the December 2021 Log4j Event"
+  publisher: "Cyber Safety Review Board (US Department of Homeland Security)"
+  date: "2022-07-11"
+  url: "https://www.cisa.gov/sites/default/files/publications/CSRB-Report-on-Log4-July-11-2022_508.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Log4j maintained by a group of volunteers under the ASF; an endemic vulnerability; security risks unique to the thinly-resourced, volunteer-based open source community."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Executive summary and Section 1 of the PDF."
+
+- id: "wikipedia/2026_consensus-policy"
+  title: "Wikipedia:Consensus"
+  publisher: "English Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Wikipedia:Consensus"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Consensus is Wikipedia's fundamental method of decision-making; it needs no unanimity and is not the result of a vote; it is judged by the quality of arguments, not a counted majority."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Policy lead and Consensus-building section."
+
+- id: "wikipedia/2026_arbitration-committee"
+  title: "Wikipedia:Arbitration Committee"
+  publisher: "English Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Wikipedia:Arbitration_Committee"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "The Committee imposes binding solutions, primarily for serious conduct disputes the community could not resolve; arbitrators are elected by the editor community."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page lead."
+
+- id: "wikipedia/2025_arbcom-election"
+  title: "Wikipedia:Arbitration Committee Elections December 2025"
+  publisher: "English Wikipedia"
+  date: "2025-12"
+  url: "https://en.wikipedia.org/wiki/Wikipedia:Arbitration_Committee_Elections_December_2025"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "1,840 voters, 139 superseded re-votes; nine vacant seats plus six continuing arbitrators; 60% support for two-year and 50% for one-year terms; scrutineers are stewards from other wikis; voters need 150 mainspace edits."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Election timeline, Results and Vacant seats sections."
+
+- id: "wikimedia/2026_active-editors-api"
+  title: "Wikimedia Analytics API: editors by activity level, English Wikipedia (registered users, content pages)"
+  publisher: "Wikimedia Foundation"
+  date: "2026-10"
+  url: "https://wikimedia.org/api/rest_v1/metrics/editors/aggregate/en.wikipedia.org/user/content/5..24-edits/monthly/20010101/20261001"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "Registered non-bot editors with five or more content edits a month: 53,095 in March 2007 (peak) and 28,773 in September 2026; the 46% fall is my calculation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Queried the 5..24, 25..99 and 100.. activity-level endpoints and summed them by month."
+
+- id: "halfaker/2013_rise-and-decline"
+  title: "The Rise and Decline of an Open Collaboration System: How Wikipedia's reaction to popularity is causing its decline"
+  authors: ["Aaron Halfaker", "R. Stuart Geiger", "Jonathan T. Morgan", "John Riedl"]
+  publisher: "American Behavioral Scientist"
+  date: "2013"
+  url: "https://doi.org/10.1177/0002764212469365"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Rejection of contributions and algorithmic quality-control tools drove falling newcomer retention; norm-making calcified against changes, especially from newer editors."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the authors' preprint (www-users.cs.umn.edu/~halfak) via a Wayback snapshot of 4 February 2017; abstract and introduction."
+
+- id: "shaw-hill/2014_laboratories-of-oligarchy"
+  title: "Laboratories of Oligarchy? How the Iron Law Extends to Peer Production"
+  authors: ["Aaron Shaw", "Benjamin Mako Hill"]
+  publisher: "Journal of Communication (arXiv preprint)"
+  date: "2014"
+  url: "https://arxiv.org/abs/1407.0323"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Data from 683 wikis support Michels' iron law: oligarchy increases as peer-production communities grow."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "arXiv abstract only."
+
+- id: "wikimedia/2022_ucoc-vote-results"
+  title: "Universal Code of Conduct/Enforcement guidelines/Voting/Results"
+  publisher: "Wikimedia Meta-Wiki"
+  date: "2022-03"
+  url: "https://meta.wikimedia.org/wiki/Universal_Code_of_Conduct/Enforcement_guidelines/Voting/Results"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "2,283 votes counted, 1,338 (58.6%) in favour; English Wikipedia 866 of 22,862 eligible (3.788%); 2,352 cumulative voters; overall turnout about 3.5% is my estimate from the turnout table."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Results, Next steps and Turnout by wiki sections."
+
+- id: "sabel-zeitlin/2012_experimentalist-governance"
+  title: "Experimentalist Governance"
+  authors: ["Charles F. Sabel", "Jonathan Zeitlin"]
+  publisher: "The Oxford Handbook of Governance (Oxford University Press)"
+  date: "2012"
+  url: "https://scholarship.law.columbia.edu/faculty_scholarship/4355"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "XI", "XII"]
+  supports: "Experimentalism as a recursive process of provisional goals and revision; four-element cycle; the Water Framework Directive as illustration; suited to transnational domains with no overarching sovereign."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full chapter PDF from the Columbia repository; abstract and printed pp. 169-171."
+
+- id: "eea/2024_europes-state-of-water"
+  title: "Europe's state of water 2024: the need for improved water resilience"
+  publisher: "European Environment Agency"
+  date: "2024"
+  url: "https://www.eea.europa.eu/en/analysis/publications/europes-state-of-water-2024"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "The Water Framework Directive's 2015 good-status deadline was missed, with little improvement since 2010; in 2021, 37% of surface waters had good or high ecological status and 29% good chemical status."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Status of water section of the publication page."
+
+- id: "ec/2010_lisbon-strategy-evaluation"
+  title: "Lisbon Strategy evaluation document, SEC(2010) 114 final"
+  publisher: "European Commission"
+  date: "2010-02-02"
+  url: "https://ec.europa.eu/archives/growthandjobs_2009/pdf/lisbon_strategy_evaluation_en.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Main targets missed: employment 66% in 2008 against 70%; R&D 1.82% of GDP (2000) to 1.9% (2008) against 3%; most Member States used OMCs as a reporting device rather than for policy development."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Main findings and governance annex of the PDF."
+
+- id: "stm/2020_basic-income-results"
+  title: "Results of the basic income experiment: small employment effects, better perceived economic security and mental wellbeing"
+  publisher: "Ministry of Social Affairs and Health and Kela (Finland)"
+  date: "2020-05-06"
+  url: "https://stm.fi/en/-/perustulokokeilun-tulokset-tyollisyysvaikutukset-vahaisia-toimeentulo-ja-psyykkinen-terveys-koettiin-paremmaksi"
+  tier: "primary"
+  kind: "web"
+  parts: ["IV", "VI", "XII"]
+  supports: "2,000 unemployed people paid EUR 560 a month tax-free, 2017-2018; no first-year employment effect; 6 more days of work in November 2017-October 2018 (78 on average); better wellbeing and trust, not attributable with certainty; the 2018 activation model confounds year two."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live page returned 403; read the Wayback snapshot of 27 November 2021, full press release."
+
+- id: "finland-toolbox/2020_basic-income-experiment"
+  title: "Finland's Basic Income Experiment 2017–2018"
+  publisher: "Toolbox Finland"
+  date: "2020"
+  url: "https://toolbox.finland.fi/wp-content/uploads/sites/2/2018/04/basic_income_experiment_2017-2018_results_2020.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VI", "XII"]
+  supports: "The experiment was designed so that no participant would suffer negative financial consequences; participants were drawn at random from November 2016 benefit recipients."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Set-up of the experiment section of the PDF."
+
+- id: "uk-gov/2013_what-works-network"
+  title: "What Works Network"
+  publisher: "Evaluation Task Force (UK Government)"
+  date: "2024-03-06"
+  url: "https://www.gov.uk/guidance/what-works-network"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "XII"]
+  supports: "First published 28 June 2013; 9 independent What Works Centres and 3 affiliates covering policy areas with more than £250 billion of public spending."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page body and update history; last updated 6 March 2024."
+
+- id: "nao/2021_evaluating-government-spending"
+  title: "Evaluating government spending (summary)"
+  publisher: "National Audit Office (UK)"
+  date: "2021-12-02"
+  url: "https://www.nao.org.uk/wp-content/uploads/2021/12/Evaluating-government-spending-Summary.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Of 108 projects in the Government Major Projects Portfolio, nine (8% of £432 billion) were robustly evaluated and 77 (64% of spend) had no evaluation arrangements, per 2019 data."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Key facts page and summary text of the PDF."
+
+- id: "fca/2017_sandbox-lessons-learned"
+  title: "Regulatory sandbox lessons learned report"
+  publisher: "Financial Conduct Authority (UK)"
+  date: "2017-10"
+  url: "https://www.fca.org.uk/publication/research-and-data/regulatory-sandbox-lessons-learned-report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["XII"]
+  supports: "Sandbox opened for applications in June 2016; 146 applications in the first two cohorts, 50 accepted, 41 tested; around 90% of first-cohort firms completing tests continuing toward market; at least 40% received investment."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "FCA returned 403; read the Wayback snapshot of 20 December 2020; paragraphs 2.1-2.16 and 3.1."
+
+- id: "worldbank/2020_regulatory-sandboxes"
+  title: "Global Experiences from Regulatory Sandboxes"
+  publisher: "World Bank"
+  date: "2020-11"
+  url: "https://documents1.worldbank.org/curated/en/912001605241080935/pdf/Global-Experiences-from-Regulatory-Sandboxes.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["XII"]
+  supports: "73 fintech sandboxes in 57 countries, about 70% in emerging and developing economies; testing periods of two weeks to two years; some drew few applicants; too early to draw definitive conclusions on efficiency."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Executive summary and section 3 of the PDF."
+
+- id: "texas-sunset/2026_about"
+  title: "About Us (Texas Sunset Advisory Commission)"
+  publisher: "Texas Sunset Advisory Commission"
+  date: "2026"
+  url: "https://www.sunset.texas.gov/about-us"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX", "XI"]
+  supports: "Agencies under review are abolished unless continued by law; since 1977, 95 abolished (42 completely, 53 with functions transferred); about $1 billion of savings 1985-2023 and $16 per $1 spent, from fiscal-note estimates."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page body."
+
+- id: "wegrich/2005_sunset-review-clauses"
+  title: "Effectiveness of sunset legislation and review clauses"
+  authors: ["Kai Wegrich", "Miriam Shergold", "Christian van Stolk", "Werner Jann"]
+  publisher: "Bertelsmann Stiftung (study by RAND Europe)"
+  date: "2005-10"
+  url: "https://bertelsmann-stiftung.de/fileadmin/files/BSt/Presse/imported/downloads/xcms_bst_dms_16216_16217_2.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII", "XI"]
+  supports: "A substantial lack of empirical evidence on termination and review clauses; limited effects on regulatory burdens; sunsets primarily activate anti-termination coalitions; comprehensive sunset regimes only in US states."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "English summary: Background and Results sections."
+
+- id: "bar-siman-tov/2018_temporary-legislation"
+  title: "Temporary legislation, better regulation, and experimentalist governance: An empirical study"
+  authors: ["Ittai Bar-Siman-Tov"]
+  publisher: "Regulation & Governance"
+  date: "2018-06"
+  url: "https://ideas.repec.org/a/wly/reggov/v12y2018i2p192-219.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "There is still a dearth of empirical studies of how temporary (sunset) legislation is used in practice."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "RePEc abstract page only."
+
+- id: "underhill-ayres/2022_sunsets-are-for-suckers"
+  title: "Sunsets Are for Suckers: An Experimental Test of Sunset Clauses"
+  authors: ["Kristen Underhill", "Ian Ayres"]
+  publisher: "Harvard Journal on Legislation"
+  date: "2022"
+  url: "https://journals.law.harvard.edu/jol/wp-content/uploads/sites/86/2022/03/103_Underhill_Ayres.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["XI"]
+  supports: "Randomised experiment with 1,639 US adults: sunset clauses did not increase overall support for laws; support rose only for conservative laws."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Abstract and participants section of the PDF."
+
+- id: "uk/2020_coronavirus-act"
+  title: "Coronavirus Act 2020, sections 89 (Expiry) and 98 (Six-month parliamentary review), as enacted"
+  publisher: "UK Parliament (legislation.gov.uk)"
+  date: "2020-03-25"
+  url: "https://www.legislation.gov.uk/ukpga/2020/7/section/98/enacted"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "The Act expires two years after passing, with listed exceptions (s.89); if the Commons rejects the six-monthly motion, the temporary provisions must end within 21 days (s.98)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "legislation.gov.uk served an empty bot-check page; read Wayback snapshots of s.89 (15 December 2021) and s.98 (5 March 2022)."
+
+- id: "oecd/2020_cracking-the-code"
+  title: "Cracking the Code: Rulemaking for humans and machines (OECD Working Papers on Public Governance No. 42)"
+  authors: ["James Mohun", "Alex Roberts"]
+  publisher: "OECD Observatory of Public Sector Innovation"
+  date: "2020-10-12"
+  url: "https://oecd-opsi.org/publications/cracking-the-code/"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "IV", "VII"]
+  supports: "Rules as Code defined as official machine-consumable rules; proposed principles; proponents limit it to prescriptive rules such as eligibility and tax and benefit calculations; risk of locking in interpretations; unclear if any initiative integrated citizen feedback."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full working paper PDF linked from the OPSI page (oecd-opsi.org/wp-content/uploads/2022/03/rac-wp.pdf)."
+
+- id: "nz-dia/2018_better-rules-discovery"
+  title: "Better Rules for Government Discovery Report"
+  publisher: "Digital.govt.nz (New Zealand Government)"
+  date: "2018"
+  url: "https://www.digital.govt.nz/dmsdocument/95-better-rules-for-government-discovery-report/html"
+  tier: "primary"
+  kind: "report"
+  parts: ["IV", "VII"]
+  supports: "Three-week cross-agency sprint from late January 2018 with a legislative drafter, policy analysts and a developer; the Holidays Act's undefined 'week'; not all rules are suitable for machine consumption."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Summary, Approach, Holidays Act and Recommendations sections of the HTML report."
+
+- id: "merigoux/2021_mlang"
+  title: "A Modern Compiler for the French Tax Code"
+  authors: ["Denis Merigoux", "Raphaël Monat", "Jonathan Protzenko"]
+  publisher: "arXiv (Compiler Construction 2021)"
+  date: "2021-01"
+  url: "https://arxiv.org/abs/2011.07966"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV"]
+  supports: "French income tax is computed with a custom language and compiler from 1990; Mlang was reverse-engineered and validated against the tax office's test suite; the DGFiP is officially transitioning to it."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "arXiv abstract only (version 3, 25 January 2021)."
+
+- id: "merigoux/2021_catala"
+  title: "Catala: A Programming Language for the Law"
+  authors: ["Denis Merigoux", "Nicolas Chataing", "Jonathan Protzenko"]
+  publisher: "arXiv (ICFP 2021)"
+  date: "2021-07"
+  url: "https://arxiv.org/abs/2103.03198"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IV"]
+  supports: "Catala translates statutes into executable code; evaluating US tax section 121 and French family benefits uncovered a bug in the official implementation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "arXiv abstract only."
+
+- id: "goutagny/2024_cutecat"
+  title: "CUTECat: Concolic Execution for Computational Law"
+  authors: ["Pierre Goutagny", "Aymeric Fromherz", "Raphaël Monat"]
+  publisher: "arXiv"
+  date: "2024-10"
+  url: "https://arxiv.org/pdf/2410.18212"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IV"]
+  supports: "A housing-benefit conflict for roommates sharing a bedroom; administrations were queried, the case was deemed unlikely, and no legal interpretation was provided."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF; section 5.2."
+
+- id: "tauberer/2018_github-pull-request"
+  title: "How I changed the law with a GitHub pull request"
+  authors: ["Joshua Tauberer"]
+  publisher: "Ars Technica"
+  date: "2018-11-25"
+  url: "https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "XI"]
+  supports: "DC's GitHub repository is an authoritative source feeding the official code website; a typo fixed by pull request; pull requests will not replace hearings, negotiation or votes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full article."
+
+- id: "dccouncil/2026_law-xml"
+  title: "DCCouncil/law-xml: DC Law - statutes and code - in XML format"
+  publisher: "Council of the District of Columbia (GitHub)"
+  date: "2026-10-10"
+  url: "https://github.com/DCCouncil/law-xml"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "XI"]
+  supports: "DC statutes and code kept in a public XML repository; latest commit on 10 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Repository page, README and the GitHub API commits endpoint."
+
+- id: "robodebt-rc/2023_report"
+  title: "Report of the Royal Commission into the Robodebt Scheme"
+  publisher: "Royal Commission into the Robodebt Scheme (Australia)"
+  date: "2023-07-07"
+  url: "https://robodebt.royalcommission.gov.au/publications/report"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "IV", "VII", "IX"]
+  supports: "The scheme began in 2015 and relied on income averaging, neither accurate nor lawful, until November 2019; $746 million refunded to some 381,000 people and $1.751 billion written off; 'a crude and cruel mechanism, neither fair nor legal'; unpublished tribunal decisions were easier to ignore; recommendations 17.1 (review path, plain-language explanation, business rules and algorithms open to expert scrutiny) and 17.2 (an audit body for automated decisions)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the recommendations list on the report page (chapter 17) and Volume 1 (robodebt_report_volume_1.pdf), preface and overview. Id shared with the executive-and-administration and failure-modes strands."
+
+- id: "feichtinger/2023_hidden-shortcomings-daos"
+  title: "The Hidden Shortcomings of (D)AOs: An Empirical Study of On-Chain Governance"
+  authors: ["Rainer Feichtinger", "Robin Fritsch", "Yann Vonlanthen", "Roger Wattenhofer"]
+  publisher: "arXiv"
+  date: "2023-02"
+  url: "https://arxiv.org/abs/2302.12125"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "In 17 of 21 DAO governance systems studied, fewer than 10 participants controlled a majority of voting power (31 January 2023); hidden costs reach millions of dollars."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Abstract page and full PDF (version 2), introduction and section 4."
+
+- id: "schwaninger-scheef/2016_test-of-vsm"
+  title: "A Test of the Viable System Model: Theoretical Claim vs. Empirical Evidence"
+  authors: ["Markus Schwaninger", "Christine Scheef"]
+  publisher: "Cybernetics and Systems"
+  date: "2016-08-12"
+  url: "https://alexandria.unisg.ch/server/api/core/bitstreams/47da4789-4257-4c74-ad5a-9185fe54afc4/content"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "The VSM claims to specify necessary and sufficient conditions of viability; recursion of autonomous units; System 3* audit channel; prior evidence mostly case studies; 261 usable questionnaires from one business congress; the sample is not perfect."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full text from the University of St. Gallen repository; abstract, model description, sample and limitations sections."
+
+- id: "medina/2011_cybernetic-revolutionaries"
+  title: "Cybernetic Revolutionaries: Technology and Politics in Allende's Chile"
+  authors: ["Eden Medina"]
+  publisher: "MIT Press"
+  date: "2011"
+  url: "https://mitpress.mit.edu/9780262525961/cybernetic-revolutionaries/"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VII"]
+  supports: "Project Cybersyn was never completely implemented; it envisaged decentralized management, a national telex network and near real-time control; the history shows the limitations of the Chilean revolution."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher's description of the 2014 paperback; the book itself was not read."
+
+- id: "medina/2006_designing-freedom"
+  title: "Designing Freedom, Regulating a Nation: Socialist Cybernetics in Allende's Chile"
+  authors: ["Eden Medina"]
+  publisher: "Journal of Latin American Studies"
+  date: "2006-07-19"
+  url: "https://doi.org/10.1017/S0022216X06001179"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Cybersyn was developed under Allende (1970-1973) with Stafford Beer; it built a network for rapid economic data between government and factories; its structure reflected the government's socialist ideology."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Cambridge Core abstract only."
+
+- id: "morozov/2014_planning-machine"
+  title: "The Planning Machine"
+  authors: ["Evgeny Morozov"]
+  publisher: "The New Yorker"
+  date: "2014-10-13"
+  url: "https://www.newyorker.com/magazine/2014/10/13/planning-machine"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "A central computer analysed telex reports from state factories; screens were drawn by hand; analysis was only as good as the formal model; the telex network coordinated fuel during the October 1972 truckers' strike."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full article text."
+
+- id: "atlanta-fed/2026_gdpnow"
+  title: "GDPNow"
+  publisher: "Federal Reserve Bank of Atlanta"
+  date: "2026-10-08"
+  url: "https://www.atlantafed.org/cqer/research/gdpnow"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "Average absolute error of final GDPNow forecasts 0.77 percentage points and RMSE 1.17 (2011:Q3-2025:Q2); no compelling evidence it beats professional forecasters; not an official forecast."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Redirects to atlantafed.org/research-and-data/data/gdpnow; accuracy section."
+
+- id: "lazer/2014_parable-google-flu"
+  title: "The Parable of Google Flu: Traps in Big Data Analysis"
+  authors: ["David Lazer", "Ryan Kennedy", "Gary King", "Alessandro Vespignani"]
+  publisher: "Science"
+  date: "2014-03-14"
+  url: "https://doi.org/10.1126/science.1248506"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "In February 2013 Google Flu Trends predicted more than double the CDC's proportion of doctor visits for influenza-like illness."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the Semantic Scholar API; the Harvard DASH and CORE copies refused the request."
+
+- id: "phe/2020_delayed-reporting"
+  title: "PHE statement on delayed reporting of COVID-19 cases"
+  publisher: "Public Health England"
+  date: "2020-10-04"
+  url: "https://www.gov.uk/government/news/phe-statement-on-delayed-reporting-of-covid-19-cases"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "A technical issue in the data load process left 15,841 cases from 25 September to 2 October 2020 out of the reported daily figures."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Statement and background information sections."
+
+- id: "nz-treasury/2019_wellbeing-budget"
+  title: "The Wellbeing Budget 2019"
+  publisher: "The Treasury (New Zealand)"
+  date: "2019"
+  url: "https://www.treasury.govt.nz/publications/wellbeing-budget/wellbeing-budget-2019"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "Five Wellbeing Budget priorities; each bid for funding required a wellbeing analysis."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Foreword sections of the HTML budget document."
+
+- id: "pce/2021_wellbeing-budgets-faq"
+  title: "Wellbeing budgets and the environment: A promised land? Frequently asked questions"
+  publisher: "Parliamentary Commissioner for the Environment (New Zealand)"
+  date: "2021"
+  url: "https://pce.parliament.nz/media/aeld4cus/faqs-wellbeing-budgets-and-the-environment-pdf-198kb.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "About 98% of government expenditure carried over in 2019; wellbeing analysis focuses on new spending, a tiny fraction of total expenditure; environmental spending is not known with precision."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Answer to 'How much money are we talking about anyway?' in the PDF."
+
+- id: "mhwc/2024_budget-investment-report"
+  title: "Where did the $1.9 billion Wellbeing Budget go?"
+  publisher: "Te Hiringa Mahara - Mental Health and Wellbeing Commission"
+  date: "2024-08-28"
+  url: "https://www.mhwc.govt.nz/news-and-resources/budget-investment-report/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "92% of the 2019 Wellbeing Budget's $1.96 billion mental-health funding was spent or committed by 30 June 2023; breakdown by new initiatives and cost pressures."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "News release text and key findings."
+
+- id: "nzccss/2025_public-finance-amendment-bill"
+  title: "Public Finance Amendment Bill (submission)"
+  publisher: "New Zealand Council of Christian Social Services"
+  date: "2025-07"
+  url: "https://nzccss.org.nz/submission/public-finance-amendment-bill/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "The 2025 Public Finance Amendment Bill would remove the requirement to report against wellbeing objectives and the wellbeing report from the Public Finance Act 1989."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Advocacy submission; the bill's later status was not verified because legislation.govt.nz blocked the request."
+
+- id: "bevan-hood/2006_whats-measured"
+  title: "What's measured is what matters: targets and gaming in the English public health care system"
+  authors: ["Gwyn Bevan", "Christopher Hood"]
+  publisher: "Public Administration"
+  date: "2006-08"
+  url: "https://doi.org/10.1111/j.1467-9299.2006.00600.x"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VII"]
+  supports: "Governance by targets assumes that a part can stand for the whole and that problems of measurement and gaming do not matter; evidence from English public health care."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex API; the Wiley page blocked the request."
+
+- id: "pik/2026_planetary-health-check"
+  title: "Planetary Health Check 2026: A Scientific Assessment of the State of Our Planet (full report)"
+  publisher: "Potsdam Institute for Climate Impact Research"
+  date: "2026-09-21"
+  url: "https://publications.pik-potsdam.de/rest/items/item_35009_3/component/file_35022/content"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII"]
+  supports: "An annual assessment of 13 control variables across nine boundaries; seven of nine transgressed, all worsening; some datasets updated only through 2023."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the full PDF: About This Report, executive summary, Figure 4 caption and the CO2 dataset note."
+
+- id: "deal/2026_what-is-the-doughnut"
+  title: "What is the Doughnut?"
+  publisher: "Doughnut Economics Action Lab"
+  date: "2026"
+  url: "https://doughnuteconomics.org/doughnut"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "VII"]
+  supports: "The latest quantitative assessment, published in 2025, covers 2000-2022 with 22 social indicators; median shortfall of 35% of people (about 3 billion) in 2022."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Doughnut Data Explorer and Social foundation sections."
+
+- id: "ostrom/2009_beyond-markets-and-states"
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems (Prize Lecture)"
+  authors: ["Elinor Ostrom"]
+  publisher: "Nobel Prize Outreach"
+  date: "2009-12-08"
+  url: "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Design principle 8, nested enterprises: governance activities organised in multiple nested layers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Design-principles list in the Prize Lecture PDF."
+
+- id: "uk-parliament/2026_petitions-help"
+  title: "How petitions work"
+  publisher: "UK Parliament Petitions Committee"
+  date: "2026"
+  url: "https://petition.parliament.uk/help"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Petitions stay open six months; 10,000 signatures earn a government response; 100,000 are considered for debate and usually debated; petitions not meeting the standards are rejected."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "How to create an e-petition and Once your petition has been published sections."
+
+- id: "uk-parliament/2026_archived-petitions-2019-2024"
+  title: "Archived petitions: 2019 to 2024 Parliament"
+  publisher: "UK Parliament Petitions Committee"
+  date: "2026-10"
+  url: "https://petition.parliament.uk/archived/petitions?parliament=4&state=all"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "2019-2024 Parliament: 52,031 petitions, 13,751 published, 38,280 rejected, 1,018 with government responses, 213 debated, 20 not debated."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Counts from each state filter's 'found N petitions' line (all, published, rejected, with_response, debated, not_debated); shares are my calculations."
+
+- id: "leston-bandeira/2019_e-petitions"
+  title: "Parliamentary petitions and public engagement: an empirical analysis of the role of e-petitions"
+  authors: ["Cristina Leston-Bandeira"]
+  publisher: "Policy & Politics"
+  date: "2019-07"
+  url: "https://doi.org/10.1332/030557319X15579230420117"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A large proportion of UK e-petitions are rejected and only a very small number lead to specific action; their main effect is public engagement."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex API."
+
+- id: "bertelsmann/2022_taiwan-join-vtaiwan"
+  title: "Shortcut 8: Trailblazers of digital participation: Taiwan's Join platform and vTaiwan"
+  publisher: "Bertelsmann Stiftung"
+  date: "2022-09"
+  url: "https://www.bertelsmann-stiftung.de/en/our-projects/democracy-and-participation-in-europe/shortcut-archive/shortcut-8-trailblazers-of-digital-participation-taiwans-join-platform-and-vtaiwan"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Join: 5,000 supporters oblige a reasoned agency response; 13,853 proposals and 289 meeting the threshold by June 2022; a menstrual-cup petition approved in March 2017."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "How it works, menstrual-cups case box and Good to know sections."
+
+- id: "royo/2020_decide-madrid"
+  title: "Decide Madrid: A Critical Analysis of an Award-Winning e-Participation Initiative"
+  authors: ["Sonia Royo", "Vicente Pina", "Jaime Garcia-Rayado"]
+  publisher: "Sustainability"
+  date: "2020-02-24"
+  url: "https://doi.org/10.3390/su12041674"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Proposals need 1% of residents over 16 (27,662 in 2018); 25,418 proposals to end-2018, two reached a vote and both won; 214,076 participants in February 2017, then 92,829 and 9,854 votes; a tree-planting proposal expired at 20,602 supports; 'a waste of time'; the platform continued after the June 2019 change of government."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full text from Zenodo record 4707829 (MDPI pages returned empty); results and discussion sections."
+
+- id: "consul-democracy/2026_homepage"
+  title: "CONSUL DEMOCRACY"
+  publisher: "Consul Democracy Foundation"
+  date: "2026"
+  url: "https://consuldemocracy.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The software is and has been used by more than 250 cities and organizations."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Our User Community section of the home page."
+
+- id: "decidim/2026_homepage"
+  title: "Decidim"
+  publisher: "Decidim Association"
+  date: "2026"
+  url: "https://decidim.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "More than 500 organizations use Decidim."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Home page banner."
+
+- id: "decidim/2026_barcelona-budgeting"
+  title: "Participatory Budgets 2020-2023 in Barcelona"
+  publisher: "Decidim Association"
+  date: "2026"
+  url: "https://decidim.org/case-studies/barcelona-budgeting/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "EUR 30 million; 1,982 proposals; 823 technically validated; 204 prioritised; 76 selected; 64,571 participants (52,601 online, 11,970 in person); residents aged 14 and over."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Results panel and process-design section of the case study."
+
+- id: "borge/2022_decidim-catalonia"
+  title: "Democratic Disruption or Continuity? Analysis of the Decidim Platform in Catalan Municipalities"
+  authors: ["Rosa Borge", "Joan Balcells", "Albert Padró-Solanet"]
+  publisher: "American Behavioral Scientist"
+  date: "2022-05-04"
+  url: "https://doi.org/10.1177/00027642221092798"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Officials valued transparency, information and collecting proposals rather than deliberation and transfer of sovereignty to citizens; the platform brought in new participant publics."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex API."

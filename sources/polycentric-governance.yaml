@@ -1,0 +1,1224 @@
+- id: "ostrom-tiebout-warren/1961_organization-of-government-metropolitan-areas"
+  title: "The Organization of Government in Metropolitan Areas: A Theoretical Inquiry"
+  authors: ["Vincent Ostrom", "Charles M. Tiebout", "Robert Warren"]
+  publisher: "American Political Science Review 55(4): 831-842"
+  date: "1961-12"
+  url: "https://doi.org/10.2307/1952530"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Critique of the single-centre 'Gargantua' model; various scales of organization may suit different public services."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Opened the Cambridge Core page: extract and footnotes only (footnote 1 on scales of organization). Full text paywalled."
+
+- id: "ostrom/2009_beyond-markets-and-states"
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems (Prize Lecture)"
+  authors: ["Elinor Ostrom"]
+  publisher: "Nobel Prize Outreach"
+  date: "2009-12-08"
+  url: "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "IX"]
+  supports: "Police studies: duplication rare; areas with a few producers of indirect services more efficient (pp. 411-412); design principle 6, rapid low-cost local conflict resolution (p. 422)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the lecture PDF: police findings on printed pp. 411-412; principles list on p. 422. Crossref lists the AER version as 100(3): 641-672, June 2010."
+
+- id: "ostrom/2009_polycentric-approach-climate-change"
+  title: "A Polycentric Approach for Coping with Climate Change (Policy Research Working Paper 5095)"
+  authors: ["Elinor Ostrom"]
+  publisher: "World Bank"
+  date: "2009-10"
+  url: "https://documents1.worldbank.org/curated/en/480171468315567893/pdf/WPS5095.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "VII", "X"]
+  supports: "Police in 80 metro areas, 1,159 producers; small and medium departments more effective; one-third more officers needed in consolidated areas; leakage, inconsistent policies, free riding, certification; experiments need funded monitoring."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF: problems pp. 29-30; experimentation list p. 31; Appendix A pp. 50-53, with St. Louis among study sites on p. 50."
+
+- id: "blom-hansen/2016_jurisdiction-size-expenditure"
+  title: "Jurisdiction Size and Local Government Policy Expenditure: Assessing the Effect of Municipal Amalgamation"
+  authors: ["Jens Blom-Hansen", "Kurt Houlberg", "Søren Serritzlew", "Daniel Treisman"]
+  publisher: "American Political Science Review 110(4): 812-831"
+  date: "2016-11-11"
+  url: "https://doi.org/10.1017/S0003055416000320"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Danish 2007 municipal mergers: null net effect on spending; savings in some areas offset by deterioration in others."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core; the open manuscript in Aarhus University's repository returned 403."
+
+- id: "lassen-serritzlew/2011_jurisdiction-size-efficacy"
+  title: "Jurisdiction Size and Local Democracy: Evidence on Internal Political Efficacy from Large-scale Municipal Reform"
+  authors: ["David Dreyer Lassen", "Søren Serritzlew"]
+  publisher: "American Political Science Review 105(2): 238-258"
+  date: "2011-05-09"
+  url: "https://doi.org/10.1017/S000305541100013X"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Larger municipalities had a causal, sizeable negative effect on citizens' internal political efficacy (Danish reform)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core."
+
+- id: "tavares/2018_municipal-amalgamations-review"
+  title: "Municipal amalgamations and their effects: a literature review"
+  authors: ["Antonio F. Tavares"]
+  publisher: "Miscellanea Geographica 22(1): 5-15"
+  date: "2018-03-30"
+  url: "https://doi.org/10.2478/mgrsd-2018-0005"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Review of 20 years of studies: savings mainly in general administration, few service changes, diminished local democracy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract on the publisher's page (Reference Global); full text not read."
+
+- id: "zheng-sun-de-witte/2026_do-municipal-amalgamations-work"
+  title: "Do Municipal Amalgamations Work? A Systematic Literature Review"
+  authors: ["Tao Zheng", "Bindong Sun", "Kristof De Witte"]
+  publisher: "Urban Affairs Review 62(5): 1571-1603"
+  date: "2026-01-14"
+  url: "https://doi.org/10.1177/10780874251410080"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "Amalgamation often fails to achieve economies of scale; subunits free-ride; representation of smaller areas declines."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract in the Crossref API record; SAGE's pages returned 403."
+
+- id: "berry/2008_piling-on"
+  title: "Piling On: Multilevel Government and the Fiscal Common-Pool"
+  authors: ["Christopher Berry"]
+  publisher: "American Journal of Political Science 52(4): 802-820"
+  date: "2008-10"
+  url: "https://doi.org/10.1111/j.1540-5907.2008.00344.x"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "More overlapping jurisdictions mean a larger local public sector; the overlap effect is about 10% of local revenue (US counties)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract in the Crossref API record; the Wiley page returned 403."
+
+- id: "bischoff/2008_school-district-fragmentation"
+  title: "School District Fragmentation and Racial Residential Segregation"
+  authors: ["Kendra Bischoff"]
+  publisher: "Urban Affairs Review 44(2): 182-217"
+  date: "2008-11"
+  url: "https://doi.org/10.1177/1078087408320651"
+  tier: "primary"
+  kind: "article"
+  parts: ["VI", "VII"]
+  supports: "Fragmentation increases multiracial segregation between school districts."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract in the Crossref API record."
+
+- id: "us-doj/2015_ferguson-police-department"
+  title: "Investigation of the Ferguson Police Department"
+  publisher: "US Department of Justice, Civil Rights Division"
+  date: "2015-03-04"
+  url: "https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "IX"]
+  supports: "Ferguson is one of 89 municipalities in St. Louis County; FY2015 budget expected $3.09m of $13.26m general revenue from fines and fees; enforcement shaped by revenue."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF: revenue quote on printed p. 2; background p. 6; revenue figures pp. 9-10."
+
+- id: "frey/2009_new-concept-european-federalism"
+  title: "A New Concept of European Federalism (LEQS Discussion Paper 3/2009)"
+  authors: ["Bruno S. Frey"]
+  publisher: "London School of Economics, European Institute"
+  date: "2009-05"
+  url: "https://web.archive.org/web/20200526152221/http://www.lse.ac.uk/european-institute/Assets/Documents/LEQS-Discussion-Papers/LEQSPaper3.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["I", "VI", "VII"]
+  supports: "FOCJ definition (p. 9); free exit, priced entry (pp. 10-11); votes bundled on three or four dates a year (p. 13); special districts, Swiss communes, Zweckverbaende without own taxes or direct rights, ICANN (pp. 15-16)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "The LSE URL returns 404; read the Wayback Machine copy captured 26 May 2020."
+
+- id: "frey-eichenberger/1999_new-democratic-federalism-for-europe"
+  title: "The New Democratic Federalism for Europe: Functional, Overlapping and Competing Jurisdictions"
+  authors: ["Bruno S. Frey", "Reiner Eichenberger"]
+  publisher: "Edward Elgar"
+  date: "1999"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII"]
+  supports: "Book-length statement of FOCJ named in the brief; not used for any specific claim."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "unverified"
+    note: "Edward Elgar's pages returned 403 and Google Books rate-limited the lookup, so no URL was confirmed. FOCJ claims rest on Frey (2009)."
+
+- id: "us-census/2023_census-of-governments-2022"
+  title: "2022 Census of Governments, Organization Tables (CG2200ORG01, 04, 08)"
+  publisher: "US Census Bureau"
+  date: "2023-08-24"
+  url: "https://www.census.gov/data/tables/2022/econ/gus/2022-governments.html"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "39,555 special district governments in 2022 (8,299 in 1942); 32,768 single-function; fire protection 5,957; 90,888 government units in all."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded tables 1, 4 and 8 (released 24 August 2023; page revised 23 September 2026) and read the US rows. The 2022 census is the latest; the next is 2027."
+
+- id: "little-hoover/2017_special-districts-oversight"
+  title: "Special Districts: Improving Oversight & Transparency (Report #239)"
+  publisher: "Little Hoover Commission (California)"
+  date: "2017-08"
+  url: "https://web.archive.org/web/20250207234750/https://lhc.ca.gov/report/special-districts-improving-oversight-transparency/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "California's 2,071 independent special districts; a 'little-understood layer of bureaucracy'; 58 oversight commissions not uniformly effective at dissolutions; basic information hard to find."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live page returned 403; read the Wayback copy of the report overview. Full report PDF not read."
+
+- id: "zurich/2008_kr-378-2007-intercommunal-cooperation"
+  title: "Auszug aus dem Protokoll des Regierungsrates, KR-Nr. 378/2007: Anfrage zur interkommunalen Zusammenarbeit"
+  publisher: "Regierungsrat des Kantons Zürich"
+  date: "2008-02-27"
+  url: "https://parlzhcdws.cmicloud.ch/parlzh5/cdws//Files/92e019bc0ac04bdfa401fe5673f01e4e-332/1/pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "Over 200 Zweckverbaende in canton Zurich; a commune sat in about eight in 2007; veto-driven negotiation costs; boards tied to their service set costly standards; initiative and referendum rights required by end-2009."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF of the government's answer of 27 February 2008 (answer to question 1 onwards). Figures date from 2007-08."
+
+- id: "zhaw/2024_nationales-gemeindemonitoring"
+  title: "Nationales Gemeindemonitoring 2024: Ergebnisse im Überblick (media release)"
+  publisher: "ZHAW School of Management and Law; University of Lausanne"
+  date: "2024-11-26"
+  url: "https://www.zhaw.ch/storage/sml/News/Ergebnisse_im_%C3%9Cberblick_-_Medieninfo_ZHAW_SML_vom_26.11.2024.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "2,131 communes (1 Jan 2024), median 1,693 residents; cooperation grew in 49%; 82% cooperate on home care, 63% fire brigades; 65% receive equalisation; 17% at capacity limits; 12,421 executive members; 18.7 and 9.9 hours a week; 44% turnout; merger downsides."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full media release PDF (survey of 2023; 83% of communes responded)."
+
+- id: "bfs/2026_commune-register-snapshots"
+  title: "Amtliches Gemeindeverzeichnis der Schweiz: commune snapshots for 1 January 2000 and 11 October 2026"
+  publisher: "Swiss Federal Statistical Office (BFS)"
+  date: "2026-10-11"
+  url: "https://www.agvchapp.bfs.admin.ch/api/communes/snapshot?date=11-10-2026"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "2,110 communes on 11 October 2026 (and 1 January 2026) against 2,899 on 1 January 2000."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the register API snapshots for both dates and counted level-3 records (communes)."
+
+- id: "kiesraad/2026_waterschapsverkiezingen"
+  title: "Waterschapsverkiezingen"
+  publisher: "Kiesraad (Dutch Electoral Council)"
+  date: "2026"
+  url: "https://www.kiesraad.nl/verkiezingen/waterschappen"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "21 water boards; general boards of 18-30; residents elect most members; farmers and nature hold unelected guaranteed seats; held with provincial elections since 2015; next vote 17 March 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text on 11 October 2026."
+
+- id: "kiesraad/2026_verkiezingsuitslagen-waterschap"
+  title: "Databank verkiezingsuitslagen: Waterschap 2015, 2019 and 2023"
+  publisher: "Kiesraad (Dutch Electoral Council)"
+  date: "2026"
+  url: "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/WS20230315"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "National water board turnout 43.5% (2015), 51.25% (2019), 53.61% (2023); provincial turnout 58.64% on the same day in 2023."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the national rows of the detail pages WS20150318, WS20190320 and WS20230315 and the elections list."
+
+- id: "tweede-kamer/2014_kst-33719-15"
+  title: "Kamerstuk 33 719, nr. 15: verslag van een wetgevingsoverleg over de waterschapsverkiezingen"
+  publisher: "Tweede Kamer der Staten-Generaal"
+  date: "2014"
+  url: "https://zoek.officielebekendmakingen.nl/kst-33719-15.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "An MP put turnout in the standalone 2008 water board elections at 24%; elections were then aligned with provincial elections to raise turnout."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF; the 24% figure is an MP's statement in the 2013-14 debate, not an official tally."
+
+- id: "rijksoverheid/2026_bestuur-waterschap"
+  title: "Bestuur van een waterschap"
+  publisher: "Rijksoverheid (Government of the Netherlands)"
+  date: "2026"
+  url: "https://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/waterschappen/bestuur-van-een-waterschap"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "General board of stakeholder categories elected every four years; daily board of about five; the government appoints the dijkgraaf for six years."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text on 11 October 2026."
+
+- id: "cbs/2026_opbrengsten-waterschapsheffingen"
+  title: "Opbrengsten waterschapsheffingen; begrotingen en realisatie (table 83520NED)"
+  publisher: "Statistics Netherlands (CBS)"
+  date: "2026-03-10"
+  url: "https://www.cbs.nl/nl-nl/cijfers/detail/83520NED"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["IV", "VII"]
+  supports: "Gross water board levies: EUR 4,611m budgeted for 2026 (provisional), EUR 3,989m realised in 2024, EUR 2,656m realised in 2015."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Queried the CBS OData API for table 83520NED (modified 10 March 2026), row Nederland."
+
+- id: "rijnland/2026_canon-van-rijnland"
+  title: "Canon van Rijnland"
+  publisher: "Hoogheemraadschap van Rijnland"
+  date: "2026"
+  url: "https://www.rijnland.nl/over-rijnland/archieven-en-erfgoed/canon-van-rijnland/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Rijnland's history canon dates its water board ('heemraden van de Spaarndam') to 1255."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the canon index page listing '1255: De heemraden van de Spaarndam'."
+
+- id: "eca/2025_eu-agencies-2024"
+  title: "Annual report on EU agencies for the financial year 2024"
+  publisher: "European Court of Auditors"
+  date: "2025-09-23"
+  url: "https://fra.europa.eu/sites/default/files/fra_uploads/annual-report-eu-agencies-2024-eca_en.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "43 agencies; EUR 5.3bn budget (4% of the EU budget) in 2024; 17,037 staff, about 19% of EU staff; clean opinions on all accounts; one qualified opinion on payments (ELA)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the copy hosted by FRA: paras 1.4, 1.10, 1.12 and 1.17. Adopted 23 September 2025; the 2025 report was not yet found."
+
+- id: "estonia/1993_national-minorities-cultural-autonomy-act"
+  title: "National Minorities Cultural Autonomy Act (English translation)"
+  publisher: "Riigikogu; Riigi Teataja"
+  date: "1993-10-26"
+  url: "https://www.riigiteataja.ee/en/eli/504042019005/consolide"
+  tier: "primary"
+  kind: "law"
+  parts: ["I", "VI"]
+  supports: "Citizens only (s. 1); German, Russian, Swedish, Jewish or groups over 3,000 (s. 2); lists kept by cultural associations (ss. 7-9); councils valid only if over half vote (s. 19); powers (s. 5); funding (s. 27); termination (s. 28)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the translation via Riigi Teataja's XML endpoint (version in force 15 March 2019 to 31 August 2025). A later version exists that I could not read."
+
+- id: "err/2023_finnish-cultural-autonomy-bleak"
+  title: "Sakari Neuvonen: Future of cultural autonomy of Finnish minority bleak"
+  authors: ["Sakari Neuvonen"]
+  publisher: "ERR News"
+  date: "2023-10-05"
+  url: "https://news.err.ee/1609122779/sakari-neuvonen-future-of-cultural-autonomy-of-finnish-minority-bleak"
+  tier: "secondary"
+  kind: "news"
+  parts: ["I", "VI"]
+  supports: "Bodies called 'municipalities without municipality borders'; 50% turnout bar too high; three-yearly postal elections a burden; proposals for e-voting and a 1,000-member threshold."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the opinion piece by the chair of the Estonian Finns' cultural council."
+
+- id: "err/2023_finns-cultural-autonomy-closed"
+  title: "Ministry of Culture closes down Estonian Finns national cultural autonomy"
+  authors: ["Tõnu Karjatse"]
+  publisher: "ERR News"
+  date: "2023-12-29"
+  url: "https://news.err.ee/1609207543/ministry-of-culture-closes-down-estonian-finns-national-cultural-autonomy"
+  tier: "secondary"
+  kind: "news"
+  parts: ["I", "VI"]
+  supports: "Autonomy closed after the 11 October 2023 election missed the 50% turnout rule; status 'merely symbolic or declarative'; no plans to amend, partly over the Russian community (24%)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article text."
+
+- id: "britannica/2026_millet"
+  title: "Millet (religious group)"
+  publisher: "Encyclopaedia Britannica"
+  date: "2026"
+  url: "https://www.britannica.com/topic/millet-religious-group"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["I", "VI"]
+  supports: "Millets were self-governing religious communities under their own law and leaders, answerable for taxes and security; autonomy eroded by reforms from 1856."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the entry text."
+
+- id: "barkey-gavrilis/2015_ottoman-millet-system"
+  title: "The Ottoman Millet System: Non-Territorial Autonomy and its Contemporary Legacy"
+  authors: ["Karen Barkey", "George Gavrilis"]
+  publisher: "Ethnopolitics 15(1): 24-42"
+  date: "2015-12-21"
+  url: "https://doi.org/10.1080/17449057.2015.1101845"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I", "VI"]
+  supports: "Millets arose from ad-hoc negotiations; autonomy also kept minorities under state control; later idealised."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract via the OpenAlex API; Taylor & Francis pages returned 403."
+
+- id: "belgium/2021_constitution-english"
+  title: "The Belgian Constitution (English translation, March 2021)"
+  publisher: "Belgian House of Representatives"
+  date: "2021-03"
+  url: "https://www.dekamer.be/kvvcr/pdf_sections/publications/constitution/GrondwetUK.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["I", "VI"]
+  supports: "Communities regulate culture, education and person-related matters (Arts. 127-128); in Brussels their law reaches institutions belonging exclusively to one community."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 127 and 128 in the PDF (text as revised 17 March 2021)."
+
+- id: "wikipedia/2026_belgian-government-formation-2010-2011"
+  title: "2010–2011 Belgian government formation"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2010%E2%80%932011_Belgian_government_formation"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Federal government formed after 541 days; caretaker government; no 2011 budget, with month-to-month provisional budgets."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the lead and the mediator section."
+
+- id: "norway/1987_sami-act"
+  title: "Lov om Sametinget og andre samiske rettsforhold (sameloven)"
+  publisher: "Lovdata"
+  date: "1987-06-12"
+  url: "https://lovdata.no/dokument/NL/lov/1987-06-12-56"
+  tier: "primary"
+  kind: "law"
+  parts: ["I", "VI", "VII"]
+  supports: "Roll entry by self-declaration plus a Sámi home language within three generations, or a parent on the roll (s. 2-6); roll data restricted to the election authority; remit and budget powers (s. 2-1)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read ss. 2-1, 2-5 and 2-6 of the consolidated text on Lovdata."
+
+- id: "ssb/2025_sametingsvalg-valgdeltakelse"
+  title: "Høyeste valgdeltakelse ved sametingsvalget siden 1993"
+  authors: ["Hans Martin Corneliussen"]
+  publisher: "Statistics Norway (SSB)"
+  date: "2025-12-04"
+  url: "https://www.ssb.no/valg/sametingsvalg/statistikk/sametingsvalet/artikler/hoyere-utdanningsniva-blant-dem-som-kan-stemme-ved-sametingsvalget-copy"
+  tier: "primary"
+  kind: "web"
+  parts: ["VI", "VII"]
+  supports: "73.5% turnout in the 2025 Sámi Parliament election, highest since 1993; 6,100 voters lacked the right in 2021; voters choose when to register."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article text."
+
+- id: "ssb/2025_sametingets-valgmanntall"
+  title: "Høyere utdanningsnivå blant dem som kan stemme ved sametingsvalget"
+  authors: ["Terje Risberg", "Øyvin Kleven"]
+  publisher: "Statistics Norway (SSB)"
+  date: "2025-02-06"
+  url: "https://www.ssb.no/valg/sametingsvalg/statistikk/sametingsvalet/artikler/hoyere-utdanningsniva-blant-dem-som-kan-stemme-ved-sametingsvalget"
+  tier: "primary"
+  kind: "web"
+  parts: ["VI", "VII"]
+  supports: "20,500 people were entitled to vote in the 2021 Sámi Parliament election."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article lead."
+
+- id: "idea/2025_finland-sami-parliament-act"
+  title: "Finland, June 2025: Sámi Parliament welcomes long-awaited reforms"
+  publisher: "International IDEA, Democracy Tracker"
+  date: "2025-06"
+  url: "https://www.idea.int/democracytracker/report/finland/june-2025"
+  tier: "secondary"
+  kind: "web"
+  parts: ["I", "VI", "IX"]
+  supports: "Amendments passed 19 June 2025 by 150-27; respond to 2019 UN Human Rights Committee findings; independent board for roll appeals."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the June 2025 entry. The Finnish government's own release returned 403."
+
+- id: "samediggi-fi/2026_reformed-act-celebrated"
+  title: "The reformed Sámi Parliament Act celebrated at the Sámi Cultural Centre Sajos"
+  publisher: "Sámi Parliament of Finland"
+  date: "2026-02-06"
+  url: "https://samediggi.fi/en/news/the-reformed-sami-parliament-act-celebrated-at-the-sami-cultural-centre-sajos-celebration-underway/"
+  tier: "primary"
+  kind: "news"
+  parts: ["I", "VI"]
+  supports: "The reformed act has entered into force; the parliament's president credits human rights treaties on the electoral roll."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the news item dated 6 February 2026."
+
+- id: "venice-commission/2012_opinion-hungary-nationalities-act"
+  title: "Opinion on the Act on the Rights of Nationalities of Hungary, CDL-AD(2012)011"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2012-06-19"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2012)011-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["I", "VI"]
+  supports: "13 recognised nationalities; register-based elections; local bodies only where the census shows 30 members; language requirement for candidates with no named verifier; self-governments as strategic partners."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read paras. 39-49 of the PDF (adopted 15-16 June 2012)."
+
+- id: "hhc/2024_franet-elections-reply"
+  title: "HHC reply to FRANET service request no. 14 on the 2024 elections"
+  publisher: "Hungarian Helsinki Committee"
+  date: "2024-11-22"
+  url: "https://helsinki.hu/wp-content/uploads/2024/11/HHC-reply_FRANET-service-request-no-14_22112024_final.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["I", "VI"]
+  supports: "210,000 people declared themselves Roma in the 2022 census; 230,000 registered Roma voters."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF, section on challenges for voters and candidates."
+
+- id: "errc/2004_jaszladany"
+  title: "Legal but Illegitimate: The Gypsy Minority Self-Government in Jászladány"
+  authors: ["Anita Danka", "Nicole Pallai"]
+  publisher: "European Roma Rights Centre, Roma Rights Journal"
+  date: "2004-02-07"
+  url: "https://www.errc.org/roma-rights-journal/legal-but-illegitimate-the-gypsy-minority-self-government-in-jaszladany"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I", "VI"]
+  supports: "After the October 2002 election, Jászladány's Gypsy minority self-government had one Roma and four non-Roma members."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article's opening and background sections."
+
+- id: "ferkovics/2015_roma-political-representation"
+  title: "Lack of Political Representation of Roma in Hungary (HDIM.NGO/0558/15)"
+  authors: ["Roland Ferkovics"]
+  publisher: "OSCE Human Dimension Implementation Meeting"
+  date: "2015-10-09"
+  url: "https://www.osce.org/files/f/documents/2/7/191036.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["I", "VI"]
+  supports: "NGO statement: voters registered on the nationality register lose their vote for mainstream party lists; concern over ruling-party influence on the national Roma self-government."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the two-page statement."
+
+- id: "aanes/2023_social-contract"
+  title: "Social Contract of the Democratic Autonomous Administration of North and East Syria (English translation)"
+  publisher: "Rojava Information Center"
+  date: "2023-12"
+  url: "https://rojavainformationcenter.org/storage/2023/12/SOCIAL-CONTRACT-ENGLISH.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["I", "VII", "VIII"]
+  supports: "Cantons organised confederally (Art. 11); co-chairs in all fields (Art. 24); membership of more than one commune (Art. 31); the commune as basic unit of direct democracy (Art. 75); recall by no-confidence (Art. 76)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF; translation by a sympathetic organization."
+
+- id: "crisis-group/2017_pkk-fateful-choice"
+  title: "The PKK's Fateful Choice in Northern Syria (Middle East Report 176)"
+  publisher: "International Crisis Group"
+  date: "2017-05-04"
+  url: "https://www.crisisgroup.org/rpt/middle-east-north-africa/syria/176-pkks-fateful-choice-northern-syria"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Decision-making secretive, limited to a few PKK-trained cadres who decide budgets and appointments; calls the self-administration one-party."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the summary and the section 'Ruling from Behind'."
+
+- id: "enab-baladi/2026_sdf-dissolution"
+  title: "Abdi Announces SDF Dissolution, State Integration"
+  publisher: "Enab Baladi"
+  date: "2026-08-25"
+  url: "https://english.enabbaladi.net/archives/2026/08/abdi-announces-sdf-dissolution-state-integration/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "On 25 August 2026 Mazloum Abdi announced the dissolution of the SDF, the Autonomous Administration and affiliated formations, and integration into Syrian state institutions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article text."
+
+- id: "wikipedia/2026_daanes"
+  title: "Democratic Autonomous Administration of North and East Syria"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Democratic_Autonomous_Administration_of_North_and_East_Syria"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "January 2026 offensive into Raqqa and Deir ez-Zor; 18 January ceasefire handing both to the government; integration 70% complete by 3 August 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the section 'Post-Assad conflict and integration'."
+
+- id: "bookchin/1991_libertarian-municipalism"
+  title: "Libertarian Municipalism: An Overview"
+  authors: ["Murray Bookchin"]
+  publisher: "Left Green Perspectives (via The Anarchist Library)"
+  date: "1991-10"
+  url: "https://theanarchistlibrary.org/library/murray-bookchin-libertarian-municipalism-an-overview"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Policy by assemblies; administration by mandated, recallable confederal deputies; a confederal majority may stop rights violations or ecological mayhem."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full text, section 'Confederalism'."
+
+- id: "icann/2016_iana-stewardship-transition"
+  title: "Stewardship of IANA Functions Transitions to Global Internet Community as Contract with U.S. Government Ends"
+  publisher: "ICANN"
+  date: "2016-10-01"
+  url: "https://www.icann.org/news/announcement-2016-10-01-en"
+  tier: "primary"
+  kind: "news"
+  parts: ["VIII", "XII"]
+  supports: "The IANA functions contract with NTIA expired on 1 October 2016, after a process underway since 1998; community gains direct recourse against ICANN decisions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the announcement text."
+
+- id: "icann/2026_bylaws"
+  title: "Bylaws for Internet Corporation for Assigned Names and Numbers (as amended 3 July 2026)"
+  publisher: "ICANN"
+  date: "2026-07-03"
+  url: "https://www.icann.org/resources/pages/governance/bylaws-en"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "Empowered Community may appoint and remove directors, recall the board, reject budgets and plans (s. 6.2); board of sixteen voting directors, eight via the Nominating Committee (ss. 7.1-7.2)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read ss. 6.2, 7.1 and 7.2 on the bylaws page."
+
+- id: "icann/2000_at-large-online-vote"
+  title: "ICANN Selects election.com to Conduct One of World's Largest All-Internet Votes"
+  publisher: "ICANN"
+  date: "2000-09-21"
+  url: "https://www.icann.org/news/icann-pr-2000-09-21-en"
+  tier: "primary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "Over 76,000 At-Large members eligible to elect five regional board directors online, 1-10 October 2000."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the announcement. Turnout figures were not found."
+
+- id: "wikipedia/2026_icann"
+  title: "ICANN"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/ICANN"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The At-Large constituency and direct election of board members were soon abandoned."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the 'Structure' section."
+
+- id: "iana/2026_about"
+  title: "About IANA"
+  publisher: "Internet Assigned Numbers Authority (PTI)"
+  date: "2026"
+  url: "https://www.iana.org/about"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "IANA maintains authoritative public registries; only a limited set of technical elements needs global coordination; monthly performance reports against service levels."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text."
+
+- id: "root-servers/2026_root-server-system"
+  title: "root-servers.org"
+  publisher: "Root Server Technical Operations Association"
+  date: "2026-10-11"
+  url: "https://root-servers.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "2,047 operational root server instances run by 12 independent operators (as of 2026-10-12 02:11 UTC)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the home page counter."
+
+- id: "ietf/2014_rfc-7282"
+  title: "RFC 7282: On Consensus and Humming in the IETF"
+  authors: ["Pete Resnick"]
+  publisher: "Internet Engineering Task Force"
+  date: "2014-06"
+  url: "https://www.rfc-editor.org/rfc/rfc7282.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "'We reject: kings, presidents and voting'; rough consensus addresses but need not accommodate objections; admits many actions are now indistinguishable from voting. Informational, not binding process."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the abstract and sections 1-3."
+
+- id: "ietf/2020_rfc-8713"
+  title: "RFC 8713: IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process"
+  authors: ["Murray Kucherawy", "Robert Hinden", "Jason Livingood"]
+  publisher: "Internet Engineering Task Force (BCP 10)"
+  date: "2020-02"
+  url: "https://www.rfc-editor.org/rfc/rfc8713.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Nominating committee of a chair and ten volunteers drawn by a public, verifiable, fair and unbiased lottery; at most two per affiliation; recall petitions need 20 signatories."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read ss. 4.14-4.17 and 7.1."
+
+- id: "ietf/2023_rfc-9389"
+  title: "RFC 9389: Nominating Committee Eligibility"
+  authors: ["Martin Duke"]
+  publisher: "Internet Engineering Task Force (BCP 10)"
+  date: "2023-04"
+  url: "https://www.rfc-editor.org/rfc/rfc9389.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Remote attendance now counts toward eligibility; capture analysis: with 300 legitimate volunteers an attacker needs 365 for a 50% chance; three colluding firms need 771."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the abstract, the eligibility paths and s. 4.1."
+
+- id: "itu/2026_about"
+  title: "About the International Telecommunication Union (ITU)"
+  publisher: "ITU"
+  date: "2026"
+  url: "https://www.itu.int/en/about/Pages/default.aspx"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "194 member states and over 1,000 companies, universities and organizations; allocates radio spectrum and satellite orbits; over 160 years old."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text."
+
+- id: "upu/2019_extraordinary-congress-faq"
+  title: "Frequently Asked Questions: Third Extraordinary Congress"
+  publisher: "Universal Postal Union"
+  date: "2019-09-17"
+  url: "https://www.upu.int/en/News/2019/9/Frequently-Asked-Questions-Third-Extraordinary-Congress"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "XII"]
+  supports: "Extraordinary Congresses need two-thirds support; the US cited small-packet remuneration in its intent to withdraw in October 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the FAQ text."
+
+- id: "cyprus-post/2019_third-extraordinary-congress"
+  title: "3rd Extraordinary Congress of the Universal Postal Union"
+  publisher: "Cyprus Post"
+  date: "2019"
+  url: "https://www.cypruspost.post/en/news/3rdcongress"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "XII"]
+  supports: "Congress held 24-26 September 2019; a compromise was adopted unanimously; the US then said it would remain a member."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the news item. No UPU or US government statement confirming the US decision was found."
+
+- id: "iso/2026_about"
+  title: "About ISO"
+  publisher: "International Organization for Standardization"
+  date: "2026"
+  url: "https://www.iso.org/about"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "177 members, one per country; 26,522 standards and deliverables; 844 technical committees and subcommittees."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page counters on 11 October 2026."
+
+- id: "codex/2026_about-codex"
+  title: "About Codex Alimentarius"
+  publisher: "FAO/WHO Codex Alimentarius Commission"
+  date: "2026"
+  url: "https://www.fao.org/fao-who-codexalimentarius/about-codex/en/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Codex standards are voluntary but referenced in the WTO SPS Agreement; stricter national measures may need scientific justification; founded 1963."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text."
+
+- id: "usda/2012_codex-35th-session"
+  title: "U.S. Delegate's Report, 35th Session of the Codex Alimentarius Commission"
+  publisher: "US Department of Agriculture, US Codex Office"
+  date: "2012-07"
+  url: "https://www.usda.gov/sites/default/files/documents/delegate-report-07022012.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "No consensus on ractopamine MRLs; votes 92-41 for a secret ballot, 68-64 to vote, 69-67 to adopt; the EU and eight others recorded reservations."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF section 'Ractopamine MRLs'. A US government account."
+
+- id: "unep/1987_montreal-protocol-article-2"
+  title: "Montreal Protocol on Substances that Deplete the Ozone Layer, Article 2: Control Measures"
+  publisher: "UNEP Ozone Secretariat"
+  date: "1987"
+  url: "https://ozone.unep.org/treaties/montreal-protocol/articles/article-2-control-measures"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["III", "VII", "XI"]
+  supports: "Adjustments based on assessments; six months' notice; consensus first, else two-thirds with majorities of Article 5 and other parties; binding on all; in force six months after circulation (para. 9)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read para. 9 on the article page (text as amended)."
+
+- id: "unep/1987_montreal-protocol-article-10"
+  title: "Montreal Protocol on Substances that Deplete the Ozone Layer, Article 10: Financial Mechanism"
+  publisher: "UNEP Ozone Secretariat"
+  date: "1987"
+  url: "https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["III", "IV", "XII"]
+  supports: "Fund meets agreed incremental costs of developing parties; financed on the UN scale; balanced Executive Committee; disbursement with beneficiary consent; double-majority voting."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read paras. 1-9 on the article page."
+
+- id: "untc/2026_montreal-protocol-status"
+  title: "UN Treaty Collection: status of the Montreal Protocol"
+  publisher: "United Nations"
+  date: "2026-10-11"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-2-a&chapter=27&clang=_en"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["III", "XII"]
+  supports: "198 parties, status as at 11 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the status header."
+
+- id: "untc/2026_kigali-amendment-status"
+  title: "UN Treaty Collection: status of the Kigali Amendment to the Montreal Protocol"
+  publisher: "United Nations"
+  date: "2026-10-11"
+  url: "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-2-f&chapter=27&clang=_en"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["III", "XII"]
+  supports: "175 parties, status as at 11 October 2026; in force since 1 January 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the status header."
+
+- id: "mlf/2026_home"
+  title: "Multilateral Fund for the Implementation of the Montreal Protocol (home page)"
+  publisher: "Multilateral Fund Secretariat"
+  date: "2026"
+  url: "https://www.multilateralfund.org/"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "IV", "XII"]
+  supports: "US$4.3bn in grants; 10,198 approved projects; 144 developing countries assisted."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the impact counters on 11 October 2026."
+
+- id: "mlf/2026_about"
+  title: "About the Multilateral Fund"
+  publisher: "Multilateral Fund Secretariat"
+  date: "2026"
+  url: "https://www.multilateralfund.org/about"
+  tier: "primary"
+  kind: "web"
+  parts: ["III", "IV", "XII"]
+  supports: "Established 1991; replenished every three years on an expert needs assessment; triennium budgets from US$160m (1991-93) to US$965m (2024-26)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page and its replenishment table."
+
+- id: "unep/2023_ozone-recovery-on-track"
+  title: "Ozone layer recovery is on track, helping avoid global warming by 0.5°C"
+  publisher: "UN Environment Programme"
+  date: "2023-01-09"
+  url: "https://www.unep.org/news-and-stories/press-release/ozone-layer-recovery-track-helping-avoid-global-warming-05degc"
+  tier: "primary"
+  kind: "news"
+  parts: ["III", "X"]
+  supports: "Nearly 99% of banned ozone-depleting substances phased out; recovery to 1980 values by about 2066 (Antarctic), 2045 (Arctic) and 2040 (elsewhere)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the press release on the 2022 quadrennial assessment."
+
+- id: "montzka/2018_cfc-11-increase"
+  title: "An unexpected and persistent increase in global emissions of ozone-depleting CFC-11"
+  authors: ["Stephen A. Montzka", "Geoff S. Dutton", "Pengfei Yu", "Eric Ray"]
+  publisher: "Nature 557: 413-417"
+  date: "2018-05"
+  url: "https://doi.org/10.1038/s41586-018-0106-2"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IX"]
+  supports: "CFC-11 emissions rose by about 13 Gg a year (25%) after 2012 despite near-zero reported production, suggesting unreported production."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract via Europe PMC; Nature's page required JavaScript."
+
+- id: "montzka/2021_cfc-11-decline"
+  title: "A decline in global CFC-11 emissions during 2018−2019"
+  authors: ["Stephen A. Montzka", "Geoffrey S. Dutton", "Robert W. Portmann", "Martyn P. Chipperfield"]
+  publisher: "Nature 590: 428-432"
+  date: "2021-02-10"
+  url: "https://doi.org/10.1038/s41586-021-03260-5"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "IX"]
+  supports: "Global CFC-11 emissions fell by 18 Gg a year (26%) from 2018 to 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract via Europe PMC; Nature's page required JavaScript."
+
+- id: "wto/1994_dispute-settlement-understanding"
+  title: "Understanding on Rules and Procedures Governing the Settlement of Disputes"
+  publisher: "World Trade Organization"
+  date: "1994-04-15"
+  url: "https://www.wto.org/english/docs_e/legal_e/28-dsu_e.htm"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["IX"]
+  supports: "DSB decides by consensus (Art. 2.4); panel reports adopted unless appealed or rejected by consensus (Art. 16.4); Appellate Body of seven, three per case, four-year terms (Art. 17)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 2.4, 16.4 and 17.1-17.2."
+
+- id: "wto/2019_dsb-18dec19"
+  title: "Members review Appellate Body impasse (Dispute Settlement Body, 18 December 2019)"
+  publisher: "World Trade Organization"
+  date: "2019-12-18"
+  url: "https://www.wto.org/english/news_e/news19_e/dsb_18dec19_e.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "On 10 December 2019 the Appellate Body fell to one member, below the three needed to hear appeals; 119 members backed the appointment proposal."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the opening of the news item."
+
+- id: "wto/2026_appellate-body"
+  title: "Dispute settlement: Appellate Body"
+  publisher: "World Trade Organization"
+  date: "2026"
+  url: "https://www.wto.org/english/tratop_e/dispu_e/appellate_body_e.htm"
+  tier: "primary"
+  kind: "web"
+  parts: ["IX"]
+  supports: "The Appellate Body is unable to review appeals; the last member's term expired on 30 November 2020."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the page text on 11 October 2026."
+
+- id: "wto/2025_dsb-26sep25"
+  title: "Dispute Settlement Body meeting, 26 September 2025"
+  publisher: "World Trade Organization"
+  date: "2025-09-26"
+  url: "https://www.wto.org/english/news_e/news25_e/dsb_26sep25_e.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Colombia, for 130 members, tabled the Appellate Body selection proposal for the 90th time; the US did not support it."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the 'Appellate Body appointments' section. No 2026 DSB report with a later count was found."
+
+- id: "wto/2026_mc14-mpia"
+  title: "DG cites MPIA as practical, confidence-building bridge pending dispute reform deal"
+  publisher: "World Trade Organization"
+  date: "2026-03-28"
+  url: "https://www.wto.org/english/news_e/news26_e/mc14_28mar26_350_e.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "61 WTO members party to the MPIA; two appeals resolved through it; described as temporary."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the news item from MC14."
+
+- id: "wto/2026_general-council-5oct26"
+  title: "General Council addresses WTO reform, ministerial follow-ups, ongoing negotiations"
+  publisher: "World Trade Organization"
+  date: "2026-10-05"
+  url: "https://www.wto.org/english/news_e/news26_e/gc_05oct26_508_e.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Dispute settlement reform discussions continue under the DSB as of 5 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the section 'WTO reform, dispute settlement reform'."
+
+- id: "switzerland/1999_federal-constitution"
+  title: "Federal Constitution of the Swiss Confederation"
+  publisher: "Constitute Project (English translation)"
+  date: "1999-04-18"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII"]
+  supports: "Art. 43a (benefit pays and decides), Art. 48 (intercantonal bodies), Art. 48a (compulsory participation in nine fields), Art. 50 (communal autonomy under cantonal law), Art. 135 (equalisation and minimum resources)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF export (text as of 2014): Arts. 43a, 48, 48a, 50 and 135. Later amendments not checked."
+
+- id: "kasmir/2016_mondragon-successes-challenges"
+  title: "The Mondragon Cooperatives: Successes and Challenges"
+  authors: ["Sharryn Kasmir"]
+  publisher: "Global Dialogue (International Sociological Association)"
+  date: "2016-02-13"
+  url: "https://globaldialogue.isa-sociology.org/articles/the-mondragon-cooperatives-successes-and-challenges"
+  tier: "secondary"
+  kind: "article"
+  parts: ["V", "VII"]
+  supports: "Each member has one vote in a cooperative's general assembly; each cooperative is represented at the Cooperative Congress, which makes system-wide plans."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-opened the article; paragraph on governance."
+
+- id: "co-op-news/2023_ulma-orona-leave-mondragon"
+  title: "New trouble for Mondragon as two industrial co-ops leave the fold"
+  authors: ["Miles Hadfield"]
+  publisher: "Co-operative News"
+  date: "2023-02-01"
+  url: "https://www.thenews.coop/new-trouble-for-mondragon-as-two-industrial-co-ops-leave-the-fold/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V", "VII"]
+  supports: "Ulma and Orona voted on 16 December 2022 to leave for more autonomy, ending 10% profit contributions to a common fund; 11,000 of 80,000 workers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-opened the article; opening paragraphs."
+
+- id: "geo/2013_mondragon-cooperative-faltering"
+  title: "Major Mondragon Co-operative Faltering: General Council declares Fagor Electrodomesticos 'not viable'"
+  publisher: "Grassroots Economic Organizing (GEO)"
+  date: "2013-11-04"
+  url: "https://geo.coop/story/major-mondragon-co-operative-faltering"
+  tier: "secondary"
+  kind: "news"
+  parts: ["V", "VII"]
+  supports: "Fagor sought EUR 170m; the General Council declared its plan not viable; debt about EUR 800m."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-opened the article; opening paragraphs and the quoted statement."
+
+- id: "un-desa/2024_world-population-prospects"
+  title: "World Population Prospects 2024: total population by sex (CSV)"
+  publisher: "UN Department of Economic and Social Affairs, Population Division"
+  date: "2024"
+  url: "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_TotalPopulationBySex.csv.gz"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "XII"]
+  supports: "Medium-variant mid-2026 populations: world 8,300.7m, Switzerland 9.0m, Netherlands 18.4m; used for per-person estimates."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the CSV and read the 2026 medium-variant rows (thousands)."

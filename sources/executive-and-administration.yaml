@@ -1,0 +1,1243 @@
+- id: "switzerland/1999_federal-constitution"
+  title: "Switzerland's Constitution of 1999 with Amendments through 2014"
+  publisher: "Constitute Project"
+  date: "1999"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Arts. 174-178: seven-member Federal Council elected by the Federal Assembly after each National Council election, for four years; one-year presidency with no re-election the next year; decisions as a collegial body; each department headed by a member. Art. 185(3): emergency ordinances must be limited in duration."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 165, 174-178 and 184-185 in the Constitute Project English text (amendments through 2014); later amendments not checked."
+
+- id: "switzerland-fch/2026_brief-guide"
+  title: "The Swiss Confederation: A Brief Guide 2026"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-02-23"
+  url: "https://www.bk.admin.ch/dam/en/sd-web/KYXe43NjDhNT/The%20Swiss%20Confederation.%20A%20brief%20guide%202026.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "XII"]
+  supports: "Only country with a collegial body as its government; 2:2:2:1 magic formula among four parties 1959-2003; members elected for four years, cannot be removed, re-electable without limit, usually serve until retirement; popular election rejected in 1900, 1942 and 2013; Federal Administration of around 40,000 employees; Federal Chancellery CHF 80 million and 311 FTEs in 2024; federal expenditure CHF 84 billion (2024); population around 9.1 million."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PDF dated 23 February 2026, read via pdftotext: 'What is special about the Federal Council?' box, party-composition timeline, Federal Council tasks, Federal Chancellery and federal finance pages."
+
+- id: "swissvotes/2013_vote-570-results"
+  title: "Initiative «Volkswahl des Bundesrates» (vote 570, 9 June 2013)"
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2013-06-09"
+  url: "https://swissvotes.ch/vote/570.00"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The initiative for direct election of the Federal Council was rejected on 9 June 2013 with 23.66% yes and 0 of 23 cantons."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Vote page, 'Abstimmungsergebnis' line."
+
+- id: "swissvotes/2019_vote-570-summary"
+  title: "Volkswahl des Bundesrats scheitert zum dritten Mal"
+  authors: ["Claudio Schwaller"]
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2019"
+  url: "https://swissvotes.ch/vote/570.00/kurzbeschreibung-de.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The Federal Council argued direct election would make members party actors in a permanent campaign against collegiality, weaken parliament, favour populous cantons and hurt Ticino; supporters cited cantonal government elections; Blocher won a seat in 2003 and lost re-election in 2007."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the German short description PDF (served from a swissvotes attachment URL); sections Vorgeschichte, Gegenstand and Abstimmungskampf."
+
+- id: "swissvotes/2021_vote-643-covid-act"
+  title: "Covid-19-Gesetz (vote 643, 13 June 2021)"
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2021-06-13"
+  url: "https://swissvotes.ch/vote/643.00"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The Federal Act on the statutory basis for Federal Council ordinances on the Covid-19 epidemic was approved in a referendum with 60.20% yes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Vote page: official title and 'Angenommen (60.20% Ja-Stimmen)'."
+
+- id: "swissvotes/2021_vote-650-covid-act"
+  title: "Änderung des Covid-19-Gesetzes (vote 650, 28 November 2021)"
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2021-11-28"
+  url: "https://swissvotes.ch/vote/650.00"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "An amendment to the Covid-19 Act was approved in a referendum with 62.02% yes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Vote page: official title and 'Angenommen (62.02% Ja-Stimmen)'."
+
+- id: "swissvotes/2023_vote-664-covid-act"
+  title: "Änderung vom 16. Dezember 2022 des Covid-19-Gesetzes (vote 664, 18 June 2023)"
+  publisher: "Swissvotes (Année Politique Suisse, University of Bern)"
+  date: "2023-06-18"
+  url: "https://swissvotes.ch/vote/664.00"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A further amendment to the Covid-19 Act was approved in a referendum with 61.94% yes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Vote page: official title and 'Angenommen (61.94% Ja-Stimmen)'."
+
+- id: "parlament-ch/2024_pinc-credit-suisse"
+  title: "Lessons from the Credit Suisse crisis – PInC identifies need for action"
+  publisher: "Swiss Parliament, Parliamentary Investigation Committee"
+  date: "2024-12-20"
+  url: "https://www.parlament.ch/press-releases/Pages/mm-puk-2024-20-12.aspx?lang=1033"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Authorities kept Credit Suisse solvent from 15 March 2023 until the weekend takeover; emergency legislation applied in accordance with the law; the Federal Council acted too hesitantly on a public liquidity backstop and was not fully informed in autumn 2022; 79 hearings and over 30,000 pages."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the English press release of 20 December 2024; the full German report was not read."
+
+- id: "loc/1990_uruguay-constitution"
+  title: "Uruguay: A Country Study – The Constitution"
+  authors: ["Rex A. Hudson", "Sandra W. Meditz"]
+  publisher: "Library of Congress, Federal Research Division (countrystudies.us mirror)"
+  date: "1990"
+  url: "http://countrystudies.us/uruguay/62.htm"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Batlle's 1913 colegiado proposal to neutralise dictatorial intentions; conflicts in the 1919-33 colegiado ended in the 1933 presidential coup; 1952 nine-member council with six majority and three minority seats and a rotating presidency; 'ineffective because the president lacked control over the ministers and because the majority was seldom united'; impeachment by the General Assembly; nearly 59% voted in November 1966 to restore the presidency; General Assembly dissolved in June 1973."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the 'The Constitution' section; Hudson and Meditz are the study's editors; the mirror renders accented letters badly."
+
+- id: "loc/1990_uruguay-blanco-administrations"
+  title: "Uruguay: A Country Study – Economic Crisis and Decline: The Blanco Administrations, 1959-67"
+  authors: ["Rex A. Hudson", "Sandra W. Meditz"]
+  publisher: "Library of Congress, Federal Research Division (countrystudies.us mirror)"
+  date: "1990"
+  url: "http://countrystudies.us/uruguay/19.htm"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Inflation above 50% a year in 1963-67 and a banking crisis in 1965; sectors of both traditional parties blamed the collegial executive."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full section; Hudson and Meditz are the study's editors."
+
+- id: "altman/2008_collegiate-executives"
+  title: "Collegiate Executives and Direct Democracy in Switzerland and Uruguay: Similar Institutions, Opposite Political Goals, Distinct Results"
+  authors: ["David Altman"]
+  publisher: "Swiss Political Science Review"
+  date: "2008"
+  url: "https://doi.org/10.1002/j.1662-6370.2008.tb00110.x"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Uruguay copied Swiss collegial executives and direct democracy with different results; even in this 'most likely case' institutions cannot simply be copied; effects are context-dependent."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Wiley page blocked; abstract read on the Pontificia Universidad Católica de Chile repository record (handle 11534/78103)."
+
+- id: "bih/1995_constitution"
+  title: "Constitution of Bosnia and Herzegovina (Annex 4 to the General Framework Agreement for Peace)"
+  publisher: "Constitutional Court of Bosnia and Herzegovina (English text)"
+  date: "1995-12-14"
+  url: "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Art. V: three-member Presidency (Bosniak and Croat from the Federation, Serb from Republika Srpska), directly elected for four years with one consecutive re-election; chair method set by law; consensus or two members; a dissenter's vital-interest declaration blocks a decision if confirmed by two-thirds of the referral body within ten days; no removal clause in Art. V."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Article V in the Constitutional Court's English PDF."
+
+- id: "venice-commission/2005_opinion-bih-constitution"
+  title: "Opinion on the Constitutional Situation in Bosnia and Herzegovina and the Powers of the High Representative, CDL-AD(2005)004"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2005-03-11"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2005)004-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "A collective Presidency 'does not appear functional or efficient'; duplication with the Council of Ministers; the veto's main problem is its preventive effect; for multi-ethnic Bosnia, indirect election of a single head of state by parliament preferable to direct election."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Current link returned 404; read the Wayback Machine copy of the PDF (January 2021 capture), paras 29-42; adopted at the 62nd plenary session, 11-12 March 2005."
+
+- id: "mrg/2025_sejdic-finci"
+  title: "Bosnia and Herzegovina: MRG urges action in Sejdić/Finci case"
+  publisher: "Minority Rights Group"
+  date: "2025-07-09"
+  url: "https://minorityrights.org/bih-hrc59/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII", "I"]
+  supports: "A Bosnian Jew and a Bosnian Roma, barred from standing for the Presidency, won at the European Court of Human Rights; sixteen years and four electoral cycles later no action had been taken."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Statement to the UN Human Rights Council dated 9 July 2025; Council of Europe supervision status in 2026 not checked."
+
+- id: "eu/2016_teu-article-17"
+  title: "Treaty on European Union, Article 17 (consolidated version)"
+  publisher: "EUR-Lex"
+  date: "2016"
+  url: "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12016M017"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["VIII"]
+  supports: "Five-year term; members chosen for competence and independence; Commission 'completely independent' and takes no instructions; Art. 17(5) two-thirds rule unless the European Council alters it; college subject as a body to a consent vote; responsible to Parliament; a carried censure motion forces resignation as a body."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "EUR-Lex returned a bot challenge; read the Wayback Machine capture of 24 September 2024."
+
+- id: "eprs/2024_motion-of-censure"
+  title: "The European Parliament's powers: Motion of censure"
+  authors: ["Micaela Del Monte"]
+  publisher: "European Parliamentary Research Service"
+  date: "2024-09-12"
+  url: "https://eprs.europarl.europa.eu/contents/publications/EPRS/2024/09/EPRS_BRI(2024)762398.html"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The censure power has never been enforced because the required majority was never reached; in 1999 the mere threat of censure led the Santer Commission to resign."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the summary of the HTML briefing, last updated 12 September 2024."
+
+- id: "alemanno/2025_von-der-leyen-faces-the-vote"
+  title: "Von der Leyen Faces the Vote: A Tale of Parliamentary Control"
+  authors: ["Alberto Alemanno"]
+  publisher: "Verfassungsblog"
+  date: "2025-07-09"
+  url: "https://verfassungsblog.de/von-der-leyen-faces-the-vote/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Censure needs two-thirds of members present and a majority of all members; none of 13 previous formal attempts succeeded; the Santer Commission resigned on 15 March 1999 before a vote; the crisis led to OLAF in 1999."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the post of 9 July 2025, which predates the 10 July 2025 vote; that vote's result was not checked."
+
+- id: "european-parliament/1999_independent-experts-first-report"
+  title: "First Report on Allegations regarding Fraud, Mismanagement and Nepotism in the European Commission: 9. Concluding remarks"
+  publisher: "European Parliament, Committee of Independent Experts"
+  date: "1999-03-15"
+  url: "http://www.europarl.europa.eu/experts/9_en.htm"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Commissioners' protestations of ignorance amounted to 'a loss of control by the political authorities over the Administration'; 'It is becoming difficult to find anyone who has even the slightest sense of responsibility.'"
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Original page offline; read the Wayback Machine capture of June 2006, paras 9.2.2 and 9.4.25."
+
+- id: "european-commission/2026_commission-staff"
+  title: "Commission staff"
+  publisher: "European Commission"
+  date: "2026"
+  url: "https://commission.europa.eu/about/organisation/commission-staff_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XII"]
+  supports: "Around 33,000 permanent and contract employees work in the Commission."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page; a staff total for all EU institutions was not found."
+
+- id: "wcpa/1977_earth-constitution"
+  title: "A Constitution for the Federation of Earth"
+  publisher: "World Constitution and Parliament Association"
+  date: "1977"
+  url: "https://www.wcpa.global/en/constitution-for-the-federation-of-earth"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Art. 6: a five-member Presidium, one per continental division, with a presidency rotating yearly, elected by parliament, removable for cause, five-year terms and two consecutive at most; a 20-30 member Executive Cabinet; no veto. Art. 7: Senior Administrators nominated from World Civil Service Administration senior lists."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Articles 6-8 at https://earthconstitution.world/text-of-the-earth-constitution/; proposed text, never in force."
+
+- id: "gerring/2009_are-parliamentary-systems-better"
+  title: "Are Parliamentary Systems Better?"
+  authors: ["John Gerring", "Strom C. Thacker", "Carola Moreno"]
+  publisher: "Comparative Political Studies"
+  date: "2009"
+  url: "https://doi.org/10.1177/0010414008325573"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A global data set and 14 indicators show a strong relationship between parliamentarism and good governance."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI (vol. 42, no. 3); publisher page not opened."
+
+- id: "toro/2007_review-cheibub"
+  title: "Disipando mitos y abriendo interrogantes: Presidentialism, Parliamentarism and Democracy de José Antonio Cheibub"
+  authors: ["Sergio Toro"]
+  publisher: "Revista de Ciencia Política (Santiago)"
+  date: "2007"
+  url: "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2007000300012&lng=es&nrm=iso"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Cheibub accepts that presidential democracies have shorter life expectancy but attributes this to the countries that adopted presidentialism, chiefly their military legacy, using democracies from 1946 to 2002."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the Spanish review on SciELO Chile; Cheibub's book itself was not opened."
+
+- id: "tsebelis/2023_review-symposium-ganghof"
+  title: "Review symposium: Beyond presidentialism and parliamentarism"
+  authors: ["George Tsebelis", "Michael F. Thies", "José Antônio Cheibub", "Rosalind Dixon", "Daniel Bogéa"]
+  publisher: "European Political Science"
+  date: "2023"
+  url: "https://doi.org/10.1057/s41304-023-00426-9"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Quotes Ganghof (2021): a separation of powers may be desirable, but 'the constitutional concentration of executive power in a single human being' is not."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI; the symposium and Ganghof's book were not opened."
+
+- id: "worldbank/2026_wgi-government-effectiveness"
+  title: "Worldwide Governance Indicators: Government Effectiveness, governance score (0-100), 2025"
+  publisher: "World Bank"
+  date: "2026-09-25"
+  url: "https://api.worldbank.org/v2/country/CHE;BIH;URY;EST;UKR;NGA/indicator/GOV_WGI_GE.SC?source=3&date=2023:2025&format=json&per_page=100"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "2025 Government Effectiveness scores: Switzerland 92.6, Uruguay 70.0, Bosnia and Herzegovina 42.6, on a 0-100 scale."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON (lastupdated 2026-09-25) plus series metadata defining the 0-100 score."
+
+- id: "aristotle/1952_athenaion-politeia-ch43"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 43, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D43"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Officials of the regular administration appointed by lot, except a military treasurer, the spectacle-fund controllers and the superintendent of wells, elected by show of hands; all military officers elected; Council of 500 by lot, with its presidency rotating among tribes for 35 or 36 days."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read chapter 43, sections 1-2."
+
+- id: "evans-rauch/1999_bureaucracy-and-growth"
+  title: "Bureaucracy and Growth: A Cross-National Analysis of the Effects of 'Weberian' State Structures on Economic Growth"
+  authors: ["Peter Evans", "James E. Rauch"]
+  publisher: "American Sociological Review"
+  date: "1999-10"
+  url: "https://doi.org/10.2307/2657374"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "35 developing countries, 1970-1990: a Weberianness Scale of meritocratic recruitment and predictable, rewarding long-term careers significantly enhances growth, controlling for initial GDP per capita and human capital."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "JSTOR blocked; read a scanned JSTOR copy (rough OCR) hosted at akademik.apmd.ac.id: abstract and pp. 756-758."
+
+- id: "rauch-evans/2000_bureaucratic-structure-performance"
+  title: "Bureaucratic Structure and Bureaucratic Performance in Less Developed Countries"
+  authors: ["James E. Rauch", "Peter B. Evans"]
+  publisher: "Journal of Public Economics"
+  date: "2000-01"
+  url: "https://doi.org/10.1016/S0047-2727(99)00044-4"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Meritocratic recruitment is the most important structural feature for bureaucratic performance, then internal promotion and career stability; the importance of competitive salaries could not be clearly established."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the abstract of the working-paper version on eScholarship (qt0sb0w38d); the journal version may differ slightly."
+
+- id: "dahlstrom/2012_merit-of-meritocratization"
+  title: "The Merit of Meritocratization: Politics, Bureaucracy, and the Institutional Deterrents of Corruption"
+  authors: ["Carl Dahlström", "Víctor Lapuente", "Jan Teorell"]
+  publisher: "Political Research Quarterly"
+  date: "2012"
+  url: "https://doi.org/10.1177/1065912911408109"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In 52 countries, meritocratic recruitment reduces corruption; competitive salaries, career stability and internal promotion have no significant impact."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI (vol. 65, no. 3)."
+
+- id: "qog/2021_expert-survey-2020"
+  title: "The Quality of Government Expert Survey 2020 Dataset: Wave III (aggregate data and codebook)"
+  authors: ["Marina Nistotskaya", "Stefan Dahlberg", "Carl Dahlström", "Aksel Sundström", "Sofia Axelsson", "Cem Mert Dalli", "Natalia Alvarado Pachon"]
+  publisher: "Quality of Government Institute, University of Gothenburg"
+  date: "2021"
+  url: "https://www.gu.se/en/quality-government/qog-data/data-downloads/qog-expert-survey"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "Third wave: 117 countries, 996 experts; indicators for merit, patronage, tenure, closedness, political interference and impartiality. Correlations in the note (merit-impartiality +0.81, tenure +0.71, closedness -0.31, patronage -0.71, merit-interference -0.87) computed by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the dataset page and codebook_exp_20.pdf; downloaded qog_exp_agg_20.csv; Pearson correlations over pairwise complete countries, no controls."
+
+- id: "xu/2018_costs-of-patronage"
+  title: "The Costs of Patronage: Evidence from the British Empire"
+  authors: ["Guo Xu"]
+  publisher: "American Economic Review"
+  date: "2018-11"
+  url: "https://doi.org/10.1257/aer.20171339"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Colonial governors connected to their superior under patronage raised less revenue and invested less; the gaps disappeared after patronage appointments were abolished."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "akhtari/2022_political-turnover-bureaucratic-turnover"
+  title: "Political Turnover, Bureaucratic Turnover, and the Quality of Public Services"
+  authors: ["Mitra Akhtari", "Diana Moreira", "Laura Trucco"]
+  publisher: "American Economic Review"
+  date: "2022-02"
+  url: "https://doi.org/10.1257/aer.20171867"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "When a new party takes office in Brazilian municipalities, bureaucrats are replaced; test scores in municipal schools are 0.05-0.08 standard deviations lower."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "dal-bo/2013_strengthening-state-capabilities"
+  title: "Strengthening State Capabilities: The Role of Financial Incentives in the Call to Public Service"
+  authors: ["Ernesto Dal Bó", "Frederico Finan", "Martín A. Rossi"]
+  publisher: "The Quarterly Journal of Economics"
+  date: "2013-08"
+  url: "https://doi.org/10.1093/qje/qjt008"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Randomly varied salary offers in a Mexican recruitment drive: higher wages attracted more able applicants with no adverse selection on public-service motivation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "rasul-rogger/2018_management-of-bureaucrats"
+  title: "Management of Bureaucrats and Public Service Delivery: Evidence from the Nigerian Civil Service"
+  authors: ["Imran Rasul", "Daniel Rogger"]
+  publisher: "The Economic Journal"
+  date: "2018-02"
+  url: "https://doi.org/10.1111/ecoj.12418"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "4,721 projects in 63 federal organisations worth about US$800 million; 38% never started; one standard deviation more autonomy goes with 18% higher completion, more incentives and monitoring with 14% lower."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Publisher page blocked; read the June 2015 working paper (Wayback copy of the authors' UCL PDF). Effect sizes come from that version; the published abstract gives associations without numbers."
+
+- id: "rasul-rogger-williams/2021_ghana-civil-service"
+  title: "Management, Organizational Performance, and Task Clarity: Evidence from Ghana's Civil Service"
+  authors: ["Imran Rasul", "Daniel Rogger", "Martin J. Williams"]
+  publisher: "Journal of Public Administration Research and Theory"
+  date: "2021"
+  url: "https://doi.org/10.1093/jopart/muaa034"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "45 organisations and over 3,600 tasks: autonomy relates positively and incentives or monitoring negatively to task completion; monitoring is less harmful when tasks are clear."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI (vol. 31, no. 2)."
+
+- id: "alesina-summers/1993_cbi-macro-performance"
+  title: "Central Bank Independence and Macroeconomic Performance: Some Comparative Evidence"
+  authors: ["Alberto Alesina", "Lawrence H. Summers"]
+  publisher: "Journal of Money, Credit and Banking"
+  date: "1993-05"
+  url: "https://doi.org/10.2307/2077833"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In sixteen OECD countries, politically controlled central banks were more likely to produce high and variable inflation; little evidence of effects on growth or unemployment."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "ecb/2026_independence"
+  title: "Independence"
+  publisher: "European Central Bank"
+  date: "2026"
+  url: "https://www.ecb.europa.eu/ecb/our-values/independence/html/index.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The ECB takes no instructions; Executive Board members serve a non-renewable eight-year term and can be removed only for incapacity or serious misconduct."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page; raw text read on the check date."
+
+- id: "dla-piper/2026_slaughter-and-cook"
+  title: "Supreme Court overrules Humphrey's Executor, upholds Federal Reserve independence: Key takeaways from Trump v. Slaughter and Trump v. Cook"
+  authors: ["Samantha Chaifetz", "Peter Karanjia", "Joshua Gardner"]
+  publisher: "DLA Piper"
+  date: "2026-07-02"
+  url: "https://www.dlapiper.com/en-us/insights/publications/2026/07/supreme-court-overrules-humphreys-executor-upholds-federal-reserve-independence"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "On 29 June 2026, Trump v. Slaughter (6-3) overruled Humphrey's Executor, leaving most independent agency heads removable at will; Trump v. Cook (5-4) treated the Federal Reserve as an exception that 'operates at a deliberate remove from the ordinary political process'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Law-firm alert; the Supreme Court opinions themselves were not opened."
+
+- id: "unsd/2014_fundamental-principles"
+  title: "Fundamental Principles of Official Statistics (General Assembly resolution 68/261)"
+  publisher: "United Nations Statistics Division"
+  date: "2014-01-29"
+  url: "https://unstats.un.org/fpos/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Endorsed by General Assembly resolution 68/261 of 29 January 2014; Principle 2 'strictly professional considerations'; Principle 4 agencies may comment on misuse; Principle 6 individual data strictly confidential."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the UNSD page carrying the full text of the ten principles."
+
+- id: "eurostat/2010_greek-deficit-report"
+  title: "Report on Greek Government Deficit and Debt Statistics, COM(2010) 1 final"
+  publisher: "European Commission (Eurostat)"
+  date: "2010-01-08"
+  url: "https://ec.europa.eu/eurostat/documents/4187653/6404656/COM_2010_report_greek/c8523cfa-d3c1-4954-8ea1-64bb11e59b3a"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "In October 2009 the planned 2009 deficit was revised from 3.7% to 12.5% of GDP; severe irregularities; fiscal statistics 'subject to political pressures and electoral cycles'; statistics service lacked independence from the Ministry of Finance."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the PDF (Brussels, 8 January 2010), introduction and findings."
+
+- id: "imf/2013_pr13-33-argentina-censure"
+  title: "Statement by the IMF Executive Board on Argentina (Press Release No. 13/33)"
+  publisher: "International Monetary Fund"
+  date: "2013-02-01"
+  url: "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr1333"
+  tier: "primary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "On 1 February 2013 the IMF issued a declaration of censure against Argentina over inaccurate CPI-GBA and GDP data."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "imf.org returned 403; read the Wayback Machine capture of 4 November 2024."
+
+- id: "wikipedia/2026_bureau-of-labor-statistics"
+  title: "Bureau of Labor Statistics"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "On 1 August 2025 the US president announced he would fire Commissioner Erika McEntarfer, hours after a downward revision in the July jobs report."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Section 'Firing of Commissioner McEntarfer'; the news sources it cites were not opened."
+
+- id: "bloomberg-law/2026_matsumoto-confirmed"
+  title: "Trump's BLS Pick Brett Matsumoto Confirmed in Senate Vote"
+  authors: ["Maya Prakash", "Molly Smith", "Mark Niquette"]
+  publisher: "Bloomberg Law (Bloomberg News)"
+  date: "2026-08-07"
+  url: "https://news.bloomberglaw.com/payroll/trumps-bls-pick-brett-matsumoto-confirmed-in-senate-vote"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "The Senate confirmed Brett Matsumoto as BLS commissioner 51-47, after the president abruptly fired his predecessor the year before."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Opening paragraphs readable without a subscription; article dated 7 August 2026."
+
+- id: "intosai/1977_lima-declaration"
+  title: "INTOSAI-P 1: The Lima Declaration of Guidelines on Auditing Precepts"
+  publisher: "International Organization of Supreme Audit Institutions (INTOSAI)"
+  date: "1977"
+  url: "https://www.issai.org/wp-content/uploads/2019/08/INTOSAI-P-1-The-Lima-Declaration.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Audit independence and removal procedures to be laid down in the constitution (ss. 5-6); financial means (s. 7); audited bodies must comment and state measures taken (s. 11); annual, independent, published reports to parliament (s. 16)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read sections 1, 5-7, 11 and 16 of the PDF."
+
+- id: "ferraz-finan/2008_exposing-corrupt-politicians"
+  title: "Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes"
+  authors: ["Claudio Ferraz", "Frederico Finan"]
+  publisher: "The Quarterly Journal of Economics"
+  date: "2008-05"
+  url: "https://doi.org/10.1162/qjec.2008.123.2.703"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Releasing randomly assigned municipal audit results before the 2004 elections significantly affected incumbents' electoral performance, more where local radio was present."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "avis/2018_do-government-audits-reduce-corruption"
+  title: "Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians"
+  authors: ["Eric Avis", "Claudio Ferraz", "Frederico Finan"]
+  publisher: "Journal of Political Economy"
+  date: "2018-10"
+  url: "https://doi.org/10.1086/699209"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Being audited in the past reduces future corruption by 8% and raises the likelihood of later legal action by 20%."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI; the NBER working-paper version was not opened."
+
+- id: "olken/2007_monitoring-corruption"
+  title: "Monitoring Corruption: Evidence from a Field Experiment in Indonesia"
+  authors: ["Benjamin A. Olken"]
+  publisher: "Journal of Political Economy"
+  date: "2007-04"
+  url: "https://doi.org/10.1086/517935"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "In over 600 village road projects, raising audit probability from 4% to 100% cut missing expenditures by eight percentage points; grassroots monitoring had little average impact."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record for the DOI."
+
+- id: "oecd/2014_governance-of-regulators"
+  title: "The Governance of Regulators (OECD Best Practice Principles for Regulatory Policy)"
+  publisher: "OECD Publishing"
+  date: "2014-07-29"
+  url: "https://doi.org/10.1787/9789264209015-en"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Seven principles: role clarity; preventing undue influence and maintaining trust; decision making and governing body structure; accountability and transparency; engagement; funding; performance evaluation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Box 0.1 and the contents of the PDF downloaded from oecd.org."
+
+- id: "carpenter-moss/2013_preventing-regulatory-capture"
+  title: "Preventing Regulatory Capture: Special Interest Influence and How to Limit It"
+  authors: ["Daniel Carpenter", "David A. Moss"]
+  publisher: "Cambridge University Press"
+  date: "2013-10-21"
+  url: "https://doi.org/10.1017/CBO9781139565875"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Seventeen scholars argue that capture is often misdiagnosed and may be preventable and manageable."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher abstract via OpenAlex, which lists no editors; editor names follow the existing long-view record."
+
+- id: "ria/2026_x-tee-factsheet"
+  title: "X-tee factsheet (Estonia) and its data files"
+  publisher: "Information System Authority (RIA), Estonia"
+  date: "2026-10-01"
+  url: "https://www.x-tee.ee/factsheets/EE/"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "The time-saving figure assumes 3% of requests are citizen-initiated and each saves 15 minutes, with no estimates for other queries; the script divides saved hours by 24 x 365; 3,736,807,218 queries in 2025 and 385,254,845 in September 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the factsheet page, js/calc.js, js/data.js and js/data_v6.json (last_update 1 October 2026); yearly counts and the 2025 saved-hours figure computed by claude."
+
+- id: "e-estonia/2026_x-road"
+  title: "X-Road"
+  publisher: "e-Estonia (Estonian Business and Innovation Agency)"
+  date: "2026"
+  url: "https://e-estonia.com/solutions/interoperability-services/x-road/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Claims 78,000 organisations as indirect users, 2.2 billion transactions a year and over 3,800 e-services."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page, redirecting to /service/interoperability-services/x-road/."
+
+- id: "e-estonia/2026_facts-and-figures"
+  title: "Facts and figures"
+  publisher: "e-Estonia (Estonian Business and Innovation Agency)"
+  date: "2026"
+  url: "https://e-estonia.com/facts-and-figures/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Claims 100% of state services online and 99% of residents holding an ID card."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page; figures in the 'Electronic ID & digital state services' block."
+
+- id: "riigikontroll/2019_e-state-speech"
+  title: "Speech of Auditor General Janar Holm at the Riigikogu on 13 November 2019 about the problems related to the use and preservation of state assets – #e-state"
+  authors: ["Janar Holm"]
+  publisher: "National Audit Office of Estonia (Riigikontroll)"
+  date: "2019-11-13"
+  url: "https://riigikontroll.ee/en/speech-auditor-general-janar-holm-riigikogu-13-november-2019-about-problems-related-use-and"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "The audit office found no information on central government IT costs; EU grants fund new IT development but not maintenance; un-updated systems 'will start dictating political choices'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the English speech; the underlying 2019 annual report was not opened."
+
+- id: "uidai/2026_homepage-counters"
+  title: "UIDAI homepage: Aadhaar dashboard counters"
+  publisher: "Unique Identification Authority of India"
+  date: "2026"
+  url: "https://uidai.gov.in/en/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "145.32 crore Aadhaar enrolments and 2,632.51 crore eKYC transactions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Counters re-read on 11 October 2026; they carry no as-of date and count enrolments, not living holders."
+
+- id: "outlook-money/2026_upi-september"
+  title: "UPI Processes 24.07 Billion Transactions Worth Rs 29.37 Lakh Crore In September"
+  authors: ["Manas Malhotra"]
+  publisher: "Outlook Money"
+  date: "2026-10-02"
+  url: "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "UPI processed 24.07 billion transactions worth Rs 29.37 lakh crore in September 2026; volume up 23% year on year."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "NPCI's statistics page needs JavaScript and its API returned errors, so NPCI's September 2026 figures were read through this report."
+
+- id: "govtech-sg/2026_singpass"
+  title: "Singpass"
+  publisher: "Government Technology Agency of Singapore (GovTech)"
+  date: "2026-09-15"
+  url: "https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Over 2,700 services across 800 government agencies and businesses; over 41 million transactions a month by 5 million users."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page last updated 15 September 2026."
+
+- id: "ukraine-cmu/2024_diia-21-million"
+  title: "Over 21 million Ukrainians use Diia, with 24 documents and over 30 services available"
+  publisher: "Cabinet of Ministers of Ukraine (Ministry of Digital Transformation)"
+  date: "2024-10-30"
+  url: "https://www.kmu.gov.ua/en/news/ponad-21-milion-ukraintsiv-korystuiutsia-diieiu-de-dostupni-24-dokumenty-ta-ponad-30-servisiv"
+  tier: "primary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "Over 21 million Diia users, with 24 documents and over 30 services, on 30 October 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Headline and posting date read on the government portal."
+
+- id: "razom/2026_diia-24-million"
+  title: "Every second adult Ukrainian in the app: what they really search for in Diia in 2026"
+  publisher: "Razom (razomua.media)"
+  date: "2026-05-25"
+  url: "https://razomua.media/en/news/tekhnolohiyi/kozhen-druhyy-doroslyy-ukrayinets-u-zastosunku-shcho-realno-shukayut-u-diyi-u-2026-mu"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "Over 24 million Ukrainians use the Diia app and nearly 7 million more the portal, per Ministry of Digital Transformation statistics."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article of 25 May 2026; the Ministry's own release was not opened."
+
+- id: "diia/2026_portal"
+  title: "Дія: державні послуги онлайн (Diia portal)"
+  publisher: "Ministry of Digital Transformation of Ukraine"
+  date: "2026"
+  url: "https://diia.gov.ua/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "The portal offers an AI assistant, Diia.AI ('Дія.АІ асистент'), after login."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Homepage read on the check date."
+
+- id: "muralidharan/2020_identity-verification-standards"
+  title: "Identity Verification Standards in Welfare Programs: Experimental Evidence from India (NBER Working Paper 26744)"
+  authors: ["Karthik Muralidharan", "Paul Niehaus", "Sandip Sukhtankar"]
+  publisher: "National Bureau of Economic Research"
+  date: "2020-02"
+  url: "https://www.nber.org/papers/w26744"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "Biometric ID requirements in India's largest social protection programme cut corruption, but 1.5-2 million legitimate beneficiaries lost access at some point, driven mainly by how the transition was managed."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Abstract on the NBER page (revised September 2021)."
+
+- id: "nao/2018_rolling-out-universal-credit"
+  title: "Rolling out Universal Credit (HC 1123, Session 2017-2019)"
+  publisher: "National Audit Office (UK)"
+  date: "2018-06-15"
+  url: "https://www.nao.org.uk/reports/rolling-out-universal-credit/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Original completion date October 2017, reset in 2013, completion delayed to March 2023; £1.9 billion spent; £837 million on the live service; 113,000 late payments of new claims in 2017; 38% of claimants able to verify identity online in March 2018 against 80% forecast for 2024-25; 'not value for money now'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the report page and the summary PDF (key facts, paras 2-6)."
+
+- id: "hhs-oig/2016_healthcare-gov-case-study"
+  title: "HealthCare.gov: Case Study of CMS Management of the Federal Marketplace (OEI-06-14-00350)"
+  publisher: "US Department of Health and Human Services, Office of Inspector General"
+  date: "2016"
+  url: "https://oig.hhs.gov/oei/reports/oei-06-14-00350.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Outages at the 1 October 2013 launch; absence of clear leadership, resistance to bad news, path dependency and a mismanaged key contract; 5.4 million selected plans by the end of the first open enrolment period."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the executive summary and key findings; the PDF cites data as of 1 February 2016, but its exact release date was not found in the text."
+
+- id: "robodebt-rc/2023_report"
+  title: "Report of the Royal Commission into the Robodebt Scheme"
+  publisher: "Royal Commission into the Robodebt Scheme (Australia)"
+  date: "2023-07-07"
+  url: "https://robodebt.royalcommission.gov.au/publications/report"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "IX"]
+  supports: "Income averaging was inaccurate and did not comply with the Social Security Act; the launch package was expected to save $1.7 billion over five years; $746 million refunded to some 381,000 people and $1.751 billion of debts written off; 'a crude and cruel mechanism, neither fair nor legal'; recommendations 17.1 and 17.2 on publishing algorithms and auditing automated decisions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the recommendations list on the report page and Volume 1 (preface and executive summary) via pdftotext."
+
+- id: "tweede-kamer/2020_ongekend-onrecht"
+  title: "Ongekend onrecht: verslag van de Parlementaire ondervragingscommissie Kinderopvangtoeslag"
+  publisher: "Tweede Kamer der Staten-Generaal"
+  date: "2020-12-17"
+  url: "https://www.tweedekamer.nl/sites/default/files/atoms/files/20201217_eindverslag_parlementaire_ondervragingscommissie_kinderopvangtoeslag.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "IX"]
+  supports: "Fundamental principles of the rule of law were violated ('grondbeginselen van de rechtsstaat zijn geschonden'), with blame on the tax administration, the legislature and the administrative courts; an all-or-nothing approach; no hardship clause in the law."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the 'Constateringen' section (pp. 6-7) in Dutch; translation by claude."
+
+- id: "dutch-dpa/2021_tax-administration-fine"
+  title: "Tax Administration fined for discriminatory and unlawful data processing"
+  publisher: "Autoriteit Persoonsgegevens (Dutch Data Protection Authority)"
+  date: "2021-12-07"
+  url: "https://www.autoriteitpersoonsgegevens.nl/en/current/tax-administration-fined-for-discriminatory-and-unlawful-data-processing"
+  tier: "primary"
+  kind: "news"
+  parts: ["VII", "IX"]
+  supports: "€2.75 million fine for unlawful, discriminatory processing of nationality data; nationality was an indicator in a system that 'automatically designated certain applications as risky'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "English press release read."
+
+- id: "wikipedia/2026_dutch-childcare-benefits-scandal"
+  title: "Dutch childcare benefits scandal"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The third Rutte cabinet resigned on 15 January 2021."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Lead section; the cited news reports (CNBC, The Guardian) were not opened."
+
+- id: "netherlands-finance/2026_herstel-toeslagen-vgr23"
+  title: "Voortgangsrapportage hersteloperatie toeslagen, januari-juni 2026 (23e VGR)"
+  publisher: "Ministerie van Financiën (Netherlands), published by the Eerste Kamer"
+  date: "2026-09-17"
+  url: "https://www.eerstekamer.nl/bijlage/20260918/voortgangsrapportage/document3/f=/vn11kkbagwib.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "As of 30 June 2026: 69,679 registrations; 44,045 parents recognised as victims; 43,363 payments of at least €30,000; about €1.07 billion of public debts written off; over €62.5 million paid in statutory penalties for late decisions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Table 1.1 and chapters 1 and 3 of the version dated 17 September 2026."
+
+- id: "rechtbank-den-haag/2020_syri"
+  title: "SyRI judgment, ECLI:NL:RBDHA:2020:1878 (English translation)"
+  publisher: "Rechtbank Den Haag (District Court of The Hague)"
+  date: "2020-02-05"
+  url: "https://uitspraken.rechtspraak.nl/api/document/?id=ECLI:NL:RBDHA:2020:1878"
+  tier: "primary"
+  kind: "court"
+  parts: ["VII", "IX"]
+  supports: "The SyRI legislation fails Article 8(2) ECHR because its application is 'insufficiently transparent and verifiable'; it is unlawful and has no binding effect."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the summary of the English translation via the rechtspraak.nl document API (DatumUitspraak 2020-02-05); the human-readable page needs JavaScript."
+
+- id: "oecd/2025_governing-with-ai"
+  title: "Governing with Artificial Intelligence: The State of Play and Way Forward in Core Government Functions"
+  publisher: "OECD Publishing"
+  date: "2025-09-18"
+  url: "https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "200 government AI use cases analysed; many government initiatives remain in the pilot phase, partly for lack of impact measurement frameworks."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the publication page's introduction and key figures; the full report was not read."
+
+- id: "uk-gds/2025_copilot-cross-government"
+  title: "Microsoft 365 Copilot Experiment: Cross-Government Findings Report"
+  publisher: "Government Digital Service (UK)"
+  date: "2025-06"
+  url: "https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report/microsoft-365-copilot-experiment-cross-government-findings-report-html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "20,000 government employees, 30 September to 31 December 2024; an average 26 minutes a day saved, estimated from midpoints of user-reported ranges."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read sections 1.2, 2.2 and 4 of the HTML report."
+
+- id: "uk-dbt/2025_copilot-evaluation"
+  title: "Evaluation of the M365 Copilot pilot in the Department for Business and Trade"
+  publisher: "Department for Business and Trade (UK)"
+  date: "2025-08-28"
+  url: "https://assets.publishing.service.gov.uk/media/68adbe409e1cebdd2c96a19d/dbt-microsoft-365-copilot-evaluation.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The evaluation 'did not find evidence that time savings have led to improved productivity'; respondents reported hallucinations."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the executive summary of the PDF."
+
+- id: "european-commission/2026_ai-act-framework"
+  title: "AI Act (regulatory framework for AI)"
+  publisher: "European Commission, Shaping Europe's digital future"
+  date: "2026"
+  url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "AI used to give access to essential public services is high-risk; after the AI Omnibus (political agreement 7 May 2026, in force 27 July 2026), Annex III high-risk rules apply from 2 December 2027."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page read on the check date; the Omnibus regulation text was not opened."
+
+- id: "uk-gds/2025_atrs-hub"
+  title: "Algorithmic Transparency Recording Standard Hub"
+  publisher: "Government Digital Service (UK)"
+  date: "2025-05-08"
+  url: "https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "The standard is mandatory for all government departments and for arm's-length bodies that deliver public or frontline services; 152 records listed on 11 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Hub page last updated 8 May 2025; the count of 152 comes from a GOV.UK search API query (filter_format=algorithmic_transparency_record) run by claude."
+
+- id: "ceb/2026_financial-statistics"
+  title: "CEB Financial Statistics: revenue and expenses by entity (CSV downloads)"
+  publisher: "United Nations System Chief Executives Board for Coordination"
+  date: "2026"
+  url: "https://unsceb.org/assets/data/FS/revenue_sub_agency.csv"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "XII"]
+  supports: "UN system revenue of $62.97 billion and expenses of $64.40 billion in 2025, summed by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded revenue_sub_agency.csv and expenses_sub_agency.csv from unsceb.org/data-download and summed by calendar year; 2025 lacks one entity (ITC) that reported in 2024."
+
+- id: "ceb/2026_hr-statistics"
+  title: "CEB Human Resources Statistics: staff by organization (CSV download)"
+  publisher: "United Nations System Chief Executives Board for Coordination"
+  date: "2026"
+  url: "https://unsceb.org/assets/data/HR/organization.csv"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "XII"]
+  supports: "UN system staff of 133,126 in 2023 and 120,176 in 2025; 31,873 staff under the United Nations itself (including regional commissions and peace missions) in 2025; sums by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded organization.csv and summed STAFF by year; some small bodies are filed under different organisations in different years."
+
+- id: "un/2025_ga-ab-4507-budget-2026"
+  title: "Fifth Committee Approves $3.45 Billion Proposed Budget for 2026, Reflecting Deep Cuts in Financial Resources, Staff Posts (GA/AB/4507)"
+  publisher: "United Nations, Meetings Coverage and Press Releases"
+  date: "2025-12-30"
+  url: "https://press.un.org/en/2025/gaab4507.doc.htm"
+  tier: "primary"
+  kind: "news"
+  parts: ["VIII", "XII"]
+  supports: "2026 programme budget of $3.45 billion; about 15% cut in resources and nearly 19% in staffing; 2,900 positions abolished; arrears of $1.586 billion on 1 December 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Committee-stage approval on 30 December 2025; the plenary adoption record was not opened."
+
+- id: "european-commission/2026_mff-headings"
+  title: "2021-2027 long-term EU budget and NextGenerationEU: spending categories"
+  publisher: "European Commission"
+  date: "2026"
+  url: "https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/2021-2027/spending/headings_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XII"]
+  supports: "MFF of €1,210.9 billion plus NextGenerationEU of €806.9 billion in current prices; Heading 7 European Public Administration €82.5 billion."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Allocation table on the page; shares, yearly averages and per-resident figures computed by claude."
+
+- id: "european-commission/2026_revenue-ceilings"
+  title: "Revenue ceilings: 2021-2027 long-term EU budget"
+  publisher: "European Commission"
+  date: "2026"
+  url: "https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/2021-2027/revenue/revenue-ceilings_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "Own-resources ceilings of 1.46% of EU GNI for commitments and 1.40% for payments, raised temporarily by 0.6 percentage points for NextGenerationEU."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page read on the check date."
+
+- id: "eurostat/2026_eu-gdp-2025"
+  title: "GDP and main components (nama_10_gdp): EU27, current prices, 2024-2025"
+  publisher: "Eurostat"
+  date: "2026-10-09"
+  url: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?geo=EU27_2020&na_item=B1GQ&unit=CP_MEUR&time=2024&time=2025&format=JSON&lang=EN"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "EU27 GDP of €18,856,104.9 million in 2025, used for the long-term budget share computed by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON updated 2026-10-09; GDP used as a proxy for GNI."
+
+- id: "eurostat/2026_eu-population-2026"
+  title: "Population change, demographic balance (demo_gind): EU27 population on 1 January 2026"
+  publisher: "Eurostat"
+  date: "2026-09-30"
+  url: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_gind?geo=EU27_2020&indic_de=JAN&time=2025&time=2026&format=JSON&lang=EN"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "EU27 population of 451,990,314 on 1 January 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON updated 2026-09-30."
+
+- id: "worldbank/2026_wdi-world-gdp"
+  title: "World Development Indicators: GDP (current US$), World (NY.GDP.MKTP.CD), 2025"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/WLD/indicator/NY.GDP.MKTP.CD?date=2023:2025&format=json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "World GDP of $118.35 trillion in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON (lastupdated 2026-10-08), value 118,350,166,039,396."
+
+- id: "worldbank/2026_wdi-world-population-2025"
+  title: "World Development Indicators: Population, total, World (SP.POP.TOTL), 2025"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/WLD/indicator/SP.POP.TOTL?date=2023:2025&format=json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["XII"]
+  supports: "World population of 8,215,424,893 in 2025, used for per-terran figures computed by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON (lastupdated 2026-10-08)."

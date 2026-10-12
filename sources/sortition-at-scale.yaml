@@ -1,0 +1,695 @@
+- id: "guerrero/2021_single-issue-legislatures"
+  title: "The Promise and Peril of Single-Issue Legislatures"
+  authors: ["Alexander A. Guerrero"]
+  publisher: "Georgetown Journal of Law & Public Policy (PDF on the journal's website)"
+  date: "2021-09"
+  url: "https://www.law.georgetown.edu/public-policy-journal/wp-content/uploads/sites/23/2021/09/Guerrero.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Lottocratic design: 30 single-issue bodies of 300, three-year staggered terms with 100 replaced yearly, voluntary service, pay of 'perhaps around $500,000 each year' conditional on no prohibited contacts, two sessions a year, self-set agendas, drafting aides and public comment; concedes coherence, budgeting, log-rolling and taxonomy problems and proposes meta-assemblies."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full 29-page PDF (created 24 September 2021): the specification of lottocratic single-issue legislatures and the closing section on concerns."
+
+- id: "guerrero/2014_against-elections"
+  title: "Against Elections: The Lottocratic Alternative"
+  authors: ["Alexander A. Guerrero"]
+  publisher: "Philosophy & Public Affairs"
+  date: "2014"
+  url: "https://doi.org/10.1111/papa.12029"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Guerrero's original lottocracy article; cited only to record that it could not be opened."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "unverified"
+    note: "The DOI resolved to onlinelibrary.wiley.com, which returned HTTP 403, and no open copy was found. Design figures in the note come from the 2021 article and the 2026 review instead."
+
+- id: "greene/2026_review-guerrero-lottocracy"
+  title: "Review of Alexander Guerrero, Lottocracy: Democracy Without Elections (Oxford University Press, 2024)"
+  authors: ["Amanda Greene"]
+  publisher: "Notre Dame Philosophical Reviews"
+  date: "2026-04"
+  url: "https://ndpr.nd.edu/reviews/lottocracy-democracy-without-elections/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Lottocracy (2024) proposes 20 single-issue lottery-selected legislatures of 450 members, executive and structural assemblies, and lifetime odds of serving of roughly 12%; the reviewer warns lottocracy has 'no obvious outlet for mass movements of reform'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full review (NDPR 2026.04.2) in raw text; design figures in its opening paragraph, the outlet quote in its critique of political competition."
+
+- id: "gastil/2018_legislature-by-lot"
+  title: "Legislature by Lot: Envisioning Sortition within a Bicameral System"
+  authors: ["John Gastil", "Erik Olin Wright"]
+  publisher: "Politics & Society"
+  date: "2018-09"
+  url: "https://ideas.repec.org/a/sae/polsoc/v46y2018i3p303-330.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Gastil and Wright argue for a bicameral system pairing an elected chamber with a sortition chamber, and discuss sampling, training and deliberative procedure."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "The SAGE full text returned HTTP 403; read the abstract on RePEc/IDEAS (vol. 46, no. 3, pp. 303–330). Terms, pay and removal come from the Buge review."
+
+- id: "buge/2019_assemblee-parlementaire-tiree-au-sort"
+  title: "Une assemblée parlementaire tirée au sort ? (review of Gastil and Wright, eds, Legislature by Lot)"
+  authors: ["Éric Buge"]
+  publisher: "La Vie des idées"
+  date: "2019-07-17"
+  url: "https://laviedesidees.fr/Une-assemblee-parlementaire-tiree-au-sort"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Gastil and Wright's design: elected and allotted chambers of equal power, two- or five-year terms, the same pay as elected members, internal removal, committees and staff; Mansbridge's opposition to a system based entirely on lot; no fully empowered allotted assembly has existed; 77% of Belgian MPs against 40% of citizens opposed an allotted chamber in 2017; contributors favour gradual steps."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full review in French. The Mansbridge quote (book p. 193) and the Vandamme et al. survey figures (book p. 127) are as reported by the reviewer."
+
+- id: "landemore/2020_open-democracy"
+  title: "Open Democracy: Reinventing Popular Rule for the Twenty-First Century"
+  authors: ["Hélène Landemore"]
+  publisher: "Princeton University Press"
+  date: "2020-10-13"
+  url: "https://press.princeton.edu/books/hardcover/9780691181998/open-democracy"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The 'open mini-public': a large, all-purpose, randomly selected assembly of 150 to about a thousand people, meeting from a few days to a few years for agenda-setting and law-making, connected to the wider public through crowdsourcing platforms; five principles including participatory rights and the majoritarian principle."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the publisher page (five principles) and the publisher's sample PDF of chapter 1 (definition of the open mini-public)."
+
+- id: "abizadeh/2021_sortition-second-chamber"
+  title: "Representation, Bicameralism, Political Equality, and Sortition: Reconstituting the Second Chamber as a Randomly Selected Assembly"
+  authors: ["Arash Abizadeh"]
+  publisher: "Perspectives on Politics"
+  date: "2021-09"
+  url: "https://doi.org/10.1017/S1537592719004626"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Argues for one elected chamber and one chamber selected by lot, reconstituting Canada's Senate as a randomly selected citizen assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core only (vol. 19, issue 3, pp. 791–806); the full text is paywalled and PhilPapers returned a bot challenge."
+
+- id: "bouricius/2013_multi-body-sortition"
+  title: "Democracy Through Multi-Body Sortition: Athenian Lessons for the Modern Day"
+  authors: ["Terrill G. Bouricius"]
+  publisher: "Journal of Public Deliberation"
+  date: "2013-04-30"
+  url: "https://doi.org/10.16997/jdd.156"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Multi-body design: Agenda Council, self-selected Interest Panels of about a dozen, Review Panels of about 150 (full-time, overlapping terms of about three years), Policy Juries of at least 400 voting by secret ballot without debate, Rules and Oversight Councils; Athens drew 6,000 citizens a year and sub-panels per case."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full PDF from delibdemjournal.org (vol. 9, issue 1, art. 11): sections 2.3 and 3.1–3.7 and Table 1."
+
+- id: "lafont/2024_lottocratic-mentality"
+  title: "The Lottocratic Mentality: Defending Democracy against Lottocracy"
+  authors: ["Cristina Lafont", "Nadia Urbinati"]
+  publisher: "Oxford University Press"
+  date: "2024-11"
+  url: "https://academic.oup.com/book/58966"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Argues that a 'lottocratic mentality' promoting allotted assemblies with legislative power undermines electoral representation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Direct fetches hit a bot challenge; the landing-page description was read only through a summarising fetch tool, so nothing beyond the title phrase is quoted."
+
+- id: "buergerdialog/2026_stand-der-dinge"
+  title: "Stand der Dinge (Bürgerdialog in Ostbelgien)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2026"
+  url: "https://www.buergerdialog.be/hintergrund/stand-der-dinge/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Status in October 2026: the eighth assembly (spatial planning, about 30 members) meets in autumn 2026; the seventh (seniors) is reviewed in early 2027; assemblies one to six are complete."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read status entries 1–8, in German."
+
+- id: "ostbelgien/2019_buergerdialog-decree"
+  title: "Dekret vom 25. Februar 2019 zur Einführung eines permanenten Bürgerdialogs in der Deutschsprachigen Gemeinschaft (consolidated, as amended 22 April 2024)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2019-02-25"
+  url: "https://static.buergerdialog.be/wp-content/uploads/20190225buergerdialog-dekretabgeaendertam20240422dt-1.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "At most five assemblies per parliamentary term (2024 amendment); assemblies of 25–50 drawn by lot; consensus or a four-fifths majority with dissent attached; attendance fee of EUR 37.50, indexed and doubled beyond four hours; a council of 24 former members, a third replaced after each assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the consolidated text: Art. 3 §§1, 2, 5, 6 and Art. 4 §§1, 4, with footnotes marking the amendments of 22 April 2024."
+
+- id: "pdg/2025_buergerdialog-evaluation-2019-2024"
+  title: "Der permanente Bürgerdialog in der Deutschsprachigen Gemeinschaft Belgiens: Auswertung (2019–2024) (Schriftenreihe Band 23)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2025"
+  url: "https://static.buergerdialog.be/wp-content/uploads/band-23-der-permanente-buergerdialog-in-der-deutschsprachigen-gemeinschaft-belgiens-auswertung-2019-2024.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Positive replies fell from 115 of 1,000 (11.5%) to 75 of 2,000 (3.75%), and mailings rose to 1,500 and 2,000; young people and non-graduates replied least; 16 of 25, 14 of 25 and 21 of 30 stayed to the end; 5 of 14 first-assembly recommendations implemented and 9 partly; no objective impact measure; yearly government reporting since 2023; one assembly a year recommended; no political steering of topics; council rotation slipped and successor pools ran short, with reserve lists since 2023; the Council of State's objection to regulatory powers for the council."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read sections 4.3, 4.6, 5 and 6 and Table 1 (ISBN 978-3-948311-13-1). The table's 3.84% for the seventh draw conflicts with its own footnote (3.75%) and the counts."
+
+- id: "pdg/2023_wohnen-abschlussbericht"
+  title: "Empfehlungen der Bürgerversammlung vom 19. Februar 2022 zum Thema „Wohnraum für alle!“: Abschlussbericht (Dokument 186 (2023-2024) Nr. 3)"
+  publisher: "Parlament der Deutschsprachigen Gemeinschaft Belgiens"
+  date: "2023-11-06"
+  url: "https://static.buergerdialog.be/wp-content/uploads/1862023-2024nr3bv3-wohnenabschlussbericht-1.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The housing assembly made 45 recommendations after six sessions; the committee's closing remarks say not all can be implemented."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the introduction and the parliamentary groups' closing remarks, in German."
+
+- id: "niessen/2022_institutionalising-citizen-deliberation"
+  title: "Institutionalising Citizen Deliberation in Parliament: The Permanent Citizens' Dialogue in the German-speaking Community of Belgium"
+  authors: ["Christoph Niessen", "Min Reuchamps"]
+  publisher: "Parliamentary Affairs"
+  date: "2022"
+  url: "https://research.dial.uclouvain.be/handle/2078.5/243466"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Parliament allocated EUR 90,000 to the dialogue in 2019; the original decree allowed one to three assemblies a year; the attendance fee was EUR 64 in 2019 terms."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the open author version from UCLouvain's repository, section 2.1 (published in vol. 75, no. 1, pp. 135–153)."
+
+- id: "baglietto/2026_bv7-beobachtungsbericht"
+  title: "Beobachtungsbericht zur siebten Bürgerversammlung des Permanenten Bürgerdialogs in Ostbelgien"
+  authors: ["Cecilia Baglietto", "Christoph Niessen", "Pieter Velghe", "Min Reuchamps"]
+  publisher: "Université catholique de Louvain (ISPOLE), for the Parliament of the German-speaking Community"
+  date: "2026-05"
+  url: "https://static.buergerdialog.be/wp-content/uploads/bericht-bv7uclouvain.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "People who declined the seventh assembly gave five reasons: Saturday commitments, fear of talking politics in front of others, fear of political engagement, scepticism about participation, and not knowing what the dialogue is."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read section 1 (composition) in German."
+
+- id: "paris/2025_assemblee-citoyenne-promotion-3"
+  title: "Assemblée citoyenne de Paris : une troisième promotion au cœur de la fabrique de l'action publique"
+  publisher: "Ville de Paris"
+  date: "2025-07-11"
+  url: "https://www.paris.fr/pages/assemblee-citoyenne-de-paris-une-troisieme-promotion-au-coeur-de-la-fabrique-de-l-action-publique-29056"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "100 members a year (80 from electoral rolls, 15 non-EU residents, 5 aged 16–17); a bailiff witnessed the July 2024 lottery; the drafting group chose among four topics proposed by the Mayor and deputies; measures were 'co-validated' with the administration and executive and adopted by the Council of Paris on 2 July 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the whole page (updated 11/07/2025), in French."
+
+- id: "paris/2025_livret-suivi-promotion-1"
+  title: "Assemblée citoyenne, 1re promotion 2021–2023 : livret de suivi des mesures citoyennes (2e édition)"
+  publisher: "Ville de Paris"
+  date: "2025-07"
+  url: "https://cdn.paris.fr/paris/2025/07/02/ac1-ii_livret-de-suivi-des-mesures-citoyennes-juillet-2025-vf-compresse-56wT.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The first cohort (November 2021 to March 2023) chose three topics, and the Council adopted three motions in March 2023; follow-up booklets mark each recommendation done, in progress or not done."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the introduction, calendar and recommendation tables. Status marks are icons, so counts of done and not done could not be extracted."
+
+- id: "paris/2025_livret-suivi-promotion-2"
+  title: "Assemblée citoyenne, 2e promotion 2023–2024 : livret de suivi des mesures citoyennes (1re édition)"
+  publisher: "Ville de Paris"
+  date: "2025-07"
+  url: "https://cdn.paris.fr/paris/2025/07/02/ac2-i_livret-de-suivi-des-recommandations-juillet-2025-vf-compresse-3Uht.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The second cohort (July 2023 to June 2024) took one topic of its own and one referred by the executive; the Council adopted a motion and a draft decision in July 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the introduction and calendar, in French."
+
+- id: "paris/2026_adjoints-du-maire"
+  title: "Qui sont les adjoint(e)s du maire de Paris ?"
+  publisher: "Ville de Paris"
+  date: "2026-03-30"
+  url: "https://www.paris.fr/pages/qui-sont-les-adjoint-e-s-du-maire-de-paris-34422"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "After the March 2026 election, the deputy mayor for participation covers associations, public debate, citizen conventions and referendums, participatory budgeting and local democracy; the Assemblée citoyenne is not named."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the list of deputies (updated 30/03/2026), entry for Marine Rosset."
+
+- id: "oecd-opsi/2022_brussels-deliberative-committees"
+  title: "Deliberative Committees (Commissions délibératives)"
+  publisher: "OECD Observatory of Public Sector Innovation"
+  date: "2022-11-24"
+  url: "https://oecd-opsi.org/innovations/deliberative-committees-brussels/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Brussels committees of 45 citizens and 15 MPs; 10,000 letters, then a second draw stratified by gender, age, place, language and education; topics from 1,000-signature suggestions or political groups; a public follow-up report after six to nine months; interpretation in two official languages and documents in five more."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the case summary and description (date published 24 November 2022)."
+
+- id: "parlement-bruxelles/2024_commissions-deliberatives-colloque"
+  title: "Commissions délibératives : l'innovation démocratique à la sauce bruxelloise (communiqué de presse)"
+  publisher: "Parlement de la Région de Bruxelles-Capitale"
+  date: "2024-02-08"
+  url: "https://www.parlement.brussels/commissions-deliberatives-linnovation-democratique-a-sauce-bruxelloise/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Six deliberative committees held by 8 February 2024 (5G, homelessness, crisis management, work-linked training, urban biodiversity, urban noise), under rules in force since 2020."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the press release in French."
+
+- id: "bertelsmann/2023_shortcut-9-deliberative-committees"
+  title: "Shortcut 9: Deliberative Committees: A new approach to deliberation between citizens and politicians in Brussels"
+  authors: ["Jonathan Moskovic", "Bérangère Jouret", "Anna Renkamp"]
+  publisher: "Bertelsmann Stiftung"
+  date: "2023-01"
+  url: "https://www.bertelsmann-stiftung.de/en/our-projects/democracy-and-participation-in-europe/shortcut-archive/shortcut-9-deliberative-committees-a-new-approach-to-deliberation-between-citizens-and-politicians-in-brussels"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Committees planned three times a year; EUR 73 a day per citizen; citizens' votes only consultative; one MP to three citizens; says recommendations are 'often implemented' without a count; two authors work for the Brussels francophone parliament."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full web version, including facts and figures and the author list."
+
+- id: "european-commission/2026_european-citizens-panels"
+  title: "European Citizens' Panels"
+  publisher: "European Commission (Citizens' Engagement Platform)"
+  date: "2026"
+  url: "https://citizens.ec.europa.eu/european-citizens-panels_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Panels of about 150 randomly selected citizens, at least two per member state, a third aged 16–29, with selection renewed for each panel; eight concluded panels listed on 11 October 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the sections 'How are citizens selected?' and 'Concluded panels'."
+
+- id: "technopolis/2024_cofoe-citizens-panels-study"
+  title: "Study on the Citizens' Panels as part of the Conference on the Future of Europe: Final report"
+  publisher: "Technopolis Group for the European Commission (DG COMM)"
+  date: "2024-03-19"
+  url: "https://citizens.ec.europa.eu/document/download/cf17f39b-2967-401a-9a82-3794f5d780f8_en?filename=FINAL_DG%20COMM_Citizens%20Panels_Final_Report_REVISED_clean_DG%20COMM_FINAL_.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Kantar recruited 800 citizens mostly by random-digit dialling; Polish and Czech recruitment lagged 'mainly due to low levels of trust'; all 24 EU languages; interpretation slowed discussion and subgroups were limited to four or five languages; early single-language sessions recommended; the multilingual digital platform was barely used in deliberation; all recommendations used in some form."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the executive summary (recommendations 6, 7 and 12–16), section 3.3 on recruitment and the multilingualism findings."
+
+- id: "european-parliament/2024_cofe-follow-up-in-numbers"
+  title: "The follow-up to the Conference on the Future of Europe: in numbers"
+  publisher: "European Parliament"
+  date: "2024-05"
+  url: "https://conference-followup.europarl.europa.eu/cmsdata/285641/CoFE%20follow-up%20report_in%20numbers_FINAL.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "By 31 May 2024, 243 of 326 measures (75%) had been fully or partly addressed and 83 had not; 31 measures need Treaty change, with outcomes pending; uptake was strongest where ideas converged with the general political agenda."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "The live URL returned HTTP 404; read the Wayback Machine copy of 25 June 2025, pages 3–5."
+
+- id: "madrid/2019_observatorio-invitacion-hogares"
+  title: "El Ayuntamiento invitará a 30.000 hogares a participar en el Observatorio de la Ciudad"
+  publisher: "Ayuntamiento de Madrid (Diario de Madrid)"
+  date: "2019-02-05"
+  url: "https://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-invitara-a-30-000-hogares-a-participar-en-el-observatorio-de-la-ciudad/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "30,000 of 1.29 million households invited, one person each; a second draw of 49 members and at least 49 substitutes stratified by age, sex and district; a one-year mandate to follow city action and recommend improvements."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the press note in Spanish."
+
+- id: "madrid/2019_derogacion-observatorio-proyecto"
+  title: "Proyecto inicial de Reglamento Orgánico por el que se deroga el Reglamento Orgánico del Observatorio de la Ciudad, de 29 de enero de 2019"
+  publisher: "Ayuntamiento de Madrid (Junta de Gobierno)"
+  date: "2019-12-19"
+  url: "https://transparencia.madrid.es/FWProjects/transparencia/InformacionJuridica/HuellaNormativa/Organicos/ROObservatorio/Derogacion/TextoInformacionPublica.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "The governing board's draft repeal of the Observatory regulation, justified by a new participation model with new technologies as the main instrument and by the Observatory's legal nature as a body that publicises evaluation results."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the two-page annex marked 'Junta de Gobierno de 19 de diciembre de 2019'."
+
+- id: "madrid/2019_memoria-impacto-derogacion"
+  title: "Memoria de análisis de impacto normativo de la derogación del Reglamento Orgánico del Observatorio de la Ciudad"
+  publisher: "Ayuntamiento de Madrid (Dirección General de Transparencia)"
+  date: "2019-12-18"
+  url: "https://transparencia.madrid.es/FWProjects/transparencia/InformacionJuridica/HuellaNormativa/Organicos/ROObservatorio/Derogacion/MemoriaImpactoNormativo20191218.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The four 2019 sessions (30 March, 8 June, 26 October, 30 November) cost EUR 134,531.98 direct plus EUR 9,727.08 indirect, EUR 144,259.06 in all, including member allowances of EUR 11,635."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read section 9 (impacto presupuestario) and its cost table."
+
+- id: "madrid/2020_diario-sesiones-comision-vicealcaldia"
+  title: "Diario de Sesiones del Pleno del Ayuntamiento de Madrid, núm. 1.858: Comisión Permanente Ordinaria de Vicealcaldía, 14 de febrero de 2020"
+  publisher: "Ayuntamiento de Madrid"
+  date: "2020-02-14"
+  url: "https://transparencia.madrid.es/UnidadesDescentralizadas/UDCPleno/Actividad/ComisionesOrdinarias/Corporaci%C3%B3n2019-23/CVice/2020/2020-02-14/DS_1858_CVA_14_02_20.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Committee debate on repealing the Observatory: the vice-mayor called its 49 members statistically unrepresentative, Vox called such mechanisms a democratic fraud, and PSOE and Más Madrid opposed; repeal approved 8 to 6 (PP 4, Cs 3 and Vox 1 against Más Madrid 4 and PSOE 2)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read point 2 of the session record, including the votes on the two whole-text amendments and on the proposal."
+
+- id: "madrid/2020_pleno-transformacion-observatorio"
+  title: "El pleno del Ayuntamiento aprueba la transformación del Observatorio de la Ciudad en un órgano de transparencia"
+  publisher: "Ayuntamiento de Madrid (Diario de Madrid)"
+  date: "2020-02-25"
+  url: "https://diario.madrid.es/blog/notas-de-prensa/el-pleno-del-ayuntamiento-aprueba-la-transformacion-del-observatorio-de-la-ciudad-en-un-organo-de-transparencia/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The full council approved the repeal on 25 February 2020 with PP, Cs and Vox votes; the vice-mayor said 49 people chosen at random could not statistically represent Madrid; a Social Council of organisations' representatives was to take on participation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the press note in Spanish."
+
+- id: "flanigan/2021_fair-algorithms-citizens-assemblies"
+  title: "Fair algorithms for selecting citizens' assemblies"
+  authors: ["Bailey Flanigan", "Paul Gölz", "Anupam Gupta", "Brett Hennig", "Ariel D. Procaccia"]
+  publisher: "Nature"
+  date: "2021-08-04"
+  url: "https://doi.org/10.1038/s41586-021-03788-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Response rates typically 2–5%; pools over-represent groups such as college graduates; LEXIMIN raised minimum selection probabilities to 26–65% (median 49%) of the equal-chance level across ten panels, where LEGACY gave near zero; over 40 Sortition Foundation panels by June 2021; selection cannot run in polynomial time under standard assumptions; a 67-minute run for a pool of 1,727 and 110 seats; a live public lottery in Michigan."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "nature.com returned a JavaScript challenge; read the full text via Europe PMC (PMC8387237): main text, Table 1 and Methods."
+
+- id: "flanigan/2020_neutralizing-self-selection"
+  title: "Neutralizing Self-Selection Bias in Sampling for Sortition"
+  authors: ["Bailey Flanigan", "Paul Gölz", "Anupam Gupta", "Ariel D. Procaccia"]
+  publisher: "arXiv (2006.10498)"
+  date: "2020-10"
+  url: "https://arxiv.org/abs/2006.10498"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A sampling algorithm restores close-to-equal representation probabilities using participation probabilities learned from population survey data."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the arXiv abstract page (version 2, 28 October 2020) only."
+
+- id: "global-assembly/2022_report-2021"
+  title: "Report of the 2021 Global Assembly on the Climate and Ecological Crisis"
+  publisher: "Global Assembly"
+  date: "2022-11"
+  url: "https://globalassembly.org/resources/downloads/GlobalAssembly2021-FullReport.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "20 of 100 first picks replaced; host breaches ('targeted recruitment, self-selection, and one case of unreported replacement'); 39 languages with English as exchange language and 64% needing translation; translators' unclear role and possible falsified stipend paperwork; internet failures 'a significant disruptive force' and 34% finding the online whiteboard difficult; spending of US$972,247, with US$600 stipends (US$59,700), hosts US$278,481 and coordination US$335,189; 68 hours over 12 weeks."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the Core Assembly selection and translation sections, the headline reflections, 'Inclusion and technical issues' and the Finance chapter (Table 10)."
+
+- id: "worldbank/2026_wdi-population"
+  title: "World Development Indicators: Population, total (SP.POP.TOTL), 2024"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2024&format=json&per_page=400"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "World population of 8,140,897,523 in 2024, used for the small-group, cost-per-terran and odds-of-serving estimates."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the API JSON (lastupdated 2026-10-08), 'World' aggregate; estimates computed by claude."
+
+- id: "stanford-ddl/2023_metaverse-community-forum"
+  title: "Meta Community Forum: Results Analysis"
+  authors: ["James S. Fishkin", "Alice Siu", "Samuel Chang", "Estelle Ciesla", "Tenzin Kartsang"]
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2023-06"
+  url: "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-06/public_meta_community_forum_final_report_-_stanford_ddl_1.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "A December 2022 weekend deliberative poll of over 6,300 social media users from 32 countries in 19 languages; an AI-assisted platform moderated 2,069 small groups in place of over 500 human moderators; 78% said members participated relatively equally and 73% that the platform tried to air opposing arguments; groups stayed within region and language, with interpreted plenaries; the Sub-Saharan sample used English and small island nations were excluded; plenaries over 1,000 limited questions; run in collaboration with Meta, whose policies were at stake."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the executive summary, project impact section, methodology (regions, languages, recruitment) and lessons learned; authors as listed on the CDDRL publication page."
+
+- id: "tessler/2024_ai-common-ground"
+  title: "AI can help humans find common ground in democratic deliberation"
+  authors: ["M. H. Tessler", "M. A. Bakker", "D. Jarrett", "H. Sheahan", "M. J. Chadwick", "R. Koster", "G. Evans", "L. Campbell-Gillingham", "T. Collins", "D. C. Parkes", "M. Botvinick", "C. Summerfield"]
+  publisher: "Science"
+  date: "2024-10-18"
+  url: "https://doi.org/10.1126/science.adq2852"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "An AI mediator's group statements were preferred to human mediators' by 5,734 participants; discussants often converged; the finding replicated in a virtual citizens' assembly with a demographically representative UK sample."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Paywalled; read the PubMed abstract (PMID 39418380) through NCBI E-utilities only."
+
+- id: "giraudet/2022_co-construction-ccc"
+  title: "“Co-construction” in deliberative democracy: lessons from the French Citizens' Convention for Climate"
+  authors: ["Louis-Gaëtan Giraudet", "Bénédicte Apouey", "Hazem Arab", "Simon Baeckelandt", "Philippe Bégout", "Nicolas Berghmans", "Nathalie Blanc", "Jean-Yves Boulin", "Eric Buge", "Dimitri Courant", "Amy Dahan", "Adrien Fabre", "Jean-Michel Fourniau", "Maxime Gaborit", "Laurence Granchamp", "Hélène Guillemot", "Laurent Jeanpierre", "Hélène Landemore", "Jean-François Laslier", "Antonin Macé", "Claire Mellier", "Sylvain Mounier", "Théophile Pénigaud", "Ana Póvoas", "Christiane Rafidinarivo", "Bernard Reber", "Romane Rozencwajg", "Philippe Stamenkovic", "Selma Tilikete", "Solène Tournus"]
+  publisher: "Humanities and Social Sciences Communications"
+  date: "2022-06-22"
+  url: "https://doi.org/10.1057/s41599-022-01212-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Recruitment (300,000 numbers, 11,400 reached, 190 picked); cost of EUR 6.7 million against a EUR 4.5 million budget; EUR 84 a day (EUR 1,462 each); eight three-day sessions; agenda framing and expert choice by the governance committee; experts 'unduly pushing for certain measures or discarding others'; legal rewrites; members drafted about a fifth of the measures; block voting; confidential drafting from session 6; 3,400 unused public contributions; members' overrides; public survey results (awareness 22% and 42%, trust 32% and 28%, support for a permanent assembly with a veto 68% and 63%)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the full text via Europe PMC (PMC9214676): sections on the proceedings, the steering bodies and the general public, and Tables 2 and 4–6."
+
+- id: "pilet/2023_public-support-sortition-15-countries"
+  title: "Public support for deliberative citizens' assemblies selected through sortition: Evidence from 15 countries"
+  authors: ["Jean-Benoit Pilet", "Damien Bol", "Davide Vittori", "Emilien Paulis"]
+  publisher: "European Journal of Political Research"
+  date: "2023-08"
+  url: "https://doi.org/10.1111/1475-6765.12541"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A 2020 survey of 14,043 people in 15 Western European countries put support for allotted bodies deciding instead of politicians at 4.32 on a 0–10 scale, with about 18% at 0 and 6% at 10; the most supportive were less educated, low in political competence and anti-elite; support was partly outcome-contingent."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the open-access full text on Cambridge Core (vol. 62, issue 3, pp. 873–902): research design and results. The paper calls 4.32 the median."
+
+- id: "goldberg/2023_catching-deliberative-wave"
+  title: "Catching the 'Deliberative Wave'? How (Disaffected) Citizens Assess Deliberative Citizen Forums"
+  authors: ["Saskia Goldberg", "André Bächtiger"]
+  publisher: "British Journal of Political Science"
+  date: "2023-01"
+  url: "https://doi.org/10.1017/S0007123422000059"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A conjoint experiment with 2,039 German residents (December 2020) found most prefer advisory forums coupled with existing institutions, with a large size and clear majorities; a favourable outcome added about 6.5 percentage points."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the open-access letter on Cambridge Core (vol. 53, issue 1, pp. 239–247): design and analysis sections."
+
+- id: "pow/2020_like-me-perceptions"
+  title: "It's Not Just the Taking Part that Counts: 'Like Me' Perceptions Connect the Wider Public to Minipublics"
+  authors: ["James Pow", "Lisa van Dijk", "Sofie Marien"]
+  publisher: "Journal of Deliberative Democracy"
+  date: "2020-10-14"
+  url: "https://doi.org/10.16997/jdd.368"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A survey of 1,018 non-participants in Northern Ireland found that seeing members as 'like me' predicts the perceived legitimacy of minipublics."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the abstract and survey-design section on delibdemjournal.org (vol. 16, no. 2, pp. 43–55)."
+
+- id: "jacquet/2017_explaining-non-participation"
+  title: "Explaining non-participation in deliberative mini-publics"
+  authors: ["Vincent Jacquet"]
+  publisher: "European Journal of Political Research"
+  date: "2017-08"
+  url: "https://doi.org/10.1111/1475-6765.12195"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Interviews with people who declined three mini-publics identify six logics of non-participation: concentration on the private sphere, internal political inefficacy, public meeting avoidance, schedule conflict, political alienation and doubt about impact."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Read the abstract on Cambridge Core only (vol. 56, issue 3, pp. 640–659)."
+
+- id: "switzerland/2022_federal-council-decree-vote-results"
+  title: "Bundesratsbeschluss über das Ergebnis der Volksabstimmung vom 28. November 2021 (BBl 2022 894)"
+  publisher: "Swiss Federal Council (Bundesblatt)"
+  date: "2022-04-11"
+  url: "https://fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/fga/2022/894/de/pdf-a/fedlex-data-admin-ch-eli-fga-2022-894-de-pdf-a-1.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["IX"]
+  supports: "The Justiz-Initiative for federal judges chosen by lot was rejected by 2,335,148 votes to 1,094,989 (68.1%) on 28 November 2021."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the decree's result for the Justiz-Initiative; the 68.1% share is computed by claude."
+
+- id: "offaly-express/2022_citizens-assemblies-costs"
+  title: "Offaly TD calls for end to Citizen's Assemblies as costs top €4.6m"
+  publisher: "Offaly Express"
+  date: "2022-02-24"
+  url: "https://www.offalyexpress.ie/news/offaly-td-calls-for-end-to-citizens-assemblies-as-costs-top-eu46m-7868770"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Department of the Taoiseach answers to parliamentary questions: assemblies held 2014–2021 cost EUR 4.1 million, and EUR 502,000 was allocated for the two 2022 assemblies; TD Carol Nolan's critique of topic choice."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the article. The underlying Oireachtas answer page (23 February 2022, question 49) returned a CAPTCHA and could not be opened."
+
+- id: "legislation-gov-uk/2026_public-general-acts-by-year"
+  title: "UK Public General Acts by year, 2023–2025 (legislation.gov.uk data feed)"
+  publisher: "The National Archives (legislation.gov.uk)"
+  date: "2026-10"
+  url: "https://www.legislation.gov.uk/ukpga/2025/data.feed"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "57 UK Public General Acts in 2023, 25 in 2024 and 36 in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the Atom feed facet counts for 2023, 2024 and 2025 (feed updated 1 October 2026)."
+
+- id: "legislation-gov-uk/2026_statutory-instruments-by-year"
+  title: "UK Statutory Instruments by year, 2023–2025 (legislation.gov.uk data feed)"
+  publisher: "The National Archives (legislation.gov.uk)"
+  date: "2026-10"
+  url: "https://www.legislation.gov.uk/uksi/2024/data.feed"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "1,139 UK statutory instruments in 2023, 1,127 in 2024 and 1,120 in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the Atom feed facet counts for 2023, 2024 and 2025."

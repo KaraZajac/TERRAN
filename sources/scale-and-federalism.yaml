@@ -1,0 +1,1019 @@
+# Source records for research/scale-and-federalism.md (round 2, planetary government).
+# Checks are machine-performed by claude; none is Kara's own verification.
+
+- id: "dahl-tufte/1973_size-and-democracy"
+  title: "Size and Democracy"
+  authors: ["Robert A. Dahl", "Edward R. Tufte"]
+  publisher: "Stanford University Press"
+  date: "1973"
+  url: "https://www.cambridge.org/core/journals/american-political-science-review/article/size-and-democracy-by-robert-a-dahl-and-edward-r-tufte-stanford-calif-stanford-university-press-1973-pp-x-148-695/920EA48D4B8A2D866D42426873D4936A"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "The classic statement of the trade-off between citizen effectiveness and system capacity; its content is reported here only through Larsen (2002)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Book not opened. Opened only the bibliographic record of Heinz Eulau's 1974 APSR review (Stanford UP, 1973, x + 148 pp.); the book's own figures were not read."
+
+- id: "larsen/2002_municipal-size-and-democracy"
+  title: "Municipal Size and Democracy: A Critical Analysis of the Argument of Proximity Based on the Case of Denmark"
+  authors: ["Christian Albrekt Larsen"]
+  publisher: "Scandinavian Political Studies (Nordic Political Science Association)"
+  date: "2002-12"
+  url: "https://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Dahl and Tufte: no single optimal size because of a trade-off between citizen effectiveness and system capacity; size effects are logarithmic. Danish surveys in 38 municipalities (50,765 respondents): participation higher in small municipalities, no size effect on interest, knowledge or trust."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full article PDF (Scand. Polit. Stud. 25(4), DOI 10.1111/1467-9477.00074): abstract; section 'Proximity, Capacity and Democracy' citing Dahl & Tufte 1973, 137-45; data section on 38 municipalities and log of population."
+
+- id: "lassen-serritzlew/2011_jurisdiction-size-efficacy"
+  title: "Jurisdiction Size and Local Democracy: Evidence on Internal Political Efficacy from Large-scale Municipal Reform"
+  authors: ["David Dreyer Lassen", "Søren Serritzlew"]
+  publisher: "American Political Science Review"
+  date: "2011-05"
+  url: "https://doi.org/10.1017/S000305541100013X"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Quasi-experiment on a large Danish municipal reform: jurisdiction size has a causal and sizeable detrimental effect on citizens' internal political efficacy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on the Cambridge Core page only; quote 'a causal and sizeable detrimental effect' is in the abstract. Effect sizes not read."
+
+- id: "blom-hansen/2016_jurisdiction-size-expenditure"
+  title: "Jurisdiction Size and Local Government Policy Expenditure: Assessing the Effect of Municipal Amalgamation"
+  authors: ["Jens Blom-Hansen", "Kurt Houlberg", "Søren Serritzlew", "Daniel Treisman"]
+  publisher: "American Political Science Review"
+  date: "2016-11"
+  url: "https://doi.org/10.1017/S0003055416000320"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Danish municipal mergers: the net effect on spending was null; savings in some areas were offset by deterioration in others, and size did not matter for most services."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on the Cambridge Core page only ('The result turns out to be null')."
+
+- id: "gerring-veenendaal/2020_population-and-politics"
+  title: "Population and Politics: The Impact of Scale"
+  authors: ["John Gerring", "Wouter Veenendaal"]
+  publisher: "Cambridge University Press"
+  date: "2020"
+  url: "https://www.cambridge.org/core/books/population-and-politics/3285D374CF35FD77F93E0329E2F2E3A8"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Book on the effects of population size on cohesion, representation, participation, trust, contestation, professionalism, concentration and power; findings reported via Anckar's review."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher page only: book description and chapter list (chapters 3-16). Full text and coefficients not read."
+
+- id: "anckar/2020_review-population-and-politics"
+  title: "Review of John Gerring and Wouter Veenendaal, Population and Politics: The Impact of Scale"
+  authors: ["Carsten Anckar"]
+  publisher: "Statsvetenskaplig tidskrift"
+  date: "2020"
+  url: "https://journals.lub.lu.se/st/article/download/22383/19951/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Summary of Gerring and Veenendaal: participation falls with size at all levels; trust in politicians falls; ethnic minorities better represented in smaller units; large units more meritocratic and with less vote buying; no relation between population and democracy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full review PDF in Swedish (vol. 122, 2020/4, pp. 749-752); findings read in the chapter-by-chapter summary and translated by claude."
+
+- id: "alesina-spolaore/1995_number-and-size-of-nations"
+  title: "On the Number and Size of Nations"
+  authors: ["Alberto Alesina", "Enrico Spolaore"]
+  publisher: "National Bureau of Economic Research (Working Paper 5050)"
+  date: "1995-03"
+  url: "https://www.nber.org/papers/w5050"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Trade-off between economies of scale and the costs of heterogeneity; democratisation leads to secessions; the equilibrium number of countries rises with economic integration."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "NBER abstract only; published version in the Quarterly Journal of Economics (1997) not opened."
+
+- id: "dahl/1999_can-international-organizations-be-democratic"
+  title: "Can international organizations be democratic? A skeptic's view"
+  authors: ["Robert A. Dahl"]
+  publisher: "Cambridge University Press (in Democracy's Edges, ed. Ian Shapiro and Casiano Hacker-Cordón)"
+  date: "1999"
+  url: "https://doi.org/10.1017/CBO9780511586361.003"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII", "XII"]
+  supports: "Dahl argues that international organizations cannot be democratic: 'an international organization is not and probably cannot be a democracy'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Chapter summary (opening extract) on the Cambridge Core page, pp. 19-36; quote found there. Argument beyond the extract not read."
+
+- id: "epfl/2021_cube-root-law"
+  title: "Physics challenges the optimal size of parliaments"
+  authors: ["Nik Papageorgiou"]
+  publisher: "EPFL"
+  date: "2021-01-26"
+  url: "https://actu.epfl.ch/news/physics-challenges-the-optimal-size-of-parliaments"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Taagepera (1972) proposed that assembly size follows the cube root of population; later studies found square-root fits; Margaritondo challenges the derivation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "News article text and its reference to Margaritondo, Frontiers in Physics, 15 January 2021."
+
+- id: "margaritondo/2021_cube-root-law-flawed"
+  title: "Size of National Assemblies: The Classic Derivation of the Cube-Root Law is Conceptually Flawed"
+  authors: ["Giorgio Margaritondo"]
+  publisher: "Frontiers in Physics"
+  date: "2021-01-15"
+  url: "https://doi.org/10.3389/fphy.2020.614596"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The cube-root derivation has basic conceptual problems; assembly size evaluation exceeds the accuracy of power equations, which cannot be reliably used for political analysis."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Open-access article page; claims are in the abstract."
+
+- id: "le-maux-paty/2024_cube-root-local-assemblies"
+  title: "Why So Many Representatives? Extending the Cube Root Law to Local Assemblies"
+  authors: ["Benoît Le Maux", "Sonia Paty"]
+  publisher: "HAL working paper hal-04736092 (published in Public Choice, 2025)"
+  date: "2024"
+  url: "https://ideas.repec.org/p/hal/wpaper/hal-04736092.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Total local representatives are more elastic to the number of jurisdictions (2/3) than to population (1/3)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "IDEAS/RePEc abstract page only; it also lists the 2025 Public Choice version (205(3): 613-632)."
+
+- id: "un-desa/2024_wpp-population-by-age"
+  title: "World Population Prospects 2024: population by five-year age group and sex, medium variant (CSV)"
+  publisher: "UN Department of Economic and Social Affairs, Population Division"
+  date: "2024"
+  url: "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_PopulationByAge5GroupSex_Medium.csv.gz"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Mid-2026 world population 8,300.7 million; aged 20+ 5,635.1 million and 15-19 666.3 million, giving about 5.9 billion adults (estimate); 237 countries and areas, 108 below 1/2,025 of world population."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "CSV downloaded and filtered for Time 2026 (World rows and LocTypeName 'Country/Area'); adult estimate and seat counts computed by claude."
+
+- id: "swissvotes/2026_dataset"
+  title: "Swissvotes: the database of Swiss federal popular votes (dataset and codebook)"
+  publisher: "Année Politique Suisse, University of Bern"
+  date: "2026"
+  url: "https://swissvotes.ch/page/dataset"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "1971-2025: 472 ballot questions on 164 voting days (8.6 a year); 2026: 14 questions on 4 days including 29 November; mean turnout 48.8% per question 2016-2025; COVID-19 Act ratified 60.2%, 62.0%, 61.9%; 219 optional-referendum votes since 1875, 127 accepted and 91 rejected."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Current CSV downloaded on 11 October 2026 (variables datum, rechtsform, annahme, bet, volkja-proz); counts and means computed by claude."
+
+- id: "prs/2024_functioning-17th-lok-sabha"
+  title: "Vital Stats: Functioning of the 17th Lok Sabha"
+  authors: ["Niranjana S Menon"]
+  publisher: "PRS Legislative Research"
+  date: "2024-02-10"
+  url: "https://prsindia.org/files/parliament/vital_stats/Functioning-17th_Lok_Sabha.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "179 bills passed in the 17th Lok Sabha (2019-2024), excluding finance and appropriation bills; 58% passed within two weeks; 35% passed with under an hour of Lok Sabha discussion; 16% referred to committees."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Two-page PDF; figures in the sections on bills passed, time taken and committee referral."
+
+- id: "european-parliament/2024_olp-activity-report"
+  title: "Activity Report on the Ordinary Legislative Procedure, 9th parliamentary term (2019-2024)"
+  publisher: "European Parliament"
+  date: "2024"
+  url: "https://www.europarl.europa.eu/cmsdata/300399/1305846_EN.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "415 OLP files concluded in 2019-2024 (401 in 2014-2019), 86% at first reading; urgent procedure on 61 files (nearly 15%) averaging 1.7 months; all OLP files averaged 20 months, 24 without urgent cases."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live PDF blocked by a bot check; read the Wayback copy of 9 July 2026: foreword, section on the urgent procedure (Rule 170) and section 2.4 on duration."
+
+- id: "eur-lex/2026_legal-acts-statistics"
+  title: "EUR-Lex: Legal acts – statistics (adopted acts by type), 2019-2025"
+  publisher: "Publications Office of the European Union"
+  date: "2026"
+  url: "https://eur-lex.europa.eu/statistics/2024/legislative-acts-statistics.html"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Ordinary-procedure acts adopted 63-146 a year in 2019-2024 (146 in 2024); all adopted acts 2,160-2,589 a year; implementing acts about 870-1,070 a year; pages offer CSV export."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live pages blocked by a bot check; read Wayback copies of the yearly pages for 2019-2025 (2024 page captured 19 September 2026; 2025 page captured 2 December 2025, so 2025 is partial). Totals summed by claude."
+
+- id: "congress-gov/2026_public-laws"
+  title: "Public Laws: 117th and 118th Congresses"
+  publisher: "Library of Congress (Congress.gov)"
+  date: "2026"
+  url: "https://www.congress.gov/public-laws/118th-congress"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Public laws numbered 118-1 to 118-274 (274) and 117-1 to 117-362 (362); Public Law 118-270 designated a post office."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the 118th Congress list and the matching 117th Congress list (https://www.congress.gov/public-laws/117th-congress); counts taken from the highest public law numbers listed."
+
+- id: "federal-register/2026_documents-api"
+  title: "Federal Register API: documents by type and publication year"
+  publisher: "Office of the Federal Register (National Archives)"
+  date: "2026-10-11"
+  url: "https://www.federalregister.gov/api/v1/documents.json?per_page=1&conditions[type][]=RULE&conditions[publication_date][year]=2024"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Final rules published: 2,964 (2019), 3,352 (2020), 3,257 (2021), 3,168 (2022), 3,018 (2023), 3,248 (2024), 2,441 (2025); proposed rules 2,132, 2,149, 2,094, 2,044, 2,102, 1,769 and 1,498."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API 'count' field queried for document types RULE and PRORULE by publication year, 2019-2025."
+
+- id: "govtrack/2026_bill-statistics"
+  title: "Statistics and Historical Comparison: bills and resolutions"
+  publisher: "GovTrack.us"
+  date: "2026"
+  url: "https://www.govtrack.us/congress/bills/statistics"
+  tier: "tertiary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "Congress has typically enacted 4-6 million words of new law per two-year Congress since the Second World War, in fewer but larger bills."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Statement above the 'Bills by Final Status' table; the table's enacted counts (365 and 274) are close to Congress.gov's public-law counts (362 and 274)."
+
+- id: "india/1950_constitution"
+  title: "India's Constitution of 1949 with Amendments through 2016"
+  publisher: "Constitute Project (English text)"
+  date: "1950"
+  url: "https://www.constituteproject.org/constitution/India_2016"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII"]
+  supports: "Art. 248 residuary powers with Parliament; Art. 249 Rajya Sabha two-thirds resolution; Arts. 243G and 243W: a state 'may, by law, endow' panchayats and municipalities; Eleventh Schedule (29 matters) and Twelfth Schedule (18 matters); Art. 243D one-third reservation for women; Art. 243I state finance commissions every five years."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 243D, 243G-243I, 243W, 248-249 and the Eleventh and Twelfth Schedules in the Constitute text; schedule items counted by claude."
+
+- id: "lgd/2026_local-government-directory"
+  title: "Local Government Directory: statistical summary"
+  publisher: "Ministry of Panchayati Raj, Government of India"
+  date: "2026-10-11"
+  url: "https://lgdirectory.gov.in/"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "36 states and union territories; 784 districts; 262,836 rural local bodies (675 district, 6,769 block and 255,392 village panchayats); 5,050 urban local bodies including 276 municipal corporations, 2,006 municipalities and 2,416 town panchayats."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Counters on the home page dashboard and 'Statistical/Analytical Summary', read on 11 October 2026; no as-of date shown."
+
+- id: "president-of-india/2025_pri-women-representatives"
+  title: "President Droupadi Murmu interacts with the Scheduled Tribe women representatives of Panchayati Raj institutions"
+  publisher: "President's Secretariat, Rashtrapati Bhavan"
+  date: "2025-01-06"
+  url: "https://presidentofindia.nic.in/press_releases/president-droupadi-murmu-interacts-scheduled-tribe-women-representatives-panchayati"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "About 14 lakh (1.4 million) women serve as elected members of panchayati raj institutions and rural local bodies, 46% of all elected representatives."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Press release text; the total of about 3 million elected members is claude's estimate from 1.4 million at 46%."
+
+- id: "chattopadhyay-duflo/2004_women-as-policy-makers"
+  title: "Women as Policy Makers: Evidence from an India-Wide Randomized Policy Experiment"
+  authors: ["Raghabendra Chattopadhyay", "Esther Duflo"]
+  publisher: "Econometrica (NBER Working Paper 8615, 2001)"
+  date: "2004"
+  url: "https://www.nber.org/papers/w8615"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII"]
+  supports: "In 1998 a third of village council chair posts in West Bengal were randomly reserved for women; across 165 councils, women leaders invested more in water, fuel and roads."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "NBER abstract page only; it lists the published version in Econometrica 72(5): 1409-1444."
+
+- id: "european-parliament/2026_subsidiarity-factsheet"
+  title: "Fact Sheets on the European Union: The principle of subsidiarity"
+  authors: ["Christophe Beaudouin", "Mariusz Maciejewski"]
+  publisher: "European Parliament"
+  date: "2026-05"
+  url: "https://www.europarl.europa.eu/factsheets/en/sheet/7/the-principle-of-subsidiarity"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Yellow card at one third of national-parliament votes, triggered three times; orange card never used; reasoned opinions rose from 9 (2020) to 34 (2022); a 2021 EP working paper: the Court 'has never struck down a measure for breaching the principle of subsidiarity'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Raw text of the Wayback copy of 8 September 2026 (live page blocked by a bot check); sections on national parliaments and judicial review."
+
+- id: "ep/2026_council-factsheet"
+  title: "Fact Sheets on the European Union: The Council of the European Union"
+  authors: ["Anne-Elisabeth Gautier"]
+  publisher: "European Parliament"
+  date: "2026-09"
+  url: "https://www.europarl.europa.eu/factsheets/en/sheet/24/the-council-of-the-european-union"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Qualified majority is the Council's default: 55% of members representing 65% of population; unanimity for taxation, social security, the multiannual financial framework, accession and treaty revision."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Raw text of the Wayback copy of 25 June 2026 (id_ capture), sections 2 (qualified majority) and 3 (unanimity)."
+
+- id: "european-commission/2025_comitology-report-2024"
+  title: "Report from the Commission to the European Parliament and the Council on the working of committees in 2024, COM(2025) 642 final"
+  publisher: "European Commission (Council document 14713/25)"
+  date: "2025-10"
+  url: "https://data.consilium.europa.eu/doc/document/ST-14713-2025-INIT/en/pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "368 comitology committees in 2024; 692 meetings; 1,211 written procedures; 2,129 opinions; 1,938 implementing acts; 'no opinion' in 21 cases; Appeal Committee gave 'no opinion' on all 11 drafts and the Commission adopted all 11; 8 Parliament resolutions under Art. 11; 108 drafts published for 4 weeks' comment."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Council cover note of 30 October 2025 enclosing COM(2025) 642; Tables I-V, section 3.4 and footnote 25."
+
+- id: "european-commission/2026_commission-staff"
+  title: "Commission staff"
+  publisher: "European Commission"
+  date: "2026"
+  url: "https://commission.europa.eu/about/organisation/commission-staff_en"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Around 33,000 permanent and contract employees work in the Commission."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live page, section 'European civil service'; staff per inhabitant computed by claude."
+
+- id: "wikipedia/2024_european-parliament-election"
+  title: "2024 European Parliament election"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2024_European_Parliament_election"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Held 6-9 June 2024; 720 MEPs for more than 450 million people in 27 member states; about 357 million eligible."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Lead and infobox."
+
+- id: "us/1791_bill-of-rights"
+  title: "The Bill of Rights: A Transcription"
+  publisher: "US National Archives"
+  date: "1791-12-15"
+  url: "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII"]
+  supports: "Tenth Amendment: powers not delegated to the United States are reserved to the states or to the people."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Transcript text of Amendment X."
+
+- id: "census/2023_government-units-2022"
+  title: "2022 Census of Governments: Organization, Table 1. Government Units by State (CG2200ORG01)"
+  publisher: "US Census Bureau"
+  date: "2023-08"
+  url: "https://www2.census.gov/programs-surveys/gus/tables/2022/cog2022_cg2200org01.zip"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "90,888 federal, state and local government units in the United States in 2022; 90,837 local after subtracting one federal and 50 state governments (claude's calculation)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the zip and read the United States 2022 row of COG2022_CG2200ORG01_Data.xlsx (AGG_DESC GO0001)."
+
+- id: "brazil/1988_constitution"
+  title: "Brazil's Constitution of 1988 with Amendments through 2017"
+  publisher: "Constitute Project"
+  date: "1988"
+  url: "https://www.constituteproject.org/constitution/Brazil_2017.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII"]
+  supports: "Art. 1: an indissoluble union of states, municipalities and the Federal District; Art. 18: Union, states, Federal District and municipalities, all autonomous."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 1 and 18 in the HTML version of the same Constitute text (https://www.constituteproject.org/constitution/Brazil_2017)."
+
+- id: "ibge/2026_localidades-municipios"
+  title: "IBGE localities API: list of municipalities"
+  publisher: "Instituto Brasileiro de Geografia e Estatística (IBGE)"
+  date: "2026-10-11"
+  url: "https://servicodados.ibge.gov.br/api/v1/localidades/municipios"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII"]
+  supports: "5,571 municipal units listed, including Brasília and Fernando de Noronha; 27 federative units."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "JSON response counted by claude on 11 October 2026; states counted from /localidades/estados."
+
+- id: "rodden/2006_hamiltons-paradox"
+  title: "Hamilton's Paradox: The Promise and Peril of Fiscal Federalism"
+  authors: ["Jonathan A. Rodden"]
+  publisher: "Cambridge University Press"
+  date: "2006"
+  url: "https://doi.org/10.1017/CBO9780511616075"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "XII"]
+  supports: "A centre that funds most subnational spending struggles to commit not to bail out; tax autonomy (US) makes commitment credible; Brazil and Germany can neither commit nor monopolise borrowing."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Book description on the Cambridge Core page only."
+
+- id: "wikipedia/2026_provinces-of-indonesia"
+  title: "Provinces of Indonesia"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Provinces_of_Indonesia"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Indonesia has 38 provinces."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Lead section ('all 38 provinces'); Kemendagri decree not opened."
+
+- id: "wikipedia/2026_regencies-and-cities-of-indonesia"
+  title: "List of regencies and cities of Indonesia"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "514 second-level divisions as of January 2023: 416 regencies and 98 cities."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Lead section."
+
+- id: "kontan/2025_batas-desa"
+  title: "Ditjen Bina Pemdes Targetkan Penyelesaian Batas Desa di 5.000 Desa hingga 2029"
+  authors: ["Yudho Winarto"]
+  publisher: "Kontan"
+  date: "2025-11-21"
+  url: "https://nasional.kontan.co.id/news/ditjen-bina-pemdes-targetkan-penyelesaian-batas-desa-di-5000-desa-hingga-2029"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "Indonesia has 75,266 villages; only 10,909 (about 14.4%) have a regional head regulation fixing their boundaries."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text in Indonesian, attributed to the Interior Ministry's village directorate; translated by claude."
+
+- id: "nigeria/1999_constitution"
+  title: "Nigeria's Constitution of 1999 with Amendments through 2011"
+  publisher: "Constitute Project"
+  date: "1999"
+  url: "https://www.constituteproject.org/constitution/Nigeria_2011"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII", "VIII"]
+  supports: "s. 3(6): 768 local government areas and six area councils; s. 4: Exclusive List federal, states legislate on other matters and the Concurrent List; s. 7: elected local councils guaranteed under state law; s. 12(3): treaty laws on non-exclusive matters need ratification by a majority of state Houses of Assembly; s. 134: president needs a quarter of votes in two-thirds of states and the FCT."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read ss. 3, 4, 7, 12 and 134 in the Constitute text."
+
+- id: "arise/2026_lg-autonomy-26-months"
+  title: "26 Months After Supreme Court Ruling, LG Financial Autonomy Remains Elusive"
+  publisher: "Arise News (with THISDAY)"
+  date: "2026-09-12"
+  url: "https://www.arise.tv/26-months-after-supreme-court-ruling-lg-financial-autonomy-remains-elusive/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII"]
+  supports: "The Supreme Court ruled for local government financial autonomy in July 2024; the NULGE president said no local government receives funds directly from the Federation Account."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text dated 12 September 2026; the claim is the union president's statement, not an official figure."
+
+- id: "sng-wofi/2022_synthesis-highlights"
+  title: "World Observatory on Subnational Government Finance and Investment: Highlights of the 2022 Synthesis Report"
+  publisher: "OECD and United Cities and Local Governments (UCLG)"
+  date: "2022"
+  url: "https://www.sng-wofi.org/2022%20Highlights.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII"]
+  supports: "663,639 subnational governments in 135 countries (648,741 municipal, 12,385 intermediate, 2,513 state or regional); subnational spending 21.5% of public spending and 8.3% of GDP in 2020 (41.9% in federal, 17.1% in unitary countries); 4th edition due December 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PDF sections on structure and spending; the 4th-edition date is from the live home page."
+
+- id: "koethenbuerger/2007_decentralization-theorem"
+  title: "Revisiting the 'Decentralization Theorem' – On the Role of Externalities"
+  authors: ["Marko Koethenbuerger"]
+  publisher: "CESifo Working Paper 2128"
+  date: "2007-10"
+  url: "https://www.ifo.de/DocDL/cesifo1_wp2128.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Oates' theorem: without cost savings from centralisation or interjurisdictional externalities, responsibilities should be decentralised; centralisation yields higher welfare when spillovers are high enough."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full working paper PDF: introduction (statement of the theorem, quoting Oates 1999, p. 1123) and conclusion."
+
+- id: "oates/1999_essay-fiscal-federalism"
+  title: "An Essay on Fiscal Federalism"
+  authors: ["Wallace E. Oates"]
+  publisher: "Journal of Economic Literature"
+  date: "1999-09"
+  url: "https://www.aeaweb.org/articles?id=10.1257/jel.37.3.1120"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "XII"]
+  supports: "Survey of fiscal federalism: assignment of functions, welfare gains from decentralisation, laboratory federalism, market-preserving federalism."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "AEA abstract page only; full text paywalled. The theorem is reported via Koethenbuerger and Majocchi."
+
+- id: "majocchi/2008_fiscal-federalism-european-experience"
+  title: "Theories of Fiscal Federalism and the European Experience"
+  authors: ["Alberto Majocchi"]
+  publisher: "ISAE (Istituto di Studi e Analisi Economica), Working Paper 100"
+  date: "2008-07"
+  url: "https://ebiblio.istat.it/digibib/Isae%20Documenti%20Lavoro/WP_100_2008_Majocchi.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Musgrave-Oates model: centre holds stabilisation and redistribution because mobility of capital and high earners defeats local redistribution; allocation is decentralised; the EU departs, keeping redistribution and stabilisation mostly national."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF, section 2 (pp. 5-6) on the Musgrave-Oates model and the section on the EU's departure from it."
+
+- id: "channa-faguet/2016_decentralization-health-education"
+  title: "Decentralization of Health and Education in Developing Countries: A Quality-Adjusted Review of the Empirical Literature"
+  authors: ["Anila Channa", "Jean-Paul Faguet"]
+  publisher: "The World Bank Research Observer"
+  date: "2016-08"
+  url: "https://openknowledge.worldbank.org/handle/10986/29307"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII", "XII"]
+  supports: "Earlier reviews inconclusive (Treisman: 'almost no solidly established, general empirical findings'); weighting by study quality, decentralisation raises technical efficiency from test scores to infant mortality and improves preference matching in education."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full article PDF from the World Bank repository (WBRO 31(2): 199-241): abstract and introduction, including the Treisman quote."
+
+- id: "switzerland/1999_federal-constitution"
+  title: "Federal Constitution of the Swiss Confederation"
+  publisher: "Constitute Project (English translation)"
+  date: "1999-04-18"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["VII", "VIII"]
+  supports: "Art. 3 residual powers to the cantons; Art. 43a: federation takes only tasks cantons cannot do, and the body that benefits bears the costs; Art. 141 optional referendum (50,000 voters or eight cantons within 100 days); Art. 165 emergency acts (immediate effect, time-limited, lapse after a year unless approved, no renewal after rejection); Art. 185 time-limited emergency ordinances."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Arts. 3, 43a, 141, 165 and 185 in the Constitute text (in force 2014); later amendments not checked."
+
+- id: "who/2025_pandemic-agreement-qa"
+  title: "Pandemic prevention, preparedness and response accord: questions and answers"
+  publisher: "World Health Organization"
+  date: "2025"
+  url: "https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "The WHO Pandemic Agreement was adopted on 20 May 2025 (resolution WHA78.1); it opens for signature only after the PABS annex is concluded."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Q&A text on adoption and next steps; the page predates WHA79."
+
+- id: "paho/2026_igwg-pabs-annex"
+  title: "PAHO and the Open-ended Intergovernmental Working Group (IGWG)"
+  publisher: "Pan American Health Organization"
+  date: "2026"
+  url: "https://www.paho.org/en/paho-and-open-ended-intergovernmental-working-group-igwg"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII"]
+  supports: "The 79th World Health Assembly (May 2026) agreed the IGWG will continue work on the PABS annex and report to the 80th Assembly or an earlier special session."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Section 'WHA 79 and the PABS Annex'; WHA79 decision text not opened."
+
+- id: "kaul-grunberg-stern/1999_global-public-goods"
+  title: "Global Public Goods: International Cooperation in the 21st Century"
+  authors: ["Inge Kaul", "Isabelle Grunberg", "Marc A. Stern"]
+  publisher: "Oxford University Press for the United Nations Development Programme"
+  date: "1999"
+  url: "http://web.undp.org/globalpublicgoods/TheBook/globalpublicgoods.pdf"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "XII"]
+  supports: "Definition of global public goods (benefit all countries, groups and generations); jurisdictional, participation and incentive gaps; a 'jurisdictional loop' preferred to supranational government; summation, weakest-link and best-shot provision; warning against hegemonic, over-centralised provision."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full book PDF via the Wayback copy of 7 November 2013 (live UNDP link serves HTML): printed p. 16 (definition), overview (three gaps), p. 466 (jurisdictional loop), pp. 487-488 (aggregation types)."
+
+- id: "barrett/2007_why-cooperate"
+  title: "Why Cooperate? The Incentive to Supply Global Public Goods"
+  authors: ["Scott Barrett"]
+  publisher: "Oxford University Press"
+  date: "2007"
+  url: "https://openlibrary.org/isbn/9780199211890"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "XII"]
+  supports: "Typology by chapter: single best efforts, weakest links, aggregate efforts, mutual restraint ('agreeing what states ought not to do'), and coordination and global standards ('agreeing what states ought to do')."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Book not opened (OUP pages blocked). Chapter titles read from Crossref metadata for DOIs 10.1093/acprof:oso/9780199211890.003.0001-0009; description from Open Library."
+
+- id: "itf-gpg/2006_meeting-global-challenges"
+  title: "Meeting Global Challenges: International Cooperation in the National Interest. Final Report"
+  publisher: "International Task Force on Global Public Goods"
+  date: "2006"
+  url: "https://regeringen.se/contentassets/02b31f6432494dc2959f98912e66cc65/global-public-goods-main-report-2006"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "XII"]
+  supports: "Six priority global public goods (infectious disease, climate, financial stability, trade, peace and security, knowledge); stresses subsidiarity; 'For good reasons, there is no world government with the authority to tax, to conscript, to regulate or to quarantine'; proposes a Global 25 forum and multi-year replenishments."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF: executive summary pp. xi-xiii (purpose, quote, priorities), pp. xxi-xxii (Global 25), p. xxv (financing)."
+
+- id: "unep-ozone/2026_ratification-status"
+  title: "Status of ratification: Vienna Convention, Montreal Protocol and amendments"
+  publisher: "UNEP Ozone Secretariat"
+  date: "2026"
+  url: "https://ozone.unep.org/all-ratifications"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["III", "XII"]
+  supports: "198 parties to the Vienna Convention and the Montreal Protocol; 197 to the London, Copenhagen, Montreal and Beijing amendments; 175 to the Kigali Amendment."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "'Totals' row of the ratification table, read on 11 October 2026."
+
+- id: "unfccc/2025_ndc-synthesis-update"
+  title: "Nationally Determined Contributions Synthesis Report – Update (message to Parties and observers)"
+  authors: ["Simon Stiell"]
+  publisher: "UNFCCC secretariat"
+  date: "2025-11-10"
+  url: "https://unfccc.int/sites/default/files/resource/message_to_parties_and_observers_ndc_synthesis_report_update.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "XII"]
+  supports: "86 new NDCs from 113 parties (69% of 2019 emissions); total global emissions in 2035 projected about 12% below 2019, against a 20-48% increase projected before the Paris Agreement."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Three-page PDF dated 10 November 2025: table and closing paragraph."
+
+- id: "un-news/2025_regular-budget-2026"
+  title: "General Assembly approves $3.45 billion UN regular budget for 2026"
+  authors: ["Vibhu Mishra"]
+  publisher: "UN News"
+  date: "2025-12-30"
+  url: "https://news.un.org/en/story/2025/12/1166685"
+  tier: "primary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "2026 regular budget of $3.45 billion; the proposal cut resources by 15% and staffing by nearly 19%; 2,900 positions abolished from 1 January 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Story text."
+
+- id: "cp24/2026_guterres-un-financial-collapse"
+  title: "UN on 'imminent financial collapse': Guterres"
+  publisher: "CP24 (Reuters)"
+  date: "2026-01-30"
+  url: "https://www.cp24.com/news/world/2026/01/30/guterres-warns-of-uns-imminent-financial-collapse/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["XII"]
+  supports: "A record US$1.57 billion in outstanding UN dues at the end of 2025; the US pays 22% and China 20% of the core budget."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-opened the article; both figures in the 'Kafkaesque cycle' section."
+
+- id: "wikipedia/2024_indian-general-election"
+  title: "2024 Indian general election"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/2024_Indian_general_election"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "977,965,560 registered and 646,420,869 votes (66.10%) per the ECI-sourced results table; over 968 million eligible; seven phases 19 April-1 June, counted 4 June; 5.5 million EVMs, over a million polling stations, 15 million staff; no postal or online absentee voting for the diaspora."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Infobox, lead, 'Planning' and voter-turnout table; ECI pages not opened."
+
+- id: "european-parliament/2024_election-turnout"
+  title: "2024 European election results: turnout"
+  publisher: "European Parliament"
+  date: "2024"
+  url: "https://results.elections.europa.eu/en/turnout/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "EU-wide turnout 50.74% in 2024; 61.99% in 1979; 42.61% in 2014."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "'Turnout by year' and country tables."
+
+- id: "newsonair/2024_cec-world-record"
+  title: "India creates world record with 64.2 crore voters participating in Lok Sabha polls"
+  publisher: "Akashvani News (All India Radio)"
+  date: "2024-06-03"
+  url: "https://newsonair.gov.in/cec-rajiv-kumar-says-india-has-created-world-record-with-642-million-voters/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Chief Election Commissioner: 64.2 crore voted; 31.2 crore women; 1.5 crore polling and security personnel; 39 repolls against 540 in 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Report of the CEC's 3 June 2024 briefing."
+
+- id: "national-herald/2024_costliest-election"
+  title: "2024 Lok Sabha elections pegged as costliest ever, says Expert"
+  publisher: "National Herald (PTI)"
+  date: "2024-04-25"
+  url: "https://www.nationalheraldindia.com/national/2024-lok-sabha-elections-pegged-as-costliest-ever-says-expert"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Centre for Media Studies projection of Rs 1.35 lakh crore total election spending by parties, candidates, government and the Election Commission; the Commission's budget expected at 10-15% of the total."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PTI interview text; a pre-poll projection, not an audited figure. The CMS report itself was not found."
+
+- id: "worldbank/2026_wdi-exchange-rate-india"
+  title: "World Development Indicators: Official exchange rate (LCU per US$, period average), India (PA.NUS.FCRF)"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/IND/indicator/PA.NUS.FCRF?date=2023:2025&format=json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "83.67 rupees per US dollar on average in 2024, used to convert Indian election costs (claude's calculation)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON, last updated 2026-10-08."
+
+- id: "itu/2025_facts-and-figures"
+  title: "Measuring digital development: Facts and Figures 2025"
+  publisher: "International Telecommunication Union"
+  date: "2025-11"
+  url: "https://www.itu.int/itu-d/reports/statistics/facts-figures-2025/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Almost three-quarters of the world's population is online; 2.2 billion people remain offline."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Publication landing page description."
+
+- id: "worldbank-id4d/2025_global-dataset"
+  title: "ID4D Global Dataset"
+  publisher: "World Bank"
+  date: "2025"
+  url: "https://id4d.worldbank.org/global-dataset"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII"]
+  supports: "About 800 million people lack official ID (2025 edition); 2.8 billion lack government-recognised digital ID for online transactions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-opened the page; section '2025 Global Dataset'."
+
+- id: "switzerland-bk/2026_referenden"
+  title: "Referenden"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026"
+  url: "https://www.bk.admin.ch/de/referenden"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Federal acts are subject to the optional referendum; the great majority take effect without a popular vote; 50,000 valid signatures within 100 days of publication force a vote."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page text in German ('Die grosse Mehrheit dieser Erlasse treten in Kraft, ohne dass darüber vorher eine Volksabstimmung stattfindet'); no share of acts challenged is given."
+
+- id: "us/1946_apa-section-553"
+  title: "5 U.S. Code § 553 – Rule making"
+  publisher: "Legal Information Institute, Cornell Law School"
+  date: "1946"
+  url: "https://www.law.cornell.edu/uscode/text/5/553"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Agencies must publish notice of proposed rule making in the Federal Register and give interested persons an opportunity to submit written views, with exceptions for good cause."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Statute text, subsections (b) and (c)."
+
+- id: "ny-ag/2021_fake-comments-report"
+  title: "Attorney General James Issues Report Detailing Millions of Fake Comments, Revealing Secret Campaign to Influence FCC's 2017 Repeal of Net Neutrality Rules"
+  publisher: "Office of the New York State Attorney General"
+  date: "2021-05-06"
+  url: "https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Nearly 18 million of the more than 22 million comments in the FCC's 2017 net neutrality proceeding were fake; 9.3 million fake pro-net-neutrality comments came mostly from one student using automated software."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Press release text; the full report was not opened."
+
+- id: "switzerland-bk/2026_erlaeuterungen-maerz-2026"
+  title: "Volksabstimmung vom 8. März 2026: Erläuterungen des Bundesrates"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026-02"
+  url: "https://www.admin.ch/dam/gov/de/Dokumentation/Abstimmungen/Marzo2026/52862_Erlaeuterungen_Maerz_2026_de.pdf.download.pdf/52862_Erlaeuterungen_Maerz_2026_de.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "The official voting booklet for 8 March 2026: 72 pages and about 15,000 words covering four proposals and six ballot questions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "German PDF downloaded via the Wayback copy of 6 March 2026; page count from the PDF, word count by machine (15,038 words, including headings and legal texts)."
+
+- id: "brysbaert/2019_reading-rate"
+  title: "How many words do we read per minute? A review and meta-analysis of reading rate"
+  authors: ["Marc Brysbaert"]
+  publisher: "Journal of Memory and Language (PsyArXiv preprint)"
+  date: "2019"
+  url: "https://doi.org/10.1016/j.jml.2019.104047"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Average adult silent reading rate in English is 238 words per minute for non-fiction (190 studies, 18,573 participants); most adults fall between 175 and 300."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract of the PsyArXiv preprint (osf.io/preprints/psyarxiv/xynwg) via the OSF API; journal version not opened."
+
+- id: "augenblick-nicholson/2016_choice-fatigue"
+  title: "Ballot Position, Choice Fatigue, and Voter Behaviour"
+  authors: ["Ned Augenblick", "Scott Nicholson"]
+  publisher: "The Review of Economic Studies"
+  date: "2016"
+  url: "https://ideas.repec.org/a/oup/restud/v83y2016i2p460-480..html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Facing more decisions before a contest raises abstention and status-quo or first-listed choices; without choice fatigue abstentions would fall 8% and 6% of propositions in the data would have passed."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on IDEAS/RePEc only; full text (REStud 83(2): 460-480) paywalled."

@@ -1,0 +1,1224 @@
+# Sources cited in research/failure-modes.md (round 2: how a planetary government fails, a threat model).
+# Machine-performed checks (by: claude), 11 October 2026. Not reviewed by Kara.
+
+# ---------------------------------------------------------------- Emergencies
+
+- id: "luhrmann-rooney/2021_autocratization-by-decree"
+  title: "Autocratization by Decree: States of Emergency and Democratic Decline"
+  authors: ["Anna Lührmann", "Bryan Rooney"]
+  publisher: "Comparative Politics"
+  date: "2021-07"
+  url: "https://doi.org/10.5129/001041521X16004520146485"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Sixty democracies, 1974-2016: democracies were 75 percent more likely to erode under a state of emergency."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on the Ingenta Connect landing page (vol. 53, no. 4, July 2021); full text paywalled; the V-Dem working-paper URL tried returned 404."
+
+- id: "bjornskov-voigt/2021_emergencies-misuse"
+  title: "Emergencies: on the misuse of government powers"
+  authors: ["Christian Bjørnskov", "Stefan Voigt"]
+  publisher: "Public Choice"
+  date: "2021-07-22"
+  url: "https://doi.org/10.1007/s11127-021-00918-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "1990-2011, up to 1,511 observations from 122 countries, emergency declared in 23% of country-years; more executive advantages linked to more disaster deaths, controlling for severity; disasters used 'as a pretext to enhance their power'; easier declarations, larger harm to rights."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the open-access copy in Aarhus University's repository (pure.au.dk): abstract and data section. Published in vol. 190 (2022), pp. 1-32."
+
+- id: "bjornskov-voigt/2025_covid-unlawful-emergencies"
+  title: "Covid and the constitution: unlawful states of emergency during the pandemic"
+  authors: ["Christian Bjørnskov", "Stefan Voigt"]
+  publisher: "European Journal of Law and Economics"
+  date: "2025"
+  url: "https://doi.org/10.1007/s10657-025-09855-x"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "During the pandemic, unlawful emergencies were substantially more likely among democracies; more permissive emergency provisions raised the risk of unlawful behaviour."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via the OpenAlex record (vol. 61, pp. 95-111); the publisher's PDF link returned a bot-check page."
+
+- id: "edgell/2021_pandemic-backsliding"
+  title: "Pandemic backsliding: Violations of democratic standards during Covid-19"
+  authors: ["Amanda B. Edgell", "Jean Lachapelle", "Anna Lührmann", "Seraphine F. Maerz"]
+  publisher: "Social Science & Medicine"
+  date: "2021-09"
+  url: "https://doi.org/10.1016/j.socscimed.2021.114244"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "144 countries, March-December 2020: 14 with no violations, 51 with emergency measures lacking a time limit, 29 with the legislature severely undermined; no relationship with reported Covid-19 mortality; Hungary's broad decree powers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full text via Europe PMC (PMC8417367): abstract, sections 4-7 and the conclusion."
+
+- id: "v-dem/2022_pandem-v6-1"
+  title: "Pandemic Backsliding: Democracy during Covid-19 (PanDem), dataset and codebook v6.1"
+  publisher: "V-Dem Institute, University of Gothenburg"
+  date: "2022-12"
+  url: "https://github.com/vdeminstitute/pandem"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "Counts made in this pass for 11 March 2020-30 June 2021: 47 of 144 countries reached Type 4 = 2 (no end date, measures not ended); 36 did in Q2 2021; 39 reached Type 5 of 2 or more (decree power on many issues, or legislature suspended)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded pandem_CS_v6.1 and pandem_TS_v6.1 from the repository and read the Type 4 and Type 5 scales in the codebook; the counts are computed in this pass."
+
+- id: "ginsburg-versteeg/2021_bound-executive"
+  title: "The bound executive: Emergency powers during the pandemic"
+  authors: ["Tom Ginsburg", "Mila Versteeg"]
+  publisher: "International Journal of Constitutional Law"
+  date: "2021"
+  url: "https://doi.org/10.1093/icon/moab059"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A global survey of over 100 countries found courts, legislatures and subnational governments constrained national executives in the pandemic's first months."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via OpenAlex (vol. 19, no. 5, pp. 1498-1535); the OUP page returned 403."
+
+- id: "comstock-heiss-chaudhry/2024_derogations-backsliding"
+  title: "Derogations, Democratic Backsliding, and International Human Rights During the COVID-19 Pandemic"
+  authors: ["Audrey L. Comstock", "Andrew Heiss", "Suparna Chaudhry"]
+  publisher: "OSF Preprints"
+  date: "2024-07-25"
+  url: "https://osf.io/g3z6n"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Backsliding states were more likely to issue treaty derogations; derogations had mitigating effects once issued."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract and author list via the OSF API (preprint g3z6n_v1); a preprint, full text not read."
+
+- id: "germany/1919_weimar-constitution"
+  title: "Die Verfassung des Deutschen Reichs (Weimarer Reichsverfassung) vom 11. August 1919"
+  publisher: "documentArchiv.de"
+  date: "1919-08-11"
+  url: "http://www.documentarchiv.de/wr/wrv.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Art. 48(2)-(3): the President may take measures to restore public order and suspend seven basic rights, and the Reichstag may demand repeal; Art. 25: the President may dissolve the Reichstag, with a new election within 60 days."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Articles 25 and 48 in the full German text."
+
+- id: "ghdi/1930_bruening-caricature"
+  title: "Karikatur Heinrich Brünings (11. Juli 1930)"
+  publisher: "German History in Documents and Images (German Historical Institute Washington)"
+  date: "1930-07-11"
+  url: "https://germanhistorydocs.org/de/die-weimarer-republik-1918-1933/ghdi:image-4357"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Editors' note: Brüning used Article 48 to put his tax programme into effect on 18 July 1930 and the Reichstag was dissolved; Hindenburg declared emergencies 'bereitwillig'; a presidential dictatorship in practice."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the editors' short description (Kurzbeschreibung) on the source page."
+
+- id: "germany/1933_reichstag-fire-decree"
+  title: "Verordnung des Reichspräsidenten zum Schutz von Volk und Staat vom 28. Februar 1933"
+  publisher: "documentArchiv.de"
+  date: "1933-02-28"
+  url: "http://www.documentarchiv.de/ns/rtbrand.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Issued under Art. 48(2); suspended Articles 114, 115, 117, 118, 123, 124 and 153 of the constitution 'bis auf weiteres'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the preamble and section 1 of the decree."
+
+- id: "echr/2026_guide-article-15"
+  title: "Guide on Article 15 of the European Convention on Human Rights: Derogation in time of emergency"
+  publisher: "European Court of Human Rights (Registry)"
+  date: "2026-08-31"
+  url: "https://ks.echr.coe.int/documents/d/echr-ks/guide_art_15_eng"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Article 15 conditions; 'a wide margin of appreciation'; emergencies need not be temporary (Northern Ireland); no emergency found in the Greek case or Dareskizb v. Armenia; Domenjoud v. France (2024); stricter scrutiny as emergencies decline; no public notice, no Article 15."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the guide PDF (updated 31 August 2026); paragraphs 7-31 and 44-52."
+
+- id: "south-africa/1996_constitution"
+  title: "South Africa's Constitution of 1996 with Amendments through 2012"
+  publisher: "Constitute Project"
+  date: "1996"
+  url: "https://www.constituteproject.org/constitution/South_Africa_2012.pdf?lang=en"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Section 37: emergency only by Act of Parliament; 21 days; extensions of up to three months by the National Assembly, the first by a majority of members and later ones by 60%; court review; non-derogable rights; detainee safeguards."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the Constitute PDF (generated 27 Apr 2022); read section 37 in full."
+
+- id: "south-africa/2002_disaster-management-act"
+  title: "Disaster Management Act 57 of 2002"
+  publisher: "Government Gazette No. 24252 (via gov.za)"
+  date: "2002"
+  url: "https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Section 27(5): a national state of disaster lapses three months after declaration and may be extended by the Minister by notice in the Gazette for one month at a time."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Scanned PDF from gov.za; read section 27(5) in the OCR text."
+
+- id: "creamer-media/2022_state-of-disaster-ends"
+  title: "Govt ends National State of Disaster"
+  authors: ["Sane Dhlamini"]
+  publisher: "Creamer Media (Polity.org.za)"
+  date: "2022-04-05"
+  url: "https://www.polity.org.za/article/govt-ends-national-state-of-disaster-2022-04-05"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "South Africa's National State of Disaster under the Disaster Management Act lasted 750 days and was terminated from 5 April 2022, with 30-day transitional measures."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text reporting the President's statement."
+
+- id: "european-pravda/2026_magyar-ends-emergency"
+  title: "Hungary's Magyar scraps state of emergency introduced by Orbán over threat of war"
+  authors: ["Ivanna Kostina"]
+  publisher: "European Pravda"
+  date: "2026-05-14"
+  url: "https://www.eurointegration.com.ua/eng/news/2026/05/14/7237567/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Hungary's new prime minister ended the war-related state of emergency on 14 May 2026, 'saying goodbye to rule by decree, introduced six years ago'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text with Magyar's quoted statement."
+
+- id: "xpatloop/2026_decrees-elevated-to-law"
+  title: "State of Emergency in Hungary Continues: New Parliament Elevates Decrees to Law"
+  publisher: "XpatLoop (MTI)"
+  date: "2026-05-11"
+  url: "https://xpatloop.com/channels/2026/05/state-of-emergency-in-hungary-continues-new-parliament-elevates-decrees-to-law.html"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "At its inaugural session the new parliament elevated war-emergency decrees to law, 190 votes to 6, bypassing standard parliamentary rules."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "MTI report republished by XpatLoop; vote count and procedure in the first paragraph."
+
+- id: "kouroutakis-ranchordas/2016_snoozing-democracy"
+  title: "Snoozing Democracy: Sunset Clauses, De-Juridification, and Emergencies"
+  authors: ["Antonios Kouroutakis", "Sofia Ranchordás"]
+  publisher: "Minnesota Journal of International Law"
+  date: "2016"
+  url: "https://doi.org/10.24926/19441992.613"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Sunset clauses are often renewed without being adequately revisited ('democracy's snooze button'); PATRIOT Act and German anti-terror sunsets were extended."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF from the University of Minnesota repository (vol. 25, no. 1, p. 29); pp. 34-36 and notes 115-117."
+
+- id: "crs/2021_fisa-provisions-expired"
+  title: "Origins and Impact of the Foreign Intelligence Surveillance Act (FISA) Provisions That Expired on March 15, 2020 (R40138)"
+  authors: ["Edward C. Liu"]
+  publisher: "Congressional Research Service (via EveryCRSReport)"
+  date: "2021-03-31"
+  url: "https://www.everycrsreport.com/reports/R40138.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Three FISA provisions were first set to expire on 31 December 2005, extended multiple times, lapsed for a day in 2015, were extended to 15 March 2020, and then expired."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Summary and overview of the 31 March 2021 version."
+
+- id: "venice-commission/2020_states-of-emergency"
+  title: "Respect for Democracy, Human Rights and the Rule of Law during States of Emergency: Reflections (CDL-AD(2020)014)"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2020-06-19"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2020)014-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Necessity, proportionality, temporariness, effective parliamentary and judicial control, predictability; no constitutional amendments during emergencies; executive emergency acts should not outlast the emergency unless the legislature confirms them; sunset clauses."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the PDF; paragraphs 6-16 and 63-64."
+
+- id: "germany/1949_grundgesetz"
+  title: "Basic Law for the Federal Republic of Germany (English translation)"
+  publisher: "German Federal Ministry of Justice (gesetze-im-internet.de)"
+  date: "1949"
+  url: "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Art. 115a: state of defence by two-thirds of votes cast, at least a majority of members; Arts. 53a and 115e: a Joint Committee of Bundestag and Bundesrat members, which cannot amend the Basic Law; Art. 115k(2): its laws lapse within six months; Art. 115h: electoral terms extended."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read Articles 53a, 115a, 115e, 115g, 115h, 115k and 115l in the English translation."
+
+# ---------------------------------------------------------------- Executive aggrandizement and backsliding
+
+- id: "bermeo/2016_on-democratic-backsliding"
+  title: "On Democratic Backsliding"
+  authors: ["Nancy Bermeo"]
+  publisher: "Journal of Democracy"
+  date: "2016-01"
+  url: "https://doi.org/10.1353/jod.2016.0012"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Definition of backsliding; open-ended coups, executive coups and blatant election-day fraud declining; promissory coups, executive aggrandizement and strategic manipulation rising."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on the Journal of Democracy article page (vol. 27, no. 1, pp. 5-19); Project MUSE full text was behind a bot check."
+
+- id: "bermeo/2016_coded-coups-supplement"
+  title: "Supplemental Material for 'On Democratic Backsliding': Types of Coups in Democracies, 1958-2014"
+  authors: ["Nancy Bermeo"]
+  publisher: "Journal of Democracy"
+  date: "2016-01"
+  url: "https://www.journalofdemocracy.org/wp-content/uploads/2016/01/Bermeo-Supplemental-List-of-Coded-Coups-27-1.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "35 coups in democracies; by this pass's count, 8 of 22 before 1990 and 11 of 13 in 1990-2014 are coded promissory."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Parsed all 35 rows of the supplementary table; the percentages are computed in this pass."
+
+- id: "levitsky-ziblatt/2018_how-democracies-die"
+  title: "How Democracies Die"
+  authors: ["Steven Levitsky", "Daniel Ziblatt"]
+  publisher: "Crown (Penguin Random House)"
+  date: "2018"
+  url: "https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Publisher's description: democracy now ends through the slow, steady weakening of critical institutions such as the judiciary and the press."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher's book description only (paperback page); the book was not read."
+
+- id: "versteeg/2020_term-limit-evasion"
+  title: "The Law and Politics of Presidential Term Limit Evasion"
+  authors: ["Mila Versteeg", "Timothy Horley", "Anne Meng", "Mauricio Guim", "Marilyn Guirguis"]
+  publisher: "Columbia Law Review"
+  date: "2020"
+  url: "https://columbialawreview.org/content/the-law-and-politics-of-presidential-term-limit-evasion/"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "234 incumbents in 106 countries since 2000; at least a third of those reaching their limit tried to stay, about half outside the strongest democracies; 66% used amendment; about a third of attempts failed, mostly through widespread popular resistance; courts mostly ineffectual."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the essay's summary and introduction on the Columbia Law Review site (vol. 120, no. 1)."
+
+- id: "fifa/2024_statutes"
+  title: "FIFA Statutes, May 2024 edition"
+  publisher: "FIFA"
+  date: "2024-05"
+  url: "https://digitalhub.fifa.com/m/16d1f7349fa19ade/original/FIFA-Statutes-2024.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Each member association has one vote in the Congress; no person may serve as President for more than three terms; Council members are limited to three terms."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the PDF; read the Congress voting article and the presidential term-limit paragraph."
+
+- id: "maduro-donati/2026_infantino-fourth-term"
+  title: "FIFA: Infantino's fourth term puts the organisation's governance to the test"
+  authors: ["Miguel Poiares Maduro", "Filippo Donati"]
+  publisher: "Il Sole 24 Ore"
+  date: "2026-09-02"
+  url: "https://en.ilsole24ore.com/art/fifa-infantinos-fourth-term-puts-his-leadership-to-the-test-AJ04RQ1"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "FIFA's 2016 three-term limit; in December 2022 the Council endorsed treating 2016-2019 as not a term; Infantino announced in May 2026 he will stand in 2027, which would mean 15 years."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Guest article in the publisher's English edition (machine-translated by the publisher); paragraphs on Article 33(2) and the December 2022 interpretation."
+
+- id: "ipu/2010_hungary-election"
+  title: "Hungary: Parliamentary elections, 2010 (PARLINE)"
+  publisher: "Inter-Parliamentary Union"
+  date: "2010"
+  url: "http://archive.ipu.org/parline-e/reports/arc/2141_10.htm"
+  tier: "tertiary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "FIDESZ-KDNP won 263 of 386 seats in April 2010 (262 plus one joint-list seat)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Archived PARLINE page: narrative and seat distribution tables."
+
+- id: "venice-commission/2013_hungary-fourth-amendment"
+  title: "Opinion on the Fourth Amendment to the Fundamental Law of Hungary (CDL-AD(2013)012)"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2013-06"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2013)012-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Constitutionalising provisions the Court had declared unconstitutional is 'a systematic approach'; the amendment repealed pre-2012 case law and kept limits on budget review; together 'a threat for constitutional justice'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the PDF (adopted 14-15 June 2013); paragraphs 89-90 and 138-146."
+
+- id: "fdsd/2014_hungary-ombudsman"
+  title: "Hungarian Parliament's Deputy Commissioner for Fundamental Rights, the Ombudsman for Future Generations"
+  authors: ["Andrea Westall"]
+  publisher: "Foundation for Democracy and Sustainable Development"
+  date: "2014-10-20"
+  url: "https://fdsd.org/ideas/the-hungarian-parliaments-ombudsman-for-future-generations/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["X", "VIII"]
+  supports: "Before 2011 a Parliamentary Commissioner for Future Generations could stop environmentally damaging legislation; since the 2011 constitution a deputy commissioner gives opinions on draft laws."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Archived FDSD page; full article text."
+
+- id: "european-parliament/2022_hungary-electoral-autocracy"
+  title: "MEPs: Hungary can no longer be considered a full democracy"
+  publisher: "European Parliament"
+  date: "2022-09-15"
+  url: "https://www.europarl.europa.eu/news/en/press-room/20220909IPR40137/meps-hungary-can-no-longer-be-considered-a-full-democracy"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Parliament found Hungary 'a hybrid regime of electoral autocracy'; report adopted with 433 votes for, 123 against and 28 abstentions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "The live page returned a challenge; read the Wayback capture of 7 January 2024."
+
+- id: "osw/2026_hungary-election"
+  title: "Elections in Hungary: the triumph of Péter Magyar"
+  authors: ["Ilona Gizińska"]
+  publisher: "OSW Centre for Eastern Studies"
+  date: "2026-04-13"
+  url: "https://www.osw.waw.pl/en/publikacje/analyses/2026-04-13/elections-hungary-triumph-peter-magyar"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Record turnout of 79.5% shortly before polls closed; 'an electoral system that rewards the winning party' gave TISZA a constitutional majority on preliminary results."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Analysis text, first two paragraphs (preliminary results with 98.9% counted)."
+
+- id: "bluewin/2026_tisza-two-thirds-final"
+  title: "Two-thirds majority for Tisza secured - Magyar accused of fraud"
+  publisher: "blue News (Keystone-SDA)"
+  date: "2026-04-18"
+  url: "https://www.bluewin.ch/en/news/international/two-thirds-majority-secured-for-tisza-accusation-of-fraud-by-magyar-3195433.html"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Official final result: Tisza 141 of 199 seats, Fidesz 52, Mi Hazánk 6; list votes 53.18%, 38.61% and 5.63%."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Keystone-SDA report of 18 April 2026 citing the National Election Commission."
+
+- id: "venice-commission/2016_poland-constitutional-tribunal"
+  title: "Opinion on Amendments to the Act of 25 June 2015 on the Constitutional Tribunal of Poland (CDL-AD(2016)001)"
+  publisher: "European Commission for Democracy through Law (Venice Commission)"
+  date: "2016-03-11"
+  url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2016)001-e"
+  tier: "primary"
+  kind: "report"
+  parts: ["IX"]
+  supports: "On 8 October 2015 the outgoing Sejm selected five judges, two for seats ending after its term; the President accepted none of their oaths; the December 2015 amendments 'would have endangered not only the rule of law, but also the functioning of the democratic system'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the PDF (adopted 11-12 March 2016); paragraphs 13-14 and 134-138."
+
+- id: "cjeu/2021_poland-daily-penalty-order"
+  title: "Press Release No 192/21: Order of the Vice-President of the Court in Case C-204/21 R, Commission v Poland"
+  publisher: "Court of Justice of the European Union"
+  date: "2021-10-27"
+  url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2021-10/cp210192en.pdf"
+  tier: "primary"
+  kind: "court"
+  parts: ["IX"]
+  supports: "Poland ordered to pay EUR 1,000,000 a day for not suspending the provisions on the Supreme Court's Disciplinary Chamber."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read page 1 of the press release PDF."
+
+- id: "notes-from-poland/2024_article-7-closed"
+  title: "EU closes Article 7 rule-of-law proceedings against Poland after seven years"
+  publisher: "Notes from Poland"
+  date: "2024-05-29"
+  url: "https://notesfrompoland.com/2024/05/29/eu-closes-article-7-rule-of-law-proceedings-against-poland-after-seven-years/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "The Commission closed the Article 7 procedure opened in December 2017, citing the new government's measures and commitments."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text, first three paragraphs."
+
+- id: "notes-from-poland/2026_krs-veto"
+  title: "President vetoes bill reforming judicial body at heart of Poland's rule-of-law crisis"
+  publisher: "Notes from Poland"
+  date: "2026-02-19"
+  url: "https://notesfrompoland.com/2026/02/19/president-vetoes-bill-reforming-judicial-body-at-heart-of-polands-rule-of-law-crisis/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "Since 2017 politicians choose most KRS members; Nawrocki vetoed the KRS reform on 19 February 2026, citing about 3,000 judges appointed by the KRS."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text."
+
+- id: "notes-from-poland/2026_tk-oath-ruling"
+  title: "Polish constitutional court endorses president's right not to swear in new judges"
+  publisher: "Notes from Poland"
+  date: "2026-05-13"
+  url: "https://notesfrompoland.com/2026/05/13/polish-constitutional-court-endorses-presidents-right-not-to-swear-in-new-judges/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "The Sejm elected six judges; Nawrocki invited only two to be sworn in; the tribunal rejected a European Court of Human Rights interim measure to accept the other four."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text."
+
+- id: "notes-from-poland/2026_berek-elected"
+  title: "Prime minister's 'right-hand man' elected as Polish constitutional court judge"
+  publisher: "Notes from Poland"
+  date: "2026-09-04"
+  url: "https://notesfrompoland.com/2026/09/04/prime-ministers-right-hand-man-elected-as-polish-constitutional-court-judge/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IX"]
+  supports: "On 4 September 2026 the Sejm elected Maciej Berek, a minister until August, to the tribunal despite the pledge to depoliticise it."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text."
+
+# ---------------------------------------------------------------- Capture
+
+- id: "stigler/1971_theory-economic-regulation"
+  title: "The Theory of Economic Regulation"
+  authors: ["George J. Stigler"]
+  publisher: "The Bell Journal of Economics and Management Science"
+  date: "1971"
+  url: "https://doi.org/10.2307/3003160"
+  tier: "primary"
+  kind: "article"
+  parts: ["V", "VII"]
+  supports: "Central thesis that, as a rule, regulation is acquired by the industry and operated primarily for its benefit, as quoted by Carrigan and Coglianese."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "unverified"
+    note: "The JSTOR page returned no readable content; the quote is taken from Carrigan and Coglianese's chapter, which cites page 3 of the article."
+
+- id: "carrigan-coglianese/2016_stigler-theory"
+  title: "George J. Stigler, 'The Theory of Economic Regulation'"
+  authors: ["Christopher Carrigan", "Cary Coglianese"]
+  publisher: "The Oxford Handbook of Classics in Public Policy and Administration (Oxford University Press)"
+  date: "2016"
+  url: "https://doi.org/10.1093/oxfordhb/9780199646135.013.41"
+  tier: "secondary"
+  kind: "book"
+  parts: ["V", "VII"]
+  supports: "Quotes Stigler's central thesis; judges his evidence limited and his strongest claims overstated; concentrated interests hold important advantages because voters have little incentive to follow policy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the chapter PDF hosted by the GW Regulatory Studies Center; Crossref gives the handbook DOI and pp. 287-299."
+
+- id: "mansuri-rao/2013_localizing-development"
+  title: "Localizing Development: Does Participation Work?"
+  authors: ["Ghazala Mansuri", "Vijayendra Rao"]
+  publisher: "World Bank"
+  date: "2013"
+  url: "https://hdl.handle.net/10986/11859"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Almost $85 billion to local participatory development in a decade; participants wealthier, more educated, higher status, male, better connected; Uganda schools got 13% of non-wage grants, and newspaper publication helped; Indonesian audits at 100% odds cut missing funds about 8 points but nepotism rose; the 'sandwich'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full text from the World Bank Open Knowledge Repository (plain-text file of the book): foreword, overview and chapters 1 and 4."
+
+- id: "who/2026_how-who-is-funded"
+  title: "How WHO is funded"
+  publisher: "World Health Organization"
+  date: "2026"
+  url: "https://www.who.int/about/funding"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "X"]
+  supports: "Assessed contributions cover less than 20% of WHO's total budget; the rest comes from voluntary contributions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page text as accessed on 11 October 2026; the page shows no date."
+
+- id: "who/2024_sustainable-financing"
+  title: "Working toward a sustainably-financed WHO"
+  publisher: "World Health Organization"
+  date: "2024-02-29"
+  url: "https://www.who.int/about/funding/sustainable-financing"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "X"]
+  supports: "Only 13% of 2022-2023 financing came from fully predictable sources; predictable funding helps WHO maintain independence from special interests; WHA75 agreed to raise assessed contributions to 50% of the base budget by 2030-31."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page last updated 29 February 2024."
+
+- id: "who/2025_eb156-inf6-us-withdrawal"
+  title: "Assessed contributions: draft calculations for the year 2026 (EB156/INF./6)"
+  publisher: "World Health Organization, Executive Board"
+  date: "2025-02-08"
+  url: "https://apps.who.int/gb/ebwha/pdf_files/EB156/B156_INF6-en.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["X"]
+  supports: "The United States' withdrawal takes effect on 22 January 2026; its assessed contribution equals 22% of all assessed contributions (the '78% model')."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Paragraphs 3-5 and footnote 3 of the PDF."
+
+- id: "hhs/2026_us-withdrawal-who"
+  title: "HHS Fact Sheet: U.S. Withdrawal from the World Health Organization"
+  publisher: "US Department of Health and Human Services (CDC website)"
+  date: "2026-02-23"
+  url: "https://www.cdc.gov/global-health/resources/us-withdrawal-who.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "The United States formally exited WHO on 22 January 2026."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Fact sheet text."
+
+- id: "enca/2025_who-cuts-budget"
+  title: "WHO restructures, cuts budget after US withdrawal"
+  publisher: "eNCA (AFP)"
+  date: "2025-05-28"
+  url: "https://www.enca.com/business-top-stories/who-restructures-cuts-budget-after-us-withdrawal"
+  tier: "secondary"
+  kind: "news"
+  parts: ["X"]
+  supports: "WHO trimmed its 2026-27 budget from $5.3 billion to $4.2 billion, leaving a funding gap of about $1.7 billion; members approved a further 20% rise in fees."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "AFP report text."
+
+- id: "us-doj/2015_fifa-indictment"
+  title: "Nine FIFA Officials and Five Corporate Executives Indicted for Racketeering Conspiracy and Corruption"
+  publisher: "US Department of Justice, Office of Public Affairs"
+  date: "2015-05-27"
+  url: "https://www.justice.gov/opa/pr/nine-fifa-officials-and-five-corporate-executives-indicted-racketeering-conspiracy-and"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A 47-count indictment of 14 defendants over a 24-year scheme; well over $150 million in bribes and kickbacks; alleged schemes included the 2010 World Cup host selection and the 2011 FIFA presidential election."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "The live archive page returned no text; read the Wayback capture of 26 December 2024."
+
+- id: "fifa/2024_2030-2034-hosts"
+  title: "Extraordinary FIFA Congress appoints hosts of 2030 and 2034 editions of FIFA World Cup"
+  publisher: "FIFA"
+  date: "2024-12-11"
+  url: "https://grassroots.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-of-2030-and-2034-editions-of-fifa-world-cup"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "All 211 member associations convened; the 2030 and 2034 hosts were appointed by acclamation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "FIFA media release text."
+
+- id: "express-and-star/2024_fa-backs-saudi-bid"
+  title: "FA to back Saudi Arabia's bid to host 2034 World Cup"
+  authors: ["Jamie Gardner"]
+  publisher: "Express & Star (PA Media)"
+  date: "2024-12-11"
+  url: "https://www.expressandstar.com/uk-sports/fa-to-back-saudi-arabias-bid-to-host-2034-world-cup-5739347"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Saudi Arabia was the sole 2034 bidder; FIFA combined the 2030 and 2034 decisions into a single vote; Norway abstained, calling the process flawed."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PA report text."
+
+- id: "buhren/2019_staff-rotation-experiment"
+  title: "Staff Rotation as an Anti-Corruption Policy in China and in Germany: An Experimental Comparison"
+  authors: ["Christoph Bühren"]
+  publisher: "Jahrbücher für Nationalökonomie und Statistik"
+  date: "2019-03-28"
+  url: "https://doi.org/10.1515/jbnst-2018-0036"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "In bribery experiments in China and Germany, staff rotation reduced officials' propensity to reciprocate bribes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via OpenAlex (vol. 240, no. 1, pp. 1-18)."
+
+- id: "kousser/2004_term-limits-professionalism"
+  title: "Term Limits and the Dismantling of State Legislative Professionalism"
+  authors: ["Thad Kousser"]
+  publisher: "Cambridge University Press"
+  date: "2004-11-22"
+  url: "https://doi.org/10.1017/CBO9780511614088"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII", "X"]
+  supports: "Across all 50 US states, term limits reduced what legislative professionalization had built."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher abstract via OpenAlex and the Cambridge Core landing page (hardback 22 November 2004); the book was not read."
+
+# ---------------------------------------------------------------- Modern designs, new attack surfaces
+
+- id: "robodebt-rc/2023_report"
+  title: "Report of the Royal Commission into the Robodebt Scheme"
+  publisher: "Commonwealth of Australia"
+  date: "2023-07"
+  url: "https://robodebt.royalcommission.gov.au/publications/report"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "IX"]
+  supports: "Internal advice by December 2014 found the proposal unlawful; unpublished tribunal decisions made it easier to ignore them; 'a crude and cruel mechanism, neither fair nor legal'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded Volume 1 (robodebt_report_volume_1.pdf) from the report page; executive summary and the chapter on the scheme's origins. Id shared with the executive-and-administration strand."
+
+- id: "dutch-dpa/2021_tax-administration-fine"
+  title: "Tax Administration fined for discriminatory and unlawful data processing"
+  publisher: "Autoriteit Persoonsgegevens (Dutch Data Protection Authority)"
+  date: "2021-12-07"
+  url: "https://www.autoriteitpersoonsgegevens.nl/en/current/tax-administration-fined-for-discriminatory-and-unlawful-data-processing"
+  tier: "primary"
+  kind: "news"
+  parts: ["VII", "IX"]
+  supports: "EUR 2.75 million fine; nationality (Dutch/not Dutch) used as an indicator in a system that automatically designated childcare-benefit applications as risky; dual nationality of some 1.4 million people still stored in May 2018."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the English press release and its Dutch original ('Boete Belastingdienst voor discriminerende en onrechtmatige werkwijze'). Id and URL shared with the executive-and-administration strand."
+
+- id: "ny-ag/2021_fake-comments-report"
+  title: "Attorney General James Issues Report Detailing Millions of Fake Comments, Revealing Secret Campaign to Influence FCC's 2017 Repeal of Net Neutrality Rules"
+  publisher: "New York State Office of the Attorney General"
+  date: "2021-05-06"
+  url: "https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Nearly 18 million of more than 22 million FCC comments were fake; 8.5 million industry-funded comments impersonated real people; 9.3 million used fictitious identities, mostly from one 19-year-old student's automated software."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Press release text."
+
+- id: "tessler/2024_ai-common-ground"
+  title: "AI can help humans find common ground in democratic deliberation"
+  authors: ["Michael Henry Tessler", "Michiel A. Bakker", "Daniel Jarrett", "Hannah Sheahan", "Martin J. Chadwick", "Raphaël Koster", "Geoff Evans", "Lucy Campbell-Gillingham", "Tantum Collins", "David C. Parkes", "Matthew Botvinick", "Christopher Summerfield"]
+  publisher: "Science"
+  date: "2024-10-17"
+  url: "https://doi.org/10.1126/science.adq2852"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "5,734 participants preferred AI mediator statements to human mediators'; discussants often converged on a shared view; replicated in a virtual UK citizens' assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via OpenAlex (vol. 386, no. 6719); full text paywalled."
+
+- id: "hackenburg/2025_levers-of-persuasion"
+  title: "The levers of political persuasion with conversational artificial intelligence"
+  authors: ["Kobi Hackenburg", "Ben M. Tappin", "Luke Hewitt", "Ed Saunders", "Sid Black", "Hause Lin", "Catherine Fist", "Helen Zerlina Margetts", "David Gertler Rand", "Christopher Summerfield"]
+  publisher: "Science"
+  date: "2025-12-04"
+  url: "https://doi.org/10.1126/science.aea3884"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "76,977 participants, 19 LLMs, 707 issues; post-training and prompting raised persuasiveness by up to 51% and 27%; where they did, they systematically decreased factual accuracy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read the accepted manuscript on LSE Research Online (abstract and introduction)."
+
+- id: "salvi/2025_persuasiveness-gpt4"
+  title: "On the conversational persuasiveness of GPT-4"
+  authors: ["Francesco Salvi", "Manoel Horta Ribeiro", "Riccardo Gallotti", "Robert West"]
+  publisher: "Nature Human Behaviour"
+  date: "2025-05-19"
+  url: "https://doi.org/10.1038/s41562-025-02194-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Where AI and humans were not equally persuasive, GPT-4 with personalization was more persuasive 64.4% of the time (81.2% relative increase in odds; N = 900)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Published abstract via Europe PMC (PMC12367540); vol. 9, pp. 1645-1653; nature.com returned a bot-check page."
+
+- id: "salvi/2026_author-correction"
+  title: "Author Correction: On the conversational persuasiveness of GPT-4"
+  authors: ["Francesco Salvi", "Manoel Horta Ribeiro", "Riccardo Gallotti", "Robert West"]
+  publisher: "Nature Human Behaviour"
+  date: "2026-09-03"
+  url: "https://doi.org/10.1038/s41562-026-02588-0"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "After a calculation error was fixed, the difference between personalized and non-personalized GPT-4 was not statistically significant (P = 0.07)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Correction text via the OpenAlex record; nature.com returned a bot-check page."
+
+- id: "spada-vreeland/2013_who-moderates-the-moderators"
+  title: "Who Moderates the Moderators? The Effect of Non-neutral Moderators in Deliberative Decision Making"
+  authors: ["Paolo Spada", "James Raymond Vreeland"]
+  publisher: "Journal of Deliberative Democracy"
+  date: "2013-10-25"
+  url: "https://doi.org/10.16997/jdd.165"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In a real deliberative process, moderators expressing views in a constrained manner significantly influenced participants; the authors warn interest groups might hijack such processes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract via OpenAlex (vol. 9, no. 2); the open-access full text was not read."
+
+- id: "microsoft/2024_crowdstrike-outage"
+  title: "Helping our customers through the CrowdStrike outage"
+  authors: ["David Weston"]
+  publisher: "Microsoft Official Blog"
+  date: "2024-07-20"
+  url: "https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "CrowdStrike's update affected an estimated 8.5 million Windows devices, less than one percent of all Windows machines, with broad impact because enterprises running critical services use it."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Blog post text."
+
+- id: "e-estonia/2026_data-embassy"
+  title: "Data embassy"
+  publisher: "e-Estonia"
+  date: "2026"
+  url: "https://e-estonia.com/solutions/e-governance/data-embassy/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "Estonia's data embassy is a Tier 4 data centre in Luxembourg that provides backups and can operate the most critical services, with embassy-like immunity; the agreement was signed in 2017."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page text (the URL redirects to e-estonia.com/service/e-governance/data-embassy/)."
+
+# ---------------------------------------------------------------- One world, no exit
+
+- id: "kant/1795_perpetual-peace"
+  title: "Perpetual Peace: A Philosophical Essay"
+  authors: ["Immanuel Kant"]
+  publisher: "Project Gutenberg (translated by M. Campbell Smith, 1903)"
+  date: "1795"
+  url: "https://www.gutenberg.org/cache/epub/50922/pg50922.txt"
+  tier: "primary"
+  kind: "book"
+  parts: ["XII", "OQ"]
+  supports: "'For the wider the sphere of their jurisdiction, the more laws lose in force'; universal monarchy ends in soulless despotism."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Plain-text ebook; passage in the First Supplement of the Campbell Smith translation."
+
+- id: "80000-hours/2024_stable-totalitarianism"
+  title: "Stable totalitarianism"
+  authors: ["Stephen Clare"]
+  publisher: "80,000 Hours"
+  date: "2024-06-19"
+  url: "https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism"
+  tier: "secondary"
+  kind: "web"
+  parts: ["XII", "OQ"]
+  supports: "Quotes Caplan (2008): a 5% unconditional chance that a world totalitarian government emerges within 1,000 years and lasts 1,000 or more; .1% if the number of countries does not decrease; 25% if it falls to one."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Footnote quoting Caplan, read in the page's raw text."
+
+- id: "somin/2008_perils-of-world-government"
+  title: "Perils of World Government"
+  authors: ["Ilya Somin"]
+  publisher: "The Volokh Conspiracy"
+  date: "2008-12-14"
+  url: "https://volokh.com/?p=15118"
+  tier: "primary"
+  kind: "web"
+  parts: ["XII", "OQ"]
+  supports: "World government removes emigration ('there will be nowhere else to go'); totalitarian movements can seize power in a relatively free society during a crisis."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Post text, sections II and III."
+
+- id: "deudney/2007_bounding-power"
+  title: "Bounding Power: Republican Security Theory from the Polis to the Global Village"
+  authors: ["Daniel H. Deudney"]
+  publisher: "Princeton University Press"
+  date: "2007"
+  url: "https://press.princeton.edu/books/paperback/9780691138305/bounding-power"
+  tier: "secondary"
+  kind: "book"
+  parts: ["XII", "OQ"]
+  supports: "Publisher's summary: security entails avoiding the extremes of anarchy and hierarchy; mutually restraining world government is now necessary for security."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher page for the 2008 paperback (copyright 2006); the book was not read."
+
+- id: "bednar/2008_robust-federation"
+  title: "The Robust Federation: Principles of Design"
+  authors: ["Jenna Bednar"]
+  publisher: "Cambridge University Press"
+  date: "2008-12-01"
+  url: "https://doi.org/10.1017/CBO9780511819445"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII", "XII"]
+  supports: "Diverse but complementary safeguards, including courts, parties and the people, cover different transgressions and fail under different circumstances."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher abstract via OpenAlex; the book was not read."
+
+- id: "ostrom/2009_beyond-markets-and-states"
+  title: "Beyond Markets and States: Polycentric Governance of Complex Economic Systems (Prize Lecture)"
+  authors: ["Elinor Ostrom"]
+  publisher: "Nobel Prize Outreach"
+  date: "2009-12-08"
+  url: "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "XII"]
+  supports: "Polycentric systems have many formally independent centres of decision making; metropolitan areas served by large and small police producers gained scale economies for some services and avoided diseconomies for others."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the lecture PDF; the polycentricity definition and the police-studies passage."
+
+- id: "swiss-federal-council/2026_the-federal-council"
+  title: "The Federal Council"
+  publisher: "Swiss federal authorities (admin.ch)"
+  date: "2026"
+  url: "https://www.admin.ch/en/the-federal-council"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Seven members elected by the Federal Assembly for four years; a president elected for one year as 'first among equals', who may order precautionary measures in urgent situations."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Portal page text (redirected from admin.ch/gov/en/start/federal-council.html)."
+
+# ---------------------------------------------------------------- Systemic resilience
+
+- id: "perrow/1999_normal-accidents"
+  title: "Normal Accidents: Living with High Risk Technologies (updated edition)"
+  authors: ["Charles Perrow"]
+  publisher: "Princeton University Press"
+  date: "1999-10-17"
+  url: "https://press.princeton.edu/books/paperback/9780691004129/normal-accidents"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Publisher's summary: building in more warnings and safeguards fails because complexity makes failures inevitable; precautions may help create new categories of accidents; complex versus linear interactions and tight versus loose coupling."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher page only; the book was not read."
+
+- id: "landau/1969_redundancy"
+  title: "Redundancy, Rationality, and the Problem of Duplication and Overlap"
+  authors: ["Martin Landau"]
+  publisher: "Public Administration Review"
+  date: "1969-07"
+  url: "https://doi.org/10.2307/973247"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A commercial airliner is a very redundant system, which accounts for its reliability; the article argues duplication and overlap in administration can be rational."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Opening paragraph via the OpenAlex abstract field (vol. 29, no. 4); JSTOR text not read."
+
+- id: "sagan/2004_redundancy-problem"
+  title: "The Problem of Redundancy Problem: Why More Nuclear Security Forces May Produce Less Nuclear Security"
+  authors: ["Scott D. Sagan"]
+  publisher: "Risk Analysis"
+  date: "2004-08"
+  url: "https://doi.org/10.1111/j.0272-4332.2004.00495.x"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Title claim: more nuclear security forces may produce less nuclear security."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Title and bibliographic metadata via Crossref, OpenAlex and Europe PMC (no abstract); the Wiley page returned 403."
+
+- id: "weick-sutcliffe/2015_managing-the-unexpected"
+  title: "Managing the Unexpected: Sustained Performance in a Complex World (3rd edition)"
+  authors: ["Karl E. Weick", "Kathleen M. Sutcliffe"]
+  publisher: "Wiley (Jossey-Bass)"
+  date: "2015-09"
+  url: "https://www.wiley.com/en-us/Managing+the+Unexpected%3A+Sustained+Performance+in+a+Complex+World%2C+3rd+Edition-p-9781118862414"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "High reliability organizations, including commercial aviation, emergency rooms, aircraft carrier flight operations and firefighting units, are looked to as models of preparedness."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher description only; the book was not read."
+
+- id: "ahrq/2019_high-reliability"
+  title: "High Reliability (PSNet primer)"
+  publisher: "Agency for Healthcare Research and Quality, PSNet"
+  date: "2019"
+  url: "https://psnet.ahrq.gov/primer/high-reliability"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Five characteristic ways of thinking in high reliability organizations: preoccupation with failure, reluctance to simplify, sensitivity to operations, deference to frontline expertise and commitment to resilience (citing Weick and Sutcliffe, 2015)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Primer text; last reviewed in 2024 by the UC Davis PSNet editorial team."
+
+- id: "uk-mod/2021_red-teaming-handbook"
+  title: "Red Teaming Handbook (3rd edition)"
+  publisher: "UK Ministry of Defence"
+  date: "2021-06"
+  url: "https://www.gov.uk/government/publications/a-guide-to-red-teaming"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Red teaming is defined as the independent application of a range of structured, creative and critical thinking techniques to help the end user make a better-informed decision."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded the PDF linked from the GOV.UK page; paragraph 1.9."
+
+- id: "us/1978_inspector-general-act"
+  title: "Inspector General Act of 1978, as codified at 5 U.S.C. § 403"
+  publisher: "Legal Information Institute, Cornell Law School"
+  date: "1978"
+  url: "https://www.law.cornell.edu/uscode/text/5/403"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "The President may remove an Inspector General but must communicate the reasons in writing to both Houses not later than 30 days before the removal; 2022 amendments require a substantive, case-specific rationale."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Section 403(b) text and the statutory notes on Pub. L. 117-263 and 117-286."
+
+- id: "ap/2025_inspectors-general-not-reinstated"
+  title: "Federal judge refuses to reinstate eight former inspectors general fired by Trump administration"
+  authors: ["Rebecca Boone"]
+  publisher: "Associated Press (via WDIV ClickOnDetroit)"
+  date: "2025-09-24"
+  url: "https://www.clickondetroit.com/news/politics/2025/09/24/federal-judge-refuses-to-reinstate-eight-former-inspectors-general-fired-by-trump-administration/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII", "IX"]
+  supports: "17 inspectors general fired on 24 January 2025 by identical two-sentence emails citing 'changing priorities'; Judge Reyes found a likely violation but refused reinstatement; Trump could remove them again 30 days after notice."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "AP report text as syndicated by WDIV."
+
+- id: "cigie/2026_ig-vacancies"
+  title: "Inspector General Vacancies"
+  publisher: "Council of the Inspectors General on Integrity and Efficiency (Oversight.gov)"
+  date: "2026-10-11"
+  url: "https://www.oversight.gov/about/inspectors-general-vacancies"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII", "IX"]
+  supports: "27 inspector-general posts vacant; eight vacant about 622 days (Interior, State, HUD, EPA, Transportation, Energy, Education, OPM), four of them with nominees; Treasury vacant 2,660 days."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Vacancy table as served on 11-12 October 2026 (UTC); the day counts change daily."
+
+- id: "cigie/2026_ignet"
+  title: "IGnet"
+  publisher: "Council of the Inspectors General on Integrity and Efficiency"
+  date: "2026"
+  url: "https://www.ignet.gov/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "There are now 73 statutory inspectors general."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Home page text; the page does not date the count."

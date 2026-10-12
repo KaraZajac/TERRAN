@@ -9,7 +9,7 @@ A source cited by several research notes can appear in several YAML files.
 Records with the same id are merged: the first file's details are kept and
 gaps filled from the others, their Charter parts and "supports" lines are
 combined, and the strongest check result is kept. Every [author/2024_slug]
-citation in the research notes, thoughts and open questions, alone or grouped
+citation in the research notes, thoughts, proposals and open questions, alone or grouped
 as [id; id], must resolve to a record.
 """
 
@@ -26,7 +26,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_DIR = ROOT / "sources"
 OUTPUT = ROOT / "SOURCES.md"
-CITING_GLOBS = ("research/*.md", "thoughts/*.md", "OPEN-QUESTIONS.md")
+CITING_GLOBS = ("research/*.md", "thoughts/*.md", "proposals/*.md", "OPEN-QUESTIONS.md")
 
 PARTS = {
     "Preamble": "Preamble",

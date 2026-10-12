@@ -1,0 +1,1120 @@
+# Source records for research/decision-mechanisms.md (round 2, 11 October 2026).
+# Checks are machine-performed by claude; none is Kara's own verification.
+
+# ---------------------------------------------------------------- Direct votes and attention
+
+- id: "swissvotes/2026_dataset"
+  title: "Swissvotes: the database of Swiss federal popular votes (dataset and codebook)"
+  publisher: "Année Politique Suisse, University of Bern"
+  date: "2026-09-28"
+  url: "https://swissvotes.ch/page/dataset"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VII", "VIII", "IV"]
+  supports: "Questions, voting days and mean per-question turnout by decade (1950s: 45/32/50.8%; 1970s: 86/32/42.2%; 1990s: 100/29/41.7%; 2010s: 83/31/46.9%; 2020 to Sep 2026: 63/21/50.7%); 3 to 13 questions a year in 2016-2025; 10 questions on three days in 2026 by 27 Sep, four set for 29 Nov 2026; 39 optional referendums in 2016-2025; electorate 5,591,446 (3 Mar 2024); 42.9% turnout on 30 Nov 2025; COVID-19 Act passed 25 Sep 2020, 44 days after the message, 90,789 signatures in 98 days, 60.2% yes (13 Jun 2021); second revision in force 20 Mar 2021, a day after passage, 62.0% yes (28 Nov 2021); child deductions rejected 2020 (36.8%), individual taxation accepted Mar 2026 (54.3%)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Downloaded CSV version 28-09-2026 (variables datum, rechtsform, bet, berecht, volkja-proz, annahme, dat-message, dat-parl, dat-force, dauer_bv, unter_g, fr-dauer_samm); counts and means computed by claude."
+
+- id: "gfs-bern/2021_vox-june-2021"
+  title: "VOX-Analyse Juni 2021: Nachbefragung und Analyse zur eidgenössischen Volksabstimmung vom 13. Juni 2021"
+  publisher: "gfs.bern, for the Swiss Federal Chancellery"
+  date: "2021-07"
+  url: "https://swissvotes.ch/vote/643.00/nachbefragung-de.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Post-vote survey of 3,057 eligible voters: turnout 93% among the very interested and 10% among the not at all interested; 48% at ages 30-39 and 72% at 60-69; of non-voters 29% forgot and 11% found the topics too complicated; 19-27% of voters found a question rather hard to understand; the official booklet was used by 84% of voters."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PDF linked from the Swissvotes page for vote 643; sections 2, 3.2, 3.3 and the technical report (tables 1-3, 6-10, 38)."
+
+- id: "gfs-bern/2026_vox-november-2025"
+  title: "VOX-Analyse November 2025: Nachbefragung und Analyse zur eidgenössischen Volksabstimmung vom 30. November 2025"
+  publisher: "gfs.bern, for the Swiss Federal Chancellery"
+  date: "2026-01"
+  url: "https://swissvotes.ch/vote/680.00/nachbefragung-de.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Post-vote survey of 3,349 eligible voters: the official booklet was used by 88% of voters (intensity 6.9 of 10); 81% and 82% found the two initiatives rather easy to understand; of non-voters 31% forgot, 25% were prevented, 16% were not interested and 8% found the topics too complicated."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PDF linked from the Swissvotes page for vote 680; sections 2, 3.2 and 3.3 (tables 3, 5, 6, 7) and the technical report."
+
+- id: "swiss-federal-council/2021_voting-booklet-june-2021"
+  title: "Volksabstimmung vom 13. Juni 2021: Erläuterungen des Bundesrates"
+  publisher: "Swiss Federal Council"
+  date: "2021"
+  url: "https://swissvotes.ch/vote/643.00/brochure-de.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The official voting booklet for five questions runs to 144 pages; each question has a two-page 'In Kürze' summary at the front (pages 4-13)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "PDF from Swissvotes; page count from the PDF metadata and the table of contents on pages 2-3."
+
+- id: "sciarini/2015_selective-participation"
+  title: "The Underexplored Species: Selective Participation in Direct Democratic Votes"
+  authors: ["Pascal Sciarini", "Fabio Cappelletti", "Andreas C. Goldberg", "Simon Lanz"]
+  publisher: "Swiss Political Science Review"
+  date: "2015-09-28"
+  url: "https://doi.org/10.1111/spsr.12178"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Using official turnout data linked to survey data, selective voters 'constitute the bulk of the electorate' and lean towards abstainers on political variables."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "The DOI landing page timed out; abstract read in the Crossref API record (vol. 22, no. 1, pp. 75-94). Full text not read."
+
+- id: "dermont/2016_taking-turns-ballot-box"
+  title: "Taking Turns at the Ballot Box: Selective Participation as a New Perspective on Low Turnout"
+  authors: ["Clau Dermont"]
+  publisher: "Swiss Political Science Review"
+  date: "2016-01-05"
+  url: "https://doi.org/10.1111/spsr.12194"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Tracking 15 ballot decisions with official turnout data in a Swiss commune, a majority of citizens participates only selectively."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 22, no. 2, pp. 213-231). Full text not read."
+
+- id: "swissinfo/2016_most-swiss-do-vote"
+  title: "Most Swiss do actually vote"
+  publisher: "SWI swissinfo.ch"
+  date: "2016-02-16"
+  url: "https://www.swissinfo.ch/eng/politics/yes-no-or-sometimes-_most-swiss-do-actually-vote/41963568"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VII", "VIII"]
+  supports: "Geneva data (Simon Lanz): more than 90% voted at least once in the last 20 votes; about 10% did not vote once in five years; selective voters are the bulk of the electorate."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text read in full; it reports the Sciarini et al. study, based on Geneva data and the 2011 Selects survey."
+
+- id: "switzerland-bk/2026_referenden"
+  title: "Referenden"
+  publisher: "Swiss Federal Chancellery"
+  date: "2026"
+  url: "https://www.bk.admin.ch/de/referenden"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Federal acts are subject to the optional referendum, and the great majority take effect without a popular vote ('Die grosse Mehrheit dieser Erlasse treten in Kraft, ohne dass darüber vorher eine Volksabstimmung stattfindet'); 50,000 valid signatures within 100 days."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "German page read in full; the linked statistics pages are script-loaded and were not read."
+
+- id: "switzerland/1999_federal-constitution"
+  title: "Federal Constitution of the Swiss Confederation"
+  publisher: "Constitute Project (English translation)"
+  date: "1999-04-18"
+  url: "https://www.constituteproject.org/constitution/Switzerland_2014"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII"]
+  supports: "Art. 141: federal acts go to a vote if 50,000 voters or eight cantons ask within 100 days. Art. 165: emergency federal acts may take effect at once but must be time-limited; if a referendum is requested they lapse after one year unless approved; a rejected act may not be renewed."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Constitute Project HTML text of Arts. 141 and 165 (text as in force in 2014); later amendments not checked."
+
+- id: "california-sos/2025_initiatives-summary-data"
+  title: "Initiatives: Summary of Data"
+  publisher: "California Secretary of State"
+  date: "2025-07"
+  url: "https://elections.cdn.sos.ca.gov/ballot-measures/pdf/summary-data.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "1912 to 1 July 2025: 2,152 statewide initiatives titled for circulation; 1,605 (74.72%) failed to qualify; 401 (18.67%) qualified; 396 placed on the ballot, of which 140 (35.35%) were approved and 256 rejected."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "One-page PDF linked from the Secretary of State's 'History of California Initiatives' page."
+
+- id: "california-sos/2026_qualified-ballot-measures"
+  title: "Qualified Statewide Ballot Measures"
+  publisher: "California Secretary of State"
+  date: "2026"
+  url: "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The 3 November 2026 general election carries 14 statewide measures (Propositions 1-5 and 37-45)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page read on 11 October 2026; propositions counted by claude."
+
+- id: "augenblick-nicholson/2016_choice-fatigue"
+  title: "Ballot Position, Choice Fatigue, and Voter Behaviour"
+  authors: ["Ned Augenblick", "Scott Nicholson"]
+  publisher: "The Review of Economic Studies"
+  date: "2016"
+  url: "https://ideas.repec.org/a/oup/restud/v83y2016i2p460-480..html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Natural experiment: facing more decisions before a given contest raises abstention and reliance on shortcuts such as the status quo; without choice fatigue, abstentions would fall 8% and 6% of the propositions studied would have passed."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher page (DOI 10.1093/restud/rdv047) blocked by a browser check; abstract read on RePEc/IDEAS. Vol. 83, no. 2, pp. 460-480. Data location not confirmed."
+
+- id: "garmann/2017_election-frequency-fatigue"
+  title: "Election frequency, choice fatigue, and voter turnout"
+  authors: ["Sebastian Garmann"]
+  publisher: "European Journal of Political Economy"
+  date: "2017"
+  url: "https://ideas.repec.org/a/eee/poleco/v47y2017icp19-35.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Natural experiment in Hesse: when two elections fall within a short period, turnout at the later one is significantly reduced, more so for elections seen as less important."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on RePEc/IDEAS (vol. 47, pp. 19-35). Full text not read."
+
+- id: "lupia/1994_shortcuts-versus-encyclopedias"
+  title: "Shortcuts Versus Encyclopedias: Information and Voting Behavior in California Insurance Reform Elections"
+  authors: ["Arthur Lupia"]
+  publisher: "American Political Science Review"
+  date: "1994-03"
+  url: "https://doi.org/10.2307/2944882"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Survey of California voters facing five insurance reform initiatives: widely available information shortcuts let badly informed voters emulate relatively well-informed ones."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 88, no. 1, pp. 63-76). Full text not read."
+
+- id: "worldbank/2026_wdi-population"
+  title: "World Development Indicators: Population, total (SP.POP.TOTL), 2024"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2024&format=json&per_page=400"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "World population of 8,140,897,523 in 2024, used for the odds-of-selection and signature-threshold estimates."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON (lastupdated 2026-10-08), 'World' aggregate; estimates computed by claude."
+
+- id: "worldbank/2026_wdi-population-0-14"
+  title: "World Development Indicators: Population ages 0-14 (% of total population) (SP.POP.0014.TO.ZS), 2024"
+  publisher: "World Bank"
+  date: "2026-10-08"
+  url: "https://api.worldbank.org/v2/country/WLD/indicator/SP.POP.0014.TO.ZS?date=2024&format=json"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "People aged 0-14 were 24.73% of the world population in 2024, leaving about 6.13 billion aged 15 or over (computed by claude)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "API JSON, 'World' aggregate for 2024."
+
+# ---------------------------------------------------------------- Random samples that deliberate
+
+- id: "stanford-ddl/2026_what-is-deliberative-polling"
+  title: "What is Deliberative Polling?"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2026"
+  url: "https://deliberation.stanford.edu/what-deliberative-pollingr"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Method: a random sample is polled, gathered for a weekend with balanced briefings and competing experts, and polled again; Deliberative Polling has been 'conducted over 150 times in over 50 countries and jurisdictions'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page read on 11 October 2026; the lab originated and runs the method."
+
+- id: "fishkin/2021_america-in-one-room"
+  title: "Is Deliberation an Antidote to Extreme Partisan Polarization? Reflections on 'America in One Room'"
+  authors: ["James Fishkin", "Alice Siu", "Larry Diamond", "Norman Bradburn"]
+  publisher: "American Political Science Review"
+  date: "2021-07-27"
+  url: "https://doi.org/10.1017/S0003055421000642"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "September 2019: 526 registered voters (NORC AmeriSpeak) deliberated over a long weekend, with a pre-post control group of 844; 47 proposals, 26 extremely polarised; Republican support for reducing refugee numbers fell from 65% to 34%; Democratic support for a $15 minimum wage fell from 82% to 59%; despite balanced materials, opinion 'shifted markedly in a direction more sympathetic to the plight of the undocumented'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full article on Cambridge Core via the DOI (vol. 115, no. 4, pp. 1464-1481): design, immigration and economy sections."
+
+- id: "sanders/2012_deliberative-polling-eu"
+  title: "The Effects of Deliberative Polling in an EU-wide Experiment: Five Mechanisms in Search of an Explanation"
+  authors: ["David Sanders"]
+  publisher: "British Journal of Political Science"
+  date: "2012-02-07"
+  url: "https://doi.org/10.1017/S0007123411000494"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Three-day EU-wide Deliberative Poll before the June 2009 European elections: deliberators changed views against a control group; five explanations were tested 'but none is satisfactory'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 42, no. 3, pp. 617-640). Full text not read."
+
+- id: "cddrl/2023_metaverse-community-forum"
+  title: "Results of First Global Deliberative Poll® Announced by Stanford's Deliberative Democracy Lab"
+  publisher: "Center on Democracy, Development and the Rule of Law, Stanford University"
+  date: "2023-06-22"
+  url: "https://cddrl.fsi.stanford.edu/news/results-first-global-deliberative-pollr-announced-stanfords-deliberative-democracy-lab"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Metaverse Community Forum on bullying and harassment, run with Meta and the Behavioural Insights Team: more than 6,300 deliberators from 32 countries in nine regions, 23 languages, recruited by 14 survey partners; 56 proposals; a matched control group in early December 2022."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "News page read in full; the lab's separate results report was not read here."
+
+- id: "stanford-ddl/2026_meta-forum-generative-ai"
+  title: "Meta Community Forum on Generative AI: results"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2026"
+  url: "https://deliberation.stanford.edu/meta-community-forum-generative-ai-results"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "On 28-29 October 2023, 1,545 participants in scientific samples from Brazil, Germany, Spain and the United States deliberated on AI chatbots on the Stanford Online Deliberation Platform."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated results page read on 11 October 2026."
+
+- id: "cddrl/2026_industry-wide-forum-ai-agents"
+  title: "People Shaping AI: Groundbreaking Industry-Wide Forum Invites Public Input for the Future of AI Agents Through Public Deliberation"
+  publisher: "Center on Democracy, Development and the Rule of Law, Stanford University"
+  date: "2026-02-16"
+  url: "https://cddrl.fsi.stanford.edu/news/people-shaping-ai-groundbreaking-industry-wide-forum-invites-public-input-future-ai-agents"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "In November 2025, 503 participants from the United States and India deliberated on AI agents, in a forum with Cohere, Meta, Oracle, PayPal, DoorDash and Microsoft."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "News page read in full."
+
+- id: "stanford-ddl/2017_mongolia-first-national-deliberative-poll"
+  title: "Mongolia's First National Deliberative Poll on Constitutional Amendments"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2017-04-29"
+  url: "https://deliberation.stanford.edu/news/mongolias-first-national-deliberative-poll-constitutional-amendments"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "On 29-30 April 2017, 669 participants deliberated on six possible constitutional amendments, the first poll under a new Mongolian law requiring Deliberative Polling."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "News page read; account by the lab that ran the poll."
+
+- id: "stanford-ddl/2026_mongolia-constitutional-amendment"
+  title: "Deliberative Polling® Leads to New Constitutional Amendment in Mongolia"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2026"
+  url: "https://deliberation.stanford.edu/national-deliberative-poll-leads-constitutional-amendment-mongolia"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "Since 2017 Deliberative Polling is legally required before parliament can consider a constitutional amendment; in February 2023 nearly 800 citizens sampled by the National Statistical Office deliberated; about 600 expert and 500 public suggestions were screened by an independent Deliberative Council; 82% backed enlarging parliament and 71% a mixed electoral system (of those with a view); parliament grew from 76 to 126 seats."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page read on 11 October 2026 (it mentions the 2024 election); account by the lab that ran the poll."
+
+- id: "stanford-ddl/2026_online-deliberation-platform"
+  title: "Stanford Online Deliberation Platform"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2026"
+  url: "https://deliberation.stanford.edu/tools-resources/online-deliberation-platform"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "AI-assisted video platform with an automated moderator for small groups; used in 40+ languages and 40+ countries; 'As of fall 2026' over 50,000 unique users and over 100,000 hours of deliberation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page read on 11 October 2026; the two-hours-per-user figure in the note is claude's arithmetic."
+
+- id: "stanford-ddl/2026_taiwan-information-integrity-poll"
+  title: "Taiwan Deliberation on Utilizing AI to Enhance Information Integrity"
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2026"
+  url: "https://deliberation.stanford.edu/taiwan-deliberation-utilizing-ai-enhance-information-integrity"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "On 23 March 2024, 447 Taiwanese citizens met in small groups on the Stanford Online Deliberation Platform to deliberate on using AI against false information and deepfakes, with Taiwan's Ministry of Digital Affairs and NYCU."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Undated page read on 11 October 2026."
+
+- id: "oecd/2020_catching-the-deliberative-wave"
+  title: "Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave"
+  publisher: "OECD Publishing"
+  date: "2020-06-10"
+  url: "https://www.oecd.org/en/publications/innovative-citizen-participation-and-new-democratic-institutions_339306da-en/full-report.html"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IV"]
+  supports: "The cost of representative deliberative processes 'ranges from 13 thousand to 1.8 million euros' on available data (cases 1986-2019). Box 6.11: in Canada Bay (2012) 36 randomly selected, stratified citizens met five times over 2.5 months on the whole set of services and funding, and the council agreed the panel would set service levels for the 2014-18 Delivery Plan, subject to final council approval; further whole-budget cases in Greater Geraldton (2013), Darebin (2014) and Melbourne (2014)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Chapter 3 HTML (full-report/component-7), introduction; chapter 6 HTML (full-report/component-10), Box 6.11."
+
+- id: "global-assembly/2022_report-2021"
+  title: "Report of the 2021 Global Assembly on the Climate and Ecological Crisis"
+  publisher: "Global Assembly"
+  date: "2022-11"
+  url: "https://globalassembly.org/resources/downloads/GlobalAssembly2021-FullReport.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Total spending US$972,247 (US$972,246.84); members met for 68 hours over 12 weeks; per-seat and per-member-hour costs computed by claude."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Re-read the PDF's process summary and Finance chapter (budget table)."
+
+- id: "germann/2024_scaling-up-mini-publics"
+  title: "Scaling Up? Unpacking the Effect of Deliberative Mini-Publics on Legitimacy Perceptions"
+  authors: ["Micha Germann", "Sofie Marien", "Lala Muradova"]
+  publisher: "Political Studies"
+  date: "2024-05"
+  url: "https://researchportal.bath.ac.uk/en/publications/scaling-up-unpacking-the-effect-of-deliberative-mini-publics-on-l/"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Pre-registered Irish survey experiment (N = 1,309): mini-publics raise legitimacy perceptions, but mainly when their recommendations are honoured; it makes no difference whether representatives or a referendum overturn them; effects driven by low-trust citizens."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on the University of Bath portal (vol. 72, no. 2, pp. 677-700; DOI 10.1177/00323217221137444); the Southampton PDF returned 401."
+
+- id: "garry/2021_citizens-assemblies-northern-ireland"
+  title: "The Perception of the Legitimacy of Citizens' Assemblies in Deeply Divided Places? Evidence of Public and Elite Opinion from Consociational Northern Ireland"
+  authors: ["John Garry", "James Pow", "John Coakley", "David Farrell", "Brendan O'Leary", "James Tilley"]
+  publisher: "Government and Opposition"
+  date: "2021-03-26"
+  url: "https://doi.org/10.1017/gov.2021.4"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The public supports decision-making by a citizens' assembly even when they disagree with the decision, less so with strong ideological views; elected politicians oppose delegating decision-making power to an assembly but are more supportive of recommendation-making."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 57, pp. 532-551). Full text not read."
+
+# ---------------------------------------------------------------- Delegation
+
+- id: "kahng/2018_liquid-democracy-algorithmic"
+  title: "Liquid Democracy: An Algorithmic Perspective"
+  authors: ["Anson Kahng", "Simon Mackenzie", "Ariel Procaccia"]
+  publisher: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  date: "2018-04-25"
+  url: "https://ojs.aaai.org/index.php/AAAI/article/view/11468"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Even if voters may delegate only to better-informed voters, local delegation mechanisms cannot guarantee to do at least as well as direct voting; a non-local mechanism can, under mild assumptions."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "AAAI proceedings page (vol. 32, no. 1); claim read in the abstract. Full paper not read."
+
+- id: "campbell/2022_liquid-democracy-experiments"
+  title: "Liquid Democracy. Two Experiments on Delegation in Voting"
+  authors: ["Joseph Campbell", "Alessandra Casella", "Lucas de Lara", "Victoria R. Mooers", "Dilip Ravindran"]
+  publisher: "National Bureau of Economic Research (Working Paper 30794)"
+  date: "2022-12"
+  url: "https://www.nber.org/papers/w30794"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "In a lab experiment and an online experiment, delegation rates were 'unexpectedly high' and higher than abstention rates, and liquid democracy underperformed both universal voting and abstention."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "NBER abstract page. Full paper not read."
+
+- id: "kling/2015_liquidfeedback-super-voters"
+  title: "Voting Behaviour and Power in Online Democracy: A Study of LiquidFeedback in Germany's Pirate Party"
+  authors: ["Christoph Carl Kling", "Jérôme Kunegis", "Heinrich Hartmann", "Markus Strohmaier", "Steffen Staab"]
+  publisher: "arXiv (ICWSM 2015)"
+  date: "2015-03-26"
+  url: "https://arxiv.org/abs/1503.07723v1"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "LiquidFeedback adopted May 2010; 13,836 users against 24,438 party members (January 2015); 13 Aug 2010 to 25 Nov 2013: 499,009 votes on 6,517 initiatives and 14,964 delegations; median user voted 8 times, 54 users over 1,000 times; inequality of incoming delegations (Gini) rose; super-voters agreed with the majority more often; votes were public, 'allowing the control of delegates at the expense of non-secret votes'; restraint credited partly to 'the social control in an enforced public voting'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (arXiv v1): abstract, dataset description, Table 1, voting behaviour, network change and discussion sections."
+
+- id: "eisel/2015_liquidfriesland-am-ende"
+  title: "LiquidFriesland endgültig am Ende: Eine Internet-Leiche als Marketing-Coup"
+  authors: ["Stephan Eisel"]
+  publisher: "Stephan Eisel (commentary, self-published)"
+  date: "2015-09-03"
+  url: "https://www.stephaneisel.de/clubs/eisel/news/Friesland-2015.pdf"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "Critic's figures: over 80,000 eligible to use LiquidFriesland; no platform activity since 10 April 2015; on 15 February 2015 the Pirate Party had 23,833 members, 5,380 entitled to vote and 322 active on LiquidFeedback (logged in within six months)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Two-page PDF read in full; a critical commentary that partly cites the district's August 2015 evaluation."
+
+- id: "friesland/2015_liquidfriesland-evaluation"
+  title: "Evaluierungsbericht LiquidFriesland"
+  publisher: "Landkreis Friesland"
+  date: "2015-08-19"
+  url: "https://web.archive.org/web/20160129005210/https://www.friesland.de/downloads/datei/OTAxMDA0Njc3Oy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2ZyaWVzbGFuZC9mcmllc2xhbmQvbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDgxOV9ldmFsdWllcnVuZ19saXF1aWRmcmllc2xhbmQucGRm/20150819_evaluierung_liquidfriesland.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "Since launch, citizens published 76 initiatives and the administration 14; 30 citizens authored the 76; 583 users registered; 382 citizens took part in at least one initiative."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "The original friesland.de URL returns 404; read the Wayback Machine copy of 29 January 2016 (10-page PDF), page 1."
+
+- id: "hardt-lopes/2015_google-votes"
+  title: "Google Votes: A Liquid Democracy Experiment on a Corporate Social Network"
+  authors: ["Steve Hardt", "Lia C. R. Lopes"]
+  publisher: "Technical Disclosure Commons (Defensive Publications Series, no. 79)"
+  date: "2015-06-05"
+  url: "https://www.tdcommons.org/dpubs_series/79/"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII"]
+  supports: "March 2012 to February 2015: 370 issues; 20,000 visitors; 15,000 employees cast over 87,000 votes, 3.6% of them delegated; food issues drew over 73,000 votes; all votes visible to the voting group; the 'Golden Rule of Liquid Democracy': 'If I give you my vote, I can see what you do with it.'"
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF via the landing page's download link; Golden Rule and case-study sections."
+
+- id: "fritsch/2022_who-controls-daos"
+  title: "Analyzing Voting Power in Decentralized Governance: Who controls DAOs?"
+  authors: ["Robin Fritsch", "Marino Müller", "Roger Wattenhofer"]
+  publisher: "arXiv"
+  date: "2022-04-03"
+  url: "https://arxiv.org/abs/2204.01176"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Nakamoto coefficients of 8 (Compound), 11 (Uniswap) and 18 (ENS) delegates; on average under 10% of total tokens (15% of circulating) vote on Compound and Uniswap proposals, so 7.5% of circulating tokens would have won an average vote."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (v1): Table 2 and section 4.2."
+
+- id: "weyl-tang/2024_plurality"
+  title: "Plurality: The Future of Collaborative Technology and Democracy"
+  authors: ["E. Glen Weyl", "Audrey Tang"]
+  publisher: "plurality.net (open-access book)"
+  date: "2024"
+  url: "https://www.plurality.net/read/7-0/"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Taiwan's Presidential Hackathon uses quadratic voting for public participation in selecting the top 20 teams (chapters 7-0 and 2-2; no participation figures given); liquid democracy systems have 'an unfortunate tendency to concentrate power often excessively' (chapter 5-6)."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Read chapters 2-2, 5-6 and 7-0 on plurality.net; the authors advocate these tools."
+
+# ---------------------------------------------------------------- Quadratic voting and funding
+
+- id: "lalley-weyl/2018_quadratic-voting"
+  title: "Quadratic Voting: How Mechanism Design Can Radicalize Democracy"
+  authors: ["Steven P. Lalley", "E. Glen Weyl"]
+  publisher: "AEA Papers and Proceedings"
+  date: "2018-05"
+  url: "https://www.aeaweb.org/articles?id=10.1257/pandp.20181002"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Individuals pay for as many votes as they wish with voice credits quadratic in the votes bought; the authors call it a 'still-nascent mechanism'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "AEA abstract page (vol. 108, pp. 33-37). Full text not read."
+
+- id: "posner-weyl/2018_radical-markets"
+  title: "Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
+  authors: ["Eric A. Posner", "E. Glen Weyl"]
+  publisher: "Princeton University Press"
+  date: "2018-05-15"
+  url: "https://press.princeton.edu/books/hardcover/9780691177502/radical-markets"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Publisher's description: the authors show 'how the principle of one person, one vote inhibits democracy' and propose a way for voters to weigh the issues that matter most to them."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Publisher's page only; the book was not read."
+
+- id: "casella-sanchez/2019_storable-votes-quadratic-voting"
+  title: "Storable Votes and Quadratic Voting. An Experiment on Four California Propositions"
+  authors: ["Alessandra Casella", "Luis Sanchez"]
+  publisher: "National Bureau of Economic Research (Working Paper 25510)"
+  date: "2019-01"
+  url: "https://www.nber.org/papers/w25510"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Two samples of California residents' views on four initiatives prepared for the 2016 ballot, bootstrapped into 10,000 simulated multi-elections: quadratic voting gives more minority victories and higher average welfare, but more frequent inefficient minority victories."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "NBER abstract page. Full paper not read."
+
+- id: "colorado-sun/2019_quadratic-voting-budget"
+  title: "$120 million in requests and $40 million in the bank. How an obscure theory helped prioritize the Colorado budget."
+  authors: ["Brian Eason"]
+  publisher: "The Colorado Sun"
+  date: "2019-05-28"
+  url: "https://coloradosun.com/2019/05/28/quadratic-voting-colorado-house-budget/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII", "IV"]
+  supports: "2019 session: a backlog of more than 100 bills costing over $120 million competed for $40 million; House Democrats ranked them by anonymous, computer-based quadratic voting; the equal-pay bill SB 85 ranked first; leaders still played a large role; more than 40 bills were funded; the Senate ranked bills instead."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live site blocked by a browser check; read the Wayback Machine copy (2024 capture)."
+
+- id: "colorado-sun/2024_quadratic-voting-ruling"
+  title: "Judge orders Democrats at the Colorado Capitol to stop using secret voting system to allocate state budget"
+  authors: ["Jesse Paul", "Brian Eason"]
+  publisher: "The Colorado Sun"
+  date: "2024-01-05"
+  url: "https://coloradosun.com/2024/01/05/colorado-legisalture-quadratic-voting-lawsuit/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII", "IV"]
+  supports: "Denver District Court ruled that the caucuses' anonymous quadratic voting breached the open meetings law, which bars formal action by secret ballot; caucuses may use the method only with lawmakers' votes public; used since 2019."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Live site blocked; read the Wayback Machine copy of 30 March 2026."
+
+- id: "colorado-politics/2024_funding-method-transparency"
+  title: "Colorado Democrats unveil new method, promise transparency in funding bills"
+  publisher: "Colorado Politics"
+  date: "2024-04-02"
+  url: "https://www.coloradopolitics.com/2024/04/02/colorado-democrats-unveil-new-method-promise-transparency-in-funding-bills-2-cdb504a4-f115-11ee-a1bf-d3d5955b2d36/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII", "IV"]
+  supports: "Quadratic voting was used for the past five budget cycles ending in 2023, with 100 credits per Democratic lawmaker; 'Quadratic voting is no longer an option' (Senate President Fenberg); replaced by a public form disclosing each lawmaker's choices; Republicans had declined to take part because of the lack of transparency."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article page read (shows an update of 4 July 2025)."
+
+- id: "buterin-hitzig-weyl/2019_flexible-design-public-goods"
+  title: "A Flexible Design for Funding Public Goods"
+  authors: ["Vitalik Buterin", "Zoë Hitzig", "E. Glen Weyl"]
+  publisher: "Management Science"
+  date: "2019-11"
+  url: "https://doi.org/10.1287/mnsc.2019.3337"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IV"]
+  supports: "Quadratic funding: the amount a public good receives is proportional to the square of the sum of the square roots of contributions; first-best under the 'standard model'; variations limit cost and help protect against collusion."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 65, no. 11, pp. 5171-5187). Full text not read."
+
+- id: "gitcoin/2024_state-of-public-goods-funding"
+  title: "State of Public Goods Funding 2024"
+  publisher: "Gitcoin"
+  date: "2024-12"
+  url: "https://gitcoin.co/research/state-of-public-goods-funding-2024"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IV"]
+  supports: "Self-reported: Gitcoin Grants '$60M+ total since 2019'; estimated quadratic funding of about $50M across the Ethereum ecosystem in 2024."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Page read; figures are Gitcoin's own estimates."
+
+- id: "gitcoin/2026_gg24"
+  title: "Gitcoin Grants 24"
+  publisher: "Gitcoin"
+  date: "2026-02-20"
+  url: "https://gitcoin.co/campaigns/gitcoin-grants-24-gg24"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IV"]
+  supports: "GG24 (October-November 2025): about $1.8M across six domains; the two quadratic funding rounds funded 78 projects from about 1,286 unique donors giving $36,657, with $300K in matching pools; Deep Funding used prediction markets ($350K) to evaluate 98 repositories through about 500 evaluations by 50 evaluators; Passport gating and cluster matching for Sybil resistance."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Campaign page read (modified 20 February 2026); self-reported figures; the matching-per-dollar ratio is claude's arithmetic."
+
+- id: "gitcoin/2026_identity-binding-constraint"
+  title: "Identity Infrastructure: The Binding Constraint on Democratic Funding"
+  publisher: "Gitcoin"
+  date: "2026-03"
+  url: "https://gitcoin.co/research/identity-infrastructure-binding-constraint"
+  tier: "primary"
+  kind: "report"
+  parts: ["VII", "VIII", "IV"]
+  supports: "'If you can't verify that each participant is a unique human, you can't run a democratic funding mechanism'; Citizens Round (June 2023): about 103,000 DAI, 17,000+ donors, over 50% motivated mainly by airdrop speculation; QuadraticLenster (July 2023): Sybil attacks 'almost immediately'; Gitcoin Passport cut suspicious activity by about 60%, leaving 40% of the attack surface uncovered."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Report page (published March 2026) read in full; Gitcoin's own account."
+
+# ---------------------------------------------------------------- AI-assisted deliberation
+
+- id: "tessler/2024_ai-common-ground"
+  title: "AI can help humans find common ground in democratic deliberation"
+  authors: ["Michael Henry Tessler", "Michiel A. Bakker", "Daniel Jarrett", "Hannah Sheahan", "Martin J. Chadwick", "Raphael Koster", "Georgina Evans", "Lucy Campbell-Gillingham", "Tantum Collins", "David C. Parkes", "Matthew Botvinick", "Christopher Summerfield"]
+  publisher: "Science"
+  date: "2024-10-18"
+  url: "https://doi.org/10.1126/science.adq2852"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The 'Habermas Machine': participants (N = 5,734, UK) preferred AI-generated group statements to those of human mediators; groups converged after AI-mediated deliberation; statements incorporated dissent; replicated in a virtual citizens' assembly of a demographically representative UK sample; the authors require participants who are representative and 'prepared to contribute in good faith'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Science article page via the DOI: editor's summary, structured abstract and abstract (vol. 386, no. 6719). Full text not read."
+
+- id: "small/2023_llms-polis"
+  title: "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
+  authors: ["Christopher T. Small", "Ivan Vendrov", "Esin Durmus", "Hadjar Homaei", "Elizabeth Barry", "Julien Cornebise", "Ted Suzman", "Deep Ganguli", "Colin Megill"]
+  publisher: "arXiv"
+  date: "2023-06-20"
+  url: "https://arxiv.org/abs/2306.11932"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Pilots with an Anthropic language model: summaries help run Polis conversations; vote predictions 'nearly perfectly statistically calibrated', posing opportunities and serious risks; the model voted more like one opinion group (p = 1.86 x 10^-4) on Bowling Green data; the authors 'reject as invalid' replacing human participants with simulations."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (v1): sections 2.4 (vote prediction) and 3.2 (measuring ideological bias)."
+
+- id: "anthropic/2023_collective-constitutional-ai"
+  title: "Collective Constitutional AI: Aligning a Language Model with Public Input"
+  publisher: "Anthropic"
+  date: "2023-10-17"
+  url: "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "XI"]
+  supports: "With the Collective Intelligence Project, about 1,000 Americans used Polis to propose and vote on rules for an AI system: 1,127 statements and 38,252 votes (34 per person); 275 statements remained after moderation; staff removed duplicates and combined similar ideas; about 50% conceptual overlap with Anthropic's own constitution; the process involved 'a large number of subjective judgment calls'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Research page read, including the 'Lessons Learned' section."
+
+- id: "moda/2024_alignment-assemblies"
+  title: "Alignment Assemblies"
+  publisher: "Ministry of Digital Affairs, Taiwan"
+  date: "2024"
+  url: "https://moda.gov.tw/en/major-policies/alignment-assemblies/1453"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "In May 2023 the ministry partnered with the Collective Intelligence Project on Alignment Assemblies; deliberative workshops on 26 August and 2 September 2023; an online citizens' deliberative assembly on using AI to promote information integrity in March 2024, by stratified random sampling."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "English policy page and its 2024 assembly subpage (updated 2024-06-05), which lists the citizens' recommendations."
+
+- id: "moda/2024_information-integrity-meeting"
+  title: "Meeting with international AI companies on information integrity alignment assembly"
+  publisher: "Ministry of Digital Affairs, Taiwan"
+  date: "2024-04-17"
+  url: "https://moda.gov.tw/press/background-information/12616"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Transcript: a survey was sent by SMS to 200,000 people; at least 400 were chosen by stratified random sampling and more than 400 took part on 23 March 2024; more than 450 participants, including 120 practitioners, deliberated in groups of 10 with AI facilitation on Stanford's platform; Audrey Tang said an upcoming anti-fraud act would incorporate some measures."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Background-information transcript (created 2024-04-17, updated 2024-05-06); it appears machine-transcribed, e.g. 'Baldwin one' for the official 111 SMS platform."
+
+- id: "techbrew/2025_bowling-green-sensemaker"
+  title: "How a small Kentucky city used AI to help chart a course for its future"
+  authors: ["Patrick Kulp"]
+  publisher: "Tech Brew"
+  date: "2025-04-22"
+  url: "https://www.techbrew.com/stories/2025/04/22/bowling-green-kentucky-ai-tool-google-jigsaw-sensemaker"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Bowling Green, Kentucky collected nearly 4,000 online responses and more than 1 million votes over a month on its 25-year future; Google Jigsaw's Sensemaker, built on Google's language models, summarised them; the Computational Democracy Project, Polis's nonprofit, also worked on the effort."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article text read."
+
+- id: "google/2026_sensemaking-ai-local-governments"
+  title: "Using AI to help local governments connect with constituents"
+  authors: ["Omar Medina", "Yasmin Green"]
+  publisher: "Google (The Keyword blog)"
+  date: "2026-09-22"
+  url: "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Jigsaw's Sensemaking AI is expanding, with Google.org, to help local governments run large civic conversations at no cost; in Bowling Green, input from 8,000 residents informed a 25-year growth plan; similar initiatives in Chattanooga, Riverside and Kitchener."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Blog post read (published 22 September 2026); company's own account."
+
+- id: "vargiu-nai/2025_ai-chatbots-persuade-voters"
+  title: "AI chatbots can persuade voters"
+  authors: ["Chiara Vargiu", "Alessandro Nai"]
+  publisher: "Nature (News & Views)"
+  date: "2025-12-11"
+  url: "https://pure.uva.nl/ws/files/295900960/AI_chatbots_can_persuade_voters.pdf"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Summary of Lin et al. (Nature 648, 394-401) and Hackenburg et al. (Science, 2025): chatbot conversations raised support for a candidate by about 2-3 points on a 0-100 scale, with about a third persisting a month; a maximally persuasive configuration shifted opinions 16 points on average (26 among those who disagreed) but reduced factual accuracy; political advertising shifts vote choice by under one point."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Authors' repository copy (UvA-DARE) of the News & Views piece (Nature 648, 287-288); the underlying papers were not read."
+
+- id: "padmakumar-he/2024_llm-writing-diversity"
+  title: "Does Writing with Language Models Reduce Content Diversity?"
+  authors: ["Vishakh Padmakumar", "He He"]
+  publisher: "ICLR 2024 (arXiv)"
+  date: "2024"
+  url: "https://arxiv.org/abs/2309.05196"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Controlled experiment on argumentative essays: co-writing with a feedback-tuned model, but not with its base model, significantly reduced diversity and made different authors' writing more similar."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "arXiv abstract page (v3). Full paper not read."
+
+# ---------------------------------------------------------------- Participatory budgeting
+
+- id: "melgar/2014_time-of-closure"
+  title: "A Time of Closure? Participatory Budgeting in Porto Alegre, Brazil, after the Workers' Party Era"
+  authors: ["Teresa R. Melgar"]
+  publisher: "Journal of Latin American Studies"
+  date: "2014-02"
+  url: "https://doi.org/10.1017/S0022216X13001582"
+  tier: "secondary"
+  kind: "article"
+  parts: ["IV", "VIII"]
+  supports: "The Workers' Party held Porto Alegre's mayoralty for 16 years; after its 2004 defeat, succeeding administrations weakened participatory budgeting, using considerable executive powers."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 46, no. 1, pp. 121-149). Full text not read."
+
+- id: "jornal-do-comercio/2021_atlas-op-porto-alegre"
+  title: "Atlas Mundial vê extinção do Orçamento Participativo em Porto Alegre"
+  publisher: "Jornal do Comércio (Porto Alegre)"
+  date: "2021-12"
+  url: "https://www.jornaldocomercio.com/colunas/pensar_a_cidade/2021/12/824553-atlas-mundial-ve-extincao-do-op-em-porto-alegre.html"
+  tier: "secondary"
+  kind: "news"
+  parts: ["IV", "VIII"]
+  supports: "Participatory budgeting began in Porto Alegre in 1989; the last new demands were registered in 2016 and assemblies were cancelled in 2017; the 2020-21 World Atlas points to its 'prática extinção' there; about 4,000 active processes worldwide against 10,000 in 2019, in at least 53 countries; of 8,800 checked, about 55% were suspended with Covid-19."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Column text read; reports the 2020-21 Atlas, which was not read directly."
+
+- id: "dias/2019_participatory-budgeting-world-atlas"
+  title: "Participatory Budgeting World Atlas 2019"
+  authors: ["Nelson Dias", "Sahsil Enríquez", "Simone Júlio"]
+  publisher: "Epopeia and Oficina"
+  date: "2019"
+  url: "https://npms.paginas.ufsc.br/files/2019/12/Atlas-2019-Web.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["IV", "VIII"]
+  supports: "11,690-11,825 participatory budgets worldwide; contributions from 71 countries (76 authors); counts in no more than three countries overestimated or outdated; 'an abusive use of the term' in some contexts; Portugal created the first national participatory budgets in 2017; South Korea the second, using mini-groups representing the population; the Philippines' Bottom-Up Budgeting (2012-2016) reached over 1,500 cities and almost 55,000 investments."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (mirror hosted by UFSC): introduction, methodology, world map and regional highlights."
+
+- id: "goncalves/2014_pb-municipal-expenditures"
+  title: "The Effects of Participatory Budgeting on Municipal Expenditures and Infant Mortality in Brazil"
+  authors: ["Sónia Gonçalves"]
+  publisher: "World Development"
+  date: "2014-01"
+  url: "https://ideas.repec.org/a/eee/wdevel/v53y2014icp94-110.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "VIII"]
+  supports: "Brazilian municipalities 1990-2004: those using participatory budgeting channelled more spending to sanitation and health, accompanied by lower infant mortality."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on RePEc/IDEAS (vol. 53, pp. 94-110; DOI 10.1016/j.worlddev.2013.01.009). Full text not read."
+
+- id: "touchton-wampler/2014_improving-social-well-being"
+  title: "Improving Social Well-Being Through New Democratic Institutions"
+  authors: ["Michael Touchton", "Brian Wampler"]
+  publisher: "Comparative Political Studies"
+  date: "2014"
+  url: "https://doi.org/10.1177/0010414013512601"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "VIII"]
+  supports: "Brazil's largest cities over 20 years: participatory budgeting is associated with more health spending, more civil society organisations and lower infant mortality, strengthening the longer it lasts and under Workers' Party mayors."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract read in the Crossref API record (vol. 47, no. 10, pp. 1442-1469; online 27 December 2013). Full text not read."
+
+- id: "boulding-wampler/2010_voice-votes-resources"
+  title: "Voice, Votes, and Resources: Evaluating the Effect of Participatory Democracy on Well-being"
+  authors: ["Carew Boulding", "Brian Wampler"]
+  publisher: "World Development"
+  date: "2010-01"
+  url: "https://ideas.repec.org/a/eee/wdevel/v38y2010i1p125-135.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["IV", "VIII"]
+  supports: "Brazil's 220 largest cities: municipalities with participatory budgeting spend a slightly higher share on health and education, but there is 'little evidence' this affects measurable outcomes."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on RePEc/IDEAS (vol. 38, no. 1, pp. 125-135; DOI 10.1016/j.worlddev.2009.05.002). Full text not read."
+
+# ---------------------------------------------------------------- Markets, futarchy and DAOs
+
+- id: "hanson/2013_vote-values-bet-beliefs"
+  title: "Shall We Vote on Values, But Bet on Beliefs?"
+  authors: ["Robin Hanson"]
+  publisher: "Journal of Political Philosophy (author's copy)"
+  date: "2013"
+  url: "https://mason.gmu.edu/~rhanson/futarchy2013.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "X"]
+  supports: "Futarchy: 'vote on values, but bet on beliefs'; when speculative markets clearly estimate that a proposal would raise a measured 'national welfare', it becomes law; manipulators act as noise traders, so they do not reduce average price accuracy."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Author's PDF: introduction and the section on manipulation."
+
+- id: "berg/2008_prediction-market-accuracy"
+  title: "Prediction market accuracy in the long run"
+  authors: ["Joyce E. Berg", "Forrest D. Nelson", "Thomas A. Rietz"]
+  publisher: "International Journal of Forecasting"
+  date: "2008"
+  url: "https://ideas.repec.org/a/eee/intfor/v24y2008i2p285-300.html"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "X"]
+  supports: "Iowa Electronic Markets against 964 polls over the 1988-2004 US presidential elections: the market was closer to the outcome 74% of the time, and significantly better than polls more than 100 days ahead."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "Abstract on RePEc/IDEAS (vol. 24, no. 2, pp. 285-300). Full text not read."
+
+- id: "wolfers-zitzewitz/2004_prediction-markets"
+  title: "Prediction Markets"
+  authors: ["Justin Wolfers", "Eric Zitzewitz"]
+  publisher: "Journal of Economic Perspectives"
+  date: "2004"
+  url: "https://www.aeaweb.org/articles?id=10.1257/0895330041371321"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII", "X"]
+  supports: "Market-generated forecasts are typically fairly accurate and beat most moderately sophisticated benchmarks; conditional markets can reveal beliefs about regression coefficients but leave the problem of separating correlation from causation."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "partial"
+    note: "AEA abstract page (vol. 18, no. 2). Full text not read."
+
+- id: "rothschild-sethi/2015_intrade-trading-strategies"
+  title: "Trading Strategies and Market Microstructure: Evidence from a Prediction Market"
+  authors: ["David M. Rothschild", "Rajiv Sethi"]
+  publisher: "Working paper, later in the Journal of Prediction Markets"
+  date: "2015-11-22"
+  url: "https://researchdmr.com/files/JournalofPredictionMarkets2016WP.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "X"]
+  supports: "Intrade's 2012 presidential market: 6,300 accounts and wagers topping $230 million on the election; one trader accounted for over a third of bets on Romney, built a price 'firewall' that held Intrade prices stable for hours on Election Day, and lost close to $7 million; the authors present 'evidence suggestive of manipulation', plausibly to boost fundraising, morale and turnout."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Working-paper PDF dated 22 November 2015, hosted by the first author; the published version was not read."
+
+- id: "theblock/2025_polymarket-uma-attack"
+  title: "Polymarket says governance attack by UMA whale to hijack a bet's resolution is 'unprecedented'"
+  authors: ["Danny Park"]
+  publisher: "The Block"
+  date: "2025-03-26"
+  url: "https://www.theblock.co/post/348171/polymarket-says-governance-attack-by-uma-whale-to-hijack-a-bets-resolution-is-unprecedented"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII", "X"]
+  supports: "A $7 million market, 'Ukraine agrees to Trump mineral deal before April?', moved from 9% to 100% Yes on 24-25 March 2025 and resolved contrary to the actual event; Polymarket acknowledged a governance attack by a large UMA token holder on its oracle, called it 'an unprecedented situation' and refused refunds."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Article page read (updated 27 March 2025)."
+
+- id: "optimism/2025_futarchy-v1-findings"
+  title: "Futarchy v1 Preliminary Findings"
+  publisher: "Optimism Collective governance forum"
+  date: "2025-06-24"
+  url: "https://gov.optimism.io/t/futarchy-v1-preliminary-findings/10062"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "X"]
+  supports: "Play-money futarchy contest beside the Grants Council, each picking five 100K OP grants (ended 12 June 2025): 430 forecasters after filtering 4,122 suspected bots; futarchy picks showed about $32.5M more TVL growth, driven by one outlier; forecasts about $200M too high; decision markets 'may incentivize participating projects to game outcomes'; futarchy picks had higher variance."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Opening post and first replies read via the forum's JSON endpoint; a reply argues the Grants Council was a weak control."
+
+- id: "sec/2017_the-dao-report"
+  title: "Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO"
+  publisher: "U.S. Securities and Exchange Commission (Release No. 81207)"
+  date: "2017-07-25"
+  url: "https://www.sec.gov/litigation/investreport/34-81207.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The DAO sold about 1.15 billion tokens for about 12 million ETH (about $150 million) in April-May 2016; on 17 June 2016 an attacker diverted about 3.6 million ETH, a third of the total; a hard fork active on 20 July 2016 moved all funds to a recovery address; Curators had 'considerable power'; the voting design had a 'strong positive bias to vote YES'."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (redirected to sec.gov/files/...): sections on the offering, governance, the attack and the hard fork."
+
+- id: "feichtinger/2023_hidden-shortcomings-daos"
+  title: "The Hidden Shortcomings of (D)AOs: An Empirical Study of On-Chain Governance"
+  authors: ["Rainer Feichtinger", "Robin Fritsch", "Yann Vonlanthen", "Roger Wattenhofer"]
+  publisher: "arXiv"
+  date: "2023-02-23"
+  url: "https://arxiv.org/abs/2302.12125"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "21 DAOs: in 17, fewer than 10 participants control a majority of voting power; for half, the Nakamoto coefficient is no larger than 3; token-holder participation is particularly low; ENS governance transactions cost about $3.5 million."
+  checked:
+    by: "claude"
+    on: "2026-10-11"
+    result: "verified"
+    note: "Full PDF (v2): introduction and sections on centralisation, participation and cost."
