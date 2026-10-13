@@ -47,9 +47,19 @@ Made on 11 October 2026 from Kara's brief: an efficient form of Terran-wide gove
 | [failure-modes.md](failure-modes.md) | A threat model: emergencies, backsliding, capture, new attack surfaces in modern designs, the no-exit risk, and the safeguards to keep |
 | [modern-governance.md](modern-governance.md) | How open-source communities govern themselves, experimental policy, rules as code, feedback-driven government, participation platforms |
 
+## Round three: isonomy and the qualified lot
+
+Made on 12 October 2026 from Kara's brief: name the form of government an isonomy, and modernise government by lot so that anyone can qualify in a field, with some bodies drawn by lot from the qualified. The notes cite the third working draft's numbering. The proposal built from them is [../proposals/isonomy.md](../proposals/isonomy.md).
+
+| Note | Covers |
+| --- | --- |
+| [isonomy.md](isonomy.md) | The word and its early uses, Herodotus' constitutional debate, how Athens used lot and election, who counted, modern readings (Hayek, Arendt, Karatani), and names for government by lot today |
+| [qualified-lot.md](qualified-lot.md) | Drawing by lot among the qualified: the IETF's nominating committee, lotteries in research funding, Florence and Venice, earned and lapsing membership, the epistocracy debate, capture by practitioners, and lived experience |
+| [mixed-panels.md](mixed-panels.md) | What happens when ordinary people and experts sit in one body: lay judges, mixed citizen–politician assemblies, experts inside deliberation, status in small groups, and designs that keep experts advising |
+
 ## How the research was done
 
-Round one was split into eleven strands, one per note, run in parallel. A twelfth pass checked the drafting session's research, and a review pass re-checked the claims the synthesis files lean on. Round two added seven strands. As of 11 October 2026 the two rounds had produced 1,155 sources after merging duplicates: 830 primary, 287 secondary and 38 tertiary, of which 948 are verified, 195 partial and 12 unverified ([SOURCES.md](../SOURCES.md) has the live counts). Every strand worked to the same rules:
+Round one was split into eleven strands, one per note, run in parallel. A twelfth pass checked the drafting session's research, and a review pass re-checked the claims the synthesis files lean on. Round two added seven strands, and round three three more. As of 12 October 2026 the three rounds had produced 1,305 sources after merging duplicates: 947 primary, 315 secondary and 43 tertiary, of which 1,084 are verified, 204 partial and 17 unverified ([SOURCES.md](../SOURCES.md) has the live counts). Every strand worked to the same rules:
 
 - **Opened, not searched.** Claims rest only on pages that were opened and read; search snippets don't count. A source that mattered but couldn't be opened is cited only to say so, and is marked unverified.
 - **Primary first.** Strands preferred the statute, treaty, ruling, original paper or official statistics, and used scholarship and journalism for evaluation.

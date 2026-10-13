@@ -1,0 +1,1002 @@
+- id: "lsj/1940_isonomia"
+  title: "A Greek-English Lexicon, s.v. ἰσονομία"
+  authors: ["Henry George Liddell", "Robert Scott", "Henry Stuart Jones"]
+  publisher: "Clarendon Press, via Perseus Digital Library"
+  date: "1940"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Di%29sonomi%2Fa"
+  tier: "tertiary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Isonomia means 'equal distribution, equilibrium, balance' (Alcmaeon 4) and 'equality of political rights' (Herodotus 3.80, 3.142, 5.37; opposed to dynasteia at Thucydides 4.78; 'political' isonomia at Thucydides 3.82; between women and men at Plato, Republic 563b)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full entry on Perseus (LSJ, 1940): senses A and II with the passages listed."
+
+- id: "lsj/1940_nomos"
+  title: "A Greek-English Lexicon, s.v. νόμος"
+  authors: ["Henry George Liddell", "Robert Scott", "Henry Stuart Jones"]
+  publisher: "Clarendon Press, via Perseus Digital Library"
+  date: "1940"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dno%2Fmos2"
+  tier: "tertiary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Nomos, from nemō ('distribute'), first means 'that which is in habitual practice', 'usage, custom', and hence 'law, ordinance'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the opening of the entry (Perseus entry no/mos2): '(νέμω) A. that which is in habitual practice ... I. usage, custom ... hence, law, ordinance'."
+
+- id: "diels-kranz/1960_vorsokratiker-24b4"
+  title: "Die Fragmente der Vorsokratiker, vol. 1, 24 [14] Alkmaion, B 4 (Aëtius 5.30.1)"
+  authors: ["Hermann Diels", "Walther Kranz"]
+  publisher: "Weidmann; scan on archive.org"
+  date: "1960"
+  url: "https://find.library.upenn.edu/catalog/996438743503681"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Alcmaeon, as reported by Aëtius: the isonomia of the powers (wet, dry, cold, hot, bitter, sweet and the rest) holds health together, and monarchia among them causes disease."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the fragment in a scanned 1960 printing of Band I: running heads '24 [14]. ALKMAION'; fragment '4 [22]. [Aet.] V 30, 1 (D. 442)' with 'τὴν ἰσονομίαν τῶν δυνάμεων ... τὴν δ᾽ ἐν αὐτοῖς μοναρχίαν νόσου ποιητικήν'. The url is a library record for the sixth edition (Weidmann, 1951-52), of which the 1960 printing is a reprint."
+- id: "huffman/2025_sep-alcmaeon"
+  title: "Alcmaeon"
+  authors: ["Carl Huffman"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2025-07-18"
+  url: "https://plato.stanford.edu/entries/alcmaeon/"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Translates Alcmaeon's report on isonomia and monarchy; calls it a testimonium, not a fragment; most scholars trace the political terms to Alcmaeon, Mansfeld argues they come from later doxographers, and Huffman judges it 'as probable as not' that Alcmaeon used them; reports the view that isonomia is 'not a specific form of government' but a yardstick or banner, and the dispute over an aristocratic or a democratic origin."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the entry (substantive revision 18 July 2025), section 3.1 'Health and Disease'. The entry prints 'DK 12B4'; Diels-Kranz numbers Alcmaeon 24, so the note cites 24 B4 from the edition and from Lane."
+
+- id: "lane/2024_greek-equality-under-law"
+  title: "Ancient Greek Ideas of Equality Under the Law (lecture transcript)"
+  authors: ["Melissa Lane"]
+  publisher: "Gresham College"
+  date: "2024-03-07"
+  url: "https://www.gresham.ac.uk/sites/default/files/transcript/2024-03-07-1800_Lane-T.pdf"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "Alcmaeon's isonomia of powers (DK 24B4) around 500 BCE; 508/507 BCE as the inflection point of Athenian democracy; isonomia as 'equal order' against aristocratic eunomia; the nomos-or-nemein root question, following Vlastos in taking 'law' as the root meaning; first attestations in the early fifth century; three senses of equal law: under law, through law, and self-equalisation."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full transcript PDF: introduction (pp. 1-3) and 'The Meaning(s) of Isonomia' (pp. 6-8)."
+
+- id: "vlastos/1953_isonomia"
+  title: "Isonomia"
+  authors: ["Gregory Vlastos"]
+  publisher: "American Journal of Philology 74(4): 337-366"
+  date: "1953"
+  url: "https://www.jstor.org/stable/292054"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Vlastos' study of isonomia; cited only to record that it could not be opened. His views appear in the note as reported by Huffman and Lane."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "JSTOR answered with a JavaScript client challenge and PhilPapers with HTTP 403; no open copy found. The citation (AJP 1953, pp. 337-366, JSTOR 292054) was confirmed in the Perseus 'Thematic Index of Classics in JStor' (d=292054)."
+
+- id: "athenaeus/1887_deipnosophistae-15-695"
+  title: "Deipnosophistae 15.695 (book 15, chapter 50 in Kaibel): the Attic drinking songs, with C. D. Yonge's translation (1854)"
+  authors: ["Athenaeus"]
+  publisher: "Teubner (Kaibel's Greek text), via Perseus Digital Library"
+  date: "1887"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2013.01.0001%3Abook%3D15%3Achapter%3D50"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The drinking song for Harmodius and Aristogeiton, who 'killed the tyrant and made Athens isonomous' (ἰσονόμους τ᾽ Ἀθήνας ἐποιησάτην); another version names the tyrant as Hipparchus."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read Kaibel's Greek (doc 2013.01.0001, book 15, chapter 50) and Yonge's English (doc 2013.01.0003, same chapter): songs ι and ιγ use ἰσονόμους; song ιβ names Ἵππαρχον. The Perseus page shows no Casaubon page numbers; 15.695 is the conventional reference."
+
+- id: "athenaeus/1887_deipnosophistae-6-272"
+  title: "Deipnosophistae 6.272 (book 6, chapter 103 in Kaibel): the census of Demetrius of Phalerum, with C. D. Yonge's translation (1854)"
+  authors: ["Athenaeus"]
+  publisher: "Teubner (Kaibel's Greek text), via Perseus Digital Library"
+  date: "1887"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2013.01.0001%3Abook%3D6%3Achapter%3D103"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "Ctesicles reports a count of Attica's inhabitants under Demetrius of Phalerum: 21,000 Athenians, 10,000 metics and 400,000 slaves."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the Greek ('Ἀθηναίους μὲν δισμυρίους πρὸς τοῖς χιλίοις, μετοίκους δὲ μυρίους, οἰκετῶν δὲ μυριάδας μ') and Yonge's English (doc 2013.01.0003, book 6, chapter 103). Kaibel's text dates it to the 117th Olympiad; Yonge's translation says the 115th."
+
+- id: "herodotus/1920_histories-godley-3-80"
+  title: "Histories 3.80-82, the constitutional debate, Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D3%3Achapter%3D80"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Otanes calls the rule of the multitude by 'the loveliest name of all', isonomia: it fills offices by lot, holds office to account, and brings all deliberation to the public. Megabyzus: the multitude cannot know; choose the best men, 'for we ourselves shall be among them'. Darius: oligarchy breeds faction and popular rule breeds a champion, each ending in monarchy. Herodotus says some Greeks find the speeches incredible. No form of the word demokratia appears in the Greek of 3.80-82."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 3.80, 3.81 and 3.82 in Godley's English (doc 1999.01.0126) and Greek (doc 1999.01.0125). 3.80.6: πλῆθος δὲ ἄρχον ... ἰσονομίην ... πάλῳ μὲν ἀρχὰς ἄρχει, ὑπεύθυνον δὲ ἀρχὴν ἔχει, βουλεύματα δὲ πάντα ἐς τὸ κοινὸν ἀναφέρει. A search of the Greek of all three chapters found no δημοκρατ- form."
+
+- id: "herodotus/1920_histories-godley-3-83"
+  title: "Histories 3.83, Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D3%3Achapter%3D83"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Four of the seven back monarchy; Otanes, defeated in seeking isonomia for the Persians, withdraws: 'I desire neither to rule nor to be ruled'; his house alone stays free so long as it does not break Persian law."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 3.83 in English and Greek ('οὔτε γὰρ ἄρχειν οὔτε ἄρχεσθαι ἐθέλω'; 'ἰσονομίην σπεύδων ποιῆσαι')."
+
+- id: "herodotus/1920_histories-godley-3-142"
+  title: "Histories 3.142-143 (Maeandrius of Samos), Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D3%3Achapter%3D142"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Maeandrius places rule 'in the middle' and proclaims isonomia while reserving six talents and a priesthood; a citizen demands an account of the money; Maeandrius keeps power, seizes the citizens, and his brother has them killed."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 3.142 in English and Greek ('ἐς μέσον τὴν ἀρχὴν τιθεὶς ἰσονομίην ὑμῖν προαγορεύω') and 3.143 in English (the next page)."
+
+- id: "herodotus/1920_histories-godley-5-37"
+  title: "Histories 5.37 (Aristagoras of Miletus), Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D5%3Achapter%3D37"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Aristagoras gives up his tyranny in pretence and makes isonomia in Miletus so that the Milesians will join his revolt."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 5.37 in English ('made pretence of giving up his tyranny and gave Miletus equality of government') and Greek ('λόγῳ μετεὶς τὴν τυραννίδα ἰσονομίην ἐποίεε')."
+
+- id: "herodotus/1920_histories-godley-5-55"
+  title: "Histories 5.55, translated by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D5%3Achapter%3D55"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "After Harmodius and Aristogeiton killed Hipparchus, brother of the tyrant Hippias, Athens was subject for four years to a tyranny 'not less but even more absolute than before'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 5.55 in Godley's English."
+
+- id: "herodotus/1920_histories-godley-5-66"
+  title: "Histories 5.66 and 5.69 (Cleisthenes' reforms), Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D5%3Achapter%3D66"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Cleisthenes, losing to Isagoras, took the people into his party and made ten tribes from four; the people had been 'debarred from all rights'. Neither chapter uses the word isonomia."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 5.66 and 5.69 (the page for 5.69 follows) in English and Greek; a search of both Greek chapters found no ἰσονομ- form."
+
+- id: "herodotus/1920_histories-godley-5-78"
+  title: "Histories 5.78, Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D5%3Achapter%3D78"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Athens' rise after the tyrants shows that isegoria (equal speech) is a good thing; Godley translates the word as 'equality'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 5.78 in English ('equality is a good thing') and Greek ('ἡ ἰσηγορίη ὡς ἔστι χρῆμα σπουδαῖον'); the Greek word is isegoria, not isonomia."
+
+- id: "herodotus/1920_histories-godley-6-43"
+  title: "Histories 6.43, Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D43"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Herodotus answers Greeks who disbelieve that Otanes said the Persians should be governed democratically: Mardonius deposed the Ionian tyrants and set up democracies."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 6.43 in English and Greek ('ὡς χρεὸν εἴη δημοκρατέεσθαι Πέρσας'; 'δημοκρατίας κατίστα ἐς τὰς πόλιας')."
+
+- id: "herodotus/1920_histories-godley-6-131"
+  title: "Histories 6.131, Greek text and translation by A. D. Godley"
+  authors: ["Herodotus"]
+  publisher: "Harvard University Press (Loeb), via Perseus Digital Library"
+  date: "1920"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D131"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Cleisthenes 'gave the Athenians their tribes and their democracy'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 6.131 in English and Greek ('ὁ τὰς φυλὰς καὶ τὴν δημοκρατίην Ἀθηναίοισι καταστήσας')."
+
+- id: "thucydides/1942_historiae-3-62"
+  title: "Historiae 3.62 (Oxford text), with Richard Crawley's translation (1910)"
+  authors: ["Thucydides"]
+  publisher: "Oxford University Press (Greek); J. M. Dent (translation); via Perseus Digital Library"
+  date: "1942"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D3%3Achapter%3D62"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The Thebans say their city was then 'neither an isonomous oligarchy nor a democracy' but a narrow cabal: isonomia applied to an oligarchy."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 3.62.3 in Greek (doc 1999.01.0199: 'οὔτε κατ᾽ ὀλιγαρχίαν ἰσόνομον πολιτεύουσα οὔτε κατὰ δημοκρατίαν') and Crawley's English (doc 1999.01.0200)."
+
+- id: "thucydides/1942_historiae-3-82"
+  title: "Historiae 3.82 (Oxford text), with Richard Crawley's translation (1910)"
+  authors: ["Thucydides"]
+  publisher: "Oxford University Press (Greek); J. M. Dent (translation); via Perseus Digital Library"
+  date: "1942"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D3%3Achapter%3D82"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "In civil strife, faction leaders were 'each provided with the fairest professions': 'political equality of the people' (isonomia) on one side, 'a moderate aristocracy' on the other."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 3.82.8 in Greek ('πλήθους τε ἰσονομίας πολιτικῆς καὶ ἀριστοκρατίας σώφρονος') and Crawley's English ('the cry of political equality of the people')."
+
+- id: "thucydides/1942_historiae-1-20"
+  title: "Historiae 1.20 (Oxford text), with Richard Crawley's translation (1910)"
+  authors: ["Thucydides"]
+  publisher: "Oxford University Press (Greek); J. M. Dent (translation); via Perseus Digital Library"
+  date: "1942"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D1%3Achapter%3D20"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Most Athenians wrongly believed Hipparchus was tyrant when Harmodius and Aristogeiton killed him; Hippias held power."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 1.20.2 in Crawley's English (doc 1999.01.0200)."
+
+- id: "roy/2012_constitutional-debate"
+  title: "The Constitutional Debate: Herodotus' Exploration of Good Government"
+  authors: ["C. Sydnor Roy"]
+  publisher: "Histos 6"
+  date: "2012-12-01"
+  url: "https://doi.org/10.29173/histos228"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The Persian setting and sophistic form of the debate have led some scholars to argue it was imported from another source; general consensus that Otanes means democracy, though isonomia 'does not have to mean democracy'; Otanes' marks omit elections; Otanes avoids the words demokratia and demos, which may reflect 'the bad name that democracy might have'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the PDF from histos.org (download 228/222/231): abstract, introduction, and the section on Otanes with its footnote on his vocabulary. Volume, date and DOI from the article's landing page."
+
+- id: "aristotle/1952_athenaion-politeia-ch20"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 20, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D20"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Cleisthenes, beaten in the political clubs, won the people over by 'offering to hand over the government to the multitude'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 20 in Rackham's English and Kenyon's Greek (doc 1999.01.0045: 'ἀποδιδοὺς τῷ πλήθει τὴν πολιτείαν'); no ἰσονομ- form."
+
+- id: "aristotle/1952_athenaion-politeia-ch21"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 21, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D21"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "In the archonship of Isagoras, the fourth year after the tyrants fell, Cleisthenes made ten tribes 'in order that more might take part in the government' and a Council of 500, fifty per tribe."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 21, sections 1-3, in English; the Greek has no ἰσονομ- form."
+
+- id: "aristotle/1952_athenaion-politeia-ch22"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 22, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D22"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Cleisthenes' reforms made the constitution 'much more democratic than that of Solon'; three years after Marathon the nine archons were chosen by lot, tribe by tribe, from 500 candidates chosen by the demes, having all been elected since the tyranny."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 22, sections 1-5, in English and Greek; 22.1 has 'δημοτικωτέρα', and no ἰσονομ- form appears in chapters 20-22. Marathon is two years before the first ostracism (22.3); lot follows 'in the next year', the archons since the tyranny 'having all been elected by vote' (22.5)."
+
+- id: "aristotle/1952_athenaion-politeia-ch24"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 24, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D24"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "In the fifth century Athens maintained 'six thousand jurymen' among more than twenty thousand people paid from public funds."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 24, section 3, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch26"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 26, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D26"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "On Pericles' proposal, and 'owing to the large number of the citizens', citizenship was confined to persons of citizen birth on both sides."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 26, section 4, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch27"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 27, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D27"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Pericles made jury service paid; critics said the courts deteriorated because 'ordinary persons always took more care than the respectable to cast lots for the duty'; organised bribery of juries followed."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 27, sections 2-5, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch42"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 42, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D42"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "Citizenship belongs to those of citizen parentage on both sides, registered in their demes at eighteen after a vote on their age and free, legitimate birth."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 42, section 1, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch43"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 43, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D43"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "All officials of the regular administration are appointed by lot except the Treasurer of Military Funds, the Controllers of the Spectacle Fund and the Superintendent of Wells, who are elected by show of hands, as are all military officers; the Council of 500 is drawn by lot, fifty per tribe, with the presidency rotating among tribes."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 43, sections 1-2, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch44"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 44, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D44"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The presidents' chairman is drawn by lot, holds office for a day and a night and may not serve again; elections of generals and other military officers take place in the Assembly."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 44, sections 1 and 4, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch54"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 54, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D54"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Ten allotted auditors, to whom 'all retiring officials' render account; peculation and bribery are fined tenfold; the Clerk for the Presidency, once elected from 'the most distinguished and trustworthy men', is now chosen by lot."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 54, sections 2-3, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch55"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 55, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D55"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "All officials, 'both those elected by lot and those elected by show of hands', are checked before office (dokimasia); the questions cover parents, deme, family shrines and tombs, treatment of parents, taxes and military service, then 'Does anybody wish to bring a charge against this man?'"
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 55, sections 2-4, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch61"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 61, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D61"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Ten generals are elected by show of hands from all the citizens; each presidency holds a confirmatory vote on them, and a general voted down is tried in a jury-court."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 61, sections 1-2, in English."
+
+- id: "aristotle/1952_athenaion-politeia-ch62"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 62, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D62"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "When the demes began to sell offices, those offices were drawn by lot from the whole tribe; pay of a drachma for the Assembly, half a drachma for jurors and five obols for councillors; military offices may be held repeatedly, others once, the Council twice."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 62, sections 1-3, in English."
+
+- id: "aristotle/1952_athenaion-politeia"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 63, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D63"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Jurors must be over thirty and not in debt to the treasury or disfranchised; the courts have twenty allotment machines (kleroteria), two per tribe, and each juror a boxwood ticket."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 63, sections 2-4, in English and Kenyon's Greek (doc 1999.01.0045: 'κληρωτήρια εἴκοσι, δύο τῇ φυλῇ ἑκάστῃ'; Rackham translates 'twenty rooms')."
+
+- id: "aristotle/1952_athenaion-politeia-ch64"
+  title: "The Athenian Constitution (Athenaion Politeia), chapter 64, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1952"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0046%3Achapter%3D64"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The allotment procedure: tickets in columns of the machines, black and white dice; the ticket-inserter is himself drawn by lot 'in order that the same person may not always affix the tickets and cheat'; jurors draw their court so that no one can 'collect into a court whatever jurymen a person wishes'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 64, sections 1-4, in English and Greek ('κληροῦται δ᾽ οὗτος, ἵνα μὴ ἀεὶ ὁ αὐτὸς ἐμπηγνύων κακουργῇ'; 'κανονίδες πέντε ἐν ἑκάστῳ τῶν κληρωτηρίων')."
+
+- id: "aristotle/1944_politics-1294b"
+  title: "Politics 4.9, 1294b, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1944"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D4%3Asection%3D1294b"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "It is thought democratic for offices to be assigned by lot and oligarchic for them to be elected; a mixed constitution takes election from oligarchy and the absence of a property bar from democracy."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read section 1294b in Rackham's English and Ross's Greek (doc 1999.01.0057: 'δημοκρατικὸν μὲν εἶναι τὸ κληρωτὰς εἶναι τὰς ἀρχάς, τὸ δ᾽ αἱρετὰς ὀλιγαρχικόν')."
+
+- id: "aristotle/1944_politics-1317b"
+  title: "Politics 6.2, 1317a-b, translated by H. Rackham"
+  authors: ["Aristotle"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1944"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D6%3Asection%3D1317b"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Liberty is 'to govern and be governed in turn', and from it comes 'the claim not to be governed, preferably not by anybody, or failing that, to govern and be governed in turns'; democratic institutions include 'election of officials by all from all', lot 'either to all magistracies or to all that do not need experience and skill', no office twice except military ones, short terms, and pay."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read sections 1317a and 1317b in English and Greek ('τὸ ἐν μέρει ἄρχεσθαι καὶ ἄρχειν'; 'τὸ μὴ ἄρχεσθαι, μάλιστα μὲν ὑπὸ μηθενός, εἰ δὲ μή, κατὰ μέρος'; 'ὅσαι μὴ ἐμπειρίας δέονται καὶ τέχνης')."
+
+- id: "xenophon/1923_memorabilia-1-2-9"
+  title: "Memorabilia 1.2.9, translated by E. C. Marchant"
+  authors: ["Xenophon"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1923"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0208%3Abook%3D1%3Achapter%3D2%3Asection%3D9"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Socrates' accuser said he taught 'the folly of appointing public officials by lot, when none would choose a pilot or builder or flautist by lot'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 1.2.9 in Marchant's English."
+
+- id: "xenophon/1923_memorabilia-1-2-35"
+  title: "Memorabilia 1.2.35, translated by E. C. Marchant"
+  authors: ["Xenophon"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1923"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0208%3Abook%3D1%3Achapter%3D2%3Asection%3D35"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "A man is young 'so long as he is not permitted to sit in the Council', that is, under thirty."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 1.2.35 in Marchant's English."
+
+- id: "bouricius/2013_multi-body-sortition"
+  title: "Democracy Through Multi-Body Sortition: Athenian Lessons for the Modern Day"
+  authors: ["Terrill G. Bouricius"]
+  publisher: "Journal of Public Deliberation"
+  date: "2013-04-30"
+  url: "https://doi.org/10.16997/jdd.156"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Athens used 'a two-tier lottery system of the willing': 6,000 citizens over thirty chosen for one-year terms to serve on the courts and legislative panels, with a subset drawn for each case or law; an estimated 30,000 to 60,000 eligible citizens."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the PDF from delibdemjournal.org (article 428): the section on the People's Assembly and the passage on how the Agenda Council would be selected."
+
+- id: "demosthenes/1939_against-timocrates-24-21"
+  title: "Against Timocrates 24.21, translated by A. T. Murray, with the Greek of Butcher and Rennie"
+  authors: ["Demosthenes"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1939"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Aabo%3Atlg%2C0014%2C024%3A21"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The law quoted in the speech says 'the Legislative Committee shall consist of persons who have taken the judicial oath' (the nomothetai to be drawn from those sworn with the heliastic oath)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 24.21 in English and Greek (doc 1999.01.0073: 'τοὺς δὲ νομοθέτας εἶναι ἐκ τῶν ὀμωμοκότων τὸν ἡλιαστικὸν ὅρκον'). Whether this inserted document is authentic is the point in dispute."
+
+- id: "hansen/2016_authenticity-nomothesia-law"
+  title: "The Authenticity of the Law about Nomothesia inserted in Demosthenes Against Timokrates 20-23"
+  authors: ["Mogens Herman Hansen"]
+  publisher: "Greek, Roman, and Byzantine Studies 56: 438-474"
+  date: "2016"
+  url: "https://grbs.library.duke.edu/index.php/grbs/article/download/15693/6859"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Hansen holds, against Canevaro, that the review law is authentic and that the nomothetai were jurors (citing Dem. 20.92-93); he notes Piérart's view that sessions of nomothetai were special sessions of the Assembly and Rhodes' reply."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the PDF: the opening and Canevaro's method (pp. 438-440) and pp. 448-449 with notes 46-48."
+
+- id: "canevaro-esu/2023_identity-nomothetai"
+  title: "Once Again on Aristotle and the Identity of the Athenian Nomothetai: A Response to Gertrud Dietze-Mager"
+  authors: ["Mirko Canevaro", "Alberto Esu"]
+  publisher: "Erga-Logoi 11(1)"
+  date: "2023"
+  url: "https://www.ledonline.it/index.php/Erga-Logoi/article/download/4923/1713"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The view that the nomothetai were a separate body drawn from those who swore the Judicial Oath 'depends fully' on the document at Dem. 24.20-23, which Canevaro holds a later forgery; Aeschines 3.38-40 shows the nomothetai were 'a special lawmaking session of the Assembly'; Hansen 2018 still holds they were 'a selected body different from the demos in the ekklesia'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the abstract and pages 7-14 and 20-21 of the open-access PDF (DOI 10.7358/erga-2023-001-caes). The claim that 'a majority of scholars' agree is the authors' own."
+
+- id: "canevaro/2019_nomothetai-response"
+  title: "Were 4th century nomothetai selected by lot? Mirko Canevaro responds"
+  authors: ["Mirko Canevaro"]
+  publisher: "Equality by Lot (blog)"
+  date: "2019-02-27"
+  url: "https://web.archive.org/web/20230630130643/https://equalitybylot.com/2019/02/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Canevaro: 'there is no evidence whatsoever that the nomothetai were selected by lot from those who have sworn the Heliastic Oath, and some evidence that they might be a relabelled Assembly'; this is 'the most economical interpretation of the evidence, not that it's safe'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The live site returned HTTP 403; read the Wayback capture of 30 June 2023 of the February 2019 archive page, which carries the full post and the post it answers."
+
+- id: "plato/1969_republic-563b"
+  title: "Republic 8.563b, translated by Paul Shorey"
+  authors: ["Plato"]
+  publisher: "Harvard University Press, via Perseus Digital Library"
+  date: "1969"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D8%3Asection%3D563b"
+  tier: "primary"
+  kind: "book"
+  parts: ["I"]
+  supports: "The 'climax of popular liberty' is when slaves are no less free than their owners, and the 'freedom and equal rights' (isonomia) between men and women."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read 563b in Shorey's English and the Greek (doc 1999.01.0167: 'ἐν γυναιξὶ δὲ πρὸς ἄνδρας καὶ ἀνδράσι πρὸς γυναῖκας ὅση ἡ ἰσονομία καὶ ἐλευθερία γίγνεται')."
+
+- id: "hansen/1976_how-many-attended-ecclesia"
+  title: "How Many Athenians Attended the Ecclesia?"
+  authors: ["Mogens Herman Hansen"]
+  publisher: "Greek, Roman, and Byzantine Studies 17(2): 115-134"
+  date: "1976"
+  url: "https://grbs.library.duke.edu/index.php/grbs/article/download/8091/4773/14627"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I"]
+  supports: "'In Athens all adult male citizens were admitted to the ecclesia'; adult male citizens estimated at about 43,000 in 431 BCE, and 21,000 in Demetrius of Phalerum's census."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the PDF: the opening section (pp. 115-116) and the closing discussion that cites Thuc. 2.13 and Ath. 272c."
+
+- id: "simonton/2020_review-akrigg-population"
+  title: "Review of Ben Akrigg, Population and Economy in Classical Athens (BMCR 2020.10.40)"
+  authors: ["Matt Simonton"]
+  publisher: "Bryn Mawr Classical Review"
+  date: "2020-10"
+  url: "https://bmcr.brynmawr.edu/2020/2020.10.40/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["I"]
+  supports: "Akrigg argues that Attica's population was 400,000 or more on the eve of the Peloponnesian War, with 19,000-34,000 citizen hoplites plus 40,000 or 30,000 non-hoplites for the adult male citizens, and at least 32,000 enslaved men needed for the mines and the navy."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the review's opening and its chapter-by-chapter summary (chapters 1-7); the figures are in the opening and the summaries of chapters 3 and 4. Akrigg's book itself was not opened."
+
+- id: "ascsa/2026_agora-object-i3967"
+  title: "Agora Object I 3967: Kleroterion"
+  publisher: "American School of Classical Studies at Athens, Agora Excavations"
+  date: "2026"
+  url: "https://agora.ascsa.net/id/agora/object/i%203967"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "A marble kleroterion with eleven rows of slots and holes on the left for the lottery tube, found reused as the floor slab of a medieval pithos near the Metroon."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the object record: description, context ('Found used as a floor slab of a medieval pithos, near the southwest corner of the Metroon'), a bare 'Date: 1935' field, and bibliography. A database search for 'kleroterion' listed nine objects, including fragments and a ball."
+
+- id: "lang/1987_athenian-citizen"
+  title: "The Athenian Citizen (Excavations of the Athenian Agora, Picture Book 4)"
+  authors: ["Mabel Lang"]
+  publisher: "American School of Classical Studies at Athens"
+  date: "1987"
+  url: "https://agathe.gr/id/agora/publication/agora%20picture%20book%204"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Every male Athenian was almost certain to serve a year on the Council at least once; would-be jurors brought their tickets to the allotment machines at dawn, so the draw was among those seeking duty; the illustrated kleroterion (third century BCE, eleven columns) probably served the Council House, not the courts."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the 1987 PDF linked from the record: 'Citizenship' (p. 4) and the law-courts section (pp. 19-22, figs. 21-24; fig. 23 on p. 20, its caption text on p. 22)."
+
+- id: "papazarkadas/2011_athenian-kleroteria"
+  title: "Athenian Kleroteria and Hellenistic sortition"
+  authors: ["Nikolaos Papazarkadas"]
+  publisher: "Center for Hellenic Studies Research Bulletin"
+  date: "2011-02-16"
+  url: "https://research-bulletin.chs.harvard.edu/2011/02/16/athenian-kleroteria-and-hellenistic-sortition/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Several kleroteria have been found in and around the Agora; the inscribed ones all date to the mid-second century BCE, and none can be confidently placed in the fourth; elections were not seen as particularly democratic in Athens."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full post."
+
+- id: "arendt/1963_on-revolution"
+  title: "On Revolution"
+  authors: ["Hannah Arendt"]
+  publisher: "Viking Press (1963); read in a Penguin reprint of the revised 1965 edition"
+  date: "1963"
+  url: "https://openlibrary.org/books/OL17924082M"
+  tier: "primary"
+  kind: "book"
+  parts: ["I", "VIII"]
+  supports: "Since Herodotus, freedom meant living 'under conditions of no-rule, without a division between rulers and ruled'; 'the polis was supposed to be an isonomy, not a democracy'; 'democracy' was 'originally coined by those who were opposed to isonomy'; isonomy's equality belonged to citizens 'by virtue of citizenship, not by virtue of birth', in a realm open 'only to those who owned property and slaves'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read chapter 1, section 2 (pp. 30-31) and notes 11-12 to chapter 1 in a scanned copy of the Penguin reprint (copyright page cites the 1965 revisions). The url is the Penguin Classics edition's catalogue record."
+- id: "karatani/2017_isonomia-origins-philosophy"
+  title: "Isonomia and the Origins of Philosophy"
+  authors: ["Kōjin Karatani"]
+  publisher: "Duke University Press (translated by Joseph A. Murphy)"
+  date: "2017-09"
+  url: "https://www.dukeupress.edu/isonomia-and-the-origins-of-philosophy"
+  tier: "primary"
+  kind: "book"
+  parts: ["VI", "VIII"]
+  supports: "Contrasts Athenian democracy with 'Ionian isonomia—a system based on non-rule and a lack of social divisions whereby equality is realized through the freedom to immigrate'; chapter 1 has sections on colonization and isonomia, Iceland and North America, and isonomia and council."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Read the publisher page and the publisher's PDF of the front matter, contents and introduction. Chapter 1, where the argument about Ionia is made, was not available; its claims are taken from the publisher description and the Andersen review."
+
+- id: "andersen/2023_review-karatani-isonomia"
+  title: "Review of Kōjin Karatani, Isonomia and the Origins of Philosophy"
+  authors: ["Grant Andersen"]
+  publisher: "Philosophy in Review 43(4)"
+  date: "2023-11"
+  url: "https://web.archive.org/web/20250126012801/https://journals.uvic.ca/index.php/pir/article/download/21473/9851"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VI", "VIII"]
+  supports: "Karatani takes up Arendt's isonomy as non-rule but locates it in the Ionian colonies; a landless Ionian 'could instead migrate to the open frontier of the colony', so 'the nomadic freedom of exit permitted the emergence of economic equality and its civic complement, the equality of isonomic non-rule'; historians will likely find his picture of Ionia 'excessively speculative'; the review asks what remains of exit without a frontier."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The journal site closed the connection; read the full review (pp. 16-18) in the Wayback capture of 26 January 2025."
+
+- id: "hayek/1968_confusion-of-language"
+  title: "The Confusion of Language in Political Thought (Occasional Paper 20)"
+  authors: ["F. A. Hayek"]
+  publisher: "Institute of Economic Affairs"
+  date: "1968-04"
+  url: "https://iea.org.uk/wp-content/uploads/2016/07/upldbook508.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Hayek proposes 'demarchy' for limited government 'in which the opinion but not the particular will of the people is the highest authority', with a law-making assembly elected once by each generation 'in their fortieth year'; 'I am and shall remain a profoundly convinced demarchist'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the scanned PDF (first published April 1968): the summary of proposals (p. 8) and section VII, 'Demarchy and Democracy' (pp. 31-36)."
+
+- id: "hayek/2011_constitution-of-liberty"
+  title: "The Constitution of Liberty: The Definitive Edition, chapter 11, 'The Origins of the Rule of Law'"
+  authors: ["F. A. Hayek", "Ronald Hamowy"]
+  publisher: "University of Chicago Press; scan on archive.org"
+  date: "2011"
+  url: "https://openlibrary.org/books/OL25041296M"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII", "IX"]
+  supports: "'Isonomia' came into English from Italian in the late sixteenth century meaning 'equality of laws to all manner of persons'; Holland's Livy used 'isonomy' for 'equal laws for all and responsibility of the magistrates'; it was displaced by 'equality before the law' and 'rule of law'; the editor quotes the OED's 1659 and 1684 uses; Hayek thought the concept older than demokratia and notes Thucydides' 'isonomic oligarchy'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read pages 238-241 and notes 12-24 of chapter 11 in a scanned copy of the definitive edition (first published 1960; edited by Ronald Hamowy). The url is the edition's catalogue record."
+- id: "burnheim/1985_is-democracy-possible"
+  title: "Is Democracy Possible? The Alternative to Electoral Politics"
+  authors: ["John Burnheim"]
+  publisher: "Polity Press (1985); read in the Sydney University Press open-access edition (2006)"
+  date: "1985"
+  url: "https://open.sydneyuniversitypress.com.au/9781920898427/contents.html"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "To have democracy 'we must abandon elections, and in most cases referendums, and revert to the ancient principle of choosing by lot'; bodies 'statistically representative of those affected by their decisions' make a 'demarchy', a word Burnheim takes from Hayek's Law, Legislation and Liberty; he calls unaccountability 'perhaps, the central objection to demarchy'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the introduction (section III and notes 2-3), the copyright page and chapter 5, 'Is demarchy possible?' (section IV, objections)."
+
+- id: "reynolds/1997_spy-in-europa"
+  title: "A Spy in Europa"
+  authors: ["Alastair Reynolds"]
+  publisher: "Interzone (1997); posted at Infinity Plus"
+  date: "1997-06"
+  url: "https://www.infinityplus.co.uk/stories/europa.htm"
+  tier: "primary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "In the Demarchy, 'all citizens had an implant which constantly interrogated them, eliciting their opinions on every aspect of Demarchy life', until 'the act of democratic participation became near-involuntary'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the story at Infinity Plus (© Alastair Reynolds 1996, 2001; 'first appeared in Interzone'): the passage in the Cadmus-Asterius atrium."
+
+- id: "wikipedia/2026_revelation-space-series"
+  title: "Revelation Space series"
+  publisher: "Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Revelation_Space_series"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII"]
+  supports: "'A Spy in Europa' (Interzone 120, June 1997) is short fiction of the Revelation Space series, and the Demarchists are a faction of that series."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the 'Short fiction' list and the setting summary that names the Demarchists."
+
+- id: "guerrero/2014_against-elections"
+  title: "Against Elections: The Lottocratic Alternative"
+  authors: ["Alexander A. Guerrero"]
+  publisher: "Philosophy & Public Affairs"
+  date: "2014"
+  url: "https://doi.org/10.1111/papa.12029"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The article that introduced the name 'lottocracy'; cited only to record that it could not be opened."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "The DOI and the Wiley abstract page both returned HTTP 403 on 12 October 2026; no open copy found."
+
+- id: "guerrero/2024_lottocracy"
+  title: "Lottocracy: Democracy Without Elections"
+  authors: ["Alexander Guerrero"]
+  publisher: "Oxford University Press"
+  date: "2024-09-19"
+  url: "https://web.archive.org/web/20251223162431/https://academic.oup.com/book/58164"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Introduces 'a new form of democracy: lottocracy', whose most striking element is 'the shift from using elected representatives to using representatives selected through lottery'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "The live Oxford Academic page returned HTTP 403; read its Wayback capture of 23 December 2025 (book abstract, contents, dates and ISBNs). The book's text was not read."
+
+- id: "landemore/2020_open-democracy"
+  title: "Open Democracy: Reinventing Popular Rule for the Twenty-First Century"
+  authors: ["Hélène Landemore"]
+  publisher: "Princeton University Press"
+  date: "2020-10-13"
+  url: "https://press.princeton.edu/books/hardcover/9780691181998/open-democracy"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Landemore 'favors the ideal of representing and being represented in turn' and centres institutions on the 'open mini-public', a large, jury-like body of randomly selected citizens."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the publisher's description on this page."
+
+- id: "van-reybrouck/2016_against-elections"
+  title: "Against Elections: The Case for Democracy"
+  authors: ["David Van Reybrouck"]
+  publisher: "Bodley Head"
+  date: "2016"
+  url: "https://www.penguin.co.uk/books/434541/against-elections-by-david-van-reybrouck/9781847924223"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The book keeps the name democracy: its publisher says that for most of democracy's history officials were chosen 'through a combination of volunteering and lottery'; a blurb by Paul Cartledge calls the design 'sortitive democracy'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the publisher page: description, quotes and details (Bodley Head, 208 pages). The book's text was not read."

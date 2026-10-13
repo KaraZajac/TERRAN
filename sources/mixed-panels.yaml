@@ -1,0 +1,714 @@
+- id: "germany/1975_gerichtsverfassungsgesetz-lay-judges"
+  title: "Gerichtsverfassungsgesetz (GVG), §§ 29, 30, 36, 40, 42, 45, 76, 196 and 197"
+  publisher: "Bundesministerium der Justiz (gesetze-im-internet.de)"
+  date: "1975-05-09"
+  url: "https://www.gesetze-im-internet.de/gvg/index.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX", "X"]
+  supports: "Schöffengericht of one judge and two Schöffen (§ 29); large criminal chamber of three or two judges and two Schöffen (§ 76); Schöffen hold judicial office in full and with the same voting right as judges (§ 30); municipal proposal lists meant to reflect all groups by gender, age, occupation and social position, and election by a committee by two-thirds for five years (§§ 36, 40, 42); sittings assigned by public lot, about twelve days a year (§ 45); majority rules (§ 196); Schöffen vote before the judges and the presiding judge votes last (§ 197)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the act's index and the single-section pages for §§ 29, 30, 36, 40, 42, 45, 76, 196 and 197 at gesetze-im-internet.de/gvg/__N.html; read each section's text. Consolidated version of 9 May 1975, as currently in force."
+
+- id: "germany/1987_stpo-263-two-thirds"
+  title: "Strafprozeßordnung (StPO), § 263: Abstimmung"
+  publisher: "Bundesministerium der Justiz (gesetze-im-internet.de)"
+  date: "1987-04-07"
+  url: "https://www.gesetze-im-internet.de/stpo/__263.html"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "Any decision on guilt or sanctions that is unfavourable to the accused needs a two-thirds majority of the votes."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the section page; the rule is § 263(1)."
+
+- id: "machura/2016_understanding-german-mixed-tribunal"
+  title: "Understanding the German Mixed Tribunal"
+  authors: ["Stefan Machura"]
+  publisher: "Zeitschrift für Rechtssoziologie"
+  date: "2016-12"
+  url: "https://research.bangor.ac.uk/portal/files/18486450/Machura_The_German_Mixed_Tribunal_ZfRSoz_2_2016.pdf"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII", "IX", "X"]
+  supports: "About 60,000 Germans serve as lay judges in criminal courts; a culture of consensus means formal votes are rare, though some judges apply the rule that lay judges vote first; lay judges 'need to be in a clear majority to have maximum influence', and in a minority 'lay participation is a mere formality'; two determined lay assessors can block a conviction under the two-thirds rule; 80% of surveyed Schöffen rated cooperation good; a lay assessor says the judge, asked how similar cases were decided, can 'decisively control and influence the decision-making'; lay judges tend to be middle class, well educated, close to parties and in their fifties and sixties; reading the file, being given room to speak and being younger helped a dissent prevail, while years of service did not matter; over 70% of Bochum and Frankfurt Schöffen thought some cases would have gone differently without lay judges."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Peer-reviewed author version (ZfRSoz 36(2): 273-302, doi 10.1515/zfrs-2016-0022). The live repository returned a Cloudflare challenge; opened the Wayback snapshot of 2 December 2023 and read pp. 274, 281-283 and 289-293."
+
+- id: "kutnjak-ivkovic/2007_lay-participation-mixed-tribunals"
+  title: "Exploring Lay Participation in Legal Decision-Making: Lessons from Mixed Tribunals"
+  authors: ["Sanja Kutnjak Ivković"]
+  publisher: "Cornell International Law Journal"
+  date: "2007"
+  url: "https://scholarship.law.cornell.edu/cilj/vol40/iss2/4/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII", "IX", "X"]
+  supports: "Status characteristics theory applied to mixed tribunals; professional judges dominated deliberations and lay judges who disagreed usually changed their opinions; Swedish lay judges outvoted the judge in one to three percent of criminal cases (Diesen); fewer than a fifth of Bochum and Frankfurt lay judges stated a divergent opinion (Machura); unanimity up to 95% in some studies; Rennig: lay chances 'tend towards zero' without a common position at the outset; Casper and Zeisel found lay judges affected about one percent of verdicts; Arzt: longer-serving lay judges are less likely to influence outcomes; presiding judges control examination, the dossier and deliberation."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the full text PDF from the Cornell repository (40 Cornell Int'l L.J. 429); read Part III on status characteristics, Part V on lessons from mixed tribunals and the conclusion."
+
+- id: "hans/2008_jury-systems-around-the-world"
+  title: "Jury Systems Around the World"
+  authors: ["Valerie P. Hans"]
+  publisher: "Annual Review of Law and Social Science"
+  date: "2008"
+  url: "https://scholarship.law.cornell.edu/facpub/305/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII", "IX", "X"]
+  supports: "Mixed tribunals carry a risk of 'domination by the legal experts': the presiding judge controls the file, the trial and lay questions, and writes the reasons even when outvoted; the consistent finding is 'minimal participation by lay judges and domination by professional judges'; judge-jury agreement runs 64-80% while tribunal agreement exceeds 90%, a gap that 'might be our current best estimate of deliberation influence'; supportive judges, larger tribunals with a favourable lay ratio and time with the file may raise lay input."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the full PDF from the Cornell repository (Annu. Rev. Law Soc. Sci. 4: 275-297); read the section on mixed tribunals, ending on p. 289."
+
+- id: "casper/1972_lay-judges-german-criminal-courts"
+  title: "Lay Judges in the German Criminal Courts"
+  authors: ["Gerhard Casper", "Hans Zeisel"]
+  publisher: "Journal of Legal Studies"
+  date: "1972"
+  url: "https://doi.org/10.1086/467481"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "The founding survey of German lay judges' influence; cited here only to say it could not be opened. Its figures in the note come from Kutnjak Ivković (2007)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "The publisher page returned a 403 challenge, and the Chicago Unbound record says 'This paper has been withdrawn.' Not read."
+
+- id: "anwar/2015_politics-in-the-courtroom"
+  title: "Politics in the Courtroom: Political Ideology and Jury Decision Making"
+  authors: ["Shamena Anwar", "Patrick Bayer", "Randi Hjalmarsson"]
+  publisher: "ERID Working Paper 187, Duke University (published in the Journal of the European Economic Association, 2019)"
+  date: "2015-04"
+  url: "https://dukespace.lib.duke.edu/server/api/core/bitstreams/8d386cc9-6032-4639-bf2f-e31ece2ad32c/content"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Gothenburg District Court, 2009-2012: 956 cases and 1,152 defendant-case observations with lay judges assigned by lot; Swedish lay judges are nominated by parties and appointed for four years, and in 2010 46% were over 65; a Sweden Democrat lay judge raises conviction of defendants with Arabic-sounding names by 17 points, a Left Party lay judge raises conviction by 14 points where the victim is female; 8% of observations carry a dissent, about 3% from the professional judge; simulated votes without peer effects give about 20% split verdicts against 4% in the data ('dissent aversion'); lay judges are 'not inconsequential, even when deliberating in collaboration with a professional judge'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the April 2015 working-paper PDF on DukeSpace; read the abstract, introduction, section 2.1, the data description and the simulation section. The published 2019 version was not compared."
+
+- id: "sweden/1942_rattegangsbalk"
+  title: "Rättegångsbalk (1942:740)"
+  publisher: "Sveriges riksdag"
+  date: "1942"
+  url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/rattegangsbalk-1942740_sfs-1942-740/"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "District courts try criminal cases with one legally trained judge and three lay judges (1:3 b); courts of appeal with three legally trained judges and two lay judges (2:4); lay judges are elected by municipal or regional councils, proportionally on request, aiming at a balanced body by age, gender, ethnic background and occupation, for four years (4:7-8); in voting the lay judges give their opinion after the other members, each gives reasons, a majority decides and a tie goes to the milder view (29:1, 29:3)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the consolidated text on riksdagen.se and read 1 kap. 3 b §, 2 kap. 4 §, 4 kap. 7-8 §§ and 29 kap. 1 and 3 §§ (29:1 as amended by Lag 2018:411)."
+
+- id: "denmark/2025_retsplejeloven-891"
+  title: "Bekendtgørelse af lov om rettens pleje (LBK nr 1298 af 07/11/2025), § 891 and the composition of jury courts"
+  publisher: "Retsinformation (Civilstyrelsen)"
+  date: "2025-11-07"
+  url: "https://www.retsinformation.dk/eli/lta/2025/1298"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "Jury cases sit with three judges and six jurors in the district courts and three judges and nine jurors in the high courts; jurors and judges deliberate together; jurors vote first, in the order they were drawn, and the presiding judge last; a finding against the accused needs at least four juror votes and at least two judge votes; the verdict states how many jurors and judges voted each way and gives reasons, including any minority's."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The HTML page is a script shell; read the official XML at /eli/lta/2025/1298/xml. § 891(1)-(5) read in full; the 3+6 and 3+9 compositions found in the sections on district and high courts."
+
+- id: "norway/1981_straffeprosessloven-332"
+  title: "Lov om rettergangsmåten i straffesaker (straffeprosessloven), § 332"
+  publisher: "Lovdata"
+  date: "1981-05-22"
+  url: "https://lovdata.no/lov/1981-05-22-25/§332"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "Appeals on guilt for crimes punishable by more than six years are heard by two professional judges and five lay judges, two of whom the court may make experts; the former jury chapter (§§ 352-376 f) is repealed; § 332 as amended by the act of 16 June 2017 no. 58, in force 1 January 2018."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the section page on Lovdata; read § 332 and its amendment note, and the table of contents marking chapter 24 'Opphevet'. The voting rule for guilt was not found and is not cited."
+
+- id: "jackson/2016_lay-adjudication-in-europe"
+  title: "Lay Adjudication in Europe: The Rise and Fall of the Traditional Jury"
+  authors: ["John D. Jackson", "Nikolai P. Kovalev"]
+  publisher: "Oñati Socio-legal Series"
+  date: "2016-06"
+  url: "https://opo.iisj.net/index.php/osls/article/view/599"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Denmark's 2006 reform turned its jury into mixed courts of three judges with six or nine lay jurors, which convict only with at least four lay jurors and two judges; Denmark cited the jury's lack of reasons; Norway decided in June 2015 to replace its jury with a mixed court after a divided 2011 committee."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the article PDF (vol. 6, no. 2, pp. 368-395); read pp. 370, 375 and 383-384."
+
+- id: "japan/2004_saiban-in-act"
+  title: "Act on Criminal Trials with the Participation of Saiban-in (Act No. 63 of 2004), English translation"
+  publisher: "Ministry of Justice, Japan (Japanese Law Translation)"
+  date: "2004"
+  url: "https://www.japaneselawtranslation.go.jp/en/laws/view/3474"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "Panels of three judges and six saiban-in, or one and four in uncontested cases (Art. 2); saiban-in appointed by lot (Art. 37); saiban-in must state their opinion, follow the judges' rulings on law, and the presiding judge must arrange 'sufficient opportunities for the saiban-in to speak' (Art. 66); decisions need a majority that includes at least one judge and one saiban-in (Art. 67); individual opinions and their number must not be divulged (Art. 70)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the bilingual translation (last version: Act No. 54 of 2016); read Arts. 2, 37, 66, 67 and 70 in English and Japanese."
+
+- id: "supreme-court-japan/2026_saiban-in-trials-to-june-2026"
+  title: "裁判員裁判の実施状況について（制度施行～令和８年６月末・速報）"
+  publisher: "Supreme Court of Japan"
+  date: "2026"
+  url: "https://www.courts.go.jp/saibanin/vc-files/saibanin/r8_6_saibaninsokuhou.pdf"
+  tier: "primary"
+  kind: "dataset"
+  parts: ["VIII"]
+  supports: "103,411 saiban-in selected from May 2009 to June 2026; the share of drawn candidates excused rose from 53.1% in 2009 to 67.6% in 2024 and 2025; average deliberation time rose from 397 minutes in 2009 to 852 minutes in 2025."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Preliminary statistics PDF; read Table 4 (rows ワ and ル(b)) and Table 9 (総数 row)."
+
+- id: "supreme-court-japan/2026_saiban-in-survey-2025"
+  title: "裁判員等経験者に対するアンケート調査結果報告書（令和７年度）"
+  publisher: "General Secretariat, Supreme Court of Japan"
+  date: "2026-03"
+  url: "https://www.courts.go.jp/saibanin/vc-files/saibanin/R7-a.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Survey of 4,513 saiban-in who served in 2025 (99.7% response): 79.7% found deliberation easy to speak in and 1.7% hard; 80.8% said there was sufficient discussion and 5.3% not; 97.4% called it a good experience (68.0% very good)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the survey outline (pp. 1-2) and the results for questions 5, 6 and 12 (pp. 36-40 and the experience section). The courts administer the survey right after service."
+
+- id: "supreme-court-japan/2019_saiban-in-ten-year-review"
+  title: "裁判員制度１０年の総括報告書"
+  publisher: "General Secretariat, Supreme Court of Japan"
+  date: "2019-05"
+  url: "https://www.courts.go.jp/saibanin/vc-files/saibanin/file/r1_hyousi_honbun.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Sentencing shifted: the modal prison term grew heavier for several violent and sexual offences, suspended sentences and probation rose, and the range widened in both directions; the Supreme Court's judgment of 24 July 2014 told panels to take the rough past sentencing trend as their common starting point; lay evaluations of judges they sat with 'tend to be favourable'; judges' study groups asked whether they had fitted lay views into lawyers' existing frameworks; appeal courts reversed 10.9% of mixed-court judgments in 15 main offences (June 2012-2018) against 17.6% of judges-only judgments (2006-2008)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the report body PDF (the saibanin.courts.go.jp link redirects to courts.go.jp); read section 4 on deliberation (pp. 12-16), section 5 on judgments (p. 17) and the section on appeals (pp. 21-22). Quotations translated by claude."
+
+- id: "assemblee-nationale/2025_cours-criminelles-departementales"
+  title: "Rapport d'information sur l'évaluation de la création des cours criminelles départementales (n° 1687)"
+  authors: ["Pascale Bordes", "Stéphane Mazars"]
+  publisher: "Assemblée nationale, commission des Lois"
+  date: "2025-07-09"
+  url: "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1687_rapport-information.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII", "IX"]
+  supports: "Cours d'assises sit with three magistrates and six jurors and need seven votes against the accused; cours criminelles départementales, tried in 2019 and general from 1 January 2023, sit with five magistrates (up to two non-career) deciding by simple majority, try adults accused of crimes punishable by up to twenty years, and judge rapes in over 85% of cases; their aims were to end the downgrading of rapes and cut delays; a former minister said citizen assessors were ruled out because an earlier reform showed 'the limits of such a system'; the 2013 Dijon and Toulouse evaluation found longer hearings; non-career judges cannot be a majority in criminal formations; by end-2024 CCD backlogs were 1,897 cases (+57%) with 17.9 months to clear against 17.3 at the assizes; acquittals 4% against 6%; the rapporteurs reject two citizen assessors and recommend three career judges."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the introduction, part one sections I.A-C and II (composition, aims, majority rules, results and backlogs), and the passage leading to recommendation 6 in part two."
+
+- id: "france-ministry-of-justice/2026_jure-d-assises"
+  title: "Juré d'assises"
+  publisher: "Justice.fr (Direction de l'information légale et administrative and Ministère de la Justice)"
+  date: "2026-03-27"
+  url: "https://www.justice.fr/fiche/jure-assises"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "IX"]
+  supports: "Jurors are drawn by lot from the electoral rolls; the cour d'assises has three professional magistrates and six jurors, nine on appeal; decisions are taken by written ballot in successive votes with all jurors and magistrates, and a juror's vote counts as much as a magistrate's."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the page (updated 27 March 2026); read the sections on forming the jury and the juror's role."
+
+- id: "bergoglio/2016_citizen-views-on-punishment"
+  title: "Citizen Views on Punishment: the Difference between Talking and Deciding"
+  authors: ["María Inés Bergoglio"]
+  publisher: "Oñati Socio-legal Series"
+  date: "2016-06"
+  url: "https://opo.iisj.net/index.php/osls/article/view/529"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Córdoba's mixed court has eight lay members drawn from the voter rolls and three judges, the presiding judge voting only on ties; of 360 decisions in 2005-2012, 78.9% were unanimous; where the two voting judges stood together against jurors only, jurors were the minority 46 times and the majority twice; in 32 of 48 divergences the jurors were more lenient; 84% of 715 former jurors said they could present their views; judges 'observe, control and, if necessary, correct' jurors (Amietta), and jurors saw the prosecution file against the law."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the article PDF (vol. 6, no. 2, pp. 216-234); read section 5 and Tables 5-7, pp. 225-229."
+
+- id: "lee/2016_judge-jury-interaction-korea"
+  title: "Judge-Jury Interaction in Deliberation: Enhancement or Obstruction of Independent Jury Decision-Making?"
+  authors: ["Jae-Hyup Lee", "Jisuk Woo"]
+  publisher: "Oñati Socio-legal Series"
+  date: "2016-06"
+  url: "https://opo.iisj.net/index.php/osls/article/view/551"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "IX"]
+  supports: "Korean jurors deliberate alone but must hear the judge's opinion if they cannot agree unanimously; jury verdicts matched the judge's ruling 92.8% of the time; in shadow juries, jurors changed position in 23.3% of cases with information-giving judges, 30.3% with opinion-giving judges, and in all 7 cases with 'conclusion-inducing' judges."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the article PDF (vol. 6, no. 2, pp. 179-196); read the abstract, the background on the Korean system and section 4.3 with Table 2."
+
+- id: "farrell/2019_mixed-membership-irish-convention"
+  title: "The effects of mixed membership in a deliberative forum: the Irish Constitutional Convention of 2012-2014"
+  authors: ["David M. Farrell", "Jane Suiter", "Clodagh Harris", "Kevin Cunningham"]
+  publisher: "Political Studies"
+  date: "2019-03-25"
+  url: "https://cora.ucc.ie/server/api/core/bitstreams/d14681f4-9564-4d48-8d2c-759027cf6319/content"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "XI"]
+  supports: "The Convention used private facilitated tables of seven or eight, mixed and rotated, with note-takers, and decided by secret ballot, which blocked party whips; politicians were first to the microphone in public sessions; at the tables, citizens made 560 speech acts and politicians 356; 14% of citizens and 9% of politicians agreed some participants dominated, higher in the weeks on electoral and parliamentary reform, not statistically significant; interviewees noted 'subtle ways' of influence such as guiding the note-taker; opinion on the electoral system moved to the politicians' position against reform; the 2016 assembly's lack of politicians was 'most likely due to the politically toxic nature of the abortion debate'; quotes the Democracy Matters finding on politicians."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the accepted manuscript PDF in UCC's CORA repository (handle 10468/7799; Political Studies 68(1): 54-73, doi 10.1177/0032321719830936); read sections 1-4 and the regression discussion."
+
+- id: "harris/2021_womens-voices-irish-convention"
+  title: "Women's voices in a deliberative assembly: An analysis of gender rates of participation in Ireland's Convention on the Constitution 2012-2014"
+  authors: ["Clodagh Harris", "David M. Farrell", "Jane Suiter", "Mary Brennan"]
+  publisher: "British Journal of Politics and International Relations"
+  date: "2021-02"
+  url: "https://research.ucc.ie/en/publications/womens-voices-in-a-deliberative-assembly-an-analysis-of-gender-ra/"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Topic and the gender mix of tables did not affect gender rates of participation, but the forum did: women participated more than men in the facilitated small-group sessions."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Abstract only, on UCC's research portal (vol. 23, no. 1, pp. 175-193, doi 10.1177/1369148120951021). No open full text was found."
+
+- id: "flinders/2016_democracy-matters"
+  title: "Democracy Matters: Lessons from the 2015 Citizens' Assemblies on English Devolution"
+  authors: ["Matthew Flinders", "Katie Ghose", "Will Jennings", "Edward Molloy", "Brenton Prosser", "Alan Renwick", "Graham Smith", "Paolo Spada"]
+  publisher: "Democracy Matters (UCL Discovery)"
+  date: "2016"
+  url: "https://discovery.ucl.ac.uk/id/eprint/1489702/1/Democracy%20Matters%20final%20report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "A citizens-only assembly (32 members) ran beside a mixed one (23 citizens and 6 local councillors); after the first weekend 31% in the mixed assembly saw domination against 9%; 4 of 7 citizens who saw domination and 7 of 10 who reported influence named a politician; after tables were rebalanced the figures were 15% and 19%, and only 3 of 6 politicians returned; 'At least in the short term, inclusion of politicians decreases the quality of deliberation (including the amount of perceived domination)'; the share finding politicians useful rose from 55% to 71%."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the final report PDF; read the membership table, paras. 24-26 and 138-142, and paras. 157-159 (pp. 39-43)."
+
+- id: "citizens-assembly-ie/2026_about-2016-2018-assembly"
+  title: "About the 2016-2018 Citizens' Assembly"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/2016-2018-citizens-assembly/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The government committed to an assembly 'without participation by politicians'; an Expert Advisory Group helped build a balanced work programme and recommended expert speakers 'for ratification by the Steering Group', made up of the chair and members elected by the members; votes were by secret ballot."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated archive page; read the About text and the rules on the Steering Group (4), voting (9) and the Expert Advisory Group (10). The page gives no reason for leaving politicians out."
+
+- id: "simon/2023_dispatch-from-brussels"
+  title: "Fusing representative and deliberative democracy: A dispatch from Brussels"
+  authors: ["Sophia Simon", "Julien Vrydagh"]
+  publisher: "Deliberative Democracy Digest (Journal of Deliberative Democracy)"
+  date: "2023-03-29"
+  url: "https://www.publicdeliberation.net/fusing-representative-and-deliberative-democracy-a-dispatch-from-brussels/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Committees seat 36-45 citizens with 12-15 MPs; Article 33 of the Belgian Constitution keeps the citizens' vote secret and consultative and the MPs' public and binding; from 14 interviews and observation, MPs' knowledge and debating experience let some 'exert disproportionate influence', and 'the recommendations may be more the MPs' than citizens''; Socialist MPs pressed organisers to bar a topic, which they refused."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full dispatch, including the section 'MPs dominating the conversation'."
+
+- id: "parlement-francophone-bruxellois/2023_report-article-42ter"
+  title: "Proposition de modification du Règlement visant à remplacer l'article 42ter concernant les commissions délibératives: rapport (111 (2022-2023) n° 2)"
+  publisher: "Parlement francophone bruxellois (Assemblée de la Commission communautaire française)"
+  date: "2023-03-22"
+  url: "https://www.parlementfrancophone.brussels/documents/rapport-proposition-de-modification-de-l2019article-42ter-concernant-les-commissions-deliberatives-entre-parlementaires-et-citoyens-composees-de-deputes-et-invitant-des-citoyens-tires-au-sort-et-l2019annexe-relative-au-vade-mecum-et-glossaire-du-10/document"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The consultative status of the citizens' vote caused frustration among some citizens; making it deliberative was deferred for further study with constitutional lawyers; steering decisions must now give reasons, and the choice of thematic experts was widened to the standing committee."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the report PDF; read the author's presentation and the general discussion, pp. 3-5."
+
+- id: "roberts/2020_experts-and-evidence-in-deliberation"
+  title: "Experts and evidence in deliberation: scrutinising the role of witnesses and evidence in mini-publics, a case study"
+  authors: ["Jennifer J. Roberts", "Ruth Lightbody", "Ragne Low", "Stephen Elstub"]
+  publisher: "Policy Sciences"
+  date: "2020"
+  url: "https://strathprints.strath.ac.uk/70808/7/Roberts_etal_PS_2020_Experts_and_evidence_scrutinising_the_role_of_witnesses_and_evidence_in_mini_publics.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In three Scottish citizens' juries on wind farms, witnesses questioned jurors' ability to scrutinise evidence, and jurors saw the 'neutral' witness as slanted: 'there's nobody to cross-examine him'; recommends a balanced oversight panel, juror choice of witnesses, witnesses answering together, and publishing evidence."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Open-access PDF on Strathprints (Policy Sciences 53: 3-32, doi 10.1007/s11077-019-09367-x); read the findings on witness perceptions and the recommendations section."
+
+- id: "humphreys/2006_leaders-in-democratic-deliberations"
+  title: "The Role of Leaders in Democratic Deliberations: Results from a Field Experiment in São Tomé and Príncipe"
+  authors: ["Macartan Humphreys", "William A. Masters", "Martin E. Sandbu"]
+  publisher: "World Politics"
+  date: "2006"
+  url: "https://www.cambridge.org/core/journals/world-politics/article/role-of-leaders-in-democratic-deliberations-results-from-a-field-experiment-in-sao-tome-and-principe/72AD6B9F5EC7A83BA08425F918F981A9"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In a nationwide deliberation with randomly assigned discussion leaders, leader effects were 'extremely large, in many cases accounting for over one-third of all variation in the outcomes'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Abstract only, on Cambridge Core (vol. 58, no. 4); the full text is paywalled."
+
+- id: "spada-vreeland/2013_who-moderates-the-moderators"
+  title: "Who Moderates the Moderators? The Effect of Non-neutral Moderators in Deliberative Decision Making"
+  authors: ["Paolo Spada", "James Raymond Vreeland"]
+  publisher: "Journal of Deliberative Democracy"
+  date: "2013-10-25"
+  url: "https://doi.org/10.16997/jdd.165"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "With 107 students deciding binding course rules in groups of about five, moderators who voiced constrained views raised support for their option by 14 and 20.5 points on one question; the authors warn interest groups could hijack deliberation through moderators."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the open-access full text at the journal's galley (delibdemjournal.org/article/438), pp. 3-4 and the design section."
+
+- id: "cornwell/2011_representation-through-participation"
+  title: "Representation through Participation: A Multilevel Analysis of Jury Deliberations"
+  authors: ["Erin York Cornwell", "Valerie P. Hans"]
+  publisher: "Law & Society Review"
+  date: "2011-09"
+  url: "https://scholarship.law.cornell.edu/facpub/1410/"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The 1950s Chicago Jury Project found high-participating jurors tended to be upper-class men in higher-status jobs, and forepersons disproportionately male and of higher status (Strodtbeck et al. 1957); among 2,189 criminal jurors on 302 juries, participation still rose with education."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Downloaded the full PDF from the Cornell repository (45 Law & Soc'y Rev. 667); read the abstract, the literature review (pp. 670-671) and the results on education."
+
+- id: "strodtbeck/1957_social-status-jury-deliberations"
+  title: "Social Status in Jury Deliberations"
+  authors: ["Fred L. Strodtbeck", "Rita M. James", "Charles Hawkins"]
+  publisher: "American Sociological Review"
+  date: "1957-12"
+  url: "https://doi.org/10.2307/2089202"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The classic study of status in jury deliberation; cited only to say it could not be opened. Its findings are given here as summarised by Cornwell and Hans (2011)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "JSTOR returned a client challenge. Crossref metadata confirm vol. 22, no. 6, pp. 713-719. Not read."
+
+- id: "karpowitz/2012_gender-inequality-deliberative-participation"
+  title: "Gender Inequality in Deliberative Participation"
+  authors: ["Christopher F. Karpowitz", "Tali Mendelberg", "Lee Shaker"]
+  publisher: "American Political Science Review"
+  date: "2012-08"
+  url: "https://pdxscholar.library.pdx.edu/comm_fac/16/"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In 94 five-person groups (470 people) deciding by secret ballot, women spoke under 75% as much as men in most conditions; the gap disappeared under unanimous rule with few women or majority rule with many; where women were the minority, a woman was named most influential in 25% of unanimous groups and 13% of majority-rule groups."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Open-access publisher PDF on PDXScholar (APSR 106(3): 533-547); read the abstract, design, Results I and the influence results."
+
+- id: "karpowitz/2014_the-silent-sex"
+  title: "The Silent Sex: Gender, Deliberation, and Institutions"
+  authors: ["Christopher F. Karpowitz", "Tali Mendelberg"]
+  publisher: "Princeton University Press"
+  date: "2014-08-24"
+  url: "https://collaborate.princeton.edu/en/publications/the-silent-sex-gender-deliberation-and-institutions/"
+  tier: "primary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The effects of decision rules depend on women's numbers: small numbers are not fatal under consensus, but consensus is not always beneficial when women are many; the wrong rules widen women's deficit of authority."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Book abstract on Princeton's research portal; the book itself was not read."
+
+- id: "siu/2017_deliberation-and-inequality"
+  title: "Deliberation & the Challenge of Inequality"
+  authors: ["Alice Siu"]
+  publisher: "Dædalus"
+  date: "2017"
+  url: "https://amacad.org/sites/default/files/publication/downloads/11_siu.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Five US Deliberative Polls (1,474 participants, 99 moderated small groups, experts answering questions in plenaries) showed no significant gender differences in talk; groups moved toward the opinions of the more privileged about half the time, and talking more did not bring more influence."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Open-access PDF (Dædalus 146(3), Summer 2017); read the abstract and pp. 121-124."
+
+- id: "unep/1987_montreal-protocol-article-6"
+  title: "Montreal Protocol on Substances that Deplete the Ozone Layer, Article 6: Assessment and review of control measures"
+  publisher: "UNEP Ozone Secretariat"
+  date: "1987"
+  url: "https://ozone.unep.org/treaties/montreal-protocol/articles/article-6-assessment-and-review-control-measures"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["III", "VIII", "X"]
+  supports: "At least every four years the parties assess the control measures; at least a year before, they convene panels of qualified experts and set their terms of reference; the panels report through the Secretariat to the parties."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the article page; read the full text of Article 6."
+
+- id: "unep/1996_teap-terms-of-reference"
+  title: "Annex V: Terms of reference of the Technology and Economic Assessment Panel (TEAP), decisions of the Eighth Meeting of the Parties"
+  publisher: "UNEP Ozone Secretariat"
+  date: "1996"
+  url: "https://ozone.unep.org/treaties/montreal-protocol/meetings/eighth-meeting-parties/decisions/annex-v-terms-reference-technology-and-economic-assessment-panel-teap"
+  tier: "primary"
+  kind: "treaty"
+  parts: ["III", "VIII", "X"]
+  supports: "The TEAP 'does not evaluate policy issues and does not recommend policy' but presents technical and economic information relevant to policy; members serve 'on a personal basis as experts' and take no instruction from governments, industries or NGOs; the Meeting of the Parties appoints TEAP members; reports are reached by consensus but 'must reflect any minority views appropriately'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the annex page (reached via ozone.unep.org/node/815); read sections 1, 2.2-2.3, 3.5 and 4.1."
+
+- id: "ipcc/2013_principles-governing-ipcc-work"
+  title: "Principles Governing IPCC Work"
+  publisher: "Intergovernmental Panel on Climate Change"
+  date: "2013-10"
+  url: "https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["III", "X"]
+  supports: "IPCC reports 'should be neutral with respect to policy', though they may deal objectively with factors relevant to applying particular policies; review involves both experts and governments."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the PDF (approved 1998, last amended October 2013); read paragraphs 2-3."
+
+- id: "danish-board-of-technology/2002_consensus-conference"
+  title: "Consensus Conference: A Danish description"
+  publisher: "Danish Board of Technology (reproduced by the Co-Intelligence Institute)"
+  date: "2002"
+  url: "https://cii1.verio.com/P-ConsensusConference1.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII", "X"]
+  supports: "A lay panel of 14, drawn from volunteers among about 1,000 randomly invited citizens, prepares over two weekends, sets the questions and helps choose the experts; 12-15 experts answer; the panel writes the final document alone; experts may correct factual errors 'but they have no influence on the attitudes expressed by the panel'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Read a reproduction of the Board's own description, which the host says it copied from tekno.dk; its list of conferences ends in 2002. The original page could not be opened: archived copies show only frames or a methods index."
+
+- id: "uk/2019_criminal-practice-directions-vi-trial"
+  title: "Criminal Practice Directions 2015, Division VI: Trial (as amended October 2019)"
+  publisher: "Lord Chief Justice of England and Wales (published on GOV.UK)"
+  date: "2019-10"
+  url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/924047/crim-practice-directions-VI-trial-2015.pdf"
+  tier: "primary"
+  kind: "law"
+  parts: ["VIII", "IX"]
+  supports: "A justices' clerk or legal adviser 'must not play any part in making findings of fact' but may remind the bench of the evidence; advice should ordinarily be given in open court, and advice given in the retiring room is provisional and must be repeated in open court for the parties to answer."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Opened the PDF; read CPD VI Trial 24A.1 and 24A.11-24A.15. Not checked against the Criminal Practice Directions 2023, which replaced these."
+
+- id: "van-wersch/2001_consumers-in-guideline-development"
+  title: "Involvement of consumers in the development of evidence based clinical guidelines: practical experiences from the North of England evidence based guideline development programme"
+  authors: ["Anna van Wersch", "Martin Eccles"]
+  publisher: "Quality in Health Care"
+  date: "2001"
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1743421/"
+  tier: "primary"
+  kind: "article"
+  parts: ["III", "VIII"]
+  supports: "Patients placed in guideline development groups 'contributed infrequently', had problems with technical language, and their contributions 'were not subsequently acted on'; a workshop let patients engage but was resource intensive; a patient advocate familiar with medical language felt able to speak."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "PMC required cookies; read the structured abstract through the Europe PMC REST service (vol. 10, no. 1, pp. 10-16). Full text not read."
+
+- id: "giraudet/2022_co-construction-ccc"
+  title: "“Co-construction” in deliberative democracy: lessons from the French Citizens' Convention for Climate"
+  authors: ["Louis-Gaëtan Giraudet", "Bénédicte Apouey", "Hazem Arab", "Simon Baeckelandt", "Philippe Bégout", "Nicolas Berghmans", "Nathalie Blanc", "Jean-Yves Boulin", "Eric Buge", "Dimitri Courant", "Amy Dahan", "Adrien Fabre", "Jean-Michel Fourniau", "Maxime Gaborit", "Laurence Granchamp", "Hélène Guillemot", "Laurent Jeanpierre", "Hélène Landemore", "Jean-François Laslier", "Antonin Macé", "Claire Mellier", "Sylvain Mounier", "Théophile Pénigaud", "Ana Póvoas", "Christiane Rafidinarivo", "Bernard Reber", "Romane Rozencwajg", "Philippe Stamenkovic", "Selma Tilikete", "Solène Tournus"]
+  publisher: "Humanities and Social Sciences Communications"
+  date: "2022-06-22"
+  url: "https://doi.org/10.1057/s41599-022-01212-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "A technical advisory group of 19 and a legal advisory group of six; between sessions facilitators compiled, technical advisers assessed and legal advisers reformulated proposals; speaker criteria were not explicit, advocacy and expertise not distinguished, and experts could not challenge each other; facilitators checked experts who overstepped only unsystematically, and a governance committee co-chair intervened as an expert; members named external experts (92%) and the technical group (74%) as main sources; some measures departed from expert advice; members drew up about a fifth of the measures, those of their own thematic group, out of five; a show of hands 'threatens sincere voting'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The publisher page returned a challenge; read the open-access PDF from Cardiff's ORCA repository: the structure section, the stages, 'Interactions between the citizens and the steering bodies', footnote 17 and Table 6."
+
+- id: "global-assembly/2022_report-2021"
+  title: "Report of the 2021 Global Assembly on the Climate and Ecological Crisis"
+  publisher: "Global Assembly"
+  date: "2022-11"
+  url: "https://globalassembly.org/resources/downloads/GlobalAssembly2021-FullReport.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "A nine-member Knowledge and Wisdom Advisory Committee informed the framing question, the selection of experts and witnesses, and the learning materials; speakers were chosen against criteria of expertise, gender, location and communication."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-read the governance section (p. 36) and 'Selection of speakers and witnesses'."
+
+- id: "citizens-assembly-ie/2026_convention-on-the-constitution"
+  title: "About the Convention on the Constitution (2013-2014)"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2026"
+  url: "https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The Convention had 66 randomly selected citizens, 33 politicians from both Houses of the Oireachtas and the Northern Ireland Assembly, and an independent chair."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-opened the archive page; the membership is in the 'About the Convention' text."
+
+- id: "citizens-assembly-ie/2022_dublin-assembly-report"
+  title: "Report of the Dublin Citizens' Assembly"
+  publisher: "Citizens' Assembly (Ireland)"
+  date: "2022-12"
+  url: "https://citizensassembly.ie/wp-content/uploads/2023/03/report_dublincitizensassembly_final_lowres.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The Dublin assembly had 80 members: an independent chair, 67 randomly selected residents and 12 councillors."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-opened the report PDF; membership stated in the introduction (section 1)."
+
+- id: "oecd-opsi/2022_brussels-deliberative-committees"
+  title: "Deliberative Committees (Commissions délibératives)"
+  publisher: "OECD Observatory of Public Sector Innovation"
+  date: "2022-11-24"
+  url: "https://oecd-opsi.org/innovations/deliberative-committees-brussels/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Brussels deliberative committees bring together 45 citizens drawn by lot and 15 MPs from the relevant standing committee."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-opened the case page; composition in the summary and description."
+
+- id: "bertelsmann/2023_shortcut-9-deliberative-committees"
+  title: "Shortcut 9: Deliberative Committees: A new approach to deliberation between citizens and politicians in Brussels"
+  authors: ["Jonathan Moskovic", "Bérangère Jouret", "Anna Renkamp"]
+  publisher: "Bertelsmann Stiftung"
+  date: "2023-01"
+  url: "https://www.bertelsmann-stiftung.de/en/our-projects/democracy-and-participation-in-europe/shortcut-archive/shortcut-9-deliberative-committees-a-new-approach-to-deliberation-between-citizens-and-politicians-in-brussels"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Lists a change of the constitution to give citizens' and MPs' votes equal weight as a next step, since 'the citizens' votes are only consultative'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-opened the web version; the point is in the list of next steps."
+
+- id: "stanford-ddl/2023_metaverse-community-forum"
+  title: "Meta Community Forum: Results Analysis"
+  authors: ["James S. Fishkin", "Alice Siu", "Samuel Chang", "Estelle Ciesla", "Tenzin Kartsang"]
+  publisher: "Deliberative Democracy Lab, Stanford University"
+  date: "2023-06"
+  url: "https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-06/public_meta_community_forum_final_report_-_stanford_ddl_1.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The platform ran the speaking queue, nudged those who had not spoken and steered groups to questions for panels of competing experts in plenary; 78% said their group 'participated relatively equally'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-opened the report PDF; read the executive summary, p. 6."

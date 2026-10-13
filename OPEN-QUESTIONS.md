@@ -254,7 +254,7 @@ B is the only exit option that directly answers the ceiling problem. It pairs wi
 - [x] Who rules that a proposal "fails" the long-view test, and by what criteria? ([long view](research/long-view.md)) *Settled: a Guardian finding of likely serious, irreversible harm (X.4).*
 - [x] Which decisions get the test: "every planetary decision" (III), "every major decision" or "each planetary ballot" (X.4)? ([long view](research/long-view.md)) *Settled: every planetary act (X.4).*
 - [ ] What standard of proof applies under X.6, and how are the risks of not acting weighed? ([long view](research/long-view.md))
-- [ ] Which "scientific bodies" nominate Guardians without nations? Should place-based or Indigenous guardians exist? ([long view](research/long-view.md))
+- [ ] Which "scientific bodies" nominate Guardians without nations? Should place-based or Indigenous guardians exist? ([long view](research/long-view.md)) *Proposed in [isonomy](proposals/isonomy.md): draw the scientific half by lot from those qualified in the sciences of the Earth and the long term.*
 - [ ] Shorter, staggered terms for Guardians drawn by lot? ([long view](research/long-view.md))
 - [ ] Should XI.4 entrench the Guardians and their budget? ([long view](research/long-view.md))
 - [ ] What happens when future terrans and the living world conflict? ([long view](research/long-view.md))

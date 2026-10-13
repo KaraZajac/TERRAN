@@ -1,0 +1,900 @@
+- id: "ietf/2020_rfc-8713"
+  title: "RFC 8713: IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process"
+  authors: ["Murray Kucherawy", "Robert Hinden", "Jason Livingood"]
+  publisher: "Internet Engineering Task Force (BCP 10)"
+  date: "2020-02"
+  url: "https://www.rfc-editor.org/rfc/rfc8713.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "The NomCom's ten voting volunteers are drawn at random from eligible volunteers by a method that uses random data unknown until the draw, is fair, unbiased and independently verifiable, and gives an ordered list; eligibility is three of the last five meetings (s. 4.14); members of the bodies the NomCom fills may not volunteer (s. 4.15); no more than two selected volunteers may share a primary affiliation (s. 4.17); NomCom members cannot be considered for positions their own committee fills (s. 5.11); candidates go to confirming bodies."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the plain-text RFC at rfc-editor.org: sections 3.2, 4.3, 4.14-4.17 and 5.11."
+
+- id: "ietf/2021_rfc-8989"
+  title: "RFC 8989: Additional Criteria for Nominating Committee Eligibility"
+  authors: ["Brian Carpenter", "Stephen Farrell"]
+  publisher: "Internet Engineering Task Force (Experimental)"
+  date: "2021-02"
+  url: "https://www.rfc-editor.org/rfc/rfc8989.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Process experiment adding alternative paths to NomCom eligibility: three of five meetings with online attendance counting for online meetings; working-group chair or secretary within three years; author or editor of two IETF-stream RFCs within five years. Rejected drafts, list mail, reviews and other criteria as 'not truly indicating effective IETF participation'; criteria must be measurable by the Secretariat, so 'no qualitative evaluation of an individual's contributions is considered'. August 2020 data: 842 eligible via attendance, 1,541 via chairing or authorship, 135 actual 2020 volunteers."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full RFC: sections 1-5 and Appendix A (Figures 1 and 2)."
+
+- id: "ietf/2023_rfc-9389"
+  title: "RFC 9389: Nominating Committee Eligibility"
+  authors: ["Martin Duke"]
+  publisher: "Internet Engineering Task Force (BCP 10)"
+  date: "2023-04"
+  url: "https://www.rfc-editor.org/rfc/rfc9389.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Makes the three eligibility paths permanent, with online attendance meaning logging in to at least one session; in practice RFC 8713's rule had meant picking up a badge in person. Capture is 'the most potent threat'; counting remote attendance cut the cost of an eligible volunteer from three trips 'of around five days each' to 'zero financial cost'; an attacker needs 'roughly 60% of the volunteer pool' for even odds of six seats; a sudden surge is 'an early-warning sign'; one person can now qualify several identities, for which the RFC points to the recall procedure."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full RFC: sections 1-4."
+
+- id: "ietf/2004_rfc-3797"
+  title: "RFC 3797: Publicly Verifiable Nominations Committee (NomCom) Random Selection"
+  authors: ["Donald Eastlake 3rd"]
+  publisher: "Internet Engineering Task Force (Informational)"
+  date: "2004-06"
+  url: "https://www.rfc-editor.org/rfc/rfc3797.txt"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Publicly verifiable random selection by hashing the results of public lotteries named in advance: 'Three or four would be a good number of sources. Ten is too many.' Eligible volunteers had been 'around 100' in recent years. Appendix A: the 1993-94 to 1995-96 committees were drawn by a member of the clergy from a receptacle, 1996-97 by the chair's spouse, and from 1997-98 by algorithm."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full RFC: sections 1-3 and Appendix A."
+
+- id: "ietf-nomcom/2022_final-list-of-volunteers"
+  title: "Final list of volunteers (NomCom 2022–2023)"
+  publisher: "IETF NomCom 2022 Chair (IETF Datatracker announcement)"
+  date: "2022-07-25"
+  url: "https://datatracker.ietf.org/nomcom/ann/504888/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Final list of 267 NomCom volunteers with affiliation and qualifying path. My count of the qualifications column: 123 by attendance only, 136 by attendance and another path, and 8 by chairing or authorship alone (7 by Path 3, 1 by Paths 2 and 3)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full announcement on the Datatracker (Chrome impersonation met a Cloudflare challenge; Safari impersonation worked) and tallied the qualifications column."
+
+- id: "ietf-nomcom/2022_selection-is-wrong"
+  title: "NomCom selection is wrong"
+  publisher: "IETF NomCom 2022 Chair (IETF Datatracker announcement)"
+  date: "2022-08-08"
+  url: "https://datatracker.ietf.org/nomcom/ann/509869/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The 2022 chair withdrew the announced draw because 'nobody can repeat my results': the list had not been sorted and there was a fencepost error."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full announcement on the Datatracker."
+
+- id: "ietf-nomcom/2023_final-eligible-volunteers"
+  title: "NomCom 2023 Final Announcement of Eligible Volunteers"
+  publisher: "IETF NomCom 2023 Chair (IETF Datatracker announcement)"
+  date: "2023-07-06"
+  url: "https://datatracker.ietf.org/nomcom/ann/741371/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Final list of 268 volunteers in RFC 3797 draw order; people who volunteered through meeting registration were 'not initially added to the list of volunteers' and the lists were merged manually."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full announcement on the Datatracker; the count of 268 is stated in its text."
+
+- id: "ietf-nomcom/2024_help-with-call-for-volunteers"
+  title: "Help with call for volunteers"
+  publisher: "IETF NomCom 2024 Chair (message to working-group chairs, IETF Datatracker)"
+  date: "2024-06-10"
+  url: "https://datatracker.ietf.org/nomcom/ann/1188858/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "An error between the registration system and the Datatracker mistakenly marked people as NomCom volunteers; after the fix of 4 June 2024 the chair reported 'only eligible 100 volunteers' and asked working-group chairs to recruit more."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full message on the Datatracker."
+
+- id: "ietf-nomcom/2024_final-list-of-volunteers"
+  title: "Updated and final list of volunteers for NomCom 2024-2025"
+  publisher: "IETF NomCom 2024 Chair (IETF Datatracker announcement)"
+  date: "2024-07-05"
+  url: "https://datatracker.ietf.org/nomcom/ann/1227928/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Final 2024 pool of 163 volunteers."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full announcement on the Datatracker; '163 volunteers' is in its opening lines."
+
+- id: "ietf-nomcom/2024_selection-results-correction"
+  title: "Correction in NomCom 2024 Volunteer Selection Results"
+  publisher: "IETF NomCom 2024 Chair (IETF Datatracker announcement)"
+  date: "2024-07-06"
+  url: "https://datatracker.ietf.org/nomcom/ann/1230692/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Operator error: a leading new line in the seed file produced a wrong key string, and the names file was one name short; the chair published a corrected selection the same day as the original results."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read this correction and the original results announcement of the same date (Datatracker 1230634)."
+
+- id: "ietf-nomcom/2025_eligible-volunteers"
+  title: "NomCom 2025-2026 Announcement of Eligible Volunteers"
+  publisher: "IETF NomCom 2025 Chair (ietf-announce mailing list)"
+  date: "2025-07-01"
+  url: "https://mailarchive.ietf.org/arch/msg/ietf-announce/SBOUiKd794ACC7d2RySNQEBON1Q/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "List of 192 volunteers with names and affiliations, in RFC 3797 draw order. My keyword count of affiliations: 30 named a Huawei company, 20 Cisco, 15 Nokia, 12 Juniper, 9 China Mobile and 8 ZTE, 94 of 192 (49%)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full message in the IETF mail archive (Safari impersonation) and a Wayback Machine copy of 13 December 2025; counted affiliations line by line."
+
+- id: "ietf-nomcom/2025_update-on-volunteers"
+  title: "NomCom 2025-2026 Update on Volunteers"
+  publisher: "IETF NomCom 2025 Chair (IETF Datatracker announcement)"
+  date: "2025-07-04"
+  url: "https://datatracker.ietf.org/nomcom/ann/1846970/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "'as in previous years, subsidiaries are regarded as the same affiliation as their parent company'; affiliations that are blank or marked 'independent' make assessment more difficult."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full announcement on the Datatracker."
+
+- id: "ietf-nomcom/2026_final-list"
+  title: "NomCom 2026-2027 Announcement of Eligible Volunteers - Final list"
+  publisher: "IETF NomCom 2026 Chair (IETF Datatracker announcement)"
+  date: "2026-07-08"
+  url: "https://datatracker.ietf.org/nomcom/ann/2691465/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Final 2026 pool. My count: 168 names (the first list of 1 July 2026 announced 164); 31 named a Huawei company, 27 Cisco, 10 Nokia, 10 HPE, 8 ZTE, 7 Ericsson and 5 China Mobile, 98 of 168 (58%)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the final list and the first list (Datatracker 2635374) and compared them; counted names and affiliations line by line."
+
+- id: "ietf/2024_community-survey-2023"
+  title: "IETF Community Survey 2023"
+  publisher: "Internet Engineering Task Force (blog)"
+  date: "2024-04-25"
+  url: "https://www.ietf.org/blog/ietf-community-survey-2023/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Over 2,000 responses; North America and Europe account for about 40% each of IETF participants and Asia 11%; women 7.84% of respondents (5.58-10.10%); participants from Asia and Latin America report weaker English, especially oral; meeting costs hamper participants from Asia, Africa and Latin America."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the blog post's summary of findings in full."
+
+- id: "ietf/2026_community-survey-2025"
+  title: "IETF Community Survey 2025"
+  authors: ["Jay Daley", "Akanksha Gohil"]
+  publisher: "Internet Engineering Task Force (blog)"
+  date: "2026-07-14"
+  url: "https://www.ietf.org/blog/ietf-community-survey-2025/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Over 1,700 responses; regular participation among women rose from 5.42% in 2024 to 9.82% in 2025, and women remain under 10% of respondents; former leaders highlight 'governance failures and corporate capture'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the blog post's key findings in full."
+
+- id: "rori/2023_experimental-funders-handbook"
+  title: "The experimental research funder's handbook (2nd edition)"
+  authors: ["Sandra Bendiscioli", "Teo Firpo", "Albert Bravo-Biosca", "Eszter Czibor", "Michele Garfinkel", "Tom Stafford", "James Wilsdon", "Helen Buckley Woods"]
+  publisher: "Research on Research Institute (PDF hosted by the Austrian Science Fund)"
+  date: "2023-04"
+  url: "https://www.fwf.ac.at/fileadmin/Website/publications/Publikationen/FWF-Selbstevaluation/RoRI/The_experimental_research_funders_handbook_2nd_ed.pdf"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII", "X"]
+  supports: "Partial ('focal' or 'targeted') randomisation applies a draw only to applications reviewers judge worthy; the HRC was the first public funder (2013), the Volkswagen Foundation used it in 2017-2020, the SNSF piloted it in 2018-2020 and then allowed it in all schemes, the FWF began in 2019; arguments against include undermining merit, stigma, lost trust in peer review, weaker organised scepticism and new bureaucratic burdens."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read Part 2, sections 1-2 (pp. 66-77), of the 164-page PDF; PDF metadata dates it April 2023."
+
+- id: "liu/2020_lottery-acceptability-survey"
+  title: "The acceptability of using a lottery to allocate research funding: a survey of applicants"
+  authors: ["Mengyao Liu", "Vernon Choy", "Philip Clarke", "Adrian Barnett", "Tony Blakely", "Lucy Pomeroy"]
+  publisher: "Research Integrity and Peer Review"
+  date: "2020-02-03"
+  url: "https://doi.org/10.1186/s41073-019-0089-z"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII", "X"]
+  supports: "HRC Explorer Grants use a modified lottery since 2013: NZ$150,000, 2% of HRC spending; three-member panels give yes/no on two criteria and two 'yes' votes enter the pool; fundable applications ordered with Excel's Rand(); 394 applications 2013-2019, 308 judged ineligible, 30 not funded by lottery, 56 funded (2013: 116 applications, 99 ineligible); the HRC saw lot as 'a fair and transparent approach to choose between equally qualified applicants'. Survey (126 of 325, 39%): 63% for and 25% against for Explorer Grants, 40% and 37% for other grants; 78% of winners vs 44% of panel-declined applicants approved; ten respondents wanted 'stand out applications' funded first; 75% said the lottery made no difference to preparation time (median 10 days)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full text via Europe PMC (PMC6996170): Background, Methods, Table 1, Results and Table 4. The journal site returned a client challenge."
+
+- id: "hrc/2025_explorer-grant-guidelines-2026"
+  title: "2026 Explorer Grant Application Guidelines"
+  publisher: "Health Research Council of New Zealand"
+  date: "2025-11"
+  url: "https://gateway.hrc.govt.nz/funding/downloads/2026_Explorer_Grant_Application_Guidelines.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Explorer Grant Assessing Committee of a chair and about 12 members; subpanels of three confirm, without scoring, whether three criteria are met (transformative, viable, advancing Māori health); majority agreement makes an application fundable; fundable applications are randomly ordered and funded up to the budget, with Council approval."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the PDF (November 2025): section 2 and Step 3 of the assessment process. The 2026 Explorer Grants web page on the HRC gateway says the same."
+
+- id: "snsf/2021_drawing-lots-tie-breaker"
+  title: "Drawing lots as a tie-breaker"
+  publisher: "Swiss National Science Foundation"
+  date: "2021-03-31"
+  url: "https://www.snf.ch/en/JyifP2I9SUo8CPxI/news/news-210331-drawing-lots-as-a-tie-breaker"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "After a 2018-2020 Postdoc.Mobility pilot, evaluators may draw lots in all schemes from 2021 where proposals cannot be further differentiated, given the risk of 'the subconscious biases of evaluators'; numbered paper capsules are drawn from a bowl and filmed; letters say when lots decided; 9 of 278 proposals were affected in March 2021. It dates New Zealand's lottery to 2015; HRC sources give 2013."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full news release (31 March 2021)."
+
+- id: "simon/2025_lottery-drum-experiment"
+  title: "Everyone Is Equal in the Lottery Drum. More Opportunities for Risky Research, Postdocs, and Female Scientists?"
+  authors: ["Dagmar Simon"]
+  publisher: "fteval Journal for Research and Technology Policy Evaluation, issue 57"
+  date: "2025-07-15"
+  url: "https://repository.fteval.at/id/eprint/767/1/5718_Simon.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "Experiment!: 704 applications and 67 grants in 2013-2016 (jury only); 117 grants from 2,748 applications in 2017-2021, about half drawn by lot; office pre-check, an anonymous jury of eight to ten generalists, double-blind review. Grantee survey (123 of 165): 88% say lotteries avoid conflicts of interest, 85% equal opportunities, 70% fear lower-quality projects, 53% lower reputation gain. Early-career share rose from about 42% to 47% and more younger women were funded, on 'relatively small' numbers."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full 19-page PDF from the fteval repository: sections on the funding initiative, survey method, assessments of the lottery and diversity effects."
+
+- id: "vingre/2026_fwf-1000-ideas-evaluation"
+  title: "Evaluation of the Austrian Science Fund (FWF) 1000 Ideas programme"
+  authors: ["Anete Vingre", "Diogo Machado", "Florentine Frantz", "Martin Rima", "Laura Sutinen", "Erik Arnold"]
+  publisher: "Technopolis, for the Austrian Science Fund (fteval repository)"
+  date: "2026"
+  url: "https://repository.fteval.at/id/eprint/838/1/FWF_1000Ideas_Evaluation-Report.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "1000 Ideas since 2019: five calls, 1,135 applications, 107 approved (about 7.5%); double-blind review, a dedicated jury, partial randomisation among proposals deemed worthy, decisions by the Scientific Board. Only 60% of awardees and 48% of unfunded applicants knew of the lottery; around half of unfunded applicants and nearly half of awardees associate it with 'increased risk of selecting research projects of low quality'; under the lottery, novelty-oriented characteristics matter more and past citations less; small numbers limit statistical power."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the executive summary, section 2.1 and section 4.2 of the PDF (fieldwork September 2025 to January 2026)."
+
+- id: "british-academy/2025_partial-randomisation-extended"
+  title: "Partial randomisation trial extended after diversity of applicants and award holders increases"
+  publisher: "The British Academy"
+  date: "2025-04-16"
+  url: "https://www.thebritishacademy.ac.uk/news/partial-randomisation-trial-extended-small-research-grants/"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "BA/Leverhulme Small Research Grants partially randomised since 2022, extended to 2028; Fellows apply a quality threshold, about 60% pass and are randomly allocated funding; applications up about 70% (over 1,100 against about 600); Asian or Asian British researchers 13% of applications and 11% of awards before, 19% and 17% after; Black or Black British 3% and 2% before, 4% and 3% after; awards outside the 'golden triangle' 85% to 87%; Adrian Barnett and Philip Clarke analysing the results."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full news item (16 April 2025)."
+
+- id: "fang/2016_nih-percentile-scores"
+  title: "NIH peer review percentile scores are poorly predictive of grant productivity"
+  authors: ["Ferric C. Fang", "Anthony Bowen", "Arturo Casadevall"]
+  publisher: "eLife"
+  date: "2016-02-16"
+  url: "https://doi.org/10.7554/eLife.13323"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "For 102,740 NIH R01 grants with percentile scores of 20 or better, the score explained 0.98% of the variance in productivity; AUC 0.54; if half were funded by score, a top-half grant by citations would have only a 58% chance of funding."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full text via Europe PMC (PMC4769156): abstract, Results and Figures 2-3. The eLife PDF link returned a challenge page."
+
+- id: "pier/2018_low-agreement-nih-reviewers"
+  title: "Low agreement among reviewers evaluating the same NIH grant applications"
+  authors: ["Elizabeth L. Pier", "Markus Brauer", "Amarette Filut", "Anna Kaatz", "Joshua Raclaw", "Mitchell J. Nathan", "Cecilia E. Ford", "Molly Carnes"]
+  publisher: "Proceedings of the National Academy of Sciences"
+  date: "2018-03"
+  url: "https://doi.org/10.1073/pnas.1714379115"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "43 reviewers in four mock study sections rated 25 oncology R01 applications (16 funded at first submission, 9 after resubmission); intraclass correlation 0 for ratings; 'the outcome of the grant review depended more on the reviewer to whom the grant was assigned than the research proposed'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full text on PubMed Central (PMC5866547) with Safari impersonation; pnas.org returned HTTP 403."
+
+- id: "heyard/2022_funding-line-bayesian-lottery"
+  title: "Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery"
+  authors: ["Rachel Heyard", "Manuela Ott", "Georgia Salanti", "Matthias Egger"]
+  publisher: "Statistics and Public Policy (arXiv preprint, version 3)"
+  date: "2022-05-30"
+  url: "https://arxiv.org/pdf/2102.09958"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The SNSF introduced a lottery for the middle group of good but not excellent proposals; reviewer agreement is typically low (kappa well below 0.50; 0.23 between two Finnish panels); for the February 2020 Postdoc.Mobility call, panel intraclass correlations ranged from 0.31 to 0.50, 'from poor to fair'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the arXiv v3 PDF (30 May 2022): abstract, introduction, section 3.1 and Tables 1-2."
+
+- id: "woods/2021_randomisation-scoping-rori-wp4"
+  title: "Experiments with randomisation in research funding: scoping and workshop report (RoRI Working Paper No.4)"
+  authors: ["Helen Buckley Woods", "James Wilsdon"]
+  publisher: "Research on Research Institute"
+  date: "2021-08"
+  url: "https://doi.org/10.6084/m9.figshare.16553067.v2"
+  tier: "secondary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Summarises Guthrie, Ghiga and Wooding (2018), 105 papers: 'a paucity of evidence for the effectiveness of peer review' but 'strong evidence of bias against innovative research', weak prediction of success and a high burden on applicants; Reinhart and Schendzielorz warn that randomisation may supplant reviewers' biases with those of bureaucrats and administrators; published real-world studies 'remain rare'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The figshare page returned HTTP 403; downloaded the PDF (Randomisation_RoRI_WP04_Aug_2021_final.pdf) through the figshare API and read sections 2.3-3."
+
+- id: "volkswagenstiftung/2020_eight-theses-random-element"
+  title: "8 Theses for Introducing a Random Element"
+  publisher: "Volkswagen Foundation"
+  date: "2020-11"
+  url: "https://www.volkswagenstiftung.de/sites/default/files/documents/8Theses_Randomization_Lottery_VolkswagenFoundation.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Since 2017 Experiment! selects a share of grants by lot after quality assurance by a jury; 'The lot is blind to quality', so the process needs initial quality assurance; selection by lot is 'a useful supplement – but not an alternative – to peer review'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the one-page PDF; it is undated, and its metadata give November 2020."
+
+- id: "dora/2025_vw-partial-randomization"
+  title: "Insights on Partial Randomization in Research Funding: Learnings from the Volkswagen Foundation"
+  publisher: "DORA (San Francisco Declaration on Research Assessment)"
+  date: "2025-03-27"
+  url: "https://sfdora.org/2025/03/27/insights-on-partial-randomization-in-research-funding-learnings-from-the-volkswagen-foundation/"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Report of a Volkswagen Foundation presentation: Experiment! used pre-selection, a double-blind jury and a supervised physical lottery; more early-career grantees, women and minority subject areas were funded; jury- and lottery-selected cohorts showed 'very similar research outputs and outcomes'; no applicant complaints. It gives 'over 5,000' applications for 183 grants, which differs from Simon's counts."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full post. The output comparison is the Foundation's own assessment as relayed by DORA."
+
+- id: "herlihy/2000_online-tratte-overview"
+  title: "Florentine Renaissance Resources: Online Tratte of Office Holders 1282–1532 — Brief Historical Overview"
+  authors: ["David Herlihy", "R. Burr Litchfield", "Anthony Molho", "Roberto Barducci"]
+  publisher: "Brown University"
+  date: "2000"
+  url: "https://cds.library.brown.edu/projects/tratte/historicalOverview.html"
+  tier: "secondary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The 1328 reform filled the highest offices by drawing from purses after periodic scrutinies; candidates had to be enrolled in a guild; scrutinies by special commissions, ideally every five years, and 'it could be to the advantage of the group in power to delay holding a scrutiny'; accoppiatori preselected candidates from the 1340s; from about 1387 a 'Borsellino' of men thought loyal to the group in power supplied half the major-guild priors; after the 1434 Balìa recalled Cosimo, a new scrutiny and new purses; offices filled a mano under the Medici; drawn names 'seen', and 'seated' only if no divieto applied."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full historical overview page (edition copyright 2000)."
+
+- id: "fubini/2014_cosimo-de-medici-regime"
+  title: "Cosimo de' Medici's regime: his rise to power (1434)"
+  authors: ["Riccardo Fubini"]
+  publisher: "Revue française de science politique (English edition, Cairn International)"
+  date: "2014"
+  url: "https://doi.org/10.3917/rfsp.646.1139"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "In the squittinio, commissions voted by secret ballot and only the scrutineers knew the names; names were placed in purses and drawn; a drawn man was 'seen' and became public, and was 'seated' only if he met requirements such as paid-up taxes; Signoria terms lasted two months; under the Medici, accoppiatori often made 'a mano' selections of trusted, already-seen men, 'without, however, marking an official departure from the city's constitutional system' (following Rubinstein)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the English full text on shs.cairn.info (Revue française de science politique 64(6), pp. 1139-1156): paragraph 4 and the editorial notes on the squittinio and 'a mano'."
+
+- id: "belloc/2024_medici-quiet-coup"
+  title: "The Medici's quiet coup: How the wealthy bend politics without shifting institutions"
+  authors: ["Marianna Belloc", "Roberto Galbiati", "Francesco Drago"]
+  publisher: "VoxEU (CEPR)"
+  date: "2024-10-22"
+  url: "https://cepr.org/voxeu/columns/medicis-quiet-coup-how-wealthy-bend-politics-without-shifting-institutions"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The Tratte, with short term limits, 'guaranteed comparatively broad participation in city government' and limited rent-extraction for decades; the Medici network held about half of the credit lent to the Republic by faction in 1427-1434; after the capture, office-holding correlated with wealth accumulation and the Republic paid higher interest to households holding more office terms."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full column (22 October 2024) by three of the paper's four authors."
+
+- id: "belloc/2022_medici-institutional-capture"
+  title: "Wealth Accumulation and Institutional Capture: the Rise of the Medici and the Fall of the Florentine Republic"
+  authors: ["Marianna Belloc", "Francesco Drago", "Mattia Fochesato", "Roberto Galbiati"]
+  publisher: "Centre for Economic Policy Research (Discussion Paper 17456)"
+  date: "2022-07-11"
+  url: "https://cepr.org/publications/dp17456"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Offices assigned by election and lottery; Table A.1 (after Rubinstein): before 1434 the accoppiatori 'strictly executed' scrutiny decisions and the friars of Santa Croce kept the closed bags; under the Medici a Balìa named by the Tre Maggiori held the scrutiny and, for the Signoria, the accoppiatori 'had large discretionary power in the bags formation' and kept the bags; over one hundred 'new' families out of about five hundred gained office, but surname and political affiliation became much stronger predictors of office; Medici-faction lenders received about 5 points more interest."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "The CEPR page sells the paper and repec.cepr.org returned 403; read the full PDF from a raw Wayback Machine capture of 3 June 2024 of repec.cepr.org/repec/cpr/ceprdp/DP17456.pdf: introduction, section 2 and Table A.1."
+
+- id: "rubinstein/1966_government-of-florence-medici"
+  title: "The Government of Florence under the Medici (1434 to 1494)"
+  authors: ["Nicolai Rubinstein"]
+  publisher: "Clarendon Press, Oxford"
+  date: "1966"
+  url: "https://archive.org/details/governmentofflor0000rubi"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "The standard account of Medici electoral controls; cited only to record that it could not be opened."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "Both Internet Archive copies are restricted lending items, and no open full text was found. Its account reaches the note through Fubini (2014), Belloc et al. (2022, Table A.1) and the Brown Tratte overview."
+
+- id: "najemy/1982_corporatism-and-consensus"
+  title: "Corporatism and Consensus in Florentine Electoral Politics, 1280–1400"
+  authors: ["John M. Najemy"]
+  publisher: "University of North Carolina Press"
+  date: "1982"
+  url: "https://archive.org/details/corporatismconse0000naje"
+  tier: "secondary"
+  kind: "book"
+  parts: ["VIII"]
+  supports: "Standard history of Florence's electoral system before the Medici; cited only to record that it could not be opened."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "unverified"
+    note: "The Internet Archive copy is a restricted lending item, as is Najemy's A History of Florence, 1200-1575 (2006); no open full text was found."
+
+- id: "mowbray/2007_electing-doge-venice"
+  title: "Electing the Doge of Venice: Analysis of a 13th Century Protocol"
+  authors: ["Miranda Mowbray", "Dieter Gollmann"]
+  publisher: "20th IEEE Computer Security Foundations Symposium (CSF'07)"
+  date: "2007-07"
+  url: "https://doi.org/10.1109/CSF.2007.21"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The 1268-1797 protocol ran ten rounds alternating lot and approval election (college sizes 30, 9, 40, 12, 25, 9, 45, 11, 41; 25 approvals to elect the doge); the electorate was the Great Council aged 30 or over, with no two members of one family in a college; the authors argue it 'offers some resistance to corruption of voters'; the list of families was 'closed' in 1297; the 75 doges elected this way had 44 surnames, and 70 came from families seated in 1297."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full paper (pp. 295-310) from a mirror PDF at gwern.net: abstract, section 1, Table 1 and section 3; DOI confirmed through Crossref."
+
+- id: "debian/2026_new-members-corner"
+  title: "Debian New Members Corner"
+  publisher: "Debian Project"
+  date: "2026"
+  url: "https://www.debian.org/devel/join/newmaint"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Anyone can contribute without being a Developer; applicants for upload rights 'should have a track record of maintaining packages for at least six months'; Developers vote and can upload; membership grants trust over project infrastructure, so the process is 'very strict and thorough'; seven steps from application to account creation."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated page, read in full on 12 October 2026."
+
+- id: "debian/2026_nm-step2-identification"
+  title: "Step 2: Identification"
+  publisher: "Debian Project"
+  date: "2026"
+  url: "https://www.debian.org/devel/join/nm-step2"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The applicant's OpenPGP key must be signed by two Debian members, whom the applicant meets in person and shows a passport, driving licence or other ID."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated page, read in full on 12 October 2026: section 'Verification'."
+
+- id: "debian/2026_nm-step3-philosophy"
+  title: "Step 3: Philosophy and Procedures"
+  publisher: "Debian Project"
+  date: "2026"
+  url: "https://www.debian.org/devel/join/nm-step3"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Applicants must understand the Social Contract and the Debian Free Software Guidelines 'well enough to express the ideas and ideals described there in their own words'; agreement is limited to work done for Debian; the Application Manager decides when each step is met."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated page, read in full on 12 October 2026."
+
+- id: "debian/2026_developers-reference-duties"
+  title: "Debian Developer's Reference, chapter 3: Debian Developer's Duties"
+  publisher: "Debian Project"
+  date: "2026"
+  url: "https://www.debian.org/doc/manuals/developers-reference/developer-duties.en.html"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Developers who retire through the emeritus process can be re-activated through a shortened New Member process; accounts otherwise marked 'removed' must go through full New Member again; finding inactive developers 'takes significant time and effort'; the MIA team handles unreachable maintainers; developers on holiday are asked to check for key-signing requests, especially in places 'where we don't have any developers yet but where there are people who are interested in applying'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read sections 3.1.3 and 3.2.5-3.2.7 of the current online manual."
+
+- id: "wikipedia/2026_administrators-policy"
+  title: "Wikipedia:Administrators"
+  publisher: "English Wikipedia"
+  date: "2026"
+  url: "https://en.wikipedia.org/wiki/Wikipedia:Administrators"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Administrator permissions are 'granted indefinitely' but removed for inactivity: no edits or administrative actions for 12 months, or fewer than 100 edits over 60 months; tools are restored on request, except after two years with no edits (for an inactivity removal, one further year without edits after removal) or five years since the last administrative action; a footnote encourages rejoining 'rather than to make token edits to avoid loss of administrative permissions'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the policy's wikitext (action=raw) on 12 October 2026: sections on procedural removal for inactivity and restoration."
+
+- id: "brennan/2016_against-democracy"
+  title: "Against Democracy"
+  authors: ["Jason Brennan"]
+  publisher: "Princeton University Press"
+  date: "2016-09"
+  url: "https://press.princeton.edu/books/paperback/9780691178493/against-democracy"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Publisher's description: democracy is 'the rule of the ignorant and the irrational'; epistocracy, 'the rule of the knowledgeable', may be better, and 'it's time to experiment and find out'. The book's own list of epistocratic forms could not be checked."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Read the publisher's description in the page HTML. The book itself could not be opened: the Internet Archive copy is a restricted lending item, and no publisher sample was found."
+
+- id: "somin/2016_democracy-vs-epistocracy"
+  title: "Democracy vs. Epistocracy"
+  authors: ["Ilya Somin"]
+  publisher: "Reason (The Volokh Conspiracy)"
+  date: "2016-09-03"
+  url: "https://reason.com/volokh/2016/09/03/democracy-vs-epistocracy/"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Review of Against Democracy: Brennan's options include limiting the franchise to those who pass a basic political knowledge test, extra votes for the more knowledgeable (after Mill), greater weight for knowledgeable members of under-represented groups, and an 'enfranchisement lottery'; Somin expects real-world governments to structure tests and lotteries 'in ways that overrepresent supporters of the party in power and exclude opponents'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full review; byline confirmed in the page metadata."
+
+- id: "lopez-guerra/2020_enfranchisement-lottery"
+  title: "Democrats, Epistocrats, and the Enfranchisement Lottery"
+  authors: ["Claudio López-Guerra"]
+  publisher: "Georgetown Journal of Law & Public Policy, vol. 18, special issue"
+  date: "2020"
+  url: "https://www.law.georgetown.edu/public-policy-journal/wp-content/uploads/sites/23/2021/09/Lopez-Guerra.pdf"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "The enfranchisement lottery excludes all but a random sample before each election and puts that sample through 'a competence-building process'; because the sample starts as a microcosm, this 'neutralizes potential complaints about unjust biases'; Brennan's 'government by simulated oracle' converts less competent votes into those of the most competent in each demographic group; replying to Somin's objection that 'Whoever designs the jury deliberation process will have enormous opportunity and incentive to skew it', the author concedes 'This is true' and notes that competency tests can be biased too."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full PDF from the journal's site: sections 1 and 3, including footnote 22 on the demographic objection."
+
+- id: "christiano/2024_sep-democracy"
+  title: "Democracy"
+  authors: ["Tom Christiano", "Sameer Bajaj"]
+  publisher: "Stanford Encyclopedia of Philosophy"
+  date: "2024-06-18"
+  url: "https://plato.stanford.edu/entries/democracy/"
+  tier: "tertiary"
+  kind: "web"
+  parts: ["VII", "VIII"]
+  supports: "The demographic objection to epistocracy (Estlund 2003): any criterion of expertise is likely to select demographically homogeneous people whose biases undermine outcomes for the general welfare; Landemore (2013) drew on Hong and Page's 'diversity-trumps-ability' theorem to argue democracy beats rule by experts, and both the theorem and her use of it are disputed (Quirk 2014; Brennan 2014; Thompson 2014; Bajaj 2014)."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read sections 2.1.2-2.1.3 of the entry (substantive revision of 18 June 2024)."
+
+- id: "estlund/2008_democratic-authority"
+  title: "Democratic Authority: A Philosophical Framework"
+  authors: ["David M. Estlund"]
+  publisher: "Princeton University Press"
+  date: "2008"
+  url: "https://press.princeton.edu/books/paperback/9780691143248/democratic-authority"
+  tier: "primary"
+  kind: "book"
+  parts: ["VII", "VIII"]
+  supports: "Publisher's description: Estlund's 'epistemic proceduralism' avoids epistocracy; some few people probably do know best, but this can be used in political justification 'only if their expertise is acceptable from all reasonable points of view'. The demographic objection itself is taken from the Stanford Encyclopedia entry."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Read the publisher's description in the page HTML. The book could not be opened: the Internet Archive copy is a restricted lending item."
+
+- id: "landemore/2013_deliberation-cognitive-diversity"
+  title: "Deliberation, cognitive diversity, and democratic inclusiveness: an epistemic argument for the random selection of representatives"
+  authors: ["Hélène Landemore"]
+  publisher: "Synthese"
+  date: "2013"
+  url: "https://doi.org/10.1007/s11229-012-0062-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Abstract: all else equal 'more is smarter'; for deliberative assemblies with an upper limit on size, the argument becomes a defence of random selection of representatives."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "partial"
+    note: "Read only the abstract on link.springer.com (Synthese 190(7), 1209-1231); the full text is subscription-only."
+
+- id: "hong/2004_diverse-problem-solvers"
+  title: "Groups of diverse problem solvers can outperform groups of high-ability problem solvers"
+  authors: ["Lu Hong", "Scott E. Page"]
+  publisher: "Proceedings of the National Academy of Sciences"
+  date: "2004-11"
+  url: "https://doi.org/10.1073/pnas.0403723101"
+  tier: "primary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Motivating example: 1,000 applicants scoring 60% to 90% on a test, 'so that they are all individually capable', and a choice between the best scorer, the 20 next-best and 20 chosen at random; in one simulation run, ten random agents' collective performance was 94.7 against 93.2 for the ten best; the theorem assumes intelligent agents, a difficult problem, diverse agents and a unique best agent."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full text on PubMed Central (PMC528939) with Safari impersonation: introduction, computational experiment and theorem."
+
+- id: "thompson/2014_diversity-trump-ability"
+  title: "Does Diversity Trump Ability? An Example of the Misuse of Mathematics in the Social Sciences"
+  authors: ["Abigail Thompson"]
+  publisher: "Notices of the American Mathematical Society, vol. 61, no. 9"
+  date: "2014-10"
+  url: "https://www.ams.org/notices/201409/rnoti-p1024.pdf"
+  tier: "secondary"
+  kind: "article"
+  parts: ["VII", "VIII"]
+  supports: "Hong and Page's Theorem 1 'is incorrect as stated'; once corrected it is trivial; it is unrelated to the computational experiment, which 'is an illustration of the benefits of randomness, not \"diversity\"'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full article (pp. 1024-1030), including the summary of problems."
+
+- id: "us-supreme-court/2015_nc-dental-v-ftc"
+  title: "North Carolina State Board of Dental Examiners v. Federal Trade Commission, 574 U.S. 494 (2015)"
+  publisher: "Supreme Court of the United States (Cornell Legal Information Institute)"
+  date: "2015-02-25"
+  url: "https://www.law.cornell.edu/supremecourt/text/13-534"
+  tier: "primary"
+  kind: "court"
+  parts: ["VIII"]
+  supports: "Six of the board's eight members must be practising dentists, elected by dentists; the board sent at least 47 cease-and-desist letters to non-dentist teeth whiteners, who stopped offering the service; a board on which 'a controlling number of decisionmakers are active market participants' has antitrust immunity only with active state supervision; 'When a State empowers a group of active market participants to decide who can participate in its market, and on what terms, the need for supervision is manifest'; the concern is 'structural risk', not bad faith; 6-3, with Alito's dissent noting that Parker upheld a scheme that 'gave decisive power to market participants'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the syllabus, the opinion of the Court and the dissent on LII; the supremecourt.gov PDF URL returned 404."
+
+- id: "us-treasury/2015_occupational-licensing-framework"
+  title: "Occupational Licensing: A Framework for Policymakers"
+  publisher: "US Department of the Treasury Office of Economic Policy, Council of Economic Advisers and Department of Labor"
+  date: "2015-07"
+  url: "https://obamawhitehouse.archives.gov/sites/default/files/docs/licensing_report_final_nonembargo.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "About 25% of the US workforce in state-licensed occupations, up from under 5% in the early 1950s; over 1,100 occupations licensed in at least one state, fewer than 60 in all 50; 10-15% wage premium after controls; higher prices in 9 of 11 studies; 'less evidence' that licensing restricts supply, though 100 more training hours cut Vietnamese manicurists by almost 18%; professional board members are 'more likely than public members to favor the interests of their profession'; California public-member majorities from the 1970s, but 'little reliable empirical evidence regarding the effectiveness of this reform'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the executive summary, chapter I's evidence section and the best-practices section on public membership on licensing boards, including the box on the dental board case."
+
+- id: "cqc/2026_experts-by-experience"
+  title: "Experts by Experience"
+  publisher: "Care Quality Commission"
+  date: "2026-10-05"
+  url: "https://www.cqc.org.uk/about-us/jobs/experts-experience"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "Experts by Experience have 'recent personal experience (within the last eight years)' of using, or caring for someone who uses, regulated services (maternity within four years); 20 listed categories; they talk with people using services and their families, help design CQC's work, take part in recruiting senior staff and review documents; the programme contract went to Choice Support from April 2026 for three years."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full page (last updated 5 October 2026) and counted the listed categories."
+
+- id: "choice-support/2026_cqc-experts-by-experience"
+  title: "CQC Experts by Experience"
+  publisher: "Choice Support"
+  date: "2026"
+  url: "https://www.choicesupport.org.uk/find-support/real-life-stories/cqc-experts-by-experience"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The CQC contracts Choice Support 'to recruit, train and manage Experts by Experience'; it has done this work with the CQC since 2010, in 'thousands of inspections'; experts are employed and paid, providing 'much needed paid employment opportunities for people who sometimes find it hard to get work'."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated story page, read in full on 12 October 2026; also read Choice Support's Experts by Experience page."
+
+- id: "disability-news-service/2018_exe-inspections-fallen"
+  title: "Watchdog's use of service-user inspection scheme has fallen sharply since 2015"
+  authors: ["John Pring"]
+  publisher: "Disability News Service"
+  date: "2018-01-25"
+  url: "https://www.disabilitynewsservice.com/watchdogs-use-of-service-user-inspection-scheme-has-fallen-sharply-since-2015/"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "Freedom of information figures: an Expert by Experience took part in 57% of social care inspections in the latest quarter, against 72% in the third quarter of 2014-15 and 23% in the last quarter of 2015-16, after Remploy took over three of four regional contracts at the start of 2016; the CQC cited more responsive and urgent inspections."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full article (25 January 2018)."
+
+- id: "accessable/2019_cqc-exe-contracts"
+  title: "Care watchdog criticised over abandoned bid to replace service-user contracts"
+  authors: ["Roisin Norris"]
+  publisher: "AccessAble"
+  date: "2019-01-31"
+  url: "https://www.accessable.co.uk/articles/care-watchdog-criticised-over-abandoned-bid-to-replace-service-user-contracts"
+  tier: "secondary"
+  kind: "news"
+  parts: ["VIII"]
+  supports: "The CQC ended a procurement for new Experts by Experience contracts and extended the Choice Support and Remploy contracts to 2020; experts' letter alleged that Remploy paid £9 an hour while Choice Support paid £15, with poor induction and training."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full article (31 January 2019); the pay figures are the experts' claims as reported."
+
+- id: "nihr/2023_uk-standards-inclusive-opportunities"
+  title: "UK Standards for Public Involvement: Inclusive Opportunities"
+  publisher: "National Institute for Health and Care Research and UK partners"
+  date: "2023-11"
+  url: "https://sites.google.com/nihr.ac.uk/pi-standards/standards/inclusive-opportunities"
+  tier: "primary"
+  kind: "web"
+  parts: ["VIII"]
+  supports: "The standard asks whether 'barriers to involvement, such as payment for time or accessible locations for meetings' have been identified and addressed; quoted feedback: 'Diversity is a weakness in PPI'; updated in November 2023 after a review of inclusivity in NIHR public partnerships."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the standard's page and the standards site's home page (developed over three years, piloted with more than 40 groups in 2018-2019)."
+
+- id: "nihr-arc-eoe/2026_public-contributor-payment-guide"
+  title: "ARC East of England Public Contributor Payment Guide (version 6)"
+  publisher: "NIHR Applied Research Collaboration East of England"
+  date: "2026-06"
+  url: "https://arc-eoe.nihr.ac.uk/sites/default/files/documents/ARC%20EoE%20Public%20Contributor%20Reimbursement%20Guide%20June%202026.%20Version%206.pdf"
+  tier: "primary"
+  kind: "report"
+  parts: ["VIII"]
+  supports: "Pays public contributors £27.50 an hour for meetings or tasks needing little preparation; accepting payment is a choice, and payment may count as earnings and affect welfare benefits, with referral to an NIHR benefits advice service."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Read the full PDF (June 2026). NIHR's own payment guidance page returned HTTP 405 and its Wayback captures were error pages, so NIHR-wide rates were not checked."
+
+- id: "ipcc/2026_preparing-reports"
+  title: "Preparing Reports"
+  publisher: "Intergovernmental Panel on Climate Change"
+  date: "2026"
+  url: "https://www.ipcc.ch/about/preparingreports/"
+  tier: "primary"
+  kind: "web"
+  parts: ["X"]
+  supports: "Authors are nominated by member governments, observer organisations and the Bureau, and selected by the Bureau for a range of expertise and a balance of gender, geography and developing countries; first-stage expert reviewers 'self-nominate and are accepted by the IPCC on the basis of relevant expertise'; all review comments and author responses are published."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Undated page, re-read in full on 12 October 2026."
+
+- id: "giraudet/2022_co-construction-ccc"
+  title: "“Co-construction” in deliberative democracy: lessons from the French Citizens' Convention for Climate"
+  authors: ["Louis-Gaëtan Giraudet", "Bénédicte Apouey", "Hazem Arab", "Simon Baeckelandt", "Philippe Bégout", "Nicolas Berghmans", "Nathalie Blanc", "Jean-Yves Boulin", "Eric Buge", "Dimitri Courant", "Amy Dahan", "Adrien Fabre", "Jean-Michel Fourniau", "Maxime Gaborit", "Laurence Granchamp", "Hélène Guillemot", "Laurent Jeanpierre", "Hélène Landemore", "Jean-François Laslier", "Antonin Macé", "Claire Mellier", "Sylvain Mounier", "Théophile Pénigaud", "Ana Póvoas", "Christiane Rafidinarivo", "Bernard Reber", "Romane Rozencwajg", "Philippe Stamenkovic", "Selma Tilikete", "Solène Tournus"]
+  publisher: "Humanities and Social Sciences Communications"
+  date: "2022-06-22"
+  url: "https://doi.org/10.1057/s41599-022-01212-6"
+  tier: "primary"
+  kind: "article"
+  parts: ["VIII"]
+  supports: "The governance committee appointed a technical advisory group of 19 experts and a legal advisory group of six to support drafting; experts were seen 'unduly pushing for certain measures or discarding others'; members had been actively involved in drawing up only about a fifth of the measures."
+  checked:
+    by: "claude"
+    on: "2026-10-12"
+    result: "verified"
+    note: "Re-read the full text via Europe PMC (PMC9214676): sections on the steering bodies and the proceedings."
